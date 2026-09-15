@@ -1,0 +1,38 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Python Files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# Node & Remotion build artifacts
+node_modules/
+.npm/
+out/
+.remotion/
+
+# CapCut / Video Editor Temporary Files
+*.lock
+*.tmp
+*.autosave
+
+# Sensitive credentials & environment variables
+.env
+.env.local
+.env.*.local
+
+# Video Episode Projects (Do not commit generated episode deliverables)
+videos/*
+!videos/_template/
