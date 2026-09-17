@@ -2,7 +2,7 @@
 
 An autonomous, end-to-end production framework for producing high-retention, investigative business and financial documentaries. 
 
-FinanceCraft transforms primary-source research (SEC EDGAR filings, court records, congressional testimony, and forensic audits) into compelling, cinematic video essays built within a tactile **illustrated paper-cutout diorama** aesthetic.
+FinanceCraft transforms primary-source research (SEC EDGAR filings, court records, congressional testimony, and forensic audits) into compelling, cinematic video essays built within a **clean, flat vector illustration with soft cel-shading** aesthetic.
 
 ---
 
@@ -13,25 +13,48 @@ This repository is organized as a modular multi-video engine. The root contains 
 ```text
 YT Videos/ (Repository Root)
 │
-├── README.md                                                 # This Guide & Workflow Manual
-├── FinanceCraft — Channel Bible, Asset Guide & Description.md # Master Channel Bible & Engine Specification
+├── README.md                                                 # Master System Manual & Reproduction Guide
+├── FinanceCraft — Channel Bible, Asset Guide & Description.md # Master Channel Bible & Production Specification
 ├── FinanceCraft — Channel Bible, Asset Guide & Description.docx # Reference Word Document
-├── .gitignore                                                # Excludes OS caches, temporary renders, etc.
+├── .gitignore                                                # Excludes heavy binaries, node_modules, and episode media
+│
+├── .agents/                                                  # AI Specialized Video Production Skills
+│   └── skills/
+│       ├── 3d-flyover/                                       # CesiumJS 3D Photorealistic Aerial Flight Engine
+│       ├── map-explainer/                                    # MapTiler / D3 2D Geographic Explainer Maps
+│       └── newsroom-chart-animations/                        # Newsroom data animations, rankings & ledger charts
+│
+├── references/                                               # Master References & Competitor Intelligence
+│   ├── REMOTION_GRAPHICS_ENGINE_REFERENCE.md                 # 25 Remotion Archetypes & 42-Bit Library Spec
+│   ├── REMOTION_BITS_CATALOG.md                              # 42-Bit Modular Remotion Motion Library
+│   ├── COMPETITOR_METADATA_AND_THUMBNAIL_AUDIT.md            # Metadata, SEO Tags, Descriptions & Thumbnails Audit
+│   ├── audio_analysis_report.json                            # Audio mastering benchmarks (-16 dB VO / -34 dB BGM)
+│   ├── audio_samples/                                        # Reference BGM/ducking audio stem benchmarks
+│   ├── competitors/                                          # Competitor thumbnails, metadata JSONs & master index
+│   └── transcripts/                                          # Full transcripts & WPM benchmarks for 7 top channels
+│
+├── remotion/                                                 # Remotion React Motion Graphics Engine
+│   ├── package.json                                          # Remotion CLI, Cesium, D3, TopoJSON dependencies
+│   ├── remotion.config.ts                                    # Rendering config & resolution presets
+│   └── src/
+│       ├── Root.tsx                                          # Registered video compositions
+│       ├── tokens.ts                                         # Locked color palette, fonts & motion curves
+│       └── components/                                       # Reusable motion graphic compositions
+│
+├── scripts/                                                  # Automation & Pipeline Utility Scripts
+│   ├── README.md                                             # Scripts usage guide
+│   ├── sync_clean_capcut_project.py                          # CapCut timeline & draft synchronizer
+│   ├── fix_capcut_media_links.py                             # CapCut draft media relinker for cross-machine sync
+│   └── assemble_peloton_draft.mjs                            # Node.js timeline assembly automation
 │
 └── videos/                                                   # Episode Workspace
-    │
-    ├── _template/                                            # Reusable starter scaffold for new episodes
-    │   ├── 01_RESEARCH_BRIEF.md                              # [Input] Research analysis & evidentiary spine
-    │   ├── 02_SCRIPT.md                                      # [Deliverable] Tagged narration script
-    │   ├── 03_PRODUCTION_DOCUMENT.md                         # [Deliverable] 7-phase production document
+    ├── _template/                                            # Reusable starter scaffold for every new episode
+    │   ├── 01_RESEARCH_BRIEF.md                              # [Phase 1 Input] Research brief & evidentiary spine
+    │   ├── 02_SCRIPT.md                                      # [Phase 2 Deliverable] Tagged narration script
+    │   ├── 03_PRODUCTION_DOCUMENT.md                         # [Phase 3 Deliverable] 8-phase production document
     │   ├── assets/                                           # Stills, AI video clips, motion graphics, maps
     │   └── voiceover/                                        # VO stems, narrator cuts, and sound beds
-    │
-    └── 01-peloton-collapse/                                  # Complete Reference Project
-        ├── PELOTON_COLLAPSE_PRODUCTION_DOCUMENT.md           # Full 60-beat production breakdown (Markdown)
-        ├── FinanceCraft — Peloton Collapse Production Document.docx # Formatted production document
-        ├── peloton-collapse-narration-script.pdf             # Original narration script
-        └── peloton_script_text.txt                           # Raw script transcript
+    └── 01-peloton-collapse/                                  # Reference Episode 1 (Gitignored raw heavy media)
 ```
 
 ---
@@ -111,13 +134,13 @@ Apply the **Voice Direction Prompt (VoxCPM2)** from the Channel Bible to the tag
 Run the **Guided Production Document Generator** against the tagged script. This runs in strict sequential order:
 
 1. **Phase 1: Titles & Description** — 5 categorized title candidates + full YouTube description with SEO tags and primary source citations.
-2. **Phase 2: Thumbnail Concepts** — 3 distinct paper-diorama concepts with high contrast, focal simplicity, and prompt text.
+2. **Phase 2: Thumbnail Concepts** — 2–3 distinct thumbnail concepts selected from the **7 Thumbnail Archetypes** menu with prompt text and text-hook layers.
 3. **Phase 3: Character Setup** — Fixed reference blocks for recurring caricatures to prevent AI drift.
 4. **Phase 4: Beat-by-Beat Production Plan** — Granular beat table linking voiceover lines, visual types, camera movements, prompts, and sound design.
-5. **Phase 6: Consolidated Batches** — Grouped execution deliverables:
+5. **Phase 5: Consolidated Batches** — Grouped execution deliverables:
    - *Batch 1*: Nano Banana 2 Stills (4K, 3840×2160, 16:9)
    - *Batch 2*: Google Flow / Omni AI Video Clips (1080p, 16:9, muted/silent prompt)
-   - *Batch 3*: Real Document & Evidence Props (scanned/cut paper)
+   - *Batch 3*: Real Document & Evidence Props (clean insets / exhibits)
    - *Batch 4*: Remotion Code Components (data graphics, animated charts, maps)
    - *Batch 5*: Voiceover & Sound Effects
 6. **Phase 6: Shorts Spinoffs** — 3–4 vertical (9:16) short-form derivative concepts for NotebookLM Video Overview.
@@ -132,24 +155,24 @@ Execute the consolidated prompt batches using the recommended tool stack:
 
 | Asset Type | Tool / Engine | Resolution | Notes |
 | :--- | :--- | :--- | :--- |
-| **Static Backgrounds / Dioramas** | Nano Banana 2 (or equivalent) | 3840×2160 (4K, 16:9) | 2x headroom for CapCut pan/zoom & parallax |
+| **Static Backgrounds / Scenes** | Nano Banana 2 (or equivalent) | 3840×2160 (4K, 16:9) | 2x headroom for CapCut pan/zoom & parallax |
 | **Performance AI Video** | Google Flow / Omni (or equivalent) | 1920×1080 (16:9) | 6–8s clips; must include `mute/no audio` prompt flag |
 | **Animated Motion Graphics & Maps** | Remotion / React | 1920×1080 (30fps) | Code-driven kinetic typography, financial charts, routes |
 | **Background Music Bed** | Suno / Udio | 44.1kHz Stereo | Single thematic instrumental score (-18dB to -24dB under VO) |
 | **Voiceover** | VoxCPM2 | 48kHz WAV | -16 LUFS, documentary pacing |
-| **Timeline Assembly** | CapCut (via CapCut MCP or manual) | 1920×1080 (30fps) | Multi-layer paper diorama staging |
+| **Timeline Assembly** | CapCut (via CapCut MCP or manual) | 1920×1080 (30fps) | Clean vector illustration layering & parallax |
 
 ---
 
 ## 🎨 Creative & Editorial Rules
 
 1. **The Visual System (One Register, One Exception)**:
-   - *Primary Register*: Tactile paper-cutout diorama world. Layered paper textures, torn edges, physical paper-fiber grain, and subtle drop shadows.
-   - *The One Exception*: Real evidence as physical paper props. Actual SEC filings, tweets, court orders, and photographs appear as physical cutouts taped or glued into the collage. Never use AI to recreate a fake document.
+   - *Primary Register*: Clean, flat vector illustration with soft cel-shading. Confident line work, gradient-based light and shadow for dimensionality—no flat single-tone fill, and no 3D render.
+   - *The One Exception*: Real evidence as a clean inset. Actual SEC filings, tweets, court orders, and photographs appear as literal images in bordered inset panels or referenced in-scene—never redrawn, never AI-recreated, and never cut in as full-frame photoreal footage.
 2. **Caricature & Legal Guardrails**:
    - Caricatures are strictly for wrongdoers facing consequences.
-   - Victims, crew members, and bystanders use anonymized paper silhouettes with factual labels.
-   - Never generate lip-synced or scripted mouth animations for real living figures. Quotes appear on styled paper quote cards.
+   - Victims, crew members, and bystanders use anonymized silhouettes with factual labels.
+   - Never generate lip-synced or scripted mouth animations for real living figures. Quotes appear on styled quote cards.
 3. **No Unexplained Jargon**:
    - Every financial term (covenants, write-downs, EBITDA adjustments) is explained in plain spoken language immediately upon introduction.
 
@@ -170,14 +193,42 @@ When working with Antigravity or any agent in this repository, you can use these
 
 ---
 
-## 📦 Pushing to GitHub
+## 📦 Git Reproduction Guide: What to Push & How to Run on a New Machine
 
-This repository is pre-configured and clean for version control:
+To allow another developer or creator to `git clone` and immediately begin producing videos using the exact same engine, the repository enforces a strict boundary between **reusable engine code** and **heavy generated episode media**.
+
+### 1. What IS Committed & Pushed to Git (The Engine)
+* ✅ **`FinanceCraft — Channel Bible, Asset Guide & Description.md`**: The master ruleset, 5 narrative archetypes, 7 thumbnail models, and audio ducking specs.
+* ✅ **`.agents/skills/`**: The specialized AI video skills (`3d-flyover`, `map-explainer`, `newsroom-chart-animations`).
+* ✅ **`references/`**: The 25 Remotion archetypes, 42-bit library, competitor metadata audits, and audio stem benchmarks.
+* ✅ **`remotion/`**: Complete motion graphics React project (`src/`, `package.json`, `tokens.ts`, `remotion.config.ts`).
+* ✅ **`scripts/`**: Automation tools for CapCut draft synchronization and timeline assembly.
+* ✅ **`videos/_template/`**: Scaffolding for creating new episodes (`01_RESEARCH_BRIEF.md`, `02_SCRIPT.md`, `03_PRODUCTION_DOCUMENT.md`).
+
+### 2. What is Gitignored (DO NOT PUSH)
+* ❌ **`videos/<episode>/assets/`**: Heavy 4K AI stills, AI video renders (`.mp4`), and raw audio voiceovers (`.wav`).
+* ❌ **`remotion/node_modules/`**, **`remotion/build/`**, and **`remotion/out/`**.
+* ❌ **`.env`** and API tokens (Cesium, MapTiler, ElevenLabs, OpenAI).
+
+---
+
+### 3. How Another User Reproduces This on a New Machine
+
 ```bash
-git init
-git add .
-git commit -m "Initialize FinanceCraft Video Production Engine"
-git branch -M main
-git remote add origin <your-github-repo-url>
-git push -u origin main
+# 1. Clone the repository
+git clone https://github.com/bilalashrafshk/ytvids.git
+cd ytvids
+
+# 2. Install Remotion motion graphics dependencies
+cd remotion
+npm install
+cd ..
+
+# 3. Create a new episode from the template
+cp -r "videos/_template" "videos/02-my-new-episode"
+
+# 4. Follow the 8-phase regiment in the Channel Bible to generate:
+#    - 01_RESEARCH_BRIEF.md (Research)
+#    - 02_SCRIPT.md (Narration script)
+#    - 03_PRODUCTION_DOCUMENT.md (Visual prompts, batches, CapCut timeline & YouTube SEO tags)
 ```

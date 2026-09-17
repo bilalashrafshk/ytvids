@@ -8,30 +8,32 @@
 - **Master Video Export**: 1920×1080, 16:9, 30fps
 - **Static AI Stills (Nano Banana 2)**: 3840×2160 (4K, 16:9) for 2x pan/zoom/parallax headroom
 - **AI Video Clips (Google Flow / Omni)**: 1920×1080, 16:9, 6–8s clips, with explicit `mute/no audio` prompt flag
-- **Voiceover**: 24-bit 48kHz WAV via VoxCPM2, normalized to -16 LUFS
-- **Music Bed**: Suno / Udio custom score bed mixed at -18dB to -24dB under dialogue
+- **Voiceover (Track 1)**: 24-bit 48kHz WAV via VoxCPM2, normalized strictly to **-14 to -16 LUFS** (Peak -1.0 dBFS)
+- **Foley & Sound Effects (Track 2)**: Tactile paper slides, 40Hz sub-bass drops, mechanical clicks, mixed at **-24dB to -28dB**
+- **Dynamic BGM Score (Tracks 3–5)**: 3–5 distinct act-based score beds (Suno/Udio/Epidemic), ducked to **-32dB to -35dB** during narration, dynamically dropping to **-55dB** during math/formula beats, and keyframed to swell by **+8dB** during narrative pauses $>1.2\text{s}$
 
 ---
 
-## Phase 1: Titles & Description
+## Phase 1: Titles & Working Narrative Hook (Pre-Production)
 - **Title Options (5 categorized candidates)**:
   - *Option 1 (Direct Forensic)*: 
   - *Option 2 (Question / Mystery)*: 
   - *Option 3 (High Drama / Shocking Number)*: 
   - *Option 4 (Mechanism / System Failure)*: 
   - *Option 5 (Short & Punchy)*: 
-- **Video Description**:
+- **Provisional Narrative Hook & Evidentiary Citations**:
   - *Hook Line*: 
   - *Summary*: 
   - *Primary Sources & Citations*: 
-  - *Timestamps*: 
+  *(Note: Official YouTube Description and Chapter Timestamps are generated strictly in Phase 8 at the end of post-production, derived with frame-accurate precision from final .srt captions and video downbeats).* 
 
 ---
 
 ## Phase 2: Thumbnail Concepts
-- **Concept A (High Contrast Conflict)**: 
-- **Concept B (Forensic Evidence / Document Collage)**: 
-- **Concept C (The Downward Turn / Diorama Catastrophe)**: 
+*Select 2–3 archetypes from the Channel Bible (Archetypes 1, 3, 4, or 7). Strictly adhere to the **1–4 Word Mobile Legibility Rule** (bold, high-contrast headline text hook in white/yellow with sharp drop shadow, legible at 200px mobile feed size) and 2–4 clean forensic data callout badges max. Illustrated caricature only (zero photoreal people).*
+- **Concept A (Archetype 7 — Isometric Infographic / Structural Conflict)**: [Visual metaphor, 1–4 word text hook, prompt block]
+- **Concept B (Archetype 3 — Documentary Portrait Caricature + Data Overlay)**: [Visual metaphor, 1–4 word text hook, prompt block]
+- **Concept C (Archetype 1 or 4 — Environmental Realism / Editorial Illustration)**: [Visual metaphor, 1–4 word text hook, prompt block] 
 
 ---
 
@@ -54,14 +56,50 @@
 - **Batch 2: Google Flow Video Clips (1920×1080, Muted)**
 - **Batch 3: Real Document / Showable Assets Collection**
 - **Batch 4: Remotion Motion Graphics & Maps**
-- **Batch 5: Voiceover & Audio Cues**
+- **Batch 5: Background Music Score & Foley Prompts (1 Cohesive Score Bed + Tactile Foley Cues)**
 
 ---
 
-## Phase 6: Shorts Spinoffs (3-4 Vertical Clips)
-*Short vertical derivations (9:16) for YouTube Shorts / Reels.*
+## Phase 6: Shorts Spinoffs (`shorts.md`)
+*Generated as a dedicated standalone file (`shorts.md`). For each Short, provides: target filename, target voiceover WAV file path, source master VO chunk mappings, 45-60s script with 2-part voice control instructions, NotebookLM video prompt, and CapCut 9:16 assembly guide.*
 
 ---
 
 ## Phase 7: Part B — Editing & Assembly Guide
-*Timeline structure, CapCut track arrangement, transition rules, and final QC checklist.*
+*Timeline structure, CapCut track arrangement, dynamic audio scoring, and final QC checklist.*
+
+### 1. Multi-Track Timeline Layout
+- **Track 0 (Video)**: Sequenced visual beats (Nano Banana 2 stills, Google Flow clips, Remotion comps)
+- **Track 1 (Voiceover)**: Master narration (`master_narration.wav`) at 0.0 dB (-14 to -16 LUFS)
+- **Track 2 (Foley & SFX)**: Paper slides, sub-bass 40Hz drops, mechanical ticker clicks (-24dB to -28dB)
+- **Track 3 (Background Score)**: Single cohesive, loopable background score bed ducked to -34dB (swelling to -26dB during pauses >1.2s, dropping to -50dB to -60dB during math/data mode, cutting to -inf dB on dead silence drops)
+
+### 2. Beat-by-Beat Assembly Blueprint
+For every individual beat, declare:
+- **Timeline Timecode**: `MM:SS.m – MM:SS.m` (Duration in seconds and frames @ 30fps)
+- **Asset File**: Exact filename from Phase 5 Batches
+- **Transition In**: Direct Hard Cut / Crossfade / Match Cut
+- **Motion & Camera Keyframes**: Native clip motion or manual 2.5D push-in / pan
+- **Audio Mix, BGM Cue & Sound Design**: BGM track & archetype, target volume (e.g. -34dB vs -55dB math mode), pause swells, filter sweeps, and foley cues
+- **Remotion Typography Overlay**: Atomic text/callout prompt, timing downbeat offset, and animation preset
+
+---
+
+## Phase 8: Final Verified YouTube Video Description & Accurate Chapter Timestamps
+*Generated strictly at the very end of post-production, derived with frame-accurate precision directly from final video cuts and .srt captions.*
+
+- **Selected Title**: [Chosen title from Phase 1]
+- **Search-Optimized Hook Line**: [1–2 punchy lines before YouTube "Show More" fold]
+- **Forensic Narrative Summary**: [2–4 sentence high-density breakdown]
+- **Primary Evidentiary Sources**: [SEC Form 10-K, consent decrees, deeds, court documents]
+- **Frame-Accurate Chapter Timestamps** (Extracted directly from caption downbeats):
+  - `00:00 - Prologue / Core Hook`
+  - `MM:SS - Chapter 1`
+  - `MM:SS - Chapter 2`
+  - `MM:SS - Chapter 3`
+  - `MM:SS - Epilogue / The Verdict`
+- **Curated YouTube SEO Tags** (15–25 comma-separated tags for YouTube Studio):
+  `[primary entity, keyword phrase, question search query, crossover format (business documentary, finance documentary), misspellings]`
+- **Strategic Hashtags**:
+  `#[PrimaryTopic] #[Industry] #[Niche] #FinanceCraft`
+

@@ -1,0 +1,1714 @@
+{
+  "video_id": "pzInrqRFU5M",
+  "url": "https://www.youtube.com/watch?v=pzInrqRFU5M",
+  "title": "How Currencies Actually Work (Full Beginner's Guide)",
+  "channel": "Martik Finance",
+  "total_snippets": 284,
+  "duration_seconds": 623.32,
+  "transcript": [
+    {
+      "text": "You land in a new country, your phone's",
+      "start": 0.0,
+      "duration": 4.32,
+      "end": 4.32
+    },
+    {
+      "text": "about to die, and you need cash. So, you",
+      "start": 1.88,
+      "duration": 3.8,
+      "end": 5.68
+    },
+    {
+      "text": "walk up to that little booth at the",
+      "start": 4.32,
+      "duration": 4.24,
+      "end": 8.56
+    },
+    {
+      "text": "airport, hand over $100, and get back",
+      "start": 5.68,
+      "duration": 5.8,
+      "end": 11.48
+    },
+    {
+      "text": "less than you expected. Way less. Was it",
+      "start": 8.56,
+      "duration": 6.16,
+      "end": 14.72
+    },
+    {
+      "text": "robbery? Not exactly. But, you just met",
+      "start": 11.48,
+      "duration": 5.52,
+      "end": 17.0
+    },
+    {
+      "text": "one of the most misunderstood systems in",
+      "start": 14.72,
+      "duration": 4.8,
+      "end": 19.52
+    },
+    {
+      "text": "the entire global economy. And by the",
+      "start": 17.0,
+      "duration": 4.48,
+      "end": 21.48
+    },
+    {
+      "text": "end of this video, you'll understand it",
+      "start": 19.52,
+      "duration": 3.52,
+      "end": 23.04
+    },
+    {
+      "text": "better than most people who work in",
+      "start": 21.48,
+      "duration": 3.08,
+      "end": 24.56
+    },
+    {
+      "text": "finance.",
+      "start": 23.04,
+      "duration": 3.44,
+      "end": 26.48
+    },
+    {
+      "text": "Welcome to Martick Finance, where we",
+      "start": 24.56,
+      "duration": 3.88,
+      "end": 28.44
+    },
+    {
+      "text": "explain investing concepts in a simple",
+      "start": 26.48,
+      "duration": 3.88,
+      "end": 30.36
+    },
+    {
+      "text": "way. But, first of all, a quick",
+      "start": 28.44,
+      "duration": 3.88,
+      "end": 32.32
+    },
+    {
+      "text": "disclaimer. This is not financial",
+      "start": 30.36,
+      "duration": 3.12,
+      "end": 33.48
+    },
+    {
+      "text": "advice.",
+      "start": 32.32,
+      "duration": 3.04,
+      "end": 35.36
+    },
+    {
+      "text": "Let's start with the basic question",
+      "start": 33.48,
+      "duration": 4.84,
+      "end": 38.32
+    },
+    {
+      "text": "nobody actually answers. An exchange",
+      "start": 35.36,
+      "duration": 5.28,
+      "end": 40.64
+    },
+    {
+      "text": "rate is just the price of one currency",
+      "start": 38.32,
+      "duration": 4.36,
+      "end": 42.68
+    },
+    {
+      "text": "measured in another currency. When you",
+      "start": 40.64,
+      "duration": 5.12,
+      "end": 45.76
+    },
+    {
+      "text": "hear 1 euro equals $1.08,",
+      "start": 42.68,
+      "duration": 4.48,
+      "end": 47.16
+    },
+    {
+      "text": "that's not some official government",
+      "start": 45.76,
+      "duration": 3.96,
+      "end": 49.72
+    },
+    {
+      "text": "stamp. It's just what the market says",
+      "start": 47.16,
+      "duration": 4.76,
+      "end": 51.92
+    },
+    {
+      "text": "right now, this second.",
+      "start": 49.72,
+      "duration": 5.24,
+      "end": 54.96
+    },
+    {
+      "text": "Nobody sets that price. Not a president,",
+      "start": 51.92,
+      "duration": 5.32,
+      "end": 57.24
+    },
+    {
+      "text": "not a bank teller, not even a central",
+      "start": 54.96,
+      "duration": 4.8,
+      "end": 59.76
+    },
+    {
+      "text": "bank most of the time. It comes out of",
+      "start": 57.24,
+      "duration": 4.76,
+      "end": 62.0
+    },
+    {
+      "text": "the biggest market on Earth, the foreign",
+      "start": 59.76,
+      "duration": 5.52,
+      "end": 65.28
+    },
+    {
+      "text": "exchange market, or Forex. According to",
+      "start": 62.0,
+      "duration": 5.4,
+      "end": 67.4
+    },
+    {
+      "text": "the Bank for International Settlements,",
+      "start": 65.28,
+      "duration": 5.12,
+      "end": 70.4
+    },
+    {
+      "text": "roughly $9.6 trillion changes hands",
+      "start": 67.4,
+      "duration": 5.72,
+      "end": 73.12
+    },
+    {
+      "text": "every single day in currency trading. To",
+      "start": 70.4,
+      "duration": 5.2,
+      "end": 75.6
+    },
+    {
+      "text": "put that in perspective, the entire US",
+      "start": 73.12,
+      "duration": 5.0,
+      "end": 78.12
+    },
+    {
+      "text": "equity market, meaning all stocks traded",
+      "start": 75.6,
+      "duration": 4.88,
+      "end": 80.48
+    },
+    {
+      "text": "on the New York Stock Exchange, Nasdaq,",
+      "start": 78.12,
+      "duration": 4.64,
+      "end": 82.76
+    },
+    {
+      "text": "and other venues combined, doesn't come",
+      "start": 80.48,
+      "duration": 4.08,
+      "end": 84.56
+    },
+    {
+      "text": "close to that volume even over a full",
+      "start": 82.76,
+      "duration": 4.08,
+      "end": 86.84
+    },
+    {
+      "text": "trading week. So, who's doing all this",
+      "start": 84.56,
+      "duration": 5.44,
+      "end": 90.0
+    },
+    {
+      "text": "trading? Banks, governments, massive",
+      "start": 86.84,
+      "duration": 5.12,
+      "end": 91.96
+    },
+    {
+      "text": "investment funds, companies paying",
+      "start": 90.0,
+      "duration": 4.4,
+      "end": 94.4
+    },
+    {
+      "text": "overseas suppliers, tourists buying",
+      "start": 91.96,
+      "duration": 5.52,
+      "end": 97.48
+    },
+    {
+      "text": "souvenirs. All of them, constantly, all",
+      "start": 94.4,
+      "duration": 4.68,
+      "end": 99.08
+    },
+    {
+      "text": "over the world, buying and selling",
+      "start": 97.48,
+      "duration": 3.48,
+      "end": 100.96
+    },
+    {
+      "text": "currencies. And the price you see on",
+      "start": 99.08,
+      "duration": 3.64,
+      "end": 102.72
+    },
+    {
+      "text": "your phone is just the average of",
+      "start": 100.96,
+      "duration": 3.4,
+      "end": 104.36
+    },
+    {
+      "text": "millions of those trades happening in",
+      "start": 102.72,
+      "duration": 4.2,
+      "end": 106.92
+    },
+    {
+      "text": "real time. To understand why exchange",
+      "start": 104.36,
+      "duration": 4.48,
+      "end": 108.84
+    },
+    {
+      "text": "rates bounce around every single second",
+      "start": 106.92,
+      "duration": 4.16,
+      "end": 111.08
+    },
+    {
+      "text": "today, we have to look back to a time",
+      "start": 108.84,
+      "duration": 4.4,
+      "end": 113.24
+    },
+    {
+      "text": "when they didn't move at all. Right",
+      "start": 111.08,
+      "duration": 4.64,
+      "end": 115.72
+    },
+    {
+      "text": "after World War II, world leaders wanted",
+      "start": 113.24,
+      "duration": 4.52,
+      "end": 117.76
+    },
+    {
+      "text": "stability. So, they built a system",
+      "start": 115.72,
+      "duration": 4.44,
+      "end": 120.16
+    },
+    {
+      "text": "called Bretton Woods, where almost every",
+      "start": 117.76,
+      "duration": 4.28,
+      "end": 122.04
+    },
+    {
+      "text": "major currency was anchored to the US",
+      "start": 120.16,
+      "duration": 3.68,
+      "end": 123.84
+    },
+    {
+      "text": "dollar, and the dollar was backed",
+      "start": 122.04,
+      "duration": 5.12,
+      "end": 127.16
+    },
+    {
+      "text": "directly by gold. Fixed, predictable,",
+      "start": 123.84,
+      "duration": 5.72,
+      "end": 129.56
+    },
+    {
+      "text": "and completely locked down, at least on",
+      "start": 127.16,
+      "duration": 5.96,
+      "end": 133.12
+    },
+    {
+      "text": "paper. Then in 1971, the US cut that",
+      "start": 129.56,
+      "duration": 6.32,
+      "end": 135.88
+    },
+    {
+      "text": "gold link entirely, a moment historians",
+      "start": 133.12,
+      "duration": 5.76,
+      "end": 138.88
+    },
+    {
+      "text": "now call the Nixon shock. Without gold",
+      "start": 135.88,
+      "duration": 4.88,
+      "end": 140.76
+    },
+    {
+      "text": "backing the system, currencies had",
+      "start": 138.88,
+      "duration": 4.48,
+      "end": 143.36
+    },
+    {
+      "text": "nothing solid left to peg to, and one by",
+      "start": 140.76,
+      "duration": 4.52,
+      "end": 145.28
+    },
+    {
+      "text": "one, major economies let their",
+      "start": 143.36,
+      "duration": 4.56,
+      "end": 147.92
+    },
+    {
+      "text": "currencies float freely instead.",
+      "start": 145.28,
+      "duration": 5.2,
+      "end": 150.48
+    },
+    {
+      "text": "Now, not every currency plays by these",
+      "start": 147.92,
+      "duration": 4.88,
+      "end": 152.8
+    },
+    {
+      "text": "rules. Most major currencies, the",
+      "start": 150.48,
+      "duration": 5.84,
+      "end": 156.32
+    },
+    {
+      "text": "dollar, the euro, the yen, float. Their",
+      "start": 152.8,
+      "duration": 5.56,
+      "end": 158.36
+    },
+    {
+      "text": "value moves freely based on supply and",
+      "start": 156.32,
+      "duration": 4.4,
+      "end": 160.72
+    },
+    {
+      "text": "demand, but some countries peg their",
+      "start": 158.36,
+      "duration": 4.28,
+      "end": 162.64
+    },
+    {
+      "text": "currency to another one, locking the",
+      "start": 160.72,
+      "duration": 3.88,
+      "end": 164.6
+    },
+    {
+      "text": "exchange rate at a fixed number, and",
+      "start": 162.64,
+      "duration": 3.64,
+      "end": 166.28
+    },
+    {
+      "text": "spending enormous amounts of money to",
+      "start": 164.6,
+      "duration": 2.96,
+      "end": 167.56
+    },
+    {
+      "text": "keep it there.",
+      "start": 166.28,
+      "duration": 3.88,
+      "end": 170.16
+    },
+    {
+      "text": "But, why would a country do that?",
+      "start": 167.56,
+      "duration": 4.84,
+      "end": 172.4
+    },
+    {
+      "text": "Usually stability makes trade and prices",
+      "start": 170.16,
+      "duration": 3.44,
+      "end": 173.6
+    },
+    {
+      "text": "predictable.",
+      "start": 172.4,
+      "duration": 2.72,
+      "end": 175.12
+    },
+    {
+      "text": "But as we'll see near the end of this",
+      "start": 173.6,
+      "duration": 3.88,
+      "end": 177.48
+    },
+    {
+      "text": "video, pegs can break in spectacular",
+      "start": 175.12,
+      "duration": 3.68,
+      "end": 178.8
+    },
+    {
+      "text": "fashion.",
+      "start": 177.48,
+      "duration": 2.96,
+      "end": 180.44
+    },
+    {
+      "text": "Let's build the mechanism from the",
+      "start": 178.8,
+      "duration": 4.16,
+      "end": 182.96
+    },
+    {
+      "text": "ground up. If everyone suddenly wants",
+      "start": 180.44,
+      "duration": 4.92,
+      "end": 185.36
+    },
+    {
+      "text": "euros, and nobody wants to sell them,",
+      "start": 182.96,
+      "duration": 4.56,
+      "end": 187.52
+    },
+    {
+      "text": "the price of euros goes up. If",
+      "start": 185.36,
+      "duration": 3.8,
+      "end": 189.16
+    },
+    {
+      "text": "everyone's trying to dump euros, and",
+      "start": 187.52,
+      "duration": 4.08,
+      "end": 191.6
+    },
+    {
+      "text": "nobody wants to buy, the price drops.",
+      "start": 189.16,
+      "duration": 4.4,
+      "end": 193.56
+    },
+    {
+      "text": "Simple. The interesting part is why",
+      "start": 191.6,
+      "duration": 3.76,
+      "end": 195.36
+    },
+    {
+      "text": "people suddenly want more or less of a",
+      "start": 193.56,
+      "duration": 4.12,
+      "end": 197.68
+    },
+    {
+      "text": "currency. There are four big engines",
+      "start": 195.36,
+      "duration": 5.96,
+      "end": 201.32
+    },
+    {
+      "text": "behind that. Engine one, interest rates.",
+      "start": 197.68,
+      "duration": 5.36,
+      "end": 203.04
+    },
+    {
+      "text": "When a central bank raises interest",
+      "start": 201.32,
+      "duration": 3.76,
+      "end": 205.08
+    },
+    {
+      "text": "rates, it becomes more attractive to",
+      "start": 203.04,
+      "duration": 4.04,
+      "end": 207.08
+    },
+    {
+      "text": "hold that currency, because your money",
+      "start": 205.08,
+      "duration": 3.56,
+      "end": 208.64
+    },
+    {
+      "text": "earns more sitting in that country's",
+      "start": 207.08,
+      "duration": 4.16,
+      "end": 211.24
+    },
+    {
+      "text": "bank accounts and bonds. Investors",
+      "start": 208.64,
+      "duration": 4.64,
+      "end": 213.28
+    },
+    {
+      "text": "worldwide notice, and money starts",
+      "start": 211.24,
+      "duration": 4.4,
+      "end": 215.64
+    },
+    {
+      "text": "flowing in to chase that yield. The more",
+      "start": 213.28,
+      "duration": 4.52,
+      "end": 217.8
+    },
+    {
+      "text": "demand for the currency, the price goes",
+      "start": 215.64,
+      "duration": 3.2,
+      "end": 218.84
+    },
+    {
+      "text": "up.",
+      "start": 217.8,
+      "duration": 3.2,
+      "end": 221.0
+    },
+    {
+      "text": "Cut rates, and the opposite happens.",
+      "start": 218.84,
+      "duration": 3.8,
+      "end": 222.64
+    },
+    {
+      "text": "Money flows out looking for a better",
+      "start": 221.0,
+      "duration": 4.12,
+      "end": 225.12
+    },
+    {
+      "text": "return elsewhere.",
+      "start": 222.64,
+      "duration": 4.0,
+      "end": 226.64
+    },
+    {
+      "text": "This is why a single sentence from the",
+      "start": 225.12,
+      "duration": 3.36,
+      "end": 228.48
+    },
+    {
+      "text": "Federal Reserve chair can move currency",
+      "start": 226.64,
+      "duration": 3.64,
+      "end": 230.28
+    },
+    {
+      "text": "markets within seconds.",
+      "start": 228.48,
+      "duration": 3.8,
+      "end": 232.28
+    },
+    {
+      "text": "This dynamic even has its own trading",
+      "start": 230.28,
+      "duration": 3.96,
+      "end": 234.24
+    },
+    {
+      "text": "strategy built around it called the",
+      "start": 232.28,
+      "duration": 4.4,
+      "end": 236.68
+    },
+    {
+      "text": "carry trade. Borrow money in a currency",
+      "start": 234.24,
+      "duration": 4.68,
+      "end": 238.92
+    },
+    {
+      "text": "with near zero interest rates, convert",
+      "start": 236.68,
+      "duration": 4.56,
+      "end": 241.24
+    },
+    {
+      "text": "it into a currency paying much more, and",
+      "start": 238.92,
+      "duration": 4.0,
+      "end": 242.92
+    },
+    {
+      "text": "pocket the difference.",
+      "start": 241.24,
+      "duration": 4.0,
+      "end": 245.24
+    },
+    {
+      "text": "It sounds like free money right up until",
+      "start": 242.92,
+      "duration": 4.16,
+      "end": 247.08
+    },
+    {
+      "text": "the exchange rate itself swings against",
+      "start": 245.24,
+      "duration": 3.84,
+      "end": 249.08
+    },
+    {
+      "text": "you and wipes out the gain in a single",
+      "start": 247.08,
+      "duration": 3.4,
+      "end": 250.48
+    },
+    {
+      "text": "bad week.",
+      "start": 249.08,
+      "duration": 4.2,
+      "end": 253.28
+    },
+    {
+      "text": "Engine two, inflation. If a country's",
+      "start": 250.48,
+      "duration": 5.08,
+      "end": 255.56
+    },
+    {
+      "text": "currency is losing purchasing power fast",
+      "start": 253.28,
+      "duration": 4.64,
+      "end": 257.92
+    },
+    {
+      "text": "at home, prices rising, your money",
+      "start": 255.56,
+      "duration": 5.04,
+      "end": 260.6
+    },
+    {
+      "text": "buying less. That weakness tends to show",
+      "start": 257.92,
+      "duration": 5.12,
+      "end": 263.04
+    },
+    {
+      "text": "up abroad, too. Nobody wants to hold a",
+      "start": 260.6,
+      "duration": 4.52,
+      "end": 265.12
+    },
+    {
+      "text": "currency that's quietly losing value",
+      "start": 263.04,
+      "duration": 4.24,
+      "end": 267.28
+    },
+    {
+      "text": "while they wait to spend it.",
+      "start": 265.12,
+      "duration": 4.68,
+      "end": 269.8
+    },
+    {
+      "text": "Lower relative inflation generally makes",
+      "start": 267.28,
+      "duration": 5.16,
+      "end": 272.44
+    },
+    {
+      "text": "a currency more attractive over time.",
+      "start": 269.8,
+      "duration": 5.08,
+      "end": 274.88
+    },
+    {
+      "text": "Engine three, trade balances. If a",
+      "start": 272.44,
+      "duration": 4.16,
+      "end": 276.6
+    },
+    {
+      "text": "country imports far more than it",
+      "start": 274.88,
+      "duration": 4.2,
+      "end": 279.08
+    },
+    {
+      "text": "exports, it constantly needs to convert",
+      "start": 276.6,
+      "duration": 5.2,
+      "end": 281.8
+    },
+    {
+      "text": "its own currency into foreign currency",
+      "start": 279.08,
+      "duration": 5.2,
+      "end": 284.28
+    },
+    {
+      "text": "to pay for all that stuff coming in.",
+      "start": 281.8,
+      "duration": 4.36,
+      "end": 286.16
+    },
+    {
+      "text": "That steady selling pressure weakens the",
+      "start": 284.28,
+      "duration": 3.88,
+      "end": 288.16
+    },
+    {
+      "text": "currency over time.",
+      "start": 286.16,
+      "duration": 4.4,
+      "end": 290.56
+    },
+    {
+      "text": "Export-heavy countries see the reverse.",
+      "start": 288.16,
+      "duration": 3.96,
+      "end": 292.12
+    },
+    {
+      "text": "Steady buying pressure from foreign",
+      "start": 290.56,
+      "duration": 3.88,
+      "end": 294.44
+    },
+    {
+      "text": "customers paying for their goods.",
+      "start": 292.12,
+      "duration": 4.8,
+      "end": 296.92
+    },
+    {
+      "text": "Engine four, speculation and capital",
+      "start": 294.44,
+      "duration": 4.64,
+      "end": 299.08
+    },
+    {
+      "text": "flows. This is the one that makes",
+      "start": 296.92,
+      "duration": 4.2,
+      "end": 301.12
+    },
+    {
+      "text": "currencies move minute by minute.",
+      "start": 299.08,
+      "duration": 3.96,
+      "end": 303.04
+    },
+    {
+      "text": "Traders and institutions aren't just",
+      "start": 301.12,
+      "duration": 3.8,
+      "end": 304.92
+    },
+    {
+      "text": "reacting to what's happening. They're",
+      "start": 303.04,
+      "duration": 3.96,
+      "end": 307.0
+    },
+    {
+      "text": "betting on what's about to happen.",
+      "start": 304.92,
+      "duration": 4.16,
+      "end": 309.08
+    },
+    {
+      "text": "A rumor about a rate hike, an election",
+      "start": 307.0,
+      "duration": 4.56,
+      "end": 311.56
+    },
+    {
+      "text": "result, a war headline, traders",
+      "start": 309.08,
+      "duration": 4.4,
+      "end": 313.48
+    },
+    {
+      "text": "reposition instantly, and that",
+      "start": 311.56,
+      "duration": 4.24,
+      "end": 315.8
+    },
+    {
+      "text": "repositioning itself moves the price,",
+      "start": 313.48,
+      "duration": 4.2,
+      "end": 317.68
+    },
+    {
+      "text": "sometimes before anything has actually",
+      "start": 315.8,
+      "duration": 3.96,
+      "end": 319.76
+    },
+    {
+      "text": "changed in the real economy. There's",
+      "start": 317.68,
+      "duration": 3.96,
+      "end": 321.64
+    },
+    {
+      "text": "also a psychological layer sitting on",
+      "start": 319.76,
+      "duration": 3.96,
+      "end": 323.72
+    },
+    {
+      "text": "top of all these mechanical drivers.",
+      "start": 321.64,
+      "duration": 4.68,
+      "end": 326.32
+    },
+    {
+      "text": "Some currencies act as safe havens. When",
+      "start": 323.72,
+      "duration": 5.24,
+      "end": 328.96
+    },
+    {
+      "text": "markets get nervous, a war breaks out, a",
+      "start": 326.32,
+      "duration": 5.72,
+      "end": 332.04
+    },
+    {
+      "text": "bank fails, stocks crash, money doesn't",
+      "start": 328.96,
+      "duration": 6.24,
+      "end": 335.2
+    },
+    {
+      "text": "just sit still, it runs somewhere safe.",
+      "start": 332.04,
+      "duration": 5.2,
+      "end": 337.24
+    },
+    {
+      "text": "Historically, that's meant the US",
+      "start": 335.2,
+      "duration": 4.56,
+      "end": 339.76
+    },
+    {
+      "text": "dollar, the Japanese yen, and the Swiss",
+      "start": 337.24,
+      "duration": 4.76,
+      "end": 342.0
+    },
+    {
+      "text": "franc, currencies backed by stable",
+      "start": 339.76,
+      "duration": 5.08,
+      "end": 344.84
+    },
+    {
+      "text": "governments and deep liquid markets.",
+      "start": 342.0,
+      "duration": 4.84,
+      "end": 346.84
+    },
+    {
+      "text": "That flight to safety can push a haven",
+      "start": 344.84,
+      "duration": 3.76,
+      "end": 348.6
+    },
+    {
+      "text": "currency higher, even when that",
+      "start": 346.84,
+      "duration": 3.6,
+      "end": 350.44
+    },
+    {
+      "text": "country's own economy isn't doing",
+      "start": 348.6,
+      "duration": 4.12,
+      "end": 352.72
+    },
+    {
+      "text": "anything special at all, which as you're",
+      "start": 350.44,
+      "duration": 4.36,
+      "end": 354.8
+    },
+    {
+      "text": "about to see, is exactly the kind of",
+      "start": 352.72,
+      "duration": 3.6,
+      "end": 356.32
+    },
+    {
+      "text": "pressure that got Switzerland into",
+      "start": 354.8,
+      "duration": 4.0,
+      "end": 358.8
+    },
+    {
+      "text": "trouble later in this video. Sometimes",
+      "start": 356.32,
+      "duration": 4.56,
+      "end": 360.88
+    },
+    {
+      "text": "these forces don't just nudge a currency",
+      "start": 358.8,
+      "duration": 4.56,
+      "end": 363.36
+    },
+    {
+      "text": "around, they overwhelm it completely.",
+      "start": 360.88,
+      "duration": 4.16,
+      "end": 365.04
+    },
+    {
+      "text": "That's what a currency crisis looks",
+      "start": 363.36,
+      "duration": 4.84,
+      "end": 368.2
+    },
+    {
+      "text": "like. Confidence collapses and everyone,",
+      "start": 365.04,
+      "duration": 5.4,
+      "end": 370.44
+    },
+    {
+      "text": "investors, businesses, ordinary",
+      "start": 368.2,
+      "duration": 4.24,
+      "end": 372.44
+    },
+    {
+      "text": "citizens, scrambles to convert their",
+      "start": 370.44,
+      "duration": 4.2,
+      "end": 374.64
+    },
+    {
+      "text": "savings into something more stable.",
+      "start": 372.44,
+      "duration": 4.92,
+      "end": 377.36
+    },
+    {
+      "text": "Usually dollars. That rush for the exits",
+      "start": 374.64,
+      "duration": 4.6,
+      "end": 379.24
+    },
+    {
+      "text": "becomes self-fulfilling.",
+      "start": 377.36,
+      "duration": 3.84,
+      "end": 381.2
+    },
+    {
+      "text": "The more people sell, the faster the",
+      "start": 379.24,
+      "duration": 4.4,
+      "end": 383.64
+    },
+    {
+      "text": "currency falls, which convinces even",
+      "start": 381.2,
+      "duration": 4.44,
+      "end": 385.64
+    },
+    {
+      "text": "more people to sell.",
+      "start": 383.64,
+      "duration": 3.88,
+      "end": 387.52
+    },
+    {
+      "text": "Governments sometimes respond by burning",
+      "start": 385.64,
+      "duration": 3.6,
+      "end": 389.24
+    },
+    {
+      "text": "through their foreign currency reserves",
+      "start": 387.52,
+      "duration": 3.32,
+      "end": 390.84
+    },
+    {
+      "text": "to defend the price.",
+      "start": 389.24,
+      "duration": 3.52,
+      "end": 392.76
+    },
+    {
+      "text": "Or by sharply hiking interest rates to",
+      "start": 390.84,
+      "duration": 3.48,
+      "end": 394.32
+    },
+    {
+      "text": "make holding the currency attractive",
+      "start": 392.76,
+      "duration": 3.04,
+      "end": 395.8
+    },
+    {
+      "text": "again.",
+      "start": 394.32,
+      "duration": 2.96,
+      "end": 397.28
+    },
+    {
+      "text": "Here's where most people's intuition",
+      "start": 395.8,
+      "duration": 3.76,
+      "end": 399.56
+    },
+    {
+      "text": "breaks. You'd assume a strong currency",
+      "start": 397.28,
+      "duration": 4.56,
+      "end": 401.84
+    },
+    {
+      "text": "is always the goal, right? Not",
+      "start": 399.56,
+      "duration": 4.68,
+      "end": 404.24
+    },
+    {
+      "text": "necessarily. A weaker currency makes a",
+      "start": 401.84,
+      "duration": 4.4,
+      "end": 406.24
+    },
+    {
+      "text": "country's exports cheaper for everyone",
+      "start": 404.24,
+      "duration": 3.92,
+      "end": 408.16
+    },
+    {
+      "text": "else to buy, which is great if you're",
+      "start": 406.24,
+      "duration": 4.28,
+      "end": 410.52
+    },
+    {
+      "text": "trying to sell goods abroad. This is",
+      "start": 408.16,
+      "duration": 4.76,
+      "end": 412.92
+    },
+    {
+      "text": "exactly why some countries have, at",
+      "start": 410.52,
+      "duration": 4.64,
+      "end": 415.16
+    },
+    {
+      "text": "times, deliberately taken steps to",
+      "start": 412.92,
+      "duration": 4.28,
+      "end": 417.2
+    },
+    {
+      "text": "weaken their own currency to support",
+      "start": 415.16,
+      "duration": 3.52,
+      "end": 418.68
+    },
+    {
+      "text": "their exporters.",
+      "start": 417.2,
+      "duration": 3.88,
+      "end": 421.08
+    },
+    {
+      "text": "Economists sometimes call this dynamic a",
+      "start": 418.68,
+      "duration": 5.0,
+      "end": 423.68
+    },
+    {
+      "text": "currency war. Nobody's shooting, but",
+      "start": 421.08,
+      "duration": 4.44,
+      "end": 425.52
+    },
+    {
+      "text": "everyone's trying to make their exports",
+      "start": 423.68,
+      "duration": 4.56,
+      "end": 428.24
+    },
+    {
+      "text": "cheaper than the next country's. Okay,",
+      "start": 425.52,
+      "duration": 4.28,
+      "end": 429.8
+    },
+    {
+      "text": "now let's solve the mystery we opened",
+      "start": 428.24,
+      "duration": 3.28,
+      "end": 431.52
+    },
+    {
+      "text": "with. Why did you get a worse deal at",
+      "start": 429.8,
+      "duration": 3.84,
+      "end": 433.64
+    },
+    {
+      "text": "that airport counter? There are actually",
+      "start": 431.52,
+      "duration": 4.2,
+      "end": 435.72
+    },
+    {
+      "text": "two different exchange rates in play.",
+      "start": 433.64,
+      "duration": 4.04,
+      "end": 437.68
+    },
+    {
+      "text": "There's the mid-market rate, the real",
+      "start": 435.72,
+      "duration": 3.4,
+      "end": 439.12
+    },
+    {
+      "text": "current rate that banks and big",
+      "start": 437.68,
+      "duration": 3.6,
+      "end": 441.28
+    },
+    {
+      "text": "institutions trade at, the one you'd see",
+      "start": 439.12,
+      "duration": 4.0,
+      "end": 443.12
+    },
+    {
+      "text": "if you googled it right now, and then",
+      "start": 441.28,
+      "duration": 4.08,
+      "end": 445.36
+    },
+    {
+      "text": "there's the retail rate. What an airport",
+      "start": 443.12,
+      "duration": 4.72,
+      "end": 447.84
+    },
+    {
+      "text": "kiosk, your bank, or your card actually",
+      "start": 445.36,
+      "duration": 5.24,
+      "end": 450.6
+    },
+    {
+      "text": "gives you. That gap between them isn't",
+      "start": 447.84,
+      "duration": 5.2,
+      "end": 453.04
+    },
+    {
+      "text": "an accident. It's how currency exchange",
+      "start": 450.6,
+      "duration": 4.36,
+      "end": 454.96
+    },
+    {
+      "text": "businesses make money.",
+      "start": 453.04,
+      "duration": 4.32,
+      "end": 457.36
+    },
+    {
+      "text": "Airport kiosks, in particular, often",
+      "start": 454.96,
+      "duration": 4.16,
+      "end": 459.12
+    },
+    {
+      "text": "build in one of the largest margins",
+      "start": 457.36,
+      "duration": 3.64,
+      "end": 461.0
+    },
+    {
+      "text": "anywhere, because they know you're a",
+      "start": 459.12,
+      "duration": 4.12,
+      "end": 463.24
+    },
+    {
+      "text": "captive customer with no better option",
+      "start": 461.0,
+      "duration": 4.16,
+      "end": 465.16
+    },
+    {
+      "text": "at that moment.",
+      "start": 463.24,
+      "duration": 3.84,
+      "end": 467.08
+    },
+    {
+      "text": "Before converting money abroad, it's",
+      "start": 465.16,
+      "duration": 3.76,
+      "end": 468.92
+    },
+    {
+      "text": "worth checking the actual mid-market",
+      "start": 467.08,
+      "duration": 4.0,
+      "end": 471.08
+    },
+    {
+      "text": "rate first, so you know exactly how much",
+      "start": 468.92,
+      "duration": 4.48,
+      "end": 473.4
+    },
+    {
+      "text": "you're really giving up. As a rough rule",
+      "start": 471.08,
+      "duration": 4.84,
+      "end": 475.92
+    },
+    {
+      "text": "of thumb, a spread under roughly 1% of",
+      "start": 473.4,
+      "duration": 4.4,
+      "end": 477.8
+    },
+    {
+      "text": "the mid-market rate is generally",
+      "start": 475.92,
+      "duration": 3.72,
+      "end": 479.64
+    },
+    {
+      "text": "considered reasonable for a card or",
+      "start": 477.8,
+      "duration": 3.68,
+      "end": 481.48
+    },
+    {
+      "text": "transfer service.",
+      "start": 479.64,
+      "duration": 3.56,
+      "end": 483.2
+    },
+    {
+      "text": "This isn't just a travel problem,",
+      "start": 481.48,
+      "duration": 4.32,
+      "end": 485.8
+    },
+    {
+      "text": "either. If you invest internationally,",
+      "start": 483.2,
+      "duration": 4.68,
+      "end": 487.88
+    },
+    {
+      "text": "currency swings affect your actual",
+      "start": 485.8,
+      "duration": 3.92,
+      "end": 489.72
+    },
+    {
+      "text": "return, even when the underlying",
+      "start": 487.88,
+      "duration": 4.12,
+      "end": 492.0
+    },
+    {
+      "text": "investment hasn't moved at all.",
+      "start": 489.72,
+      "duration": 4.4,
+      "end": 494.12
+    },
+    {
+      "text": "If you own a European stock that goes up",
+      "start": 492.0,
+      "duration": 5.36,
+      "end": 497.36
+    },
+    {
+      "text": "5%, but the euro drops 5% against your",
+      "start": 494.12,
+      "duration": 5.92,
+      "end": 500.04
+    },
+    {
+      "text": "home currency in the same period, your",
+      "start": 497.36,
+      "duration": 5.24,
+      "end": 502.6
+    },
+    {
+      "text": "real gain is roughly zero. Here is",
+      "start": 500.04,
+      "duration": 4.12,
+      "end": 504.16
+    },
+    {
+      "text": "exactly what happened if you bought a",
+      "start": 502.6,
+      "duration": 3.72,
+      "end": 506.32
+    },
+    {
+      "text": "Japanese stock 5 years ago without a",
+      "start": 504.16,
+      "duration": 4.32,
+      "end": 508.48
+    },
+    {
+      "text": "currency hedge. Even though the Japanese",
+      "start": 506.32,
+      "duration": 4.04,
+      "end": 510.36
+    },
+    {
+      "text": "stock market performed great, the",
+      "start": 508.48,
+      "duration": 4.52,
+      "end": 513.0
+    },
+    {
+      "text": "Japanese yen collapsed by roughly 30%",
+      "start": 510.36,
+      "duration": 5.04,
+      "end": 515.4
+    },
+    {
+      "text": "against the US dollar. That massive",
+      "start": 513.0,
+      "duration": 4.4,
+      "end": 517.4
+    },
+    {
+      "text": "devaluation essentially wiped out your",
+      "start": 515.4,
+      "duration": 3.68,
+      "end": 519.08
+    },
+    {
+      "text": "stock market gains the moment you",
+      "start": 517.4,
+      "duration": 3.68,
+      "end": 521.08
+    },
+    {
+      "text": "converted your profits back into US",
+      "start": 519.08,
+      "duration": 3.88,
+      "end": 522.96
+    },
+    {
+      "text": "dollars.",
+      "start": 521.08,
+      "duration": 3.6,
+      "end": 524.68
+    },
+    {
+      "text": "Even the crypto world hasn't escaped",
+      "start": 522.96,
+      "duration": 4.0,
+      "end": 526.96
+    },
+    {
+      "text": "this idea. Stablecoins are essentially",
+      "start": 524.68,
+      "duration": 4.68,
+      "end": 529.36
+    },
+    {
+      "text": "an attempt to recreate a currency peg, a",
+      "start": 526.96,
+      "duration": 5.16,
+      "end": 532.12
+    },
+    {
+      "text": "token designed to always equal $1, for",
+      "start": 529.36,
+      "duration": 4.76,
+      "end": 534.12
+    },
+    {
+      "text": "example, using reserves or algorithms",
+      "start": 532.12,
+      "duration": 4.16,
+      "end": 536.28
+    },
+    {
+      "text": "instead of a central bank. Same",
+      "start": 534.12,
+      "duration": 3.84,
+      "end": 537.96
+    },
+    {
+      "text": "underlying concept as a government",
+      "start": 536.28,
+      "duration": 3.6,
+      "end": 539.88
+    },
+    {
+      "text": "currency peg, just running on different",
+      "start": 537.96,
+      "duration": 3.24,
+      "end": 541.2
+    },
+    {
+      "text": "rails.",
+      "start": 539.88,
+      "duration": 3.8,
+      "end": 543.68
+    },
+    {
+      "text": "And speaking of pegs breaking, let's end",
+      "start": 541.2,
+      "duration": 4.52,
+      "end": 545.72
+    },
+    {
+      "text": "with the wildest, best-documented",
+      "start": 543.68,
+      "duration": 4.2,
+      "end": 547.88
+    },
+    {
+      "text": "example of this entire system going",
+      "start": 545.72,
+      "duration": 5.2,
+      "end": 550.92
+    },
+    {
+      "text": "haywire in real time. For over 3 years,",
+      "start": 547.88,
+      "duration": 4.8,
+      "end": 552.68
+    },
+    {
+      "text": "Switzerland's central bank held its",
+      "start": 550.92,
+      "duration": 4.52,
+      "end": 555.44
+    },
+    {
+      "text": "currency to a fixed rate. One euro would",
+      "start": 552.68,
+      "duration": 5.96,
+      "end": 558.64
+    },
+    {
+      "text": "never buy less than 1.2 Swiss francs. To",
+      "start": 555.44,
+      "duration": 5.08,
+      "end": 560.52
+    },
+    {
+      "text": "hold that line, they had to constantly",
+      "start": 558.64,
+      "duration": 4.48,
+      "end": 563.12
+    },
+    {
+      "text": "buy euros and sell francs, no matter the",
+      "start": 560.52,
+      "duration": 6.84,
+      "end": 567.36
+    },
+    {
+      "text": "cost. Then, on January 15th, 2015, with",
+      "start": 563.12,
+      "duration": 6.12,
+      "end": 569.24
+    },
+    {
+      "text": "zero warning, the Swiss National Bank",
+      "start": 567.36,
+      "duration": 4.0,
+      "end": 571.36
+    },
+    {
+      "text": "simply gave up and let the franc float",
+      "start": 569.24,
+      "duration": 4.16,
+      "end": 573.4
+    },
+    {
+      "text": "freely. What happened next was one of",
+      "start": 571.36,
+      "duration": 3.84,
+      "end": 575.2
+    },
+    {
+      "text": "the most violent moves in modern",
+      "start": 573.4,
+      "duration": 4.12,
+      "end": 577.52
+    },
+    {
+      "text": "currency history. Within minutes, the",
+      "start": 575.2,
+      "duration": 5.4,
+      "end": 580.6
+    },
+    {
+      "text": "franc surged somewhere around 20 to 30%",
+      "start": 577.52,
+      "duration": 5.16,
+      "end": 582.68
+    },
+    {
+      "text": "against the euro, a move that for a",
+      "start": 580.6,
+      "duration": 4.92,
+      "end": 585.52
+    },
+    {
+      "text": "major currency normally takes years, not",
+      "start": 582.68,
+      "duration": 5.44,
+      "end": 588.12
+    },
+    {
+      "text": "minutes. Some currency brokers around",
+      "start": 585.52,
+      "duration": 5.0,
+      "end": 590.52
+    },
+    {
+      "text": "the world went bankrupt on the spot.",
+      "start": 588.12,
+      "duration": 4.88,
+      "end": 593.0
+    },
+    {
+      "text": "That's not an exaggeration. That's just",
+      "start": 590.52,
+      "duration": 4.04,
+      "end": 594.56
+    },
+    {
+      "text": "what happens when a market that's been",
+      "start": 593.0,
+      "duration": 3.96,
+      "end": 596.96
+    },
+    {
+      "text": "artificially held in place for years",
+      "start": 594.56,
+      "duration": 5.4,
+      "end": 599.96
+    },
+    {
+      "text": "suddenly gets to move freely again.",
+      "start": 596.96,
+      "duration": 4.52,
+      "end": 601.48
+    },
+    {
+      "text": "So, the next time you check an exchange",
+      "start": 599.96,
+      "duration": 3.28,
+      "end": 603.24
+    },
+    {
+      "text": "rate, you're looking at a real-time",
+      "start": 601.48,
+      "duration": 4.24,
+      "end": 605.72
+    },
+    {
+      "text": "snapshot of the largest market on Earth.",
+      "start": 603.24,
+      "duration": 4.72,
+      "end": 607.96
+    },
+    {
+      "text": "A continuous tug-of-war between interest",
+      "start": 605.72,
+      "duration": 5.08,
+      "end": 610.8
+    },
+    {
+      "text": "rates, trade, inflation, and millions of",
+      "start": 607.96,
+      "duration": 5.24,
+      "end": 613.2
+    },
+    {
+      "text": "people betting on what happens next. If",
+      "start": 610.8,
+      "duration": 4.08,
+      "end": 614.88
+    },
+    {
+      "text": "you found the video helpful, don't",
+      "start": 613.2,
+      "duration": 3.48,
+      "end": 616.68
+    },
+    {
+      "text": "forget to like and subscribe to continue",
+      "start": 614.88,
+      "duration": 3.72,
+      "end": 618.6
+    },
+    {
+      "text": "growing this community. Thank you so",
+      "start": 616.68,
+      "duration": 3.68,
+      "end": 620.36
+    },
+    {
+      "text": "much for watching, and I'll see you very",
+      "start": 618.6,
+      "duration": 4.72,
+      "end": 623.32
+    },
+    {
+      "text": "soon. Bye.",
+      "start": 620.36,
+      "duration": 2.96,
+      "end": 623.32
+    }
+  ]
+}

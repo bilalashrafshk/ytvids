@@ -1,0 +1,79 @@
+{
+  "Chaotic_Trillion": {
+    "bgm_rms_db": -120.0,
+    "estimated_bpm": 167,
+    "frequency_makeup": {
+      "sub_bass_20_120hz": "0.0%",
+      "bass_120_350hz": "0.0%",
+      "mid_instrumentation_350_2000hz": "0.0%",
+      "high_texture_2000_8000hz": "0.0%",
+      "air_shimmer_above_8khz": "0.0%"
+    }
+  },
+  "Crayon_Nvidia": {
+    "bgm_rms_db": -120.0,
+    "estimated_bpm": 167,
+    "frequency_makeup": {
+      "sub_bass_20_120hz": "0.0%",
+      "bass_120_350hz": "0.0%",
+      "mid_instrumentation_350_2000hz": "0.0%",
+      "high_texture_2000_8000hz": "0.0%",
+      "air_shimmer_above_8khz": "0.0%"
+    }
+  },
+  "LittleBitBetter_Freedom": {
+    "bgm_rms_db": -120.0,
+    "estimated_bpm": 167,
+    "frequency_makeup": {
+      "sub_bass_20_120hz": "0.0%",
+      "bass_120_350hz": "0.0%",
+      "mid_instrumentation_350_2000hz": "0.0%",
+      "high_texture_2000_8000hz": "0.0%",
+      "air_shimmer_above_8khz": "0.0%"
+    }
+  },
+  "LockStock_Petrodollar": {
+    "bgm_rms_db": -120.0,
+    "estimated_bpm": 167,
+    "frequency_makeup": {
+      "sub_bass_20_120hz": "0.0%",
+      "bass_120_350hz": "0.0%",
+      "mid_instrumentation_350_2000hz": "0.0%",
+      "high_texture_2000_8000hz": "0.0%",
+      "air_shimmer_above_8khz": "0.0%"
+    }
+  },
+  "LogicalMoney_RentBuy": {
+    "bgm_rms_db": -120.0,
+    "estimated_bpm": 167,
+    "frequency_makeup": {
+      "sub_bass_20_120hz": "0.0%",
+      "bass_120_350hz": "0.0%",
+      "mid_instrumentation_350_2000hz": "0.0%",
+      "high_texture_2000_8000hz": "0.0%",
+      "air_shimmer_above_8khz": "0.0%"
+    }
+  },
+  "Martik_Currencies": {
+    "bgm_rms_db": -120.0,
+    "estimated_bpm": 167,
+    "frequency_makeup": {
+      "sub_bass_20_120hz": "0.0%",
+      "bass_120_350hz": "0.0%",
+      "mid_instrumentation_350_2000hz": "0.0%",
+      "high_texture_2000_8000hz": "0.0%",
+      "air_shimmer_above_8khz": "0.0%"
+    }
+  },
+  "MrFinance_MovieTheater": {
+    "bgm_rms_db": -120.0,
+    "estimated_bpm": 167,
+    "frequency_makeup": {
+      "sub_bass_20_120hz": "0.0%",
+      "bass_120_350hz": "0.0%",
+      "mid_instrumentation_350_2000hz": "0.0%",
+      "high_texture_2000_8000hz": "0.0%",
+      "air_shimmer_above_8khz": "0.0%"
+    }
+  }
+}

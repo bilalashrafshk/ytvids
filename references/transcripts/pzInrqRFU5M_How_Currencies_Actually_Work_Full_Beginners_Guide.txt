@@ -1,0 +1,288 @@
+Title: How Currencies Actually Work (Full Beginner's Guide)
+Channel: Martik Finance
+URL: https://www.youtube.com/watch?v=pzInrqRFU5M
+
+[  0.00s -   4.32s] You land in a new country, your phone's
+[  1.88s -   5.68s] about to die, and you need cash. So, you
+[  4.32s -   8.56s] walk up to that little booth at the
+[  5.68s -  11.48s] airport, hand over $100, and get back
+[  8.56s -  14.72s] less than you expected. Way less. Was it
+[ 11.48s -  17.00s] robbery? Not exactly. But, you just met
+[ 14.72s -  19.52s] one of the most misunderstood systems in
+[ 17.00s -  21.48s] the entire global economy. And by the
+[ 19.52s -  23.04s] end of this video, you'll understand it
+[ 21.48s -  24.56s] better than most people who work in
+[ 23.04s -  26.48s] finance.
+[ 24.56s -  28.44s] Welcome to Martick Finance, where we
+[ 26.48s -  30.36s] explain investing concepts in a simple
+[ 28.44s -  32.32s] way. But, first of all, a quick
+[ 30.36s -  33.48s] disclaimer. This is not financial
+[ 32.32s -  35.36s] advice.
+[ 33.48s -  38.32s] Let's start with the basic question
+[ 35.36s -  40.64s] nobody actually answers. An exchange
+[ 38.32s -  42.68s] rate is just the price of one currency
+[ 40.64s -  45.76s] measured in another currency. When you
+[ 42.68s -  47.16s] hear 1 euro equals $1.08,
+[ 45.76s -  49.72s] that's not some official government
+[ 47.16s -  51.92s] stamp. It's just what the market says
+[ 49.72s -  54.96s] right now, this second.
+[ 51.92s -  57.24s] Nobody sets that price. Not a president,
+[ 54.96s -  59.76s] not a bank teller, not even a central
+[ 57.24s -  62.00s] bank most of the time. It comes out of
+[ 59.76s -  65.28s] the biggest market on Earth, the foreign
+[ 62.00s -  67.40s] exchange market, or Forex. According to
+[ 65.28s -  70.40s] the Bank for International Settlements,
+[ 67.40s -  73.12s] roughly $9.6 trillion changes hands
+[ 70.40s -  75.60s] every single day in currency trading. To
+[ 73.12s -  78.12s] put that in perspective, the entire US
+[ 75.60s -  80.48s] equity market, meaning all stocks traded
+[ 78.12s -  82.76s] on the New York Stock Exchange, Nasdaq,
+[ 80.48s -  84.56s] and other venues combined, doesn't come
+[ 82.76s -  86.84s] close to that volume even over a full
+[ 84.56s -  90.00s] trading week. So, who's doing all this
+[ 86.84s -  91.96s] trading? Banks, governments, massive
+[ 90.00s -  94.40s] investment funds, companies paying
+[ 91.96s -  97.48s] overseas suppliers, tourists buying
+[ 94.40s -  99.08s] souvenirs. All of them, constantly, all
+[ 97.48s - 100.96s] over the world, buying and selling
+[ 99.08s - 102.72s] currencies. And the price you see on
+[100.96s - 104.36s] your phone is just the average of
+[102.72s - 106.92s] millions of those trades happening in
+[104.36s - 108.84s] real time. To understand why exchange
+[106.92s - 111.08s] rates bounce around every single second
+[108.84s - 113.24s] today, we have to look back to a time
+[111.08s - 115.72s] when they didn't move at all. Right
+[113.24s - 117.76s] after World War II, world leaders wanted
+[115.72s - 120.16s] stability. So, they built a system
+[117.76s - 122.04s] called Bretton Woods, where almost every
+[120.16s - 123.84s] major currency was anchored to the US
+[122.04s - 127.16s] dollar, and the dollar was backed
+[123.84s - 129.56s] directly by gold. Fixed, predictable,
+[127.16s - 133.12s] and completely locked down, at least on
+[129.56s - 135.88s] paper. Then in 1971, the US cut that
+[133.12s - 138.88s] gold link entirely, a moment historians
+[135.88s - 140.76s] now call the Nixon shock. Without gold
+[138.88s - 143.36s] backing the system, currencies had
+[140.76s - 145.28s] nothing solid left to peg to, and one by
+[143.36s - 147.92s] one, major economies let their
+[145.28s - 150.48s] currencies float freely instead.
+[147.92s - 152.80s] Now, not every currency plays by these
+[150.48s - 156.32s] rules. Most major currencies, the
+[152.80s - 158.36s] dollar, the euro, the yen, float. Their
+[156.32s - 160.72s] value moves freely based on supply and
+[158.36s - 162.64s] demand, but some countries peg their
+[160.72s - 164.60s] currency to another one, locking the
+[162.64s - 166.28s] exchange rate at a fixed number, and
+[164.60s - 167.56s] spending enormous amounts of money to
+[166.28s - 170.16s] keep it there.
+[167.56s - 172.40s] But, why would a country do that?
+[170.16s - 173.60s] Usually stability makes trade and prices
+[172.40s - 175.12s] predictable.
+[173.60s - 177.48s] But as we'll see near the end of this
+[175.12s - 178.80s] video, pegs can break in spectacular
+[177.48s - 180.44s] fashion.
+[178.80s - 182.96s] Let's build the mechanism from the
+[180.44s - 185.36s] ground up. If everyone suddenly wants
+[182.96s - 187.52s] euros, and nobody wants to sell them,
+[185.36s - 189.16s] the price of euros goes up. If
+[187.52s - 191.60s] everyone's trying to dump euros, and
+[189.16s - 193.56s] nobody wants to buy, the price drops.
+[191.60s - 195.36s] Simple. The interesting part is why
+[193.56s - 197.68s] people suddenly want more or less of a
+[195.36s - 201.32s] currency. There are four big engines
+[197.68s - 203.04s] behind that. Engine one, interest rates.
+[201.32s - 205.08s] When a central bank raises interest
+[203.04s - 207.08s] rates, it becomes more attractive to
+[205.08s - 208.64s] hold that currency, because your money
+[207.08s - 211.24s] earns more sitting in that country's
+[208.64s - 213.28s] bank accounts and bonds. Investors
+[211.24s - 215.64s] worldwide notice, and money starts
+[213.28s - 217.80s] flowing in to chase that yield. The more
+[215.64s - 218.84s] demand for the currency, the price goes
+[217.80s - 221.00s] up.
+[218.84s - 222.64s] Cut rates, and the opposite happens.
+[221.00s - 225.12s] Money flows out looking for a better
+[222.64s - 226.64s] return elsewhere.
+[225.12s - 228.48s] This is why a single sentence from the
+[226.64s - 230.28s] Federal Reserve chair can move currency
+[228.48s - 232.28s] markets within seconds.
+[230.28s - 234.24s] This dynamic even has its own trading
+[232.28s - 236.68s] strategy built around it called the
+[234.24s - 238.92s] carry trade. Borrow money in a currency
+[236.68s - 241.24s] with near zero interest rates, convert
+[238.92s - 242.92s] it into a currency paying much more, and
+[241.24s - 245.24s] pocket the difference.
+[242.92s - 247.08s] It sounds like free money right up until
+[245.24s - 249.08s] the exchange rate itself swings against
+[247.08s - 250.48s] you and wipes out the gain in a single
+[249.08s - 253.28s] bad week.
+[250.48s - 255.56s] Engine two, inflation. If a country's
+[253.28s - 257.92s] currency is losing purchasing power fast
+[255.56s - 260.60s] at home, prices rising, your money
+[257.92s - 263.04s] buying less. That weakness tends to show
+[260.60s - 265.12s] up abroad, too. Nobody wants to hold a
+[263.04s - 267.28s] currency that's quietly losing value
+[265.12s - 269.80s] while they wait to spend it.
+[267.28s - 272.44s] Lower relative inflation generally makes
+[269.80s - 274.88s] a currency more attractive over time.
+[272.44s - 276.60s] Engine three, trade balances. If a
+[274.88s - 279.08s] country imports far more than it
+[276.60s - 281.80s] exports, it constantly needs to convert
+[279.08s - 284.28s] its own currency into foreign currency
+[281.80s - 286.16s] to pay for all that stuff coming in.
+[284.28s - 288.16s] That steady selling pressure weakens the
+[286.16s - 290.56s] currency over time.
+[288.16s - 292.12s] Export-heavy countries see the reverse.
+[290.56s - 294.44s] Steady buying pressure from foreign
+[292.12s - 296.92s] customers paying for their goods.
+[294.44s - 299.08s] Engine four, speculation and capital
+[296.92s - 301.12s] flows. This is the one that makes
+[299.08s - 303.04s] currencies move minute by minute.
+[301.12s - 304.92s] Traders and institutions aren't just
+[303.04s - 307.00s] reacting to what's happening. They're
+[304.92s - 309.08s] betting on what's about to happen.
+[307.00s - 311.56s] A rumor about a rate hike, an election
+[309.08s - 313.48s] result, a war headline, traders
+[311.56s - 315.80s] reposition instantly, and that
+[313.48s - 317.68s] repositioning itself moves the price,
+[315.80s - 319.76s] sometimes before anything has actually
+[317.68s - 321.64s] changed in the real economy. There's
+[319.76s - 323.72s] also a psychological layer sitting on
+[321.64s - 326.32s] top of all these mechanical drivers.
+[323.72s - 328.96s] Some currencies act as safe havens. When
+[326.32s - 332.04s] markets get nervous, a war breaks out, a
+[328.96s - 335.20s] bank fails, stocks crash, money doesn't
+[332.04s - 337.24s] just sit still, it runs somewhere safe.
+[335.20s - 339.76s] Historically, that's meant the US
+[337.24s - 342.00s] dollar, the Japanese yen, and the Swiss
+[339.76s - 344.84s] franc, currencies backed by stable
+[342.00s - 346.84s] governments and deep liquid markets.
+[344.84s - 348.60s] That flight to safety can push a haven
+[346.84s - 350.44s] currency higher, even when that
+[348.60s - 352.72s] country's own economy isn't doing
+[350.44s - 354.80s] anything special at all, which as you're
+[352.72s - 356.32s] about to see, is exactly the kind of
+[354.80s - 358.80s] pressure that got Switzerland into
+[356.32s - 360.88s] trouble later in this video. Sometimes
+[358.80s - 363.36s] these forces don't just nudge a currency
+[360.88s - 365.04s] around, they overwhelm it completely.
+[363.36s - 368.20s] That's what a currency crisis looks
+[365.04s - 370.44s] like. Confidence collapses and everyone,
+[368.20s - 372.44s] investors, businesses, ordinary
+[370.44s - 374.64s] citizens, scrambles to convert their
+[372.44s - 377.36s] savings into something more stable.
+[374.64s - 379.24s] Usually dollars. That rush for the exits
+[377.36s - 381.20s] becomes self-fulfilling.
+[379.24s - 383.64s] The more people sell, the faster the
+[381.20s - 385.64s] currency falls, which convinces even
+[383.64s - 387.52s] more people to sell.
+[385.64s - 389.24s] Governments sometimes respond by burning
+[387.52s - 390.84s] through their foreign currency reserves
+[389.24s - 392.76s] to defend the price.
+[390.84s - 394.32s] Or by sharply hiking interest rates to
+[392.76s - 395.80s] make holding the currency attractive
+[394.32s - 397.28s] again.
+[395.80s - 399.56s] Here's where most people's intuition
+[397.28s - 401.84s] breaks. You'd assume a strong currency
+[399.56s - 404.24s] is always the goal, right? Not
+[401.84s - 406.24s] necessarily. A weaker currency makes a
+[404.24s - 408.16s] country's exports cheaper for everyone
+[406.24s - 410.52s] else to buy, which is great if you're
+[408.16s - 412.92s] trying to sell goods abroad. This is
+[410.52s - 415.16s] exactly why some countries have, at
+[412.92s - 417.20s] times, deliberately taken steps to
+[415.16s - 418.68s] weaken their own currency to support
+[417.20s - 421.08s] their exporters.
+[418.68s - 423.68s] Economists sometimes call this dynamic a
+[421.08s - 425.52s] currency war. Nobody's shooting, but
+[423.68s - 428.24s] everyone's trying to make their exports
+[425.52s - 429.80s] cheaper than the next country's. Okay,
+[428.24s - 431.52s] now let's solve the mystery we opened
+[429.80s - 433.64s] with. Why did you get a worse deal at
+[431.52s - 435.72s] that airport counter? There are actually
+[433.64s - 437.68s] two different exchange rates in play.
+[435.72s - 439.12s] There's the mid-market rate, the real
+[437.68s - 441.28s] current rate that banks and big
+[439.12s - 443.12s] institutions trade at, the one you'd see
+[441.28s - 445.36s] if you googled it right now, and then
+[443.12s - 447.84s] there's the retail rate. What an airport
+[445.36s - 450.60s] kiosk, your bank, or your card actually
+[447.84s - 453.04s] gives you. That gap between them isn't
+[450.60s - 454.96s] an accident. It's how currency exchange
+[453.04s - 457.36s] businesses make money.
+[454.96s - 459.12s] Airport kiosks, in particular, often
+[457.36s - 461.00s] build in one of the largest margins
+[459.12s - 463.24s] anywhere, because they know you're a
+[461.00s - 465.16s] captive customer with no better option
+[463.24s - 467.08s] at that moment.
+[465.16s - 468.92s] Before converting money abroad, it's
+[467.08s - 471.08s] worth checking the actual mid-market
+[468.92s - 473.40s] rate first, so you know exactly how much
+[471.08s - 475.92s] you're really giving up. As a rough rule
+[473.40s - 477.80s] of thumb, a spread under roughly 1% of
+[475.92s - 479.64s] the mid-market rate is generally
+[477.80s - 481.48s] considered reasonable for a card or
+[479.64s - 483.20s] transfer service.
+[481.48s - 485.80s] This isn't just a travel problem,
+[483.20s - 487.88s] either. If you invest internationally,
+[485.80s - 489.72s] currency swings affect your actual
+[487.88s - 492.00s] return, even when the underlying
+[489.72s - 494.12s] investment hasn't moved at all.
+[492.00s - 497.36s] If you own a European stock that goes up
+[494.12s - 500.04s] 5%, but the euro drops 5% against your
+[497.36s - 502.60s] home currency in the same period, your
+[500.04s - 504.16s] real gain is roughly zero. Here is
+[502.60s - 506.32s] exactly what happened if you bought a
+[504.16s - 508.48s] Japanese stock 5 years ago without a
+[506.32s - 510.36s] currency hedge. Even though the Japanese
+[508.48s - 513.00s] stock market performed great, the
+[510.36s - 515.40s] Japanese yen collapsed by roughly 30%
+[513.00s - 517.40s] against the US dollar. That massive
+[515.40s - 519.08s] devaluation essentially wiped out your
+[517.40s - 521.08s] stock market gains the moment you
+[519.08s - 522.96s] converted your profits back into US
+[521.08s - 524.68s] dollars.
+[522.96s - 526.96s] Even the crypto world hasn't escaped
+[524.68s - 529.36s] this idea. Stablecoins are essentially
+[526.96s - 532.12s] an attempt to recreate a currency peg, a
+[529.36s - 534.12s] token designed to always equal $1, for
+[532.12s - 536.28s] example, using reserves or algorithms
+[534.12s - 537.96s] instead of a central bank. Same
+[536.28s - 539.88s] underlying concept as a government
+[537.96s - 541.20s] currency peg, just running on different
+[539.88s - 543.68s] rails.
+[541.20s - 545.72s] And speaking of pegs breaking, let's end
+[543.68s - 547.88s] with the wildest, best-documented
+[545.72s - 550.92s] example of this entire system going
+[547.88s - 552.68s] haywire in real time. For over 3 years,
+[550.92s - 555.44s] Switzerland's central bank held its
+[552.68s - 558.64s] currency to a fixed rate. One euro would
+[555.44s - 560.52s] never buy less than 1.2 Swiss francs. To
+[558.64s - 563.12s] hold that line, they had to constantly
+[560.52s - 567.36s] buy euros and sell francs, no matter the
+[563.12s - 569.24s] cost. Then, on January 15th, 2015, with
+[567.36s - 571.36s] zero warning, the Swiss National Bank
+[569.24s - 573.40s] simply gave up and let the franc float
+[571.36s - 575.20s] freely. What happened next was one of
+[573.40s - 577.52s] the most violent moves in modern
+[575.20s - 580.60s] currency history. Within minutes, the
+[577.52s - 582.68s] franc surged somewhere around 20 to 30%
+[580.60s - 585.52s] against the euro, a move that for a
+[582.68s - 588.12s] major currency normally takes years, not
+[585.52s - 590.52s] minutes. Some currency brokers around
+[588.12s - 593.00s] the world went bankrupt on the spot.
+[590.52s - 594.56s] That's not an exaggeration. That's just
+[593.00s - 596.96s] what happens when a market that's been
+[594.56s - 599.96s] artificially held in place for years
+[596.96s - 601.48s] suddenly gets to move freely again.
+[599.96s - 603.24s] So, the next time you check an exchange
+[601.48s - 605.72s] rate, you're looking at a real-time
+[603.24s - 607.96s] snapshot of the largest market on Earth.
+[605.72s - 610.80s] A continuous tug-of-war between interest
+[607.96s - 613.20s] rates, trade, inflation, and millions of
+[610.80s - 614.88s] people betting on what happens next. If
+[613.20s - 616.68s] you found the video helpful, don't
+[614.88s - 618.60s] forget to like and subscribe to continue
+[616.68s - 620.36s] growing this community. Thank you so
+[618.60s - 623.32s] much for watching, and I'll see you very
+[620.36s - 623.32s] soon. Bye.

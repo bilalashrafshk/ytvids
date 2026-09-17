@@ -1,0 +1,144 @@
+Title: How Currencies Actually Work (Full Beginner's Guide)
+Channel: Martik Finance
+URL: https://www.youtube.com/watch?v=pzInrqRFU5M
+
+You land in a new country, your phone's about to die, and you need cash. So, you walk up to that little booth at the airport, hand over $100, and get back less than you expected. Way less. Was it robbery? Not exactly. But, you just met one of the most misunderstood systems in
+
+the entire global economy. And by the end of this video, you'll understand it better than most people who work in finance.
+
+Welcome to Martick Finance, where we explain investing concepts in a simple way. But, first of all, a quick disclaimer. This is not financial advice.
+
+Let's start with the basic question nobody actually answers. An exchange rate is just the price of one currency measured in another currency. When you hear 1 euro equals $1.08, that's not some official government
+
+stamp. It's just what the market says right now, this second.
+
+Nobody sets that price. Not a president, not a bank teller, not even a central bank most of the time. It comes out of the biggest market on Earth, the foreign exchange market, or Forex. According to
+
+the Bank for International Settlements, roughly $9.6 trillion changes hands every single day in currency trading. To put that in perspective, the entire US equity market, meaning all stocks traded
+
+on the New York Stock Exchange, Nasdaq, and other venues combined, doesn't come close to that volume even over a full trading week. So, who's doing all this trading? Banks, governments, massive investment funds, companies paying
+
+overseas suppliers, tourists buying souvenirs. All of them, constantly, all over the world, buying and selling currencies. And the price you see on your phone is just the average of millions of those trades happening in
+
+real time. To understand why exchange rates bounce around every single second today, we have to look back to a time when they didn't move at all. Right after World War II, world leaders wanted stability. So, they built a system
+
+called Bretton Woods, where almost every major currency was anchored to the US dollar, and the dollar was backed directly by gold. Fixed, predictable, and completely locked down, at least on paper. Then in 1971, the US cut that
+
+gold link entirely, a moment historians now call the Nixon shock. Without gold backing the system, currencies had nothing solid left to peg to, and one by one, major economies let their
+
+currencies float freely instead.
+
+Now, not every currency plays by these rules. Most major currencies, the dollar, the euro, the yen, float. Their value moves freely based on supply and demand, but some countries peg their
+
+currency to another one, locking the exchange rate at a fixed number, and spending enormous amounts of money to keep it there.
+
+But, why would a country do that?
+
+Usually stability makes trade and prices predictable.
+
+But as we'll see near the end of this video, pegs can break in spectacular fashion.
+
+Let's build the mechanism from the ground up. If everyone suddenly wants euros, and nobody wants to sell them, the price of euros goes up. If everyone's trying to dump euros, and nobody wants to buy, the price drops.
+
+Simple. The interesting part is why people suddenly want more or less of a currency. There are four big engines behind that. Engine one, interest rates.
+
+When a central bank raises interest rates, it becomes more attractive to hold that currency, because your money earns more sitting in that country's bank accounts and bonds. Investors worldwide notice, and money starts
+
+flowing in to chase that yield. The more demand for the currency, the price goes up.
+
+Cut rates, and the opposite happens.
+
+Money flows out looking for a better return elsewhere.
+
+This is why a single sentence from the Federal Reserve chair can move currency markets within seconds.
+
+This dynamic even has its own trading strategy built around it called the carry trade. Borrow money in a currency with near zero interest rates, convert it into a currency paying much more, and pocket the difference.
+
+It sounds like free money right up until the exchange rate itself swings against you and wipes out the gain in a single bad week.
+
+Engine two, inflation. If a country's currency is losing purchasing power fast at home, prices rising, your money buying less. That weakness tends to show up abroad, too. Nobody wants to hold a currency that's quietly losing value
+
+while they wait to spend it.
+
+Lower relative inflation generally makes a currency more attractive over time.
+
+Engine three, trade balances. If a country imports far more than it exports, it constantly needs to convert its own currency into foreign currency to pay for all that stuff coming in.
+
+That steady selling pressure weakens the currency over time.
+
+Export-heavy countries see the reverse.
+
+Steady buying pressure from foreign customers paying for their goods.
+
+Engine four, speculation and capital flows. This is the one that makes currencies move minute by minute.
+
+Traders and institutions aren't just reacting to what's happening. They're betting on what's about to happen.
+
+A rumor about a rate hike, an election result, a war headline, traders reposition instantly, and that repositioning itself moves the price, sometimes before anything has actually changed in the real economy. There's
+
+also a psychological layer sitting on top of all these mechanical drivers.
+
+Some currencies act as safe havens. When markets get nervous, a war breaks out, a bank fails, stocks crash, money doesn't just sit still, it runs somewhere safe.
+
+Historically, that's meant the US dollar, the Japanese yen, and the Swiss franc, currencies backed by stable governments and deep liquid markets.
+
+That flight to safety can push a haven currency higher, even when that country's own economy isn't doing anything special at all, which as you're about to see, is exactly the kind of pressure that got Switzerland into
+
+trouble later in this video. Sometimes these forces don't just nudge a currency around, they overwhelm it completely.
+
+That's what a currency crisis looks like. Confidence collapses and everyone, investors, businesses, ordinary citizens, scrambles to convert their savings into something more stable.
+
+Usually dollars. That rush for the exits becomes self-fulfilling.
+
+The more people sell, the faster the currency falls, which convinces even more people to sell.
+
+Governments sometimes respond by burning through their foreign currency reserves to defend the price.
+
+Or by sharply hiking interest rates to make holding the currency attractive again.
+
+Here's where most people's intuition breaks. You'd assume a strong currency is always the goal, right? Not necessarily. A weaker currency makes a country's exports cheaper for everyone else to buy, which is great if you're trying to sell goods abroad. This is
+
+exactly why some countries have, at times, deliberately taken steps to weaken their own currency to support their exporters.
+
+Economists sometimes call this dynamic a currency war. Nobody's shooting, but everyone's trying to make their exports cheaper than the next country's. Okay, now let's solve the mystery we opened with. Why did you get a worse deal at
+
+that airport counter? There are actually two different exchange rates in play.
+
+There's the mid-market rate, the real current rate that banks and big institutions trade at, the one you'd see if you googled it right now, and then there's the retail rate. What an airport kiosk, your bank, or your card actually gives you. That gap between them isn't
+
+an accident. It's how currency exchange businesses make money.
+
+Airport kiosks, in particular, often build in one of the largest margins anywhere, because they know you're a captive customer with no better option at that moment.
+
+Before converting money abroad, it's worth checking the actual mid-market rate first, so you know exactly how much you're really giving up. As a rough rule of thumb, a spread under roughly 1% of the mid-market rate is generally
+
+considered reasonable for a card or transfer service.
+
+This isn't just a travel problem, either. If you invest internationally, currency swings affect your actual return, even when the underlying investment hasn't moved at all.
+
+If you own a European stock that goes up 5%, but the euro drops 5% against your home currency in the same period, your real gain is roughly zero. Here is exactly what happened if you bought a
+
+Japanese stock 5 years ago without a currency hedge. Even though the Japanese stock market performed great, the Japanese yen collapsed by roughly 30% against the US dollar. That massive devaluation essentially wiped out your
+
+stock market gains the moment you converted your profits back into US dollars.
+
+Even the crypto world hasn't escaped this idea. Stablecoins are essentially an attempt to recreate a currency peg, a token designed to always equal $1, for example, using reserves or algorithms instead of a central bank. Same
+
+underlying concept as a government currency peg, just running on different rails.
+
+And speaking of pegs breaking, let's end with the wildest, best-documented example of this entire system going haywire in real time. For over 3 years, Switzerland's central bank held its currency to a fixed rate. One euro would
+
+never buy less than 1.2 Swiss francs. To hold that line, they had to constantly buy euros and sell francs, no matter the cost. Then, on January 15th, 2015, with zero warning, the Swiss National Bank
+
+simply gave up and let the franc float freely. What happened next was one of the most violent moves in modern currency history. Within minutes, the franc surged somewhere around 20 to 30% against the euro, a move that for a
+
+major currency normally takes years, not minutes. Some currency brokers around the world went bankrupt on the spot.
+
+That's not an exaggeration. That's just what happens when a market that's been artificially held in place for years suddenly gets to move freely again.
+
+So, the next time you check an exchange rate, you're looking at a real-time snapshot of the largest market on Earth.
+
+A continuous tug-of-war between interest rates, trade, inflation, and millions of people betting on what happens next. If you found the video helpful, don't forget to like and subscribe to continue growing this community. Thank you so
+
+much for watching, and I'll see you very soon. Bye.
+

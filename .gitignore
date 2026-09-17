@@ -21,7 +21,12 @@ ENV/
 node_modules/
 .npm/
 out/
+build/
+remotion/build/
+remotion/out/
 .remotion/
+*.mp4
+*.wav
 
 # CapCut / Video Editor Temporary Files
 *.lock

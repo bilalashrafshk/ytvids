@@ -1,0 +1,79 @@
+{
+  "Chaotic_Trillion_hook.mp3": {
+    "integrated_lufs": -70.0,
+    "loudness_range_lra": 0.0,
+    "true_peak_db": -11.6,
+    "voice_rms_peak": -23.8,
+    "median_mix_rms": -30.6,
+    "ambient_bg_rms": -48.7,
+    "ducking_delta_db": 24.9,
+    "pauses_detected": 11,
+    "avg_pause_sec": 0.45
+  },
+  "Crayon_Nvidia_hook.mp3": {
+    "integrated_lufs": -70.0,
+    "loudness_range_lra": 0.0,
+    "true_peak_db": -2.8,
+    "voice_rms_peak": -16.2,
+    "median_mix_rms": -23.8,
+    "ambient_bg_rms": -34.0,
+    "ducking_delta_db": 17.8,
+    "pauses_detected": 1,
+    "avg_pause_sec": 0.41
+  },
+  "LittleBitBetter_Freedom_hook.mp3": {
+    "integrated_lufs": -70.0,
+    "loudness_range_lra": 0.0,
+    "true_peak_db": -3.0,
+    "voice_rms_peak": -14.6,
+    "median_mix_rms": -28.3,
+    "ambient_bg_rms": -52.5,
+    "ducking_delta_db": 37.8,
+    "pauses_detected": 18,
+    "avg_pause_sec": 0.67
+  },
+  "LockStock_Petrodollar_hook.mp3": {
+    "integrated_lufs": -70.0,
+    "loudness_range_lra": 0.0,
+    "true_peak_db": -4.1,
+    "voice_rms_peak": -20.1,
+    "median_mix_rms": -34.1,
+    "ambient_bg_rms": -46.6,
+    "ducking_delta_db": 26.6,
+    "pauses_detected": 15,
+    "avg_pause_sec": 0.74
+  },
+  "LogicalMoney_RentBuy_hook.mp3": {
+    "integrated_lufs": -70.0,
+    "loudness_range_lra": 0.0,
+    "true_peak_db": -0.8,
+    "voice_rms_peak": -14.6,
+    "median_mix_rms": -25.1,
+    "ambient_bg_rms": -69.8,
+    "ducking_delta_db": 55.2,
+    "pauses_detected": 13,
+    "avg_pause_sec": 0.67
+  },
+  "Martik_Currencies_hook.mp3": {
+    "integrated_lufs": -70.0,
+    "loudness_range_lra": 0.0,
+    "true_peak_db": 1.4,
+    "voice_rms_peak": -9.8,
+    "median_mix_rms": -17.6,
+    "ambient_bg_rms": -44.9,
+    "ducking_delta_db": 35.2,
+    "pauses_detected": 10,
+    "avg_pause_sec": 0.6
+  },
+  "MrFinance_MovieTheater_hook.mp3": {
+    "integrated_lufs": -70.0,
+    "loudness_range_lra": 0.0,
+    "true_peak_db": -4.4,
+    "voice_rms_peak": -18.1,
+    "median_mix_rms": -27.9,
+    "ambient_bg_rms": -49.5,
+    "ducking_delta_db": 31.3,
+    "pauses_detected": 8,
+    "avg_pause_sec": 0.5
+  }
+}

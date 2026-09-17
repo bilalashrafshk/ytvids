@@ -1,0 +1,30 @@
+{
+  "name": "financecraft-remotion",
+  "version": "1.0.0",
+  "description": "FinanceCraft evidence-led newsroom Remotion graphics engine",
+  "scripts": {
+    "start": "remotion preview src/index.ts",
+    "bundle": "remotion bundle src/index.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@remotion/cli": "^4.0.230",
+    "@rspack/binding-darwin-arm64": "^2.2.4",
+    "@types/cesium": "^1.67.14",
+    "@types/d3-geo": "^3.1.1",
+    "@types/topojson-client": "^3.1.5",
+    "@zip.js/zip.js": "2.7.54",
+    "cesium": "^1.129.0",
+    "d3-geo": "^3.1.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "remotion": "^4.0.230",
+    "topojson-client": "^3.1.0",
+    "world-atlas": "^2.0.2"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.5",
+    "@types/react-dom": "^18.3.0",
+    "typescript": "^5.5.4"
+  }
+}

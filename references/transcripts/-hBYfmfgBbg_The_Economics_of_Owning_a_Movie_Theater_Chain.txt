@@ -1,0 +1,660 @@
+Title: The Economics of Owning a Movie Theater Chain
+Channel: Mr. Finance
+URL: https://www.youtube.com/watch?v=-hBYfmfgBbg
+
+[  0.32s -   4.24s] Okay, so you want to own a movie theater
+[  2.32s -   6.48s] chain, buy the buildings, hang the
+[  4.24s -   8.48s] marquee, sell tickets to whoever wants
+[  6.48s -  10.48s] to watch the latest release. Sounds
+[  8.48s -  12.72s] simple enough. Here's the problem. When
+[ 10.48s -  14.72s] a customer hands over $15 for a ticket
+[ 12.72s -  16.48s] on a Friday night, the theater does not
+[ 14.72s -  18.40s] really sell that person a movie. It
+[ 16.48s -  20.88s] sells that person a seat in a building,
+[ 18.40s -  22.72s] it has to heat, cool, staff, and ensure
+[ 20.88s -  25.44s] whether that seat is filled or empty.
+[ 22.72s -  27.76s] And out of that $15, something close to
+[ 25.44s -  30.08s] $89 is gone before the popcorn machine
+[ 27.76s -  32.56s] even turns on, wired straight back to
+[ 30.08s -  34.72s] the studio that made the film. So if the
+[ 32.56s -  36.16s] theater barely keeps the ticket money,
+[ 34.72s -  38.16s] where is the profit actually coming
+[ 36.16s -  40.32s] from? That question is the whole
+[ 38.16s -  42.40s] business. Follow one customer from the
+[ 40.32s -  44.16s] box office to the parking lot and you
+[ 42.40s -  46.72s] will watch a company make almost nothing
+[ 44.16s -  48.80s] on its main product and a fortune on
+[ 46.72s -  50.80s] everything sitting next to it. Start
+[ 48.80s -  52.40s] with the ticket itself because this is
+[ 50.80s -  54.40s] where most people get the business
+[ 52.40s -  56.32s] completely backwards. When a theater
+[ 54.40s -  58.32s] licenses a film from a distributor, it
+[ 56.32s -  60.00s] is not buying a copy outright. It is
+[ 58.32s -  61.68s] agreeing to hand over a percentage of
+[ 60.00s -  63.92s] every single dollar that comes through
+[ 61.68s -  66.16s] the box office. For decades, that
+[ 63.92s -  68.24s] percentage moved on a sliding scale. In
+[ 66.16s -  70.32s] the opening weeks of a big release, the
+[ 68.24s -  72.56s] studio could take 70 to 80% of the
+[ 70.32s -  75.36s] ticket gross, leaving the theater with
+[ 72.56s -  77.84s] 20 to 30%. As the weeks passed and
+[ 75.36s -  79.44s] crowds thinned out, the split flipped in
+[ 77.84s -  81.84s] the the theater's favor, sometimes
+[ 79.44s -  83.84s] reaching 60% for the exhibitor by the
+[ 81.84s -  85.84s] final weeks of the run. Now, here's
+[ 83.84s -  87.68s] where it gets interesting. Most modern
+[ 85.84s -  89.84s] contracts skip that whole sliding
+[ 87.68s -  91.52s] structure and just average it out. A
+[ 89.84s -  94.48s] standard studio release today runs
+[ 91.52s -  96.72s] somewhere around a 50 to 55% split in
+[ 94.48s -  98.32s] the studios favor across the entire run.
+[ 96.72s - 100.16s] But for the real blockbusters, the
+[ 98.32s - 102.16s] franchise films, the ones with a
+[100.16s - 104.00s] built-in fan base and a marketing budget
+[102.16s - 106.64s] the size of a small country's defense
+[104.00s - 109.68s] spending, studios push that number to 60
+[106.64s - 111.52s] or even 65%. Which means on the biggest
+[109.68s - 113.44s] movies of the year, the ones packing
+[111.52s - 115.52s] every seat in the building, the theater
+[113.44s - 117.76s] keeps as little as 35 cents of every
+[115.52s - 119.76s] ticket dollar. And remember, the theater
+[117.76s - 122.16s] is not just handing over that money and
+[119.76s - 124.24s] walking away clean. It still has to run
+[122.16s - 126.48s] the building. Rent doesn't pause because
+[124.24s - 128.16s] a film underperformed. Electricity
+[126.48s - 130.72s] doesn't care whether a superhero movie
+[128.16s - 132.48s] flopped. The lights, the projectors, the
+[130.72s - 134.56s] air conditioning, the staff standing at
+[132.48s - 136.64s] the door. All of that keeps running
+[134.56s - 138.40s] whether the seats are full or empty. By
+[136.64s - 140.24s] the time you subtract the studios cut
+[138.40s - 142.16s] and the basic cost of keeping the doors
+[140.24s - 144.00s] open, the profit left over from the
+[142.16s - 146.00s] ticket alone is close to nothing.
+[144.00s - 148.48s] Sometimes it is a loss. The math checks
+[146.00s - 150.56s] out. The reality doesn't. And that gap
+[148.48s - 152.72s] is exactly why the ticket booth is not
+[150.56s - 154.96s] where this business makes its money. The
+[152.72s - 156.88s] ticket is a customer acquisition tool.
+[154.96s - 158.24s] It is the price of getting a human being
+[156.88s - 160.32s] through the front door of a very
+[158.24s - 162.08s] expensive building. What that person
+[160.32s - 164.64s] does after they walk through the door is
+[162.08s - 166.64s] where the real business begins. Walk 10
+[164.64s - 168.48s] ft past the box office and you land at
+[166.64s - 171.28s] the concession stand. And this is where
+[168.48s - 173.52s] the entire economic picture flips. A
+[171.28s - 175.28s] large popcorn selling for around $9 cost
+[173.52s - 178.32s] the theater somewhere between 80 and
+[175.28s - 180.40s] $110 to actually make. Kernels, oil,
+[178.32s - 183.04s] salt, a paper bucket. That is a gross
+[180.40s - 185.76s] margin north of 85%. A large soda is
+[183.04s - 189.28s] even better. syrup, carbonated water,
+[185.76s - 191.28s] ice, and a cup sold for $6 to $8 with a
+[189.28s - 192.64s] production cost measured in pennies. And
+[191.28s - 194.80s] here's the part that makes it beautiful
+[192.64s - 196.64s] for the theater. None of that money gets
+[194.80s - 198.40s] shared with the studio. The distributor
+[196.64s - 200.48s] gets a cut of the ticket. It gets
+[198.40s - 202.16s] nothing from the popcorn. So, while the
+[200.48s - 204.72s] box office is a shared, heavily
+[202.16s - 207.76s] negotiated, thin margin transaction, the
+[204.72s - 209.52s] concession stand is 100% the theat's own
+[207.76s - 211.20s] retail operation, sitting inside a
+[209.52s - 213.52s] captive audience that has nowhere else
+[211.20s - 215.52s] to buy a snack for the next 2 hours.
+[213.52s - 217.28s] This is why the industry obsesses over a
+[215.52s - 219.28s] single number, food and beverage revenue
+[217.28s - 221.52s] per patron, often just called the per
+[219.28s - 223.68s] cap. Take total concession revenue,
+[221.52s - 225.20s] divide it by total attendance, and you
+[223.68s - 227.20s] get a number that tells you how much
+[225.20s - 229.04s] cash each warm body walking through the
+[227.20s - 232.16s] door is worth once they reach the snack
+[229.04s - 233.76s] counter. At the major American chains,
+[232.16s - 237.44s] that number typically lands somewhere
+[233.76s - 239.84s] between 7 and $8.50 per person. Tickets
+[237.44s - 241.84s] bring the crowd in. Concessions turn the
+[239.84s - 243.44s] crowd into cash, but don't get too
+[241.84s - 245.20s] comfortable with that number because
+[243.44s - 247.28s] high margins on popcorn do not
+[245.20s - 249.28s] automatically mean a profitable company.
+[247.28s - 251.12s] A theater has enormous costs that keep
+[249.28s - 254.00s] acrewing whether anyone buys a single
+[251.12s - 256.32s] kernel of popcorn or not. Picture a 300
+[254.00s - 258.56s] seat auditorium at 7:00 on a Tuesday
+[256.32s - 260.56s] night with maybe 30 people scattered
+[258.56s - 262.72s] across the room. The theater still has
+[260.56s - 264.32s] to run the projector, run the air
+[262.72s - 266.56s] conditioning through thousands of cubic
+[264.32s - 268.48s] feet of empty space, pay the staff
+[266.56s - 270.40s] cleaning the aisles afterward, and pay
+[268.48s - 272.56s] the prorated rent on that square footage
+[270.40s - 274.88s] for the hour the film plays. Whether the
+[272.56s - 277.12s] room is full or almost empty, nearly all
+[274.88s - 279.12s] of those costs stay exactly the same.
+[277.12s - 280.80s] This turns a movie theater seat into
+[279.12s - 283.12s] what economists call perishable
+[280.80s - 284.56s] inventory. Think about an airline seat
+[283.12s - 286.56s] on a flight that takes off at 8:00 in
+[284.56s - 288.72s] the morning. Once that plane leaves the
+[286.56s - 290.64s] gate, an empty seat is gone forever.
+[288.72s - 292.64s] Nobody can sell it retroactively. A
+[290.64s - 294.96s] movie theater seat works the same way.
+[292.64s - 297.36s] The moment that 7:00 screening begins,
+[294.96s - 299.84s] every unsold seat in that auditorium has
+[297.36s - 301.84s] lost 100% of the revenue it could have
+[299.84s - 304.00s] generated. It cannot be put back on a
+[301.84s - 306.24s] shelf. It cannot be discounted the next
+[304.00s - 307.76s] morning. It is simply gone. So, how many
+[306.24s - 309.68s] people actually need to walk through the
+[307.76s - 312.24s] door before a location stops bleeding
+[309.68s - 314.56s] money? Let's build one and find out.
+[312.24s - 316.72s] Imagine a 10-creen multiplex with 2,000
+[314.56s - 319.12s] total seats running an annual fixed
+[316.72s - 321.36s] overhead of $4 million covering rent,
+[319.12s - 323.68s] base payroll, utilities, maintenance,
+[321.36s - 325.52s] and insurance. Now, do the math on one
+[323.68s - 328.16s] customer. Say the average ticket price
+[325.52s - 330.64s] is $12 and the studio takes half of it,
+[328.16s - 332.56s] leaving the theater $6. Say that same
+[330.64s - 335.44s] customer spends $8 at the concession
+[332.56s - 337.44s] stand at an 85% margin, netting the
+[335.44s - 339.76s] theater $6.80.
+[337.44s - 342.24s] Subtract about 80 in basic variable
+[339.76s - 344.64s] costs, the cup, the paper, the printed
+[342.24s - 346.32s] ticket. Add it all up and every single
+[344.64s - 348.72s] customer who walks through the door
+[346.32s - 351.04s] generates roughly $12 of contribution
+[348.72s - 354.00s] toward covering that $4 million fixed
+[351.04s - 357.12s] bill. Divide 4 million by 12 and you get
+[354.00s - 359.36s] a break even point of roughly 333,000
+[357.12s - 361.52s] customers a year. Sounds like a big
+[359.36s - 365.04s] number, but spread across 10 screens
+[361.52s - 367.28s] running four showtimes a day, 365 days a
+[365.04s - 368.88s] year, that Multiplex has nearly 3
+[367.28s - 370.96s] million seat screenings available
+[368.88s - 373.04s] annually, which means the theater only
+[370.96s - 375.04s] needs to fill about 11% of its total
+[373.04s - 377.20s] seats across the entire year to cover
+[375.04s - 379.92s] its costs. Below that line, it loses
+[377.20s - 381.84s] money every single day. Above that line,
+[379.92s - 384.00s] almost every extra dollar a customer
+[381.84s - 386.00s] spends flows straight through to profit.
+[384.00s - 387.52s] If you're finding this breakdown useful,
+[386.00s - 389.84s] take a second to subscribe to the
+[387.52s - 392.48s] channel and drop a like. It genuinely
+[389.84s - 394.08s] helps the channel keep going. That 11%
+[392.48s - 396.72s] threshold explains something that would
+[394.08s - 398.72s] otherwise seem strange. It explains why
+[396.72s - 400.80s] one single blockbuster can rescue an
+[398.72s - 403.28s] entire financial quarter. When a major
+[400.80s - 406.24s] release hits, occupancy can jump from an
+[403.28s - 409.12s] off- peak average of 10 or 15% all the
+[406.24s - 410.88s] way up to 70 80, even 90% full. And
+[409.12s - 412.88s] because the rent, the base staffing, and
+[410.88s - 415.44s] the utilities were already paid for at
+[412.88s - 416.96s] that 11% break even line, almost
+[415.44s - 419.04s] everything above it drops straight to
+[416.96s - 421.36s] the bottom line. Packed auditoriums mean
+[419.04s - 423.76s] packed concession lines. Premium screens
+[421.36s - 425.52s] sell out at premium prices. Advertisers
+[423.76s - 427.76s] reach a bigger audience. Membership
+[425.52s - 429.28s] signups spike. But here's the catch that
+[427.76s - 431.36s] nobody running this business gets to
+[429.28s - 433.04s] escape. The theater does not control the
+[431.36s - 435.44s] one thing its entire revenue model
+[433.04s - 437.84s] depends on. It cannot manufacture a hit
+[435.44s - 440.08s] movie. It cannot delay a bad release and
+[437.84s - 442.16s] swap in a better one on short notice.
+[440.08s - 443.68s] Every dollar of that blockbuster upside
+[442.16s - 445.92s] is sitting in the hands of a Hollywood
+[443.68s - 448.24s] studio hundreds of miles away, deciding
+[445.92s - 450.48s] what gets released and when. A grocery
+[448.24s - 452.08s] store controls its own shelves. A movie
+[450.48s - 453.68s] theater does not control its own
+[452.08s - 455.44s] product. Because the theater can't
+[453.68s - 457.60s] manufacture inventory the way a normal
+[455.44s - 459.52s] retailer can, management has to think
+[457.60s - 461.60s] about inventory completely differently.
+[459.52s - 464.56s] The real inventory here is not popcorn
+[461.60s - 466.72s] or soda. It is screen time. A 12c screen
+[464.56s - 469.36s] multiplex running 14 hours a day has
+[466.72s - 471.44s] somewhere between 48 and 60 individual
+[469.36s - 473.76s] screening slots to fill every single
+[471.44s - 476.00s] day. And every one of those slots is a
+[473.76s - 478.16s] decision. Which film gets the 400 seat
+[476.00s - 480.00s] flagship auditorium? And which one gets
+[478.16s - 482.16s] pushed into the 80 seat room down the
+[480.00s - 484.08s] hall? When a weak performer should get
+[482.16s - 486.40s] pulled early to make room for a film
+[484.08s - 488.16s] that's selling out every showing, how
+[486.40s - 489.92s] close stagger start time so the
+[488.16s - 492.24s] concession line doesn't turn into a
+[489.92s - 494.24s] traffic jam. running a multiplex is
+[492.24s - 496.48s] underneath all the marquee lights an
+[494.24s - 498.96s] extremely complicated scheduling problem
+[496.48s - 501.12s] solved week after week. Once a chain has
+[498.96s - 502.88s] that scheduling under control, the next
+[501.12s - 504.72s] move is squeezing more revenue out of
+[502.88s - 506.80s] the exact same square footage. And
+[504.72s - 508.40s] that's where premium formats come in.
+[506.80s - 510.00s] Chains discovered that movie goers will
+[508.40s - 512.08s] pay considerably more for a better
+[510.00s - 513.60s] version of the same film without the
+[512.08s - 516.72s] theater needing an extra inch of real
+[513.60s - 519.28s] estate. Charging a $4 to $6 charge for
+[516.72s - 521.76s] an IMAX or Dolby cinema screening,
+[519.28s - 524.00s] something like a 30 to 50% bump over the
+[521.76s - 525.92s] standard ticket price, monetizes the
+[524.00s - 528.08s] identical seats at a meaningfully higher
+[525.92s - 530.24s] yield. The IMAX relationship in
+[528.08s - 532.08s] particular is its own business model
+[530.24s - 533.92s] layered inside the theater business.
+[532.08s - 536.00s] Under a typical joint revenue sharing
+[533.92s - 538.24s] arrangement, IMAX installs its own
+[536.00s - 540.72s] projection equipment, its sound system,
+[538.24s - 543.04s] and its film remastering process, and in
+[540.72s - 544.64s] exchange takes roughly 12 1.5% of the
+[543.04s - 547.28s] box office that specific screen
+[544.64s - 549.68s] generates. IMAX never owns the building
+[547.28s - 551.44s] and never touches the real estate risk.
+[549.68s - 553.20s] It just takes a cut of a screen that
+[551.44s - 554.72s] consistently draws higher opening
+[553.20s - 557.28s] weekend attendance than the standard
+[554.72s - 559.20s] auditoriums next door. chains push the
+[557.28s - 560.96s] same idea into the seats themselves,
+[559.20s - 563.04s] replacing traditional stadium seating
+[560.96s - 564.96s] with motorized leather recliners. That
+[563.04s - 567.28s] conversion cuts total seating capacity
+[564.96s - 569.36s] in a room by half, sometimes more. And
+[567.28s - 571.60s] counterintuitively, total revenue from
+[569.36s - 573.60s] that auditorium tends to go up anyway
+[571.60s - 575.84s] because higher ticket prices and higher
+[573.60s - 577.92s] occupancy more than make up for the lost
+[575.84s - 579.84s] seat count. Compare the three formats
+[577.92s - 582.32s] side by side, and the strategy becomes
+[579.84s - 584.72s] obvious. A standard suburban auditorium
+[582.32s - 587.20s] might average around $12 a ticket and
+[584.72s - 590.32s] roughly $8 in concession spend for a
+[587.20s - 592.40s] combined per patron figure near $20. A
+[590.32s - 594.64s] premium recliner auditorium pushes that
+[592.40s - 597.68s] same customer to somewhere around $17 or
+[594.64s - 600.72s] $18 a ticket and $10 in concessions,
+[597.68s - 603.04s] closer to $28 combined. Same building,
+[600.72s - 604.88s] same staff, same land under the theat's
+[603.04s - 607.20s] feet. Just a different container for the
+[604.88s - 609.28s] exact same 2 hours of entertainment sold
+[607.20s - 610.72s] at a meaningfully higher price. Once
+[609.28s - 613.12s] you've maximized the screen and the
+[610.72s - 615.12s] seat, the next frontier is the food. And
+[613.12s - 617.68s] chains pushed concessions far past
+[615.12s - 619.76s] popcorn and soda. Dining concepts, the
+[617.68s - 621.84s] kind pioneered by smaller operators and
+[619.76s - 623.84s] later scaled up by the major chains,
+[621.84s - 625.84s] bring full kitchens, cocktail bars, and
+[623.84s - 627.76s] inseat waiter service directly into the
+[625.84s - 630.48s] auditorium. Picture two different
+[627.76s - 633.68s] customers. One buys a $12 ticket and an
+[630.48s - 636.88s] $8 popcorn, spending $20 total. The
+[633.68s - 640.32s] other buys a $12 ticket, an $18 entree,
+[636.88s - 642.16s] and a $12 cocktail, spending $42 total.
+[640.32s - 644.16s] That second customer is worth more than
+[642.16s - 646.08s] double the first, even though hot food
+[644.16s - 648.88s] and alcohol carry slightly thinner
+[646.08s - 650.64s] margins than a bucket of popcorn. Every
+[648.88s - 652.48s] one of these upgrades depends on getting
+[650.64s - 654.40s] a customer through the door in the first
+[652.48s - 656.40s] place. And the industry eventually
+[654.40s - 658.40s] realized that ticketby- ticket visits
+[656.40s - 660.64s] are a fragile way to build a business,
+[658.40s - 662.32s] which why every major chain now runs a
+[660.64s - 664.56s] subscription program. Under a
+[662.32s - 666.72s] highfrequency plan, a customer might pay
+[664.56s - 668.96s] something close to $ 20 to $30 a month
+[666.72s - 671.44s] for up to three or four movies a week,
+[668.96s - 673.28s] including premium formats. Under a lower
+[671.44s - 675.60s] frequency plan, a customer might pay
+[673.28s - 678.08s] around $11 a month for a single ticket
+[675.60s - 680.08s] credit that rolls over if unused. Here's
+[678.08s - 682.24s] where it gets interesting again. If a
+[680.08s - 684.56s] subscriber uses that pass to watch four
+[682.24s - 687.84s] IMAX movies in a month, a retail value
+[684.56s - 689.52s] close to $80 for a $30 fee, the chain is
+[687.84s - 691.44s] technically losing money on the tickets
+[689.52s - 693.04s] themselves because it still owes the
+[691.44s - 695.36s] studio its cut on every one of those
+[693.04s - 697.12s] visits. The model survives on the same
+[695.36s - 699.12s] logic as the popcorn stand.
+[697.12s - 701.20s] Highfrequency subscribers tend to visit
+[699.12s - 703.36s] on slow weekday afternoons. They often
+[701.20s - 705.76s] bring a paying friend along and they buy
+[703.36s - 707.92s] concessions at an 85% margin almost
+[705.76s - 709.60s] every time. That concession profit
+[707.92s - 711.84s] quietly absorbs the loss on the ticket
+[709.60s - 714.00s] side. And in exchange, the chain gets
+[711.84s - 716.16s] something ticket sales never gave it.
+[714.00s - 718.16s] Predictable recurring cash flow that
+[716.16s - 720.40s] keeps coming in even during a slow month
+[718.16s - 722.64s] for new releases. Subscriptions solve
+[720.40s - 724.48s] for predictable revenue. But there's an
+[722.64s - 726.80s] entirely separate revenue stream sitting
+[724.48s - 728.88s] in plain sight that most casual movie
+[726.80s - 730.72s] goers never even think about. And it has
+[728.88s - 732.56s] nothing to do with movies at all. It's
+[730.72s - 734.96s] advertising. A theater has something
+[732.56s - 737.04s] advertisers pay a premium for. a captive
+[734.96s - 739.12s] audience sitting in the dark, phones
+[737.04s - 740.80s] mostly away with nowhere to go for the
+[739.12s - 743.36s] next 15 minutes before the trailers
+[740.80s - 745.28s] start. In North America, that pre-show
+[743.36s - 746.88s] advertising business is largely run
+[745.28s - 749.04s] through joint ventures like National
+[746.88s - 750.88s] Sina Media, which was actually founded
+[749.04s - 753.20s] by the parent companies of the major
+[750.88s - 755.04s] chains themselves. The economics here
+[753.20s - 757.20s] are almost unfairly good for the
+[755.04s - 758.96s] theater. The ad network builds and sells
+[757.20s - 761.28s] the pre-show programming. The theater
+[758.96s - 763.36s] incurs close to zero additional cost to
+[761.28s - 765.36s] display it. And because a captive cinema
+[763.36s - 767.44s] audience can't skip an ad the way a
+[765.36s - 769.52s] streaming viewer can, advertisers pay
+[767.44s - 771.20s] premium rates for that attention. Nearly
+[769.52s - 773.12s] every dollar that flows back to the
+[771.20s - 775.12s] theater from advertising drops straight
+[773.12s - 777.28s] to profit. At this point, the theater
+[775.12s - 779.60s] isn't just selling movies, popcorn,
+[777.28s - 781.44s] memberships, and premium seats. It's
+[779.60s - 783.52s] also quietly selling something that has
+[781.44s - 785.68s] nothing to do with cinema at all, which
+[783.52s - 787.60s] has captured human attention. And unlike
+[785.68s - 789.60s] a television ad that gets skipped or a
+[787.60s - 791.60s] billboard that gets ignored in traffic,
+[789.60s - 794.32s] a cinema audience is physically sitting
+[791.60s - 796.16s] still facing one direction for a solid
+[794.32s - 798.56s] 15 minutes before the trailers even
+[796.16s - 800.64s] begin. Advertisers pay a real premium
+[798.56s - 802.80s] for that kind of guaranteed undivided
+[800.64s - 804.56s] attention. And almost every dollar of it
+[802.80s - 806.72s] lands on the theat's books as close to
+[804.56s - 809.12s] pure profit since someone else built and
+[806.72s - 811.04s] maintains the actual ad network. Step
+[809.12s - 812.64s] back from the auditorium for a second
+[811.04s - 814.64s] because none of this works without the
+[812.64s - 816.24s] building itself. And that building sits
+[814.64s - 819.28s] on some of the more expensive real
+[816.24s - 821.84s] estate a retail company can occupy. A
+[819.28s - 824.32s] modern multiplex with 12 to 18 screens
+[821.84s - 827.04s] spans somewhere between 50,000 and
+[824.32s - 829.28s] 100,000 square ft. Chains pick locations
+[827.04s - 831.12s] based on population density, household
+[829.28s - 833.12s] income in the surrounding area, and
+[831.12s - 835.28s] proximity to restaurants and retail.
+[833.12s - 836.88s] Because a busy multiplex often functions
+[835.28s - 839.28s] as the anchor tenant in a shopping
+[836.88s - 840.48s] center, pulling in anywhere from half a
+[839.28s - 842.40s] million to one and a half million
+[840.48s - 844.40s] visitors a year and dragging foot
+[842.40s - 846.48s] traffic to every business around it. To
+[844.40s - 849.36s] lock that in, chains typically sign
+[846.48s - 850.80s] leases running 15 to 20 years, often
+[849.36s - 852.72s] under what's called a triple net
+[850.80s - 855.28s] structure where the tenant covers base
+[852.72s - 856.88s] rent, property taxes, insurance, and
+[855.28s - 859.04s] shared maintenance costs on top of the
+[856.88s - 861.44s] lease payment itself. When attendance is
+[859.04s - 863.52s] strong, that long fixed lease is a huge
+[861.44s - 865.20s] advantage because revenue keeps climbing
+[863.52s - 866.64s] while the rent stays flat. When
+[865.20s - 869.28s] attendance drops for an extended
+[866.64s - 871.52s] stretch, that same 20-year lease turns
+[869.28s - 872.96s] into a heavy, immovable weight. And in
+[871.52s - 874.88s] some of the most valuable urban
+[872.96s - 876.96s] locations, the land underneath a
+[874.88s - 878.80s] struggling cinema is actually worth more
+[876.96s - 880.56s] than the movie business operating on top
+[878.80s - 882.24s] of it. Which brings us to the real
+[880.56s - 884.24s] danger sitting underneath this entire
+[882.24s - 886.32s] business. And it isn't a slow month at
+[884.24s - 888.16s] the box office. It's the collision of
+[886.32s - 890.72s] high fixed costs with demand that can
+[888.16s - 892.96s] swing wildly from one week to the next.
+[890.72s - 894.80s] Economists call this operating leverage,
+[892.96s - 896.88s] and it's a double-edged sword. When
+[894.80s - 898.72s] attendance rises, profit rises even
+[896.88s - 900.16s] faster because the rent, the payroll
+[898.72s - 902.40s] infrastructure, the insurance, and the
+[900.16s - 904.56s] equipment costs were already locked in.
+[902.40s - 906.80s] When attendance falls, losses arrive
+[904.56s - 909.12s] just as fast because none of those costs
+[906.80s - 911.20s] go away. Rent doesn't care that a strike
+[909.12s - 912.96s] delayed three tentpole releases. Debt
+[911.20s - 915.04s] payments don't care that audiences
+[912.96s - 917.68s] decide to stay home for a season. During
+[915.04s - 919.28s] a prolonged downturn, a major chain can
+[917.68s - 921.04s] burn through hundreds of millions of
+[919.28s - 923.36s] dollars a year, simply keeping the
+[921.04s - 925.52s] lights on and the loan payments current.
+[923.36s - 927.60s] This is where a single bad movie becomes
+[925.52s - 929.92s] a genuine threat rather than just a
+[927.60s - 931.92s] disappointment. Picture a $200 million
+[929.92s - 934.96s] summer blockbuster that underperforms
+[931.92s - 936.48s] expectations by 70%. Auditoriums that
+[934.96s - 938.80s] were contractually committed to that
+[936.48s - 940.96s] film sit half empty. Concession lines
+[938.80s - 943.12s] that should have been busy stay quiet.
+[940.96s - 945.44s] Premium format screens, the ones with
+[943.12s - 947.28s] the best margins, go underused.
+[945.44s - 949.20s] Advertising impressions drop because
+[947.28s - 951.44s] there simply aren't as many eyeballs in
+[949.20s - 953.52s] the seats. And the theater cannot just
+[951.44s - 955.12s] swap in a different movie the next day
+[953.52s - 957.36s] because those screen commitments were
+[955.12s - 959.04s] signed weeks in advance. The chain owns
+[957.36s - 961.12s] the building. It runs the popcorn
+[959.04s - 962.88s] machine. But someone else, a studio
+[961.12s - 964.88s] hundreds of miles away, decide what
+[962.88s - 966.80s] actually fills the seats. The way most
+[964.88s - 968.88s] chains try to survive that risk is by
+[966.80s - 971.12s] getting bigger. And scale genuinely does
+[968.88s - 973.20s] help up to a point. A chain running a
+[971.12s - 975.44s] thousand locations can negotiate steep
+[973.20s - 977.12s] discounts on kernels, cups, and digital
+[975.44s - 979.36s] projection equipment that a single
+[977.12s - 981.44s] independent theater could never touch.
+[979.36s - 983.28s] It can offer national advertisers coast
+[981.44s - 985.68s] to coast reach through networks like
+[983.28s - 987.44s] national siny media, commanding higher
+[985.68s - 989.44s] advertising rates than any standalone
+[987.44s - 992.40s] cinema could dream of. And controlling
+[989.44s - 994.24s] 10 or 20% of a country's total screens
+[992.40s - 996.96s] gives a chain real leverage when
+[994.24s - 998.24s] negotiating release terms with studios.
+[996.96s - 1000.72s] But here's where it gets interesting
+[998.24s - 1003.36s] once more. Scale cuts both ways. A
+[1000.72s - 1005.20s] pricing mistake, a bad lease deal, or an
+[1003.36s - 1006.56s] overaggressive expansion plan doesn't
+[1005.20s - 1008.40s] just hurt one theater when you're
+[1006.56s - 1010.00s] running a thousand locations. It gets
+[1008.40s - 1011.92s] multiplied across every single one of
+[1010.00s - 1013.76s] them. And that leads to the part of this
+[1011.92s - 1016.40s] business that almost never makes it onto
+[1013.76s - 1018.24s] a marquee, which is debt. Building or
+[1016.40s - 1020.56s] acquiring a national theater network
+[1018.24s - 1022.56s] takes enormous upfront capital, and most
+[1020.56s - 1024.48s] major chains fund that expansion through
+[1022.56s - 1026.72s] a mix of corporate debt and long-term
+[1024.48s - 1029.04s] lease obligations. A representative
+[1026.72s - 1032.08s] major chain might carry annual revenue
+[1029.04s - 1034.00s] somewhere in the 4.5 to 5 billion range
+[1032.08s - 1036.80s] against reported debt liabilities close
+[1034.00s - 1038.96s] to $4 billion, plus another 4 billion or
+[1036.80s - 1041.20s] so in lease obligations sitting on top
+[1038.96s - 1043.28s] of that. That combination can push a
+[1041.20s - 1045.44s] company's leverage, its debt relative to
+[1043.28s - 1048.16s] earnings, to somewhere between 4 and 1/2
+[1045.44s - 1050.08s] and 6 and 1/2 times, sometimes higher.
+[1048.16s - 1052.80s] Annual cash interest payments alone can
+[1050.08s - 1055.20s] run past $800 million. When operating
+[1052.80s - 1057.04s] cash flow shrinks, even briefly, that
+[1055.20s - 1059.36s] interest and rent burden can swallow the
+[1057.04s - 1061.28s] entire operating profit, forcing chains
+[1059.36s - 1063.12s] to delay basic maintenance, which then
+[1061.28s - 1065.12s] hurts attendance further, creating
+[1063.12s - 1067.12s] exactly the kind of downward spiral that
+[1065.12s - 1069.20s] has pushed more than one major exhibitor
+[1067.12s - 1071.04s] toward bankruptcy or restructuring in
+[1069.20s - 1074.40s] the past decade. This is not a
+[1071.04s - 1076.40s] theoretical risk. In September of 2022,
+[1074.40s - 1078.64s] Cinald, the British company that owns
+[1076.40s - 1080.48s] Regal Cinemas in the United States, one
+[1078.64s - 1082.64s] of the largest chains on the planet,
+[1080.48s - 1085.68s] filed for bankruptcy protection under a
+[1082.64s - 1087.28s] debt load north of $4.5 billion. The
+[1085.68s - 1089.76s] company had done almost everything a
+[1087.28s - 1092.00s] chain is supposed to do. It had scale
+[1089.76s - 1094.08s] spanning roughly 10 countries. It had
+[1092.00s - 1096.24s] brand recognition. It had thousands of
+[1094.08s - 1098.16s] screens. And none of that mattered once
+[1096.24s - 1100.32s] attendance collapsed during an extended
+[1098.16s - 1101.76s] stretch of thin content. and the fixed
+[1100.32s - 1104.00s] lease and interest payments kept
+[1101.76s - 1105.28s] arriving anyway. The company spent well
+[1104.00s - 1107.44s] over a year working through
+[1105.28s - 1109.44s] restructuring before emerging with a
+[1107.44s - 1111.28s] dramatically smaller debt load and a
+[1109.44s - 1113.36s] shrunken footprint of theaters closed
+[1111.28s - 1115.76s] for good. How does one of the largest
+[1113.36s - 1117.36s] cinema operators on Earth with decades
+[1115.76s - 1119.84s] of experience and genuine scale
+[1117.36s - 1121.92s] advantages end up filing for bankruptcy?
+[1119.84s - 1123.76s] The answer is never really about one bad
+[1121.92s - 1125.76s] decision. It's structural. When a
+[1123.76s - 1127.84s] business is built on fixed rent, fixed
+[1125.76s - 1129.68s] debt payments, and a product pipeline it
+[1127.84s - 1131.20s] doesn't control, there's no version of
+[1129.68s - 1133.20s] that business that can survive an
+[1131.20s - 1135.28s] extended demand shock without either
+[1133.20s - 1137.68s] enormous cash reserves or a shrinking
+[1135.28s - 1139.68s] balance sheet. Keep that in mind before
+[1137.68s - 1142.00s] assuming that size alone makes a theater
+[1139.68s - 1143.68s] chain safe. So, why would anyone want to
+[1142.00s - 1146.16s] own a business with crushing fixed
+[1143.68s - 1148.24s] costs, a product it doesn't control, and
+[1146.16s - 1149.76s] a balance sheet loaded with debt?
+[1148.24s - 1152.24s] Because when every piece of this machine
+[1149.76s - 1153.76s] is running correctly at once, it becomes
+[1152.24s - 1155.84s] one of the more resilient cashg
+[1153.76s - 1157.60s] generating businesses in retail. Put the
+[1155.84s - 1159.68s] whole system together and it looks like
+[1157.60s - 1161.44s] this. Admissions get the customer
+[1159.68s - 1163.28s] through the door, functioning as the
+[1161.44s - 1165.28s] lossleading entry point rather than the
+[1163.28s - 1167.92s] profit center. Concessions turn that
+[1165.28s - 1170.00s] customer into real cash at margins most
+[1167.92s - 1172.08s] retailers would kill for. Premium
+[1170.00s - 1173.68s] formats and recliners extract more
+[1172.08s - 1175.60s] revenue from the exact same square
+[1173.68s - 1177.44s] footage. Subscriptions convert
+[1175.60s - 1179.28s] occasional visitors into predictable
+[1177.44s - 1181.60s] monthly cash flow that keeps arriving
+[1179.28s - 1183.36s] during slow release months. Advertising
+[1181.60s - 1185.36s] monetizes the captive attention of
+[1183.36s - 1187.60s] everyone sitting in those seats at close
+[1185.36s - 1189.44s] to pure profit. Real estate turns the
+[1187.60s - 1191.60s] location itself into a long-term
+[1189.44s - 1193.44s] appreciating anchor asset. And scale
+[1191.60s - 1195.52s] lowers costs and increases bargaining
+[1193.44s - 1197.76s] power across every single one of those
+[1195.52s - 1199.36s] categories at once. None of these pieces
+[1197.76s - 1201.76s] makes the business profitable on its
+[1199.36s - 1203.60s] own. Together, they do. Now, put a real
+[1201.76s - 1205.12s] number on all of this because that's the
+[1203.60s - 1207.20s] only way to actually judge whether
+[1205.12s - 1209.52s] owning a chain like this makes sense.
+[1207.20s - 1211.68s] Take that same 10 screen 2000 seat
+[1209.52s - 1214.56s] multiplex from earlier with its $4
+[1211.68s - 1216.56s] million fixed overhead. In a good year,
+[1214.56s - 1218.40s] one with a strong summer blockbuster
+[1216.56s - 1220.24s] season and steady mid-budget releases
+[1218.40s - 1223.04s] filling the gaps, average annual
+[1220.24s - 1225.04s] occupancy might land around 18 to 20%.
+[1223.04s - 1227.76s] At that occupancy, contribution from
+[1225.04s - 1229.92s] admissions, concessions, and advertising
+[1227.76s - 1232.32s] comfortably clears the $4 million break
+[1229.92s - 1234.16s] even line, and the location can generate
+[1232.32s - 1236.88s] somewhere in the neighborhood of $2 to3
+[1234.16s - 1239.28s] million in annual operating profit once
+[1236.88s - 1241.36s] premium formats and subscription revenue
+[1239.28s - 1243.52s] are layered on top. Now, take the
+[1241.36s - 1245.44s] realistic year. Assume a major studio
+[1243.52s - 1247.28s] delays two tentpole releases into the
+[1245.44s - 1249.04s] following year, the kind of scheduling
+[1247.28s - 1251.04s] shuffle that happens more often than
+[1249.04s - 1254.16s] audiences realize. Assume average
+[1251.04s - 1257.52s] occupancy slips from 20% down to roughly
+[1254.16s - 1260.00s] 12 or 13% just barely above that 11%
+[1257.52s - 1262.40s] break even threshold calculated earlier.
+[1260.00s - 1264.48s] At that level, the location isn't losing
+[1262.40s - 1266.48s] money outright, but operating profit
+[1264.48s - 1268.96s] collapses from a couple million down to
+[1266.48s - 1271.36s] a few hundred,000 because almost every
+[1268.96s - 1273.20s] dollar of that lost attendance was pure
+[1271.36s - 1274.88s] contribution margin that had nowhere
+[1273.20s - 1276.48s] else to come from. The difference
+[1274.88s - 1278.80s] between the good year and the realistic
+[1276.48s - 1281.60s] year for a single location can easily
+[1278.80s - 1283.68s] run past $2 million. And multiply that
+[1281.60s - 1285.52s] gap across a chain running hundreds or
+[1283.68s - 1287.60s] thousands of screens and you're looking
+[1285.52s - 1290.00s] at a swing worth hundreds of millions of
+[1287.60s - 1291.92s] dollars in companywide profit without a
+[1290.00s - 1293.68s] single line item on the cost side
+[1291.92s - 1295.52s] actually changing. That's the entire
+[1293.68s - 1297.68s] risk profile of this industry in one
+[1295.52s - 1299.68s] sentence. The costs are locked in years
+[1297.68s - 1301.52s] in advance and the revenue depends
+[1299.68s - 1303.92s] entirely on what a handful of studios
+[1301.52s - 1305.44s] decide to release and when. Looking
+[1303.92s - 1307.68s] forward, the pressure on this model
+[1305.44s - 1309.76s] hasn't gone away. It's changed shape.
+[1307.68s - 1311.60s] Home streaming got dramatically better.
+[1309.76s - 1313.28s] Consumers grew far more selective about
+[1311.60s - 1316.00s] which films are actually worth leaving
+[1313.28s - 1317.60s] the house for. And that selectivity has,
+[1316.00s - 1319.28s] oddly enough, made the theatrical
+[1317.60s - 1322.16s] experience around the biggest releases
+[1319.28s - 1324.08s] even more valuable, not less. Because a
+[1322.16s - 1326.08s] packed opening weekend for a genuine
+[1324.08s - 1328.56s] event film is something a living room
+[1326.08s - 1330.08s] still can't replicate. The theaters most
+[1328.56s - 1331.60s] likely to keep thriving aren't
+[1330.08s - 1333.92s] necessarily the ones with the most
+[1331.60s - 1335.76s] screens. They're the ones that stopped
+[1333.92s - 1337.60s] thinking of themselves as a room with a
+[1335.76s - 1339.28s] projector and started thinking of
+[1337.60s - 1341.68s] themselves as a destination people
+[1339.28s - 1343.28s] choose over staying home. Before we wrap
+[1341.68s - 1345.12s] up, if you want the full breakdown of
+[1343.28s - 1347.04s] how businesses like this one are
+[1345.12s - 1349.36s] actually structured, financed, and
+[1347.04s - 1351.44s] scaled, there's a detailed guide
+[1349.36s - 1353.04s] covering exactly that linked down in the
+[1351.44s - 1355.12s] description and pinned in the first
+[1353.04s - 1357.12s] comment. Well worth a look if this kind
+[1355.12s - 1358.80s] of thing interests you. And that's
+[1357.12s - 1361.68s] really the paradox sitting at the center
+[1358.80s - 1363.52s] of this entire industry. A movie theater
+[1361.68s - 1365.52s] chain survives not because people still
+[1363.52s - 1367.44s] need a theater to watch a movie. It
+[1365.52s - 1369.28s] survives because the bestrun chains
+[1367.44s - 1371.36s] figured out how to monetize the seat,
+[1369.28s - 1372.88s] the popcorn, the subscription, the
+[1371.36s - 1375.28s] advertising, and the real estate
+[1372.88s - 1377.12s] underneath all of it and turned going to
+[1375.28s - 1379.52s] the movies into something a phone at
+[1377.12s - 1381.68s] home still can't fully replace. If you
+[1379.52s - 1383.20s] enjoyed this breakdown, hit like,
+[1381.68s - 1386.32s] subscribe to the channel if you haven't
+[1383.20s - 1386.32s] already, and thanks for watching.
