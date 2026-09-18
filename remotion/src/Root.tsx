@@ -11,6 +11,8 @@ import { Beat940RecallHit } from './components/Beat940RecallHit';
 import { Beat1080McCarthyAxe } from './components/Beat1080McCarthyAxe';
 import { OhioFarmlandDroneCinematic } from './components/OhioFarmlandDroneCinematic';
 import { OhioFactoryInfiniteTunnel } from './components/OhioFactoryInfiniteTunnel';
+import { BeatBlackoutBgpSeverance } from './components/BeatBlackoutBgpSeverance';
+import { BeatAdAuctionWaterfall } from './components/BeatAdAuctionWaterfall';
 
 export const RemotionRoot: React.FC = () => {
   return (
@@ -98,6 +100,22 @@ export const RemotionRoot: React.FC = () => {
       <Composition
         id="OhioFactoryInfiniteTunnel"
         component={OhioFactoryInfiniteTunnel}
+        durationInFrames={240}
+        fps={30}
+        width={1920}
+        height={1080}
+      />
+      <Composition
+        id="BeatBlackoutBgpSeverance"
+        component={BeatBlackoutBgpSeverance}
+        durationInFrames={210}
+        fps={30}
+        width={1920}
+        height={1080}
+      />
+      <Composition
+        id="BeatAdAuctionWaterfall"
+        component={BeatAdAuctionWaterfall}
         durationInFrames={240}
         fps={30}
         width={1920}

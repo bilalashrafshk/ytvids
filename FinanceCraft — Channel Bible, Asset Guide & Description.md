@@ -1,20 +1,24 @@
 # **FinanceCraft — Channel Production Bible & Asset Guide**
 
-*Working reference for tone, visual system, production rules, and brand assets.*
-
-> [!IMPORTANT]
-> ### 🤖 AI AGENT NAVIGATION SITEMAP & SELECTIVE READING PROTOCOL
-> **To conserve context tokens, eliminate latency, and prevent hallucination, DO NOT read this entire 2,300-line file at once.**
-> AI coding assistants (Antigravity, Claude, ChatGPT) should jump directly to the exact line range needed for their active task using range-selective reading (e.g. `view_file(StartLine, EndLine)`):
-> 
+*Working reference for tone, visual system, production rules, and brand assets.*> [!IMPORTANT]
+> ### 🎬 THE ENTERTAINMENT & ENGAGEMENT PRIME DIRECTIVE (NEVER DRY, NEVER FORMAL)
+> **FinanceCraft is NOT a courtroom audit channel, an academic lecture hall, or a corporate compliance video provider.**
+> Our mission is to produce **fun, vibrant, witty, visually addictive, and deeply informative documentaries and thought experiments** (combining the best narrative electricity of *MagnatesMedia*, the visual clarity of *Crayon Capital*, and the kinetic urgency of *My Chaotic Stories*).
+>
+> **Core Production Rules:**
+> 1. **Anti-Dryness Law:** If a script sounds like an SEC lawyer or a college economics professor reading prepared remarks, it is an **AUTOMATIC FAILURE**. Narration must be conversational, sharp, humorous, and visceral.
+> 2. **Dual-Track Production Routing:**
+>    - **Track 1: Corporate Autopsies & Investigative Scandals (Documented Cases):** Real corporate history (e.g. Peloton, WeWork). Sourced from primary documents when relevant, but told as high-stakes, entertaining human drama.
+>    - **Track 2: "The Hypothetical" & Macro Thought Experiments (Speculative / What-If):** High-concept simulations (e.g. *The Thirty-Day Blackout*, *What If You Had $1 Trillion*). **STRICTLY FORBIDS forcing SEC 10-K filings, court dockets, or legalistic paperwork.** Uses second-person immersion ("You"), telemetry HUDs, economic flowcharts, countdown clocks, and relatable human behavior.
+>
 > | Task ID | Active Pipeline Task | Master Section Header | Target Line Range | Essential Rules to Extract & Follow |
 > | :--- | :--- | :--- | :---: | :--- |
-> | **TASK-01** | **Research Analysis & Ingestion** | `# FinanceCraft — Research Methodology` | `Lines 81–204` | Gap List, Pivotal Detail, 3+ primary evidentiary sources (SEC Form 10-K, deeds, court dockets). |
+> | **TASK-01** | **Research & Mechanism Ingestion** | `# FinanceCraft — Research Methodology` | `Lines 81–204` | Gap List, Pivotal Detail. Track 1: Case studies (filings, transcripts). Track 2: What-Ifs (verified economic models, AER trials, telemetry). **NEVER force SEC filings onto thought experiments.** |
 > | **TASK-02** | **Visual Tone & Art Direction** | `# FinanceCraft — Style & Production Bible` | `Lines 205–338` | Clean vector illustration with soft cel-shading, neutral palette, caricature vs silhouette rules. |
 > | **TASK-03** | **Thumbnail Packaging & CTR** | `# FinanceCraft — Thumbnail Style Reference` | `Lines 339–426` | 7 Outlier Archetypes, **1–4 Word Mobile Legibility Rule**, 2–4 data badges max. |
-> | **TASK-04** | **Script Generation (Documentary)** | `# FinanceCraft — Script Generation Prompt` | `Lines 427–515` | 5-Act structure, 155 WPM pace, inline tags (`[SHOWABLE]`, `[DATA]`, `[MAP]`, `[CARICATURE]`). |
-> | **TASK-05** | **Hypothetical Script Generator** | `# FinanceCraft — "The Hypothetical"` | `Lines 516–565` | Invented composite characters (`[COMPOSITE: <role>]`), speculative economic dilemmas. |
-> | **TASK-06** | **Narration Benchmark Archetypes** | `# FinanceCraft — Benchmark Script Archetypes` | `Lines 566–952` | 5 Tone Archetypes (Crayon Capital, MagnatesMedia, Lock Stock, Mr. Finance, Martik). |
+> | **TASK-04** | **Script Generation (Documentary)** | `# FinanceCraft — Script Generation Prompt` | `Lines 427–515` | Track 1 Documented Cases. 5-Act structure, 155 WPM pace, inline tags (`[SHOWABLE]`, `[DATA]`, `[MAP]`, `[CARICATURE]`). |
+> | **TASK-05** | **Hypothetical Script Generator** | `# FinanceCraft — "The Hypothetical"` | `Lines 516–565` | Track 2 What-Ifs. Second-person immersion ("You"), composite characters (`[COMPOSITE: <role>]`), recurring `[WATERMARK: HYPOTHETICAL SCENARIO]`, zero SEC filings. |
+> | **TASK-06** | **Narration Benchmark Archetypes** | `# FinanceCraft — Benchmark Script Archetypes` | `Lines 566–952` | 7 Tone Archetypes (Crayon Capital, MagnatesMedia, Lock Stock, Mr. Finance, Martik, My Chaotic Stories, Logical Money). |
 > | **TASK-07** | **Audio & BGM Architecture** | `# FinanceCraft — Audio Architecture & Sound` | `Lines 953–1181` | Empirical ducking (-16 dB VO, -34 dB BGM, -55 dB math mode, pause swells). |
 > | **TASK-08** | **Guided Production Document Generator** | `# FinanceCraft — Guided Production Document` | `Lines 1182–1660` | **Part A (Phases 1–6)**: 5 Titles, 1–4 word Thumbs, 4K Stills, AI Video, Remotion, Shorts.<br>**Part B (Phases 7–8)**: Multi-track CapCut assembly, Chapter Timestamps & 20+ SEO tags. |
 > | **TASK-09** | **Voice Direction & Audio Stems** | `# FinanceCraft — Voice Direction Prompt (VoxCPM2)` | `Lines 1661–1865` | VoxCPM2 JSON chunking, 2-Part Control Instruction (Persona Anchor + Dynamic Register). |
@@ -22,7 +26,7 @@
 > | **TASK-11** | **NotebookLM Video Overview** | `# FinanceCraft — NotebookLM Cinematic Video` | `Lines 1905–1986` | Vertical 9:16 Shorts ONLY (capped at 3–4 mins, slow evolving visual diagrams). |
 > | **TASK-12** | **Remotion & Kinetic Motion Code** | `# FinanceCraft — Remotion Prompt Guidelines` | `Lines 1987–2314` | MapTiler 2D vectors, Cesium 3D flyovers, newsroom chart animations, theme lock. |
 >
-> **Companion References:** For complete 25-archetype Remotion catalog see [`references/REMOTION_GRAPHICS_ENGINE_REFERENCE.md`](file:///Users/bilalashraf/YT%20Videos/references/REMOTION_GRAPHICS_ENGINE_REFERENCE.md) and 42 bits in [`references/REMOTION_BITS_CATALOG.md`](file:///Users/bilalashraf/YT%20Videos/references/REMOTION_BITS_CATALOG.md). For competitor metadata, tags & thumbnails see [`references/COMPETITOR_METADATA_AND_THUMBNAIL_AUDIT.md`](file:///Users/bilalashraf/YT%20Videos/references/COMPETITOR_METADATA_AND_THUMBNAIL_AUDIT.md).
+> **Companion References:** For complete 25-archetype Remotion catalog see [`references/REMOTION_GRAPHICS_ENGINE_REFERENCE.md`](file:///Users/bilalashraf/YT%20Videos/references/REMOTION_GRAPHICS_ENGINE_REFERENCE.md) and 42 bits in [`references/REMOTION_BITS_CATALOG.md`](file:///Users/bilalashraf/YT%20Videos/references/REMOTION_BITS_CATALOG.md). For competitor metadata, tags & thumbnails see [`references/COMPETITOR_METADATA_AND_THUMBNAIL_AUDIT.md`](file:///Users/bilalashraf/YT%20Videos/references/COMPETITOR_METADATA_AND_THUMBNAIL_AUDIT.md).%20Videos/references/COMPETITOR_METADATA_AND_THUMBNAIL_AUDIT.md).
 
 
 ## **1\. Channel Assets**
@@ -208,13 +212,15 @@ That Research Brief is the input for the next piece — the prompt that turns th
 
 ---
 
-## 1. Channel Identity
+## 1. Channel Identity & Entertainment Mandate
 
-**Niche:** Business and finance documentary — corporate fraud, scandal, rise-and-fall stories, and hidden corporate/financial history. Narrated, high-retention visual pacing. Margery is an in-universe narrative protagonist when demanded by the story, not a television news anchor or desk host.
+**The Mission:** We make **fun, highly engaging, visually addictive, and deeply informative** business, finance, and macroeconomic documentaries. We are NOT a dry corporate compliance firm, an SEC law clerk's office, or an academic lecture channel. If a script feels formal, stuffy, or like a courtroom deposition, it violates our core identity.
 
-**The core promise:** stories people are interested in but haven't heard, or haven't heard told this way — sourced from primary documents (SEC filings, court records, congressional transcripts), not retreads of Enron/Theranos/FTX-level stories everyone's already made.
+**Dual Production Tracks:**
+1. **Track 1: Corporate Autopsies & Investigative Scandals (Documented Cases):** Real corporate collapses, accounting manias, and high-stakes executive gambles (e.g. Peloton, WeWork, MoviePass). Grounded in primary records when relevant, but narrated with wit, high retention, relatable human absurdity, and dramatic momentum.
+2. **Track 2: "The Hypothetical" & Macro Thought Experiments (Speculative / What-If Simulations):** High-concept simulations exploring extreme economic dilemmas and systemic anomalies (e.g. *The Thirty-Day Blackout*, *What If You Had $1 Trillion*, *What If Commercial Banks Failed Overnight*). **STRICTLY PROHIBITS forcing SEC filings, court dockets, or legalistic paperwork.** Uses second-person immersion ("You"), telemetry HUDs, economic flowcharts, countdown clocks, and relatable human behavior.
 
-**Positioning:** same genre neighborhood as ColdFusion, MagnatesMedia, Wendover Productions — niched down specifically to fraud/scandal/hidden-history with primary-source rigor as the differentiator, not volume.
+**The Tone & Positioning:** Same genre neighborhood as *MagnatesMedia*, *Crayon Capital*, *My Chaotic Stories*, and *ColdFusion*. Sophisticated yet irreverent; intellectually rigorous without ever being stuffy, academic, or formal.
 
 ---
 
@@ -426,16 +432,34 @@ Competitor intelligence across outlier videos (*MagnatesMedia, Crayon Capital, T
 
 # **FinanceCraft — Script Generation Prompt**
 
-*Feed this prompt, along with a completed Research Brief, to generate the narration script. Attach the Style Bible too — the caricature and editorial rules apply while writing, not just while producing visuals.*
+*Feed this prompt, along with a completed Research Brief or Concept Brief, to generate the narration script. Attach the Style Bible too — the caricature, tone, and editorial rules apply while writing, not just while producing visuals.*
 
 ---
 
-You are writing the narration script for a FinanceCraft episode. You'll be given a completed Research Brief. Your job is to turn it into a complete, genuinely captivating script — the goal is a viewer thinking "I did not expect this story to go here," not a dry recitation of verified facts in order. Write with full awareness that every beat will later become a specific visual asset — you're not writing in a vacuum.
+You are writing the narration script for a FinanceCraft episode. Your overarching directive is to craft a **fun, visually electric, witty, and deeply informative video**. We are NOT a stuffy corporate boardroom, a legal deposition office, or a dry academic seminar. Write with natural swagger, relatable humor, and visceral metaphors.
+
+## **Step 0 — Track Classification & Format Routing (CRITICAL FIRST STEP)**
+
+Before writing a single word, classify the topic into one of two tracks:
+
+* **Track 1: Documented Case Autopsy (Real Corporate History, Scandal, or Collapse):**
+  - *Topics:* Peloton, WeWork, MoviePass, Theranos, Wirecard, Boeing.
+  - *Format:* Investigative narrative with real named figures as caricatures (`[CARICATURE: <name>]`), primary filings/records as tactile insets (`[SHOWABLE: <filing>]`), and forensic financial waterfalls (`[DATA]`).
+  - *Tone:* Witty, investigative, grounded in real corporate absurdity.
+  - *Execution:* Proceed with Step 1 through Step 5 below.
+
+* **Track 2: "The Hypothetical" & Macro Thought Experiments (Speculative / What-If Simulations):**
+  - *Topics:* *The Thirty-Day Blackout*, *What If You Had $1 Trillion*, *What If Commercial Banks Froze*, *The Day Money Dies*.
+  - *Format:* Second-person POV immersion ("You"), ticking countdown clocks, composite characters (`[COMPOSITE: <role>]`), telemetry HUDs, and recurring `[WATERMARK: HYPOTHETICAL SCENARIO]` overlays.
+  - **STRICT PROHIBITION:** **NEVER force SEC Form 10-K filings, court dockets, PACER records, or corporate fraud litigation framing onto a thought experiment.** Doing so creates a dry, formal, nonsensical video and constitutes an automatic engine failure.
+  - *Execution:* **Route immediately to `# FinanceCraft — "The Hypothetical" Script Generator (Lines 516+)` and `Archetype 5: The POV Thought Experiment (Lines 797+)`.**
+
+---
 
 ## **Inputs needed**
 
-* The full Research Brief (angle statement, verified facts, key figures, timeline, gap list, narrative-mining highlights, showable assets, pivotal detail, open questions, visual-asset flags)  
-* Target runtime in minutes — if not given, assume 12-15 minutes (\~1,900-2,300 words at \~155 words/minute documentary pace)
+* The full Research Brief (for Track 1) or Concept Brief (for Track 2)
+* Target runtime in minutes — if not given, assume 12-15 minutes (~1,860-2,325 words at ~155 words/minute documentary pace)
 
   ## **Step 1 — Pick a structure, and say which one**
 
@@ -1203,7 +1227,7 @@ When the engine builds the timeline in CapCut Desktop:
 
 | Checkpoint | Scope | Validation Rule & Formula | Enforcement Action |
 | :--- | :--- | :--- | :--- |
-| **CP-1: Evidentiary Spine** | Research Brief | 9 required sections present; $\ge 3$ primary showable documents with official archival sources; 1 load-bearing pivotal detail identified. | Reject brief if relying on generic secondary aggregators. |
+| **CP-1: Evidentiary & Mechanism Spine** | Research / Concept Brief | **Track 1 (Documented Cases):** 9 required sections present; primary showable documents/transcripts where relevant; 1 load-bearing pivotal detail.<br>**Track 2 (Thought Experiments & What-Ifs):** Verified economic mechanisms, academic empirical data (e.g. AER trials), and network telemetry. **STRICTLY FORBIDDEN TO FORCE SEC 10-K FILINGS ONTO THOUGHT EXPERIMENTS.** | Reject brief if relying on unverified gossip or forcing corporate SEC filings onto speculative simulations. |
 | **CP-2: Script Word Count, Runtime & Decimal Normalization** | Script Generator & VO Engine | Word count $W$; Runtime $T = (W / 155) \times 60$ seconds. Target: 12–15 min ($1,860 \le W \le 2,325$). 5-Act narrative balance. **Decimal Normalization Mandate:** All spoken decimal numbers in scripts and VO JSON (`target_text`) MUST be written with the phonetic word "point" (e.g. `1 point 2 million`, `2 point 5 billion dollars`), NEVER raw numeric decimals (`1.2`, `2.5`) which TTS engines mispronounce as "one dot two". | Recalibrate script pacing if runtime is out of bounds; phonetically normalize all decimals to "point" in scripts and VO JSON. |
 | **CP-3: Narration Runtime vs. Beat Total & VO Synchronization** | Phase 4 Beats | $B_{min} = \lfloor T / 5.0 \rfloor$, $B_{max} = \lceil T / 2.5 \rceil$, $B_{target} = \text{round}(T / 3.5)$. Total duration $\sum D_i = T \pm 2\%$. **Audio-First Sentence-Bound Rule:** Beats MUST be locked directly to the voiceover's natural sentence/phrase boundaries (from TTS/VoxCPM2 alignment JSON) rather than arbitrary uniform mathematical slicing, eliminating visible lag between visual cuts and spoken cadence. | **HARD GATE:** Generating $< B_{min}$ beats (e.g. < 160 beats for an 800s script) or slicing beats without sentence-level VO alignment is **INSTANT FAILURE**. Output must match full high-retention documentary density. |
 | **CP-4: Shot Duration Bounds & Nuanced Pacing Rule** | Phase 4 Beats | Every individual beat duration $D_i$ must target an average tempo of **$2.5\text{s} - 4.0\text{s}$**. **Static Images Pacing Standards:** Default scene-setting stills target **$2.5\text{s} - 5.0\text{s}$**; generic stills lasting $> 6.0\text{s}$ are actively discouraged to maintain momentum. **The Nuanced Evidentiary Exception ($6.0\text{s} - 10.0\text{s}$):** Permitted when a beat carries dense forensic reading material (SEC filings, deeds, balance sheets) or high-stakes dramatic revelations where the audience needs cognitive time to absorb the claim while the narrator speaks. **Motion Requirement (Never Frozen):** Any static image held for $6.0\text{s} - 10.0\text{s}$ MUST deploy continuous slow Ken Burns push-in ($1.05\times - 1.15\times$) or layered 2.5D parallax. **NO Hard Cap on Remotion Cinematics:** Remotion motion graphics, 3D aerial flyovers, and zoom tunnels run dynamically ($4.0\text{s} - 12.0\text{s}+$) locked to narration. **Anti-Static Document Rule:** Text-heavy exhibits must pair with Remotion animated highlights (`ARCHETYPE_NEWSPRINT_EDITORIAL`), typewriter reveals, or rubber stamps. | Reject static beats $>6.0\text{s}$ ONLY IF they lack an evidentiary/dramatic rationale or lack camera motion; allow justified forensic holds up to $10.0\text{s}$; zero beats $< 1.5\text{s}$; Remotion clips dynamically sized to narration ($4\text{s}-12\text{s}+$). |
@@ -1215,6 +1239,7 @@ When the engine builds the timeline in CapCut Desktop:
 | **CP-10: Batch 1:1 Reconciliation** | Phase 5 Batches | Sum of assets in Batches 1, 2, 3, and 4 MUST EXACTLY equal $B$ (total beats) + master character references + thumbnail variants. Zero missing/orphaned assets. | Block transition to Part B until inventory is 100% reconciled. |
 | **CP-11: Timeline A/V Synchronization** | Part B Timeline | Narration VO Track Duration ($T_{audio}$) matches Total Visual Beat Duration ($\sum D_i$) within $\pm 0.5$ seconds. Zero gap frames between cuts. All AI video clips muted (-inf dB). | Abort CapCut timeline commit if A/V duration drift $> 0.5$ seconds. |
 | **CP-12: Dynamic Audio Score & Ducking** | Part B Audio | 1 cohesive BGM score bed on Track 3, with separate VO (0dB, -15 LUFS on Track 1) and Foley (-26dB on Track 2); dynamic ducking (-32 to -35 dB); pause swells (+8dB on gaps >1.2s); cognitive ducking (-50 to -60dB) during dense data/math beats; dead silence drops on shock reveals. | Flag any un-ducked or flat audio mix. |
+| **CP-13: Anti-Dryness & Entertainment Mandate** | Script & Narration | Narration MUST be fun, punchy, conversational, and witty. Strictly prohibits stiff courtroom legalese, academic lecture prose, or corporate compliance tone. Must incorporate visceral physical grounding ("Popcorn & Delivery Van" rule), staccato rhythmic variety, and relatable humor ("Cereal Box" principle). | **AUTOMATIC REJECTION** if script sounds like a formal court filing, legal deposition, or academic paper. Rewrite with conversational swagger and narrative electricity. |
 
 ---
 
