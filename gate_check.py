@@ -12,6 +12,7 @@ Exit code 0 = all gates pass, 1 = one or more fail.
 """
 
 import argparse
+import collections
 import re
 import statistics
 import sys
@@ -28,6 +29,12 @@ decentralized multi-carrier substitution cognitive equilibrium indices
 psychotherapy stimulation cortex telemetry prefixes amortization
 capitalization utilization systemic
 """.split()
+
+# Validated across all 7 benchmarks. Range 36–108 per 1,000 sentences;
+# every benchmark lands its first reframe within the opening 11%.
+REFRAME = re.compile(
+    r"\b(isn'?t|is not|was never|wasn'?t|doesn'?t|not because|it'?s not|"
+    r"you'?re not|not the|never a|actually)\b", re.I)
 
 # Things a camera could photograph. Extend freely per episode.
 CONCRETE = """
@@ -191,6 +198,33 @@ def main():
         check("BIGWD  12+ char words per 1,000 <= 14  [UNIVERSAL — benchmark max 12.8]",
               f"{longw:.1f}", longw <= 14),
     ]
+
+    turns = [i for i, s in enumerate(sents) if REFRAME.search(s)]
+    rate = len(turns) / n_s * 1000
+    first = turns[0] / n_s * 100 if turns else None
+    results.append(check(
+        "REFRAME reframes per 1,000 sentences >= 36  [UNIVERSAL — benchmark range 36-108]",
+        f"{rate:.0f} ({len(turns)} found)", rate >= 36,
+        "the 'it isn't X, it's Y' turn — what viewers quote back"))
+    results.append(check(
+        "TURN1   first reframe within opening 12%  [UNIVERSAL — benchmarks 1-11%]",
+        f"{first:.0f}%" if first is not None else "no reframe anywhere",
+        first is not None and first <= 12))
+
+    openers = collections.Counter(
+        s.split()[0].strip('",.') for s in sents if s.split())
+    top_w, top_c = openers.most_common(1)[0]
+    run = worst = 0
+    for s in sents:
+        w = s.split()[0].strip('",.') if s.split() else ""
+        run = run + 1 if w == top_w else 0
+        worst = max(worst, run)
+    results.append(check(
+        "OPENER  most-repeated sentence opener <= 24%  [UNIVERSAL — benchmarks 6-20%]",
+        f"'{top_w}' {top_c/n_s*100:.0f}%", top_c / n_s * 100 <= 24))
+    results.append(check(
+        "OPENRUN longest same-opener run <= 3  [UNIVERSAL — no benchmark exceeds 3]",
+        f"{worst} consecutive '{top_w}...'", worst <= 3))
 
     if p["you"] >= 20:  # only archetypes that are genuinely second-person
         results.append(check(

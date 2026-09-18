@@ -609,6 +609,7 @@ Run every CP-0 Retention Physics gate with observed values and evidence:
 - Jargon per 1,000 ≤ 4.0 (universal) — **list every offending term by name**
 - 12+ char words per 1,000 ≤ 14 (universal)
 - **By eye, not by script:** passages with nothing a camera could photograph. No reliable automated test exists for this; read for it.
+- **Mechanism repetition.** List every distinct failure mode in the script. If the same one recurs — a blocked login, a frozen account — it is one beat told repeatedly, not escalation. The benchmarks never reuse a failure mode; each stage breaks for a new reason. Not mechanically checkable, since the mechanism is topic-specific.
 - R3 explainer-paragraph ban — quote any passage of 3+ mechanism sentences with no person, object, consequence or joke
 - R5 device ledger — list each rhetorical device and its count; any count >1 is a FAIL
 - Track 2: Stakes Contract complete within 80 words — **quote the 80 words**
@@ -694,7 +695,7 @@ Run on spoken narration only — strip `[TAGS]`, act headers and audit blocks be
 
 **Pick the archetype before writing, not after.** The bands only mean something if the archetype is chosen deliberately in Step 1.
 
-### The two universal gates
+### The four universal gates
 
 These are the ones that held across every archetype, and they are the ones the engine actually fails:
 
@@ -703,6 +704,10 @@ These are the ones that held across every archetype, and they are the ones the e
 **12+ character words ≤ 14 per 1,000.** Benchmark range 4.1 – 12.8. Failing draft: **28.5**.
 
 Format does not excuse either. A 23-minute P&L breakdown with 16.9-word sentences still keeps jargon at 1.2.
+
+**REFRAMES ≥ 36 per 1,000 sentences, first one inside the opening 12%.** The "it isn't X, it's Y" turn — "World hunger isn't a shortage of food." All seven benchmarks fall between 36 and 108, and every one lands its first turn within the first 11%. These are the lines viewers quote back. A script can pass every register gate and still have nothing in it worth repeating; this is the gate that catches that.
+
+**SENTENCE OPENERS: most-repeated ≤ 24%, longest identical run ≤ 3.** Benchmarks run 6–20% with no run exceeding three. Second-person density is a floor, not a target — overshooting it produces "You stand. You wipe. You look. You check," which reads as a chant. A draft can pass the YOU gate and fail this one.
 
 ### Demoted checks — honest about what cannot be automated
 
@@ -1371,6 +1376,7 @@ CORE RULES:
 4c. LEDGER BEATS: Close every time block with the same repeated ledger shape — time elapsed, amount spent, amount remaining, what the adversary did while you acted. Identical format each time.
 4d. THE TINY OBSERVATION RULE: Make psychological points through one small concrete detail, never through explanation. "Everyone answers on the first ring... Not the number, the ring count." — not a paragraph about habituation. If you catch yourself explaining a mental state, delete it and find the object instead.
 4e. JARGON CEILING: 5 terms per 1,000 words maximum against the CP-0 Jargon List. This archetype fails here more than any other because macro topics invite macro vocabulary. Resist it — the benchmark video covers sovereign debt, market microstructure and circuit breakers using almost none of it.
+4f. SCOPE ESCALATION. Each act must operate on a larger system than the last. The benchmark runs properties → jets → farmland → world hunger → a sovereign state → the entire equity market → regulators on six continents. Severity rising within one fixed scale is not escalation: once the viewer knows the outcome, a story that stays the same size has nothing left to reveal. State the scope ladder in the Concept Brief before drafting, one line per act.
 5. THE SYSTEMIC REVELATION: Conclude with a profound macroeconomic truth about the physical limits of capital vs resources.
 
 INPUTS:
