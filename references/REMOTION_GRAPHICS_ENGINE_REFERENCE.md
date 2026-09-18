@@ -64,6 +64,8 @@ Before generating or revising any Remotion graphic:
 - **The 70/30 Motion Grammar & Mandatory Hold Law:** Every Remotion composition must finish its core movement within $65\% - 75\%$ of the total frame count, dedicating the final $25\% - 35\%$ ($\ge 0.5\text{s} - 1.5\text{s}$, or 15–45 frames) to a stable completed reading state while narration concludes.
 
 ### Cross-Batch Upstream Asset Pipeline Coordination
+**Default, not optional:** pure data/newsroom Remotion is the easy default that wins by inertia. A beat sheet that never checks for a corridor-perspective shot or a rewind/montage VO line before falling back to a chart or scrub-bar has skipped a step, not made a stylistic choice.
+
 Remotion cinematics frequently ingest assets generated upstream by the AI image generation workflow (Batch 1: Stills) or real-world insets (Batch 3):
 - **Whip-Zoom Montages (`ARCHETYPE_WHIP_ZOOM_MONTAGE`):** The beat planner must specify and output the 8–15 input photo plates into Batch 1 so Remotion can ingest and sequence them.
 - **Infinite Zoom Tunnels (`ARCHETYPE_INFINITE_PORTAL_TUNNEL`):** The beat planner must generate a high-resolution corridor/portal plate with clear vanishing perspective in Batch 1.

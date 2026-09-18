@@ -36,6 +36,13 @@ REFRAME = re.compile(
     r"\b(isn'?t|is not|was never|wasn'?t|doesn'?t|not because|it'?s not|"
     r"you'?re not|not the|never a|actually)\b", re.I)
 
+# CP-6 signature cinematics — the archetypes that get skipped by default when
+# the beat planner defaults to newsroom charts. Reported, not gated: zero is
+# sometimes legitimate, but it must be a stated choice, not a silent gap.
+SIGNATURE_CINEMATICS = re.compile(
+    r"\[REMOTION:\s*(ARCHETYPE_WHIP_ZOOM_MONTAGE|ARCHETYPE_INFINITE_PORTAL_TUNNEL|"
+    r"ARCHETYPE_3D_ORBITAL_FLYWHEEL)[^\]]*\]", re.I)
+
 # Things a camera could photograph. Extend freely per episode.
 CONCRETE = """
 coffee popcorn door pocket couch television remote bed floor phone glass
@@ -240,6 +247,22 @@ def main():
               f"before VO: {', '.join(dec[:8])}")
     else:
         print("  [note] decimals: all phonetic, VO-safe")
+
+    sig = list(SIGNATURE_CINEMATICS.finditer(raw))
+    if sig:
+        runtime_s = n_w / 155 * 60
+        times = [m.start() / len(raw) * runtime_s for m in sig]
+        labels = [m.group(1) for m in sig]
+        print(f"  [note] SIGNATURE CINEMATICS: {len(sig)} found — " +
+              ", ".join(f"{l}@{t:.0f}s" for l, t in zip(labels, times)))
+        gaps = [b - a for a, b in zip(times, times[1:])]
+        if any(g < 90 for g in gaps):
+            print("  [note] CLUSTERING: two or more land < 90s apart — "
+                  "confirm this is deliberate escalation, not incidental overlap")
+    else:
+        print("  [note] SIGNATURE CINEMATICS: 0 found — CP-6 default is at least one "
+              "(whip-zoom montage / infinite portal tunnel / orbital flywheel) "
+              "or a stated reason none fits this episode")
 
     print("\n  NOT MECHANICALLY CHECKED — apply by eye (see CP-VERIFY):")
     print("    - concrete-noun runs: no reliable automated test exists; read for")
