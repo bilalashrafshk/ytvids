@@ -18,7 +18,7 @@
 > | **TASK-01** | **Research & Mechanism Ingestion** | `# FinanceCraft — Research Methodology` | `01_RESEARCH_BRIEF.md` | `Lines 81–204` | Gap List, Pivotal Detail. Track 1: Case studies (filings, transcripts). Track 2: What-Ifs (verified economic models, AER trials, telemetry). **NEVER force SEC filings onto thought experiments.** |
 > | **TASK-02** | **Script Generation (Track 1 / Track 2)** | `# FinanceCraft — Script Generation Prompt` / `"The Hypothetical"` | `02_SCRIPT.md` | `Lines 427–565` | 5-Act structure, ~155 WPM pace, normalized decimals (`point`), inline tags. Track 1: Documented cases. Track 2: POV immersion ("You"), composite archetypes (`[COMPOSITE: <role>]`), recurring `[WATERMARK: HYPOTHETICAL SCENARIO]`, zero SEC filings. |
 > | **TASK-03** | **Titles & Core Narrative Hooks** | `# FinanceCraft — Guided Production Document` (Phase 1) | `03_TITLES_AND_HOOKS.md` | `Lines 1346–1369` | 5 distinct CTR title angles, mobile search hooks, provisional core thesis. Standalone file. |
-> | **TASK-04** | **Thumbnail Packaging & Concepts** | `# FinanceCraft — Thumbnail Style Reference` (Phase 2) | `04_THUMBNAILS.md` | `Lines 339–426, 1370–1383` | 3–4 Outlier Archetypes, **1–4 Word Mobile Legibility Rule**, 2–4 data badges max, 4K Nano Banana 2 prompts. Standalone file. |
+> | **TASK-04** | **Thumbnail Packaging & Concepts** | `# FinanceCraft — Thumbnail Style Reference` (Phase 2) | `04_THUMBNAILS.md` | `Lines 339–426, 1370–1383` | 3–4 Outlier Archetypes, **Anchor Rule**, **Legibility Rule** (168px cap-height test, not word count), archetype-set callout density, 4K Nano Banana 2 prompts. Standalone file. |
 > | **TASK-05** | **Character / Composite Setup** | `# FinanceCraft — Guided Production Document` (Phase 3) | `05_CHARACTER_SETUP.md` | `Lines 1384–1402` | Caricatures (Track 1) or composite archetypes (Track 2) with single static reference portraits. Standalone file. |
 > | **TASK-06** | **Voice Direction & Audio Stems** | `# FinanceCraft — Voice Direction Prompt (VoxCPM2)` | `06_VOICE_DIRECTION.json`<br>`06_VOICE_DIRECTION.md` | `Lines 1661–1865` | VoxCPM2 JSON chunking, 2-Part Control Instruction (Persona Anchor + Dynamic Register), phonetic decimals (`point`). Standalone files. |
 > | **GATE** | **Master VO Audio & Timestamps** | `# Audio-First Timing Gatekeeper` | `voiceover/` (`.wav` + `alignment.json`) | — | **MANDATORY TIMING GATE:** Master voiceover audio and sentence/phrase alignment JSON MUST exist BEFORE generating beats to guarantee 0.0s timing drift. |
@@ -382,9 +382,38 @@ A distinct sub-series for content that teaches a real financial or business mech
 
 **What still carries over from the main system:** the clean illustrated register, the palette modulation principle, compositional simplicity, the text-generation rules, and the engagement craft from the Script Generator. This is a different content mode, not a different production system.
 
+**Titles must signal fiction.** Three of the five Episode 03 candidates read as real reporting — "Broke Real Cargo," "Starved 6,000 Companies," "How Ad Auctions Replaced the Economy." Past tense, no hedge. The sub-series has a lavender palette, its own bumper, and an on-screen watermark to mark it as invented; a documentary-voiced title undoes all of it before playback, on the one asset that reaches people who never watch. Required: "What If," "POV," "Imagine," or a question mark. The benchmark does this — *POV: You Have $1 Trillion (But Only 7 Days To Spend It)*.
+
+**Descriptions run through `gate_check.py` too.** The Episode 03 description failed all seven gates — jargon 41.7 against a ceiling of 4.0, mean sentence 24 words. Compare the benchmark: *"A theater keeps almost nothing from your $15 movie ticket. So how does the business actually survive?"*
+
+**Packaging locks to one draft.** Episode 03's package mixed Draft A's -$18,400 burn with Draft B's $275/day demurrage, advertising a figure that doesn't appear in the recommended script — and one whose arithmetic was already known to be broken.
+
 # **FinanceCraft — Thumbnail Style Reference**
 
 *A menu of distinct, proven thumbnail archetypes, described as reusable patterns — not templates to copy directly. Pick whichever fits a given episode's actual content, per the guidance under each one. Referenced by the Guided Production Document's Thumbnail Concepts phase.*
+
+---
+
+## **The Anchor Rule (mandatory, all archetypes)**
+
+Every benchmark thumbnail is built the same way: something the viewer already recognises, plus one thing wrong with it.
+
+| Anchor | Wrong thing |
+| :--- | :--- |
+| Netflix logo | on fire |
+| Dinosaur skeleton | dissolving into rock strata |
+| Costco storefront | "CON!?" |
+| A gun | held by a stick figure in ancient China |
+| Jensen + logos you know | he's puppeteering all of them |
+| A human face | "$35 BILLION WIPED" |
+
+The anchor buys the first 200 milliseconds. The wrong thing buys the click. Remove either and the thumbnail fails.
+
+The anchor must be nameable by someone with zero domain knowledge. A phone. A house. A supermarket shelf. A parcel. A logo they use weekly. Industry objects — a shipping container, a gate terminal, a demurrage ticket, an ad-auction gavel — are never anchors. They can be the wrong thing, sitting beside an anchor, never standing alone.
+
+This is where the specialist insight goes: in the video, not on the thumbnail. The thumbnail sells the door; the episode delivers the room.
+
+**Gate:** name the anchor and the wrong thing in one sentence each, before writing any prompt. If the anchor needs a sentence of explanation, it isn't an anchor — restart.
 
 ---
 
@@ -464,11 +493,26 @@ Not a rigid lookup table, but a starting instinct: a real central figure with st
 
 Whichever archetype is chosen, it still runs through the existing Thumbnail Concepts phase rules: Nano Banana 2 handles high-fidelity typography directly, so text hooks, headline numbers, and data badges can be specified straight in the generation prompt (post-production typography overlays remain an optional fallback), keep any real person's likeness illustrated rather than photoreal, and sanity-check readability at small size before finalizing.
 
-### **The 1–4 Word Mobile Legibility Rule**
-Competitor intelligence across outlier videos (*MagnatesMedia, Crayon Capital, Tony Talks Business, Ink Explainer*) confirms that thumbnail text must never exceed **1 to 4 words**. Text longer than 4 words collapses into unreadable visual clutter on mobile devices (~200px wide). 
-- **Format:** Condensed heavy sans-serif in high-contrast color (crisp white or yellow text with dark drop shadow/outline).
-- **Function:** Pose a shocking contrast, a high-stakes verdict, or a core irony (`"THE $50B ILLUSION"`, `"NO JOBS"`, `"THE $4B HEIST"`, `"WHY IT COLLAPSED"`).
-- **Forensic Data Badges:** Maximum 2–4 clean, rectangular badges with thin leader lines calling out specific anchor numbers (`"$50B Peak"`, `"-97% Crash"`, `"125K Recalled"`). Never clutter the frame with secondary paragraphs.
+### **The Legibility Rule (replaces the 1–4 word rule)**
+The word-count cap was derived from one example and is contradicted by the benchmark set. Measured headline lengths: Netflix 0 words, Costco 3, NVIDIA 1, Rent vs Buy 3, $1 Trillion 7, Financial Freedom 6, Five-Star Hotels 5, Movie Theater Chain 8.
+
+The real constraint is cap height, not word count. Text must be readable at 168 pixels wide. Eight short words in a heavy condensed face beat four long words set small.
+
+- One line, or two with a clear size hierarchy — never three.
+- No word longer than 11 characters.
+- Weight 700 or heavier, high contrast against whatever sits behind it.
+- Zero words is a legitimate choice when the image carries the whole idea (see: Netflix in flames).
+
+**Test:** shrink to 168px and read it at arm's length. That is the only check that matters.
+
+### **Callout Density — set by archetype, not capped globally**
+Benchmark counts: Five-Star Hotels ~15 callouts, Costco 5, Movie Theater Chain 5, Rent vs Buy 0, Netflix 0.
+
+- **Isometric / infographic archetypes:** 8–15 callouts. The density is the style — capping it produces a sparse, undercooked version of the format.
+- **Character or object-staging archetypes:** 0–2. One big number, or none.
+- **Split-comparison archetypes:** 0. The split carries the meaning.
+
+Every callout must be priceable by someone with no industry knowledge. `$65 A YEAR` works. `DEMURRAGE: $275/DAY` does not.
 
 ### **The Instant-Recognition Object Rule**
 Every thumbnail's dominant hero object must be identifiable in under 1 second by someone with zero prior context on the episode — not someone who already knows the premise. Test it directly: does understanding the object require knowing an industry term first (a demurrage ticket, an OAuth error, a chassis shortage)? If yes, it cannot be the hero image — it may still live as background texture, but the foreground must be built from objects that carry meaning on sight (cash, gold, a padlock, a phone, a shipping container, a burning logo), the way *My Chaotic Stories*' "$1 Trillion" thumbnail piles up gold bars and money bags rather than ledger exhibits.
@@ -477,6 +521,12 @@ Every thumbnail's dominant hero object must be identifiable in under 1 second by
 
 ### **The Benchmark Cross-Check (Mandatory Before Finalizing)**
 Before finalizing any thumbnail concept, name the single closest proof-point thumbnail already logged in `references/COMPETITOR_METADATA_AND_THUMBNAIL_AUDIT.md` for the chosen archetype and format, and confirm the concept doesn't diverge from what made that image work — specifically its palette warmth/contrast level and its zero-inferential-distance between image and premise. A thumbnail that requires a two-step inference (padlock → warehouse → therefore the platform economy failed) has already lost to a thumbnail that requires zero steps. If a concept can't clear this check against its named benchmark, revise it before moving to the next phase — don't ship the near-miss.
+
+**Cite views and date alongside any benchmark claim.** An outlier multiple with no view count is not evidence. Two problems already found in the current reference set:
+- **Mr. Finance / "Movie Theater Chain":** 4,730 views. Archetype 4's entire style band is calibrated on it. It is a well-made video and it is not proof of what performs. Flag anything sourced to it as unvalidated.
+- **The `ink_explainer_no_jobs` entry is mislabelled.** The packaging cited "No Jobs, 17x Outlier, 5.4K VPH"; the actual file is "How Did Human Accidentally Invented Guns?", 35,069 views. A performance stat was attributed to a video that isn't in the set.
+
+Where view counts diverge by orders of magnitude (1.4M vs 4.7K), weight the high performers and mark the rest as stylistic reference only.
 
 # **FinanceCraft — CP-INPUT: The Mandatory Brief Gate (HIGHEST PRECEDENCE)**
 
@@ -1799,8 +1849,9 @@ PHASE-BY-PHASE AUDIT CHECKLIST:
 [ ] PHASE 04: 04_THUMBNAILS.md
     - Dedicated standalone file in videos/<episode-slug>/.
     - 3 to 6 distinct options (Options A through F) mapping across the 7 Outlier Archetypes.
-    - 1–4 Word Mobile Legibility Rule: On-image headline text hook strictly 1 to 4 words long (e.g. "THE 30-DAY BLACKOUT", "NETWORK COLLAPSE").
-    - 2 to 4 clean forensic data callout badges max (e.g. "BGP ROUTES: 0%", "$24.5B AD LOSS").
+    - Anchor Rule: a nameable, zero-domain-knowledge anchor plus one clear "wrong thing" named in one sentence each, before the prompt is written.
+    - Legibility Rule: passes the 168px cap-height/arm's-length test, not a fixed word count; no word over 11 characters.
+    - Callout density set by archetype (isometric 8–15, character/object-staging 0–2, split-comparison 0), each callout priceable with zero industry knowledge.
     - Exact syntax: ON-IMAGE TEXT: Direct in-generation text: "[exact text]".
     - Verbatim CP-7 quality mandate included in 100% of prompts: "follow best industry-standard guidelines and quality and visualisations".
 
@@ -1915,7 +1966,7 @@ PHASE-BY-PHASE AUDIT CHECKLIST:
 | **01** | **`01_RESEARCH_BRIEF.md`** | Pre-Production | Evidentiary brief, mechanism gap list, pivotal detail, primary citations. |
 | **02** | **`02_SCRIPT.md`** | Scripting | Master narration script (5-Act structure, CP-2 compliant, staccato rhythm, normalized decimals, inline tags). |
 | **03** | **`03_TITLES_AND_HOOKS.md`** | Packaging | 5 distinct CTR title angles, mobile search hooks, provisional core thesis. Standalone file. |
-| **04** | **`04_THUMBNAILS.md`** | Packaging | 3–4 visual thumbnail concepts with 1–4 word mobile legibility overlays and Nano Banana 2 prompts. Standalone file. |
+| **04** | **`04_THUMBNAILS.md`** | Packaging | 3–4 visual thumbnail concepts, each with a named anchor + wrong-thing pair, cap-height-tested text, and Nano Banana 2 prompts. Standalone file. |
 | **05** | **`05_CHARACTER_SETUP.md`** | Visual Direction | Caricature (Track 1) or composite archetype (Track 2) prompts with single static reference portraits. Standalone file. |
 | **06** | **`06_VOICE_DIRECTION.json`<br>`06_VOICE_DIRECTION.md`** | Audio Production | Chunked VoxCPM2 JSON with Two-Part Control Instructions (Persona Anchor + Dynamic Register), phonetic decimals (`point`), and API copy-blocks. Standalone files. |
 | **GATE** | **Master VO Audio & Alignment JSON** | **Audio Synthesis** | **MANDATORY TIMING GATEKEEPER:** Synthesize master voiceover audio stems and output sentence/word timestamp alignment JSON. **Stop here until audio exists.** |
