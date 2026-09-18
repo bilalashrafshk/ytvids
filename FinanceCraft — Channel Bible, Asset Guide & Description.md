@@ -95,6 +95,37 @@ New investigative documentaries exploring corporate collapses, audacious busines
 
 ---
 
+## **Phase 0 — Route by track BEFORE opening a notebook (added)**
+
+This methodology was written for Track 1 (documented case autopsies) and was being applied indiscriminately. That is a primary cause of scripts coming out formal and paper-y.
+
+**Track 1 — Documented Case Autopsy.** Real company, real collapse, real filings. Run Phases 1–6 as written below. SEC EDGAR, PACER, hearing transcripts are correct here.
+
+**Track 2 — "The Hypothetical" / POV / macro thought experiment.** **Do not run this methodology at all.** There is no case to excavate and no filing to cite. Running Phases 2 and 4 on a thought experiment produces a bibliography, and a bibliography produces the exact academic register the format cannot survive. Use the Concept Brief in the Hypothetical Script Generator instead, plus the Texture Pass below.
+
+**Track 3 — Mechanism / explainer episode** (how currencies work, unit economics of an industry). Primary-source excavation is optional and usually unnecessary. What this track needs is *one authoritative number per claim* and *heavy texture*. Skip Phases 2 and 3; run Phase 1, the Texture Pass, and Phase 4 lightly.
+
+---
+
+## **The Texture Pass (mandatory for ALL tracks — run it last, never skip it)**
+
+Verified facts make a script defensible. They do not make it watchable. Every benchmark video in the reference set is carried by concrete physical detail, and the engine has been systematically under-collecting it because the research phases only ask for evidence.
+
+Collect, explicitly, before writing:
+
+* **Physical objects** — what does this story look like in a room? Popcorn tubs, marquee letters, a Denny's coffee cup, pallets, a briefcase, a vault door, a spinning loading wheel.
+* **Places with names** — Monaco, Fort Lauderdale, Iowa, Rotterdam. Named places are free specificity; generic ones ("emerging markets") are free vagueness.
+* **Prices a normal person recognises** — a $15 ticket, a $2,000 rent, an $18 million car. Anchor every abstract figure to one of these.
+* **Sensory friction** — the queue, the smell, the wait, the dead phone, the booth at the airport. Benchmark hooks open here roughly every time.
+* **One absurd true detail** — the ring count, the clothes-drying-rack exercise bike, the 42-acre rock with no fresh water. These are the lines viewers quote back.
+* **A human doing something, not a trend occurring** — a coordinator saying the backlog is measured in months, not "logistics constraints materialised."
+
+**Sources for texture are different from sources for evidence.** Trade press, operator interviews, Reddit and forum threads from people who actually do the job, product and pricing pages, earnings-call Q&A (not the prepared remarks), photo archives, local reporting. A court filing will never tell you what the lobby smelled like.
+
+**The checkpoint:** if the Texture Pass yields fewer than ten usable concrete items, the episode is not ready to script. That is a research failure, not a writing problem — and it is the failure that gets papered over with jargon later.
+
+---
+
 ## **The principle this whole method is built on**
 
 NotebookLM is source-grounded: it answers from what you've uploaded into that notebook, not the open web. That's a strength (fewer hallucinations, exact citations back to source) and a hard constraint (it cannot find things you never gave it). **The output is only as fresh as the sources are.** If you upload the same five Wikipedia-adjacent sources every documentary channel already used, you'll get a well-organized version of the same story. The differentiation happens in what you feed it — this methodology exists to make that deliberate instead of accidental.
@@ -156,6 +187,8 @@ This is the differentiation engine. Run these prompts against the full notebook 
 **Aftermath** — *"What happened to the key people or the company in the years after the main event, according to these sources? Popular coverage rarely follows up — what's the update?"*
 
 **Narrative mining** (run this one regardless of which angle you land on) — *"Extract direct quotes, specific numbers, and vivid or ironic human details from these documents that would work well narrated in a documentary — moments of hubris, irony, or human drama, not just facts."* Primary sources are often dry; this is the deliberate step that keeps "verified" from becoming "flat."
+
+Follow it immediately with the **physical-detail extraction**, which is a different question and gets missed if folded into the above — *"From these sources, list every concrete physical object, named place, recognisable price, and piece of sensory detail. Not conclusions or figures — things a camera could photograph and a person could touch."* This feeds the Texture Pass and is the single highest-leverage research output for retention.
 
 **Showable & pivotal assets** (run every time, non-negotiable) —
 
@@ -437,6 +470,299 @@ Competitor intelligence across outlier videos (*MagnatesMedia, Crayon Capital, T
 - **Function:** Pose a shocking contrast, a high-stakes verdict, or a core irony (`"THE $50B ILLUSION"`, `"NO JOBS"`, `"THE $4B HEIST"`, `"WHY IT COLLAPSED"`).
 - **Forensic Data Badges:** Maximum 2–4 clean, rectangular badges with thin leader lines calling out specific anchor numbers (`"$50B Peak"`, `"-97% Crash"`, `"125K Recalled"`). Never clutter the frame with secondary paragraphs.
 
+# **FinanceCraft — CP-INPUT: The Mandatory Brief Gate (HIGHEST PRECEDENCE)**
+
+*This gate runs before CP-0, before track classification, before anything. It is the first thing the engine evaluates on every invocation.*
+
+---
+
+## **The rule**
+
+**The engine MUST NOT write narration — not a draft, not a hook, not a sample paragraph, not "a rough version to get us started" — until a completed Research Brief (Track 1) or Concept Brief (Track 2/3) has actually been supplied in the conversation.**
+
+If no brief is present, the engine's entire response is a refusal plus a request. Nothing else.
+
+## **Why this is a hard gate and not a preference**
+
+When the engine writes without a brief, it fills the gap with the only material it has: general knowledge, plausible-sounding figures, and generic structure. That output *reads* finished. It passes a casual review. And it is exactly how unverified numbers, invented details, and the flat institutional register get into a script — because nothing concrete was ever supplied to displace them. A script written from no brief is not a first draft. It is a fabrication with good formatting, and revising it costs more than starting correctly.
+
+This failure is invisible at the point it happens and expensive three stages later, once a shot list and a voiceover have been built on top of it.
+
+## **The refusal protocol**
+
+If invoked with no brief, respond with exactly this shape and nothing more:
+
+1. State plainly that no Research Brief or Concept Brief is present, so scripting cannot begin.
+2. Name which brief type the topic requires (route by track).
+3. List the specific missing fields, by name, from the relevant brief template.
+4. Offer the one thing that IS allowed without a brief: *helping build the brief itself* — running the research methodology, drafting the Concept Brief, or interrogating a half-finished one.
+
+**Do not** soften the gate by producing "just an outline" or "a structural skeleton to react to." A structure written before the material is known anchors every later decision to a guess.
+
+## **Partial briefs**
+
+A brief missing one or two non-load-bearing fields may proceed, but the engine must name the gaps up front and flag every passage in the delivered script that rests on a gap. A brief missing its Angle Statement (Track 1) or its Mechanic and Invention Premise (Track 2) is not partial — it is absent, and the gate holds.
+
+## **What the engine may never do**
+
+- Invent a figure to fill a hole and mark it `[VERIFY]` — verification-flagged inventions survive into final scripts with remarkable reliability.
+- Proceed because the topic "is well known enough."
+- Proceed because the user asked twice. The second ask is answered the same way as the first, with the brief-building offer repeated.
+
+---
+
+# **FinanceCraft — CP-VERIFY: The Phase Gate & Regeneration Loop**
+
+*Runs at the close of every phase. No phase output is handed forward until its gate returns PASS. This section defines how the engine checks itself and what it does when it fails.*
+
+---
+
+## **The problem this solves**
+
+The engine has been producing self-audits that assert compliance without performing the check. A real example: a delivered script's own audit block claimed 5 `[DATA]` tags when the script contained 7, claimed 4 `[COMPOSITE]` archetypes when only 3 were tagged, and reported per-act word counts that were off by up to 90 words — while every line of the audit read as confident and verified.
+
+That is the failure mode to design against. **An audit that produces a number without counting is worse than no audit**, because it converts an unchecked draft into an apparently-validated one, and everything downstream inherits the false confidence.
+
+So the rule underneath this entire section: **verification means producing the evidence, not producing the verdict.**
+
+---
+
+## **The loop**
+
+Every phase runs the same four steps:
+
+**1. PRODUCE** — generate the phase output.
+**2. VERIFY** — run that phase's checklist below, in full, in writing.
+**3. BRANCH** — all PASS → hand forward. Any FAIL → regenerate.
+**4. REGENERATE** — rewrite only the failing unit, re-verify, repeat. Maximum **two** regeneration attempts per phase.
+
+### How to verify so the check is real
+
+For every checklist item, the engine outputs **three things**: the requirement, the observed value, and the evidence.
+
+```
+REQUIREMENT: Sentences ≤6 words must be ≥38% (Track 2)
+OBSERVED:    47 of 171 sentences = 27.5%
+EVIDENCE:    counted; longest offending run at Act II ¶4 —
+             three consecutive sentences of 22, 26 and 19 words
+VERDICT:     FAIL
+```
+
+**Forbidden verification language**, in any phase: "PASS", "compliant", "verified", "confirmed", "all guidelines followed" — appearing without an observed value and its evidence beside it. A bare verdict is treated as a FAIL regardless of what it claims.
+
+**For any countable item, the count must be produced by scanning the delivered artifact, not recalled from the intention while writing it.** If the engine cannot actually count something reliably, it must say so — *"cannot verify by inspection"* — rather than emit a plausible number. An admitted gap is recoverable; a confident wrong number is not.
+
+### What "regenerate" means
+
+Regeneration is targeted, not total. Rewrite the smallest unit that contains the failure:
+
+- Gate 4 jargon failure in one paragraph → rewrite that paragraph
+- Act III over-length by 40% → restructure Act III
+- Stakes Contract absent → rewrite the opening 80 words
+- Structure fundamentally wrong for the material → the whole draft, back to Step 1
+
+Rewriting the entire script to fix one paragraph usually introduces new failures elsewhere and is a common way for the loop to oscillate without converging.
+
+**After every regeneration, re-run the phase's FULL checklist — not only the item that failed.** Fixes propagate: cutting jargon lengthens sentences, tightening sentences drops concrete nouns.
+
+### The escalation rule — this is the important one
+
+**If a phase fails its gate twice, stop. Do not attempt a third pass. Do not ship the best available version.**
+
+Report to the user:
+1. Which specific gate is failing and the observed value across both attempts
+2. What was changed between attempts and why it didn't resolve it
+3. The engine's diagnosis of *why* — usually one of: the brief lacks the material the gate needs, two guidelines are in genuine conflict, or the topic is a poor fit for the chosen archetype
+4. A specific recommendation — usually either "the brief needs X" or "this needs a different archetype"
+
+Two failures on the same gate almost never means the engine needs another try. It means something upstream is wrong, and further attempts burn effort producing variations on an unfixable draft. **Silently shipping a near-miss after two failures is the single worst outcome available** — it looks like success and defeats the entire gate system.
+
+---
+
+## **Per-phase checklists**
+
+### GATE α — Brief Intake (after CP-INPUT, before anything else)
+- Brief type matches the routed track — state which, and why
+- Every load-bearing field present and non-empty: Track 1 → Angle Statement, Verified Facts w/ citations, Pivotal Detail, Showable Assets. Track 2 → Mechanic, Invention Premise + 4 rejected variants, Constraint, Adversary, World Kit, Quotable Beat
+- Texture Pass yields ≥10 concrete items — **list them, numbered**
+- FAIL → do not regenerate. Return to the user for the missing material. The engine cannot manufacture its way past this gate.
+
+### GATE β — Structure & Divergence (after Step 1, before drafting)
+- Structure named for both drafts, with one-sentence rationale each
+- Drafts diverge on ≥2 of the 4 axes — name the axes explicitly
+- Draft B's risk stated in one sentence: what could go wrong
+- Chronological chosen only with a stated reason nothing else fits
+- FAIL → re-pick structures. This gate is cheap to fail and enormously expensive to skip; a wrong structural choice cannot be edited out later.
+
+### GATE γ — Narration Draft (after Step 3, per draft, independently)
+Run every CP-0 Retention Physics gate with observed values and evidence:
+- **Run `gate_check.py -a <archetype>` and paste its output.** Do not restate the numbers from memory — the bands are archetype-relative and the script is the authority.
+- Median, mean, short-sentence share, long-sentence share, second-person: against **this archetype's band**, not a universal number
+- Jargon per 1,000 ≤ 4.0 (universal) — **list every offending term by name**
+- 12+ char words per 1,000 ≤ 14 (universal)
+- **By eye, not by script:** passages with nothing a camera could photograph. No reliable automated test exists for this; read for it.
+- R3 explainer-paragraph ban — quote any passage of 3+ mechanism sentences with no person, object, consequence or joke
+- R5 device ledger — list each rhetorical device and its count; any count >1 is a FAIL
+- Track 2: Stakes Contract complete within 80 words — **quote the 80 words**
+- Track 2: ledger beats present and identically shaped at every time block
+
+### GATE δ — Tagging & Assets (after Step 4)
+- Every `[COMPOSITE]` / `[CARICATURE]` beat described in prose carries an actual bracket tag — scan the prose for untagged archetype beats, don't assume
+- Every Showable Asset and the Pivotal Detail from the brief is tagged somewhere
+- `[WATERMARK]` spacing ≤3 minutes throughout (Track 2) — compute the gaps from act word counts, don't eyeball
+- Delivery tags present at every genuine energy shift
+- Tag counts produced by scanning the delivered script
+
+### GATE ε — Audit Integrity (after CP-2, final gate before handoff)
+This gate audits the audit.
+- Per-act word counts counted from the delivered acts — not asserted
+- Cumulative act timestamps derived from those counts — recompute and compare against any stated timestamps
+- Total word count with tags stripped
+- Every number in the CP-2 block traceable to something actually counted
+- **Self-check: does any figure in this audit block differ from what a fresh count of the delivered script would produce?** If unsure of any figure, mark it "unverified" rather than stating it.
+- FAIL → the audit block is rewritten. The script itself may be fine; a wrong audit is still a blocking failure because everything downstream trusts it.
+
+---
+
+## **Honest limitation — read this before relying on the loop**
+
+Self-verification is weakest at exactly the thing that has already failed here: mechanical counting. A language model asked to count tags in its own 2,000-word output will often produce a plausible number rather than a correct one, and asking it to "check carefully" does not reliably fix that.
+
+This section reduces the failure rate — mainly by demanding evidence alongside every verdict, which makes fabricated counts harder to produce casually. It does not eliminate it.
+
+**For anything genuinely numeric — word counts, sentence-length distributions, jargon density, tag counts, act allocations — run an external script over the delivered file.** A twenty-line counter is definitive where self-audit is probabilistic. Treat GATE γ and GATE ε self-reports as a first filter that catches obvious failures, and the external count as the thing that actually decides.
+
+The gates that self-verification handles *well* are the judgement calls: is this passage an explainer paragraph, is this device repeating, is Draft B actually a swing, does the Stakes Contract really state a penalty. Those are the ones to lean on.
+
+---
+
+# **FinanceCraft — Retention Physics (MEASURED STYLE GATES — CP-0)**
+
+*This section outranks every stylistic instruction elsewhere in this document. It was derived by measuring the seven benchmark transcripts directly, not by intuition. A script that violates these gates is rejected and rewritten before any other check runs.*
+
+---
+
+## **Why this section exists**
+
+The engine's prose kept drifting into a formal, academic, "written" register despite instructions saying "be fun and witty." Instructions expressed as adjectives do not constrain output. These are expressed as numbers, because numbers constrain output.
+
+**Measured across the seven benchmark videos vs. a failing in-house draft:**
+
+| Metric | Benchmark range | Benchmark median | Failing draft | Verdict |
+| ----- | ----- | ----- | ----- | ----- |
+| Mean sentence length (words) | 7.6 – 16.9 | 11.7 | 12.7 | borderline |
+| **Median sentence length** | **6 – 15** | **11** | **12** | borderline |
+| **Short sentences (≤6 words)** | **14% – 52%** | **28%** | **21%** | **too few** |
+| Long sentences (≥25 words) | 1% – 21% | 5% | 7% | borderline |
+| **Jargon terms per 1,000 words** | **0.0 – 4.1** | **1.8** | **26.8** | **CATASTROPHIC — 6.5× worst benchmark** |
+| **Words ≥12 characters per 1,000** | **4.2 – 13.5** | **9.0** | **28.3** | **CATASTROPHIC — 2.1× worst benchmark** |
+| Second-person hits per 1,000 (POV formats) | 57 – 76 | 57 | 36 | too low for Track 2 |
+
+**The finding:** the failing draft was not short on concrete detail (15.1 concrete nouns/1,000 vs benchmark POV's 15.2 — effectively identical). It was burying that detail under six times the abstraction load of any successful video in the niche. "Too technical" is not a vibe. It is a measurable density problem.
+
+---
+
+## **The Gates — archetype-relative, validated against the benchmarks**
+
+**These thresholds were not invented. They are the measured values of the benchmark video for each archetype.** An earlier version of this section used a single universal threshold set; when those were run against the seven benchmark videos, **all seven failed.** A gate that rejects every video you are trying to emulate is not a quality standard, it is a bug. The gates below pass all seven.
+
+Run on spoken narration only — strip `[TAGS]`, act headers and audit blocks before counting. Use `gate_check.py -a <archetype>`.
+
+### Per-archetype bands (from the benchmark for that archetype)
+
+| A# | Archetype | median | mean | ≤6w | ≥25w | you/1k |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | First-Principles Explainer | 13 | 14.1 | 15.8% | 13.3% | 23.0 |
+| 2 | ELI5 Origin Narrative | 8 | 9.0 | 41.8% | 1.7% | — |
+| 3 | Geopolitical Chessboard | 10 | 12.7 | 20.9% | 5.8% | — |
+| 4 | P&L Business Breakdown | 15 | 16.9 | 13.7% | 20.9% | — |
+| 5 | POV Thought Experiment | 7 | 8.7 | 43.1% | 1.5% | 57.4 |
+| 6 | Dual-Character Simulation | 11 | 11.8 | 27.4% | 4.6% | — |
+| 7 | Compounded Playbook | 6 | 7.6 | 52.4% | 0.9% | 75.6 |
+
+**Tolerance is asymmetric.** Drifting *toward* the benchmark's register is free. Drifting away fails: median +3 words, mean +3.0, short-sentence share −8pp, long-sentence share +4pp, second-person −12/1k.
+
+**Why per-archetype and not universal:** sentence metrics vary enormously by format and legitimately so. Mr. Finance runs a 16.9-word mean across 23 minutes and it works — a P&L breakdown needs clauses to carry a cost structure. LITTLE BIT BETTER runs 7.6 and that works too. The spread across archetypes is 2.2× on mean length and 23× on long-sentence share. Any single number is wrong for six of the seven.
+
+**Pick the archetype before writing, not after.** The bands only mean something if the archetype is chosen deliberately in Step 1.
+
+### The two universal gates
+
+These are the ones that held across every archetype, and they are the ones the engine actually fails:
+
+**JARGON ≤ 4.0 per 1,000 words.** Measured maximum across all seven benchmarks: **2.2**. Minimum: 0.0. Two of the seven contain literally none. The failing in-house draft measured **22.1** — ten times the worst benchmark. This single metric explains most of what "too technical" means.
+
+**12+ character words ≤ 14 per 1,000.** Benchmark range 4.1 – 12.8. Failing draft: **28.5**.
+
+Format does not excuse either. A 23-minute P&L breakdown with 16.9-word sentences still keeps jargon at 1.2.
+
+### Demoted checks — honest about what cannot be automated
+
+**Concrete-noun runs (formerly GATE 7): not mechanically checkable.** The original implementation matched against a hand-written vocabulary list, which measured "contains a word from my list" rather than concreteness. It flagged 132 consecutive sentences in a video full of kitchens and houses. The metric was invalid and has been removed rather than left in to be ignored. Read for it by eye instead: passages with nothing a camera could photograph. The failure it was trying to catch is real; the test was not.
+
+**Raw decimals: advisory, not a gate.** This is a text-to-speech artifact, not a writing-quality signal. The benchmarks are human-voiced and contain raw decimals freely. It still matters for us because our VO is synthetic, so `gate_check.py` reports it as a note before voicing.
+
+### The Jargon List (Gate 4 reference — these words cost you)
+
+Every one of these appeared in the failing draft and in **none** of the seven benchmark videos. Treat each as a fail unless it is the actual subject of the episode and is defined by physical demonstration within one sentence:
+
+`macroeconomic · programmatic · algorithmic · autonomous · protocol · infrastructure · architecture · authentication · consolidate · telecommunications · neurochemistry · down-regulate · up-regulate · hedonic set-point · variable-ratio · reinforcement schedule · empirical · randomized evaluation · standard deviations · sigma · hysteresis · liquidity · velocity · contraction · exposure · leveraged · restructuring · circulatory · conversion · impressions · sovereignty · mandates · reclassifying · decentralized · multi-carrier · substitution · cognitive · equilibrium · subjective indices · systemic*`
+
+*\*`systemic` is the one permitted exception, and only in the way My Chaotic Stories used it: isolated as a one-word sentence after the plain-language version has already landed. Never as a modifier inside a longer clause.*
+
+**The substitution discipline:** every one of these has a spoken-register replacement.
+- "liquidity freeze" → "the money stopped moving"
+- "customer acquisition costs explode" → "it now costs four times as much to find one buyer"
+- "down-regulated D2 dopamine receptors" → "your brain turned down the volume on pleasure, and it hasn't turned it back up"
+- "informal commerce velocity contracts 65 percent" → "two out of every three street sales just stop"
+- "hysteresis" → "it never goes back"
+- "0 point 19 standard deviations" → cut the number entirely, or say "people simply knew less about the news, and the gap was real but small"
+
+---
+
+## **The Register Rules (qualitative, enforced by the gates above)**
+
+**R1 — One idea per sentence.** If a sentence contains a comma followed by a clause that introduces a second concept, split it.
+
+**R2 — Never define, always demonstrate.** The failing pattern is: *name the thing → define the thing → give the consequence.* The benchmark pattern is: *show the consequence → name the thing afterwards, briefly, almost as an aside.* Martik Finance explains supply and demand for two full sentences before ever using the phrase. Logical Money teaches illiquidity without ever saying the word — "Ryan cannot sell 8% of the kitchen."
+
+**R3 — The explainer-paragraph ban.** No paragraph may run three or more sentences of pure mechanism with no person, object, consequence, or joke in it. If the draft contains a passage that reads like an encyclopedia entry with "you" inserted, it is a fail regardless of accuracy.
+
+**R4 — Numbers arrive alone or not at all.** Never stack three statistics in consecutive sentences. One number, isolated in a short sentence, framed by what it means physically. If three numbers are genuinely needed, they must be spread across three different beats with story between them.
+
+**R5 — One device, one use.** A rhetorical device (myth-vs-reality reversal, "conventional wisdom says X, the math says otherwise", the corrective restatement) may be used **once per script**. The second use is a pattern; the third is a tic and the viewer disengages. Track device usage explicitly in the audit block.
+
+**R6 — Bare noun-phrase section markers are permitted and encouraged in Track 2.** "Luxury goods." "Gold." "Art." A two-word fragment that announces a new category is a legitimate sentence in this format.
+
+**R7 — The technical label goes last, and gets deflated.** Lock Stock Finance: "Economists sometimes call this dynamic a currency war. Nobody's shooting, but everyone's trying to make their exports cheaper." Name it, then puncture it.
+
+---
+
+## **Track 2 — The Stakes Contract (POV / Hypothetical only)**
+
+The benchmark POV video states its **entire premise, deadline, penalty, working rules, and adversary within the first 70 words.** The failing draft took 400 words to establish that the outage was even global, and never stated rules or a penalty at all.
+
+**Mandatory: by word 80, the viewer must know all five of:**
+1. What just happened (one sentence, no scene-setting)
+2. The clock (how long)
+3. The penalty (what is lost if it runs out)
+4. The rules (what is and isn't allowed inside the scenario)
+5. The adversary (the thing working against you while you act — compounding interest, spreading failure, a closing window)
+
+If the scenario has no natural penalty or adversary, **invent one and state it** — a countdown with no stake is not a ticking clock, it is a calendar.
+
+**Ledger beats are mandatory for countdown formats.** At the end of each major time block, restate position in a fixed, repeated format the viewer learns to expect: *"End of day two. 25 billion dollars spent. 975 billion remaining. Interest accrued while you were buying: 272 million."* Same shape every time. This is the retention spine of the entire archetype.
+
+---
+
+## **Real Named Entities in Track 2 — permitted**
+
+The engine has been over-cautious here. The benchmark POV video names Patek Philippe, Bugatti, Koenigsegg, Christie's, ADM, Bunge, Cargill, Louis Dreyfus, Apple, Microsoft, Nvidia, the SEC, the IMF, the NYSE, Euronext and Argentina — freely, throughout, with dollar figures attached.
+
+**Rule:** in a scenario explicitly framed as hypothetical, real companies, products, places and institutions may be named as *objects the scenario acts upon*. What remains forbidden is exactly what the Style Bible already forbids: inventing quotes, inner monologue, or wrongdoing for a real named person or company. Buying Cargill in a thought experiment is fine. Alleging Cargill did something is not.
+
+---
+
 # **FinanceCraft — Script Generation Prompt**
 
 *Feed this prompt, along with a completed Research Brief or Concept Brief, to generate the narration script. Attach the Style Bible too — the caricature, tone, and editorial rules apply while writing, not just while producing visuals.*
@@ -446,6 +772,12 @@ Competitor intelligence across outlier videos (*MagnatesMedia, Crayon Capital, T
 You are writing the narration script for a FinanceCraft episode. Your overarching directive is to craft a **fun, visually electric, witty, and deeply informative video**. We are NOT a stuffy corporate boardroom, a legal deposition office, or a dry academic seminar. Write with natural swagger, relatable humor, and visceral metaphors.
 
 ## **Step 0 — Track Classification & Format Routing (CRITICAL FIRST STEP)**
+
+**Precedence order on every invocation:**
+
+`CP-INPUT (brief present?) → GATE α → Step 0 (track) → Step 1 → GATE β → Steps 2-3 → GATE γ → Step 4 → GATE δ → CP-3 (twin drafts) → CP-2 (audit) → GATE ε → handoff`
+
+Each GATE is a CP-VERIFY checkpoint: produce, verify with evidence, and regenerate on failure — maximum two attempts, then escalate to the user rather than shipping a near-miss. If CP-INPUT fails, stop there and refuse; do not classify, do not outline, do not draft.
 
 Before writing a single word, classify the topic into one of two tracks:
 
@@ -458,6 +790,7 @@ Before writing a single word, classify the topic into one of two tracks:
 * **Track 2: "The Hypothetical" & Macro Thought Experiments (Speculative / What-If Simulations):**
   - *Topics:* *The Thirty-Day Blackout*, *What If You Had $1 Trillion*, *What If Commercial Banks Froze*, *The Day Money Dies*.
   - *Format:* Second-person POV immersion ("You"), ticking countdown clocks, composite characters (`[COMPOSITE: <role>]`), telemetry HUDs, and recurring `[WATERMARK: HYPOTHETICAL SCENARIO]` overlays.
+  - **CREATIVE MANDATE:** Track 2 is a fiction format with an honest mechanic at its centre. Invent people, places, objects, dialogue and escalation freely and specifically — the Invention Protocol governs this. The only locked layer is the mechanic and its anchoring figures. Over-applying documentary caution here is a failure mode, not a safety measure: it produces careful, generic scenarios nobody finishes watching.
   - **STRICT PROHIBITION:** **NEVER force SEC Form 10-K filings, court dockets, PACER records, or corporate fraud litigation framing onto a thought experiment.** Doing so creates a dry, formal, nonsensical video and constitutes an automatic engine failure.
   - *Execution:* **Route immediately to `# FinanceCraft — "The Hypothetical" Script Generator (Lines 516+)` and `Archetype 5: The POV Thought Experiment (Lines 797+)`.**
 
@@ -508,6 +841,11 @@ Draft this step last, not first. It's easier to write a genuinely sharp opening 
 * **Spoken Conversational Pivots:** Actively favor forward-driving, conversational signposts (*"Here's what actually happened,"*, *"Now look at the numbers,"*, *"And this is where things get weird,"*, *"To see why, follow the money"*) over formal, academic prose transitions (*"Furthermore,"*, *"Consequently,"*, *"Moreover,"*). Spoken narration thrives on sounding like a sharp, engaging investigative narrator explaining a case across a desk, rather than an academic reading a prepared paper.  
 * **Visceral Physical Grounding (The "Popcorn & Delivery Van" Rule):** Abstract accounting nouns (*inventory write-downs, gross margin compression, cash burn, working capital deficits*) risk losing viewer engagement if left as floating spreadsheet metrics. Narration is strongly encouraged to anchor these abstractions to concrete physical objects, visceral human actions, or real-world friction (e.g., *"losing $196 every time a bike was loaded onto a delivery van"*, *"pallets of unsold metal frames stacked to the ceiling in Ohio warehouses"*, or *"spending more on marketing than it cost to build the factory"*). Physical grounding turns sterile arithmetic into immediate visual realization.  
 * **Relatable Micro-Humor & Everyday Reality Checks (The "Cereal Box" Principle):** Ground corporate absurdity with dry, relatable everyday observations, especially across Act I and Act II. Weaving in 1 or 2 understated, humanizing reality checks (e.g., a $2,500 high-tech touchscreen bike quietly becoming the household's most expensive clothes drying rack) punctures boardroom marketing spin, provides natural breathing room between dense financial calculations, and builds an authentic bond with the viewer.  
+* **CP-0 Retention Physics gates are binding here.** Before considering this step complete, the draft must satisfy every gate in the Retention Physics section. Those gates outrank the guidance in this step wherever they conflict.
+* **The explainer-paragraph ban (R3).** The most common failure mode is a passage that is accurate, well-organised, and dead — three or more consecutive sentences of pure mechanism with no person, object, consequence, or joke. Mechanism must be married to consequence in the same breath, or delivered as a reveal, never as a definition.
+* **Show the consequence before naming the thing (R2).** Do not write "X is called Y, and it works by Z, which means W." Write "W happened. That's Y." The benchmark set does this without exception.
+* **One device, one use (R5).** Myth-vs-reality reversals, "conventional wisdom says / the math says otherwise", corrective restatements — pick each up once per script and put it down.
+* **Numbers arrive alone (R4).** Never three statistics in consecutive sentences. Isolate one, ground it in something physical, move on.
 * No unexplained jargon. If a technical or financial term is genuinely necessary (a covenant, a write-down, gross margin), define it in plain language the moment it first appears rather than assuming the audience already knows it — a documentary that has to be paused and looked up has already lost the viewer. This isn't about dumbing down the story; it's about never making the audience feel like they walked in without the prerequisite.  
 * Use genuine rhetorical questions as a pacing device, not just narration statements. Pose a question the audience is likely already wondering, then answer it in the sentences that follow — "why did the cash burn accelerate as production scaled up?" reads as a person thinking out loud, not a lecture. Don't overuse this; a few well-placed questions per script, not one per paragraph.  
 * For a single hard-hitting number or fact, isolate it in its own short sentence rather than burying it in a longer one, or use a corrective restatement — state a plausible-sounding wrong scale first, then correct it with the real figure ("not months — years"). This is how spoken emphasis actually lands; adjectives and intensifiers ("shockingly," "incredibly") do this job far less effectively than sentence structure does.
@@ -532,15 +870,75 @@ Also tag delivery/energy shifts for the narrator — `[TENSE]`, `[WRY]`, `[SOMBE
 
 End on a thematic or reflective button. Don't write the subscribe/sign-off CTA — that's a standardized block added separately at the production stage, not part of the story itself.
 
+---
+
+## **CP-3 — The Twin Draft Protocol (mandatory output requirement)**
+
+**Every scripting invocation produces TWO complete, fully-written scripts from the same brief — never one.**
+
+Not a draft and a variant. Not one script with alternate hooks bolted on. Two independent scripts that make genuinely different bets on the same material, each complete enough to shoot.
+
+### Why two
+
+A single script is unfalsifiable. There is nothing to compare it against, so review collapses into line-editing whatever arrived — and the structural choice, which is the decision that actually determines retention, never gets examined at all. Two scripts convert a vague "is this good?" into a concrete "which one, and why?" That is a question that can actually be answered, and the answer teaches the engine something for next time.
+
+It also protects against the failure mode this engine is most prone to: the competent, safe, chronological version that is impossible to object to and impossible to be excited by.
+
+### The divergence requirement
+
+The two drafts must differ on **at least two of these four axes**, and the engine must state which axes it chose:
+
+1. **Structure** — different entries from the Step 1 menu. If Draft A is a ticking clock, Draft B is not a ticking clock.
+2. **Point of entry** — a different moment in the story opens the video. Not a rewritten hook on the same opening beat; a genuinely different beat.
+3. **Protagonist or lens** — whose experience carries the narrative. The operator vs. the customer, the insider vs. the regulator, the system vs. the individual inside it.
+4. **Emotional register** — one draft leans wry and absurd, the other tense and consequential. Both are permitted in this niche; they produce very different videos.
+
+**Not acceptable as divergence:** different word choices, a reordered middle, a different closing line, or the same script at two lengths.
+
+### Deliberate asymmetry — the Safe Draft and the Swing Draft
+
+Label them explicitly:
+
+- **Draft A — The Safe Take.** The structure most likely to perform reliably for this material. Conventional in shape, excellent in execution. This is the one that ships if there is no time to think.
+- **Draft B — The Swing.** The riskier structural bet — the one that could outperform Draft A substantially or could not work at all. Reverse chronology on a story everyone tells forward. A single object narrating a whole collapse. The antagonist's point of view. A format borrowed from a different archetype entirely.
+
+**Draft B must take a real risk.** If both drafts feel equally safe, Draft B has failed its purpose and must be rewritten. The engine should be able to name, in one sentence, exactly what could go wrong with Draft B — if it can't, it isn't a swing.
+
+### Both drafts are held to every gate
+
+CP-0 Retention Physics, CP-2 audit block, tagging, decimal normalisation — both scripts, in full, separately. The Swing is not exempt from the gates because it is experimental. Experimental structure, disciplined prose.
+
+### Output order
+
+1. A short comparison table: Draft A vs Draft B across the chosen divergence axes, plus one line on what each is betting on
+2. Draft A, complete, with its own audit block
+3. Draft B, complete, with its own audit block
+4. **The engine's own recommendation and reasoning** — state which draft to shoot and why, in three or four sentences. Do not present the two neutrally and leave the choice hanging; a recommendation that can be disagreed with is more useful than balanced silence.
+
+
+
 ## **Output format**
 
 1. Chosen structure + one-sentence rationale  
 2. **Mandatory Script Sanity Check Audit Block (CP-2 Enforcement):**
-   - Exact Spoken Word Count ($W$)
+
+   **2a. RETENTION PHYSICS GATES (CP-0 — report these FIRST; any fail blocks handoff):**
+   - **Archetype declared**, then `gate_check.py -a <n>` output pasted verbatim
+   - Median / mean / short / long / second-person — against this archetype's measured band (see CP-0 table)
+   - Jargon per 1,000 ≤ 4.0 (universal) — **list every offending term found**
+   - Words of 12+ characters per 1,000 ≤ 14 (universal)
+   - Concrete grounding — read by eye and quote any passage running long with nothing photographable in it. Not mechanically checkable; do not report a number for this.
+   - Rhetorical-device ledger: list each device used and its count. Any device used more than once is a FAIL under R5.
+   - Track 2 only — Stakes Contract check: confirm premise, clock, penalty, rules and adversary are all present within the first 80 words, and quote them.
+
+   *These are counted on spoken narration with all `[TAGS]`, headers and audit text stripped. Do not estimate — count. A self-reported count that does not match the delivered script is itself an engine failure.*
+
+   **2b. Structural checks:**
+   - Exact Spoken Word Count ($W$) — counted with tags stripped
    - Calculated Narration Runtime ($T = (W / 155) \times 60$ seconds)
    - Runtime Window Verification ($12\text{ to }15\text{ minutes} \implies 1,860 \le W \le 2,325\text{ words}$)
-   - 5-Act Structural Runtime Allocation (Target: Act I ~15-20%, Act II ~25%, Act III ~25%, Act IV ~20%, Act V ~10-15%)
-   - Inline Asset Tag Audit (Count of `[SHOWABLE]`, `[PIVOTAL]`, `[MAP]`, `[CARICATURE]` or `[COMPOSITE]`, `[DATA]`)
+   - 5-Act Structural Runtime Allocation (Target: Act I ~15-20%, Act II ~25%, Act III ~25%, Act IV ~20%, Act V ~10-15%) — **per-act word counts must be counted from the delivered acts, and cumulative act start-timestamps must be derived from those counts, not asserted**
+   - Inline Asset Tag Audit (Count of `[SHOWABLE]`, `[PIVOTAL]`, `[MAP]`, `[CARICATURE]` or `[COMPOSITE]`, `[DATA]`, `[REMOTION]`, `[WATERMARK]`) — **counts must be produced by scanning the delivered script; every composite/showable beat referenced in prose must carry an actual bracket tag**
    - Decimal Normalization Audit (Confirmation that all decimal numbers use phonetic "point", e.g. `1 point 2`, with zero raw numeric periods `X.Y`)
 3. The full narration script, natural paragraph breaks matching spoken pacing, with inline tags  
 4. Handoff confirmation: Script verified mathematically compliant for Phase 4 beat breakdown ($B_{target} = \text{round}(T/3.5)$ beats, based on $2.5\text{s} - 4.0\text{s}$ average shot pacing).  
@@ -556,6 +954,67 @@ End on a thematic or reflective button. Don't write the subscribe/sign-off CTA �
 - **Real-world reference figures** — typical interest rates, loan terms, price points, timelines — realistic numbers to ground the invented scenario, verified accurate to how the mechanic actually works. This is the one piece of "research" this format needs: confirm the math or mechanism is genuinely correct, not sourced to a specific case.
 - **The angle** — what's counter-intuitive or underappreciated about this mechanic that makes it worth a full episode.
 - **The takeaway** — what a viewer should understand or feel by the end.
+- **The invention premise** — the chosen premise variant from the Invention Protocol, plus the four rejected ones and why they were weaker. Load-bearing: a Concept Brief without this field is treated as absent under CP-INPUT.
+- **The constraint** — the rule that makes the obvious path impossible, and the adversary that acts while the protagonist does.
+- **The world kit** — three named places, three recurring objects, one recurring human figure, one absurd detail per act.
+- **The quotable beat** — the single moment a viewer would repeat to someone the next day.
+- **The third-order chain** — for the two most important beats, the consequence chain pushed three steps past the obvious.
+
+
+---
+
+## **The Invention Protocol (Track 2 — replaces research, does not skip it)**
+
+Track 2 skips primary-source excavation. It does **not** skip preparation. What Phase 2 is to a case autopsy, this is to a thought experiment — and it is the step whose absence produces generic, forgettable hypotheticals.
+
+A thought experiment fails when it is *reasonable*. "What if social media went down for 30 days" is a premise a hundred people have had. The work is finding the version of it nobody has staged.
+
+### 1. Push the premise past reasonable
+
+Generate **at least five premise variants** before committing, and deliberately overshoot in at least two:
+
+- **The constraint twist** — add a rule that makes the obvious path impossible. Not "you have a trillion dollars" but "you have a trillion dollars and seven days and you may not give any of it away." The constraint is what generates every interesting beat; a scenario without one is a description.
+- **The wrong protagonist** — tell it from the position nobody picks. The outage from inside the network operations centre. The bank run from the teller's window. The bubble from the auditor who signed off.
+- **The inversion** — instead of the collapse, the recovery. Instead of the winner, the person who called it right two years early and got fired for it.
+- **The absurd literalisation** — take an abstraction and make it a physical object with weight and a location. Where is the money, physically? What does it weigh? Who is holding it?
+- **The compressed clock** — take something that takes a decade and force it into a week. Take something instantaneous and stretch it across a year.
+
+State the five, pick one, and say in a sentence why the other four are weaker. That sentence is usually where the real angle surfaces.
+
+### 2. Build the world before writing a line of narration
+
+Invented does not mean vague. The benchmark POV video is relentlessly specific — a 42-acre rock off Norway with no fresh water, a man in a suit with a briefcase who appears every morning and whom you stop noticing by day three. None of that is verifiable. All of it is concrete.
+
+Before scripting, invent and write down:
+
+- **Three named places** with one distinguishing physical feature each
+- **Three objects** that recur across the scenario — something the viewer sees more than once and learns to read
+- **One recurring human figure** who says almost nothing and is never explained
+- **One absurd true-feeling detail** per act — the thing a viewer would repeat to a friend
+- **The adversary's behaviour** — what the clock, the interest, the spreading failure is doing while the protagonist acts, expressed as a number that moves
+
+### 3. The mechanic stays honest — everything else is yours
+
+This is the line, and it is the only one:
+
+- **Locked:** the financial or physical mechanic being taught, and any real-world figure used to anchor it. Interest compounds correctly. Ports have real throughput limits. Markets halt at real thresholds. Get these wrong and the video is worthless regardless of how good the prose is.
+- **Free:** people, companies, dialogue, places, objects, escalation order, tone, structure, the specific shape of every failure. Invent boldly here. Timidity in this layer is the reason hypotheticals come out sounding like textbook worked examples.
+
+The engine has been over-applying documentary caution to a fiction format. A composite character in a labelled hypothetical is not a factual claim, and treating it as one produces a scenario too careful to be interesting.
+
+### 4. Second-order consequences are the whole format
+
+First-order consequences are what the viewer already predicted. The video exists in the second and third order.
+
+For each major beat, force the chain three steps out:
+*The feed goes down* → *logins break* (first order, predictable) → *a warehouse cannot dispatch because its 3PL portal authenticates through the same provider* (second order) → *a pallet of frozen goods sits on a loading dock in Rotterdam and the spoilage claim is denied because the contract requires digital proof of handover* (third order — this is the beat worth filming).
+
+Stop at the first order and the video is a list of things the viewer already assumed. Push to the third and you have a scene.
+
+### 5. The interest test
+
+Before committing to the Concept Brief, answer honestly: **what is the single beat in this scenario a viewer would describe to someone else the next day?** If there isn't one, the premise is not ready — return to step 1. Every benchmark video has one: the ring count, the 8% of the kitchen, the popcorn as the actual product.
+
 
 ## Step 1 — Pick a structure, and say which one
 
@@ -587,14 +1046,19 @@ End on the takeaway from the Concept Brief, stated through the story rather than
 
 ## Output format
 
-1. Chosen structure + one-sentence rationale
-2. The full narration script, tagged, with the mechanic's key numbers verified internally consistent
-3. Word count and estimated runtime at 155 wpm
+**CP-INPUT applies: no Concept Brief, no script. CP-3 applies: two complete drafts, never one.**
+
+1. Divergence table — Draft A (Safe Take) vs Draft B (Swing), naming the two-plus axes they differ on and what each is betting on
+2. Draft A: chosen structure + rationale, full tagged narration, full CP-2 audit block including CP-0 gates
+3. Draft B: same, complete and independently gated
+4. The engine's recommendation on which to shoot, with reasoning — and one sentence naming exactly what could go wrong with the Swing
 
 
 ---
 
 # **FinanceCraft — Benchmark Script & Narration Archetypes (Reference Transcripts & Prompt Engine)**
+
+> **⚠ EXCERPT INTEGRITY NOTE (resolved 2026-09-19):** An audit against the actual uploaded transcripts found that 25 of the 28 "Verbatim Transcript Reference Excerpts" previously in this library were fabricated or heavily paraphrased — written in a more formal, Latinate register than the real videos. Because these excerpts are the engine's calibration layer for *voice*, the engine was learning the wrong register from them, which is the root cause of scripts reading academic despite instructions to the contrary. All excerpts below have been replaced with verified verbatim text and annotated with register notes. **Never add an excerpt to this library that has not been verified against a real transcript.** A paraphrase in this section is worse than no excerpt at all.
 
 > **Architectural Purpose & Core Protocol**  
 > Great financial storytelling is not one-size-fits-all. A forensic SEC autopsy requires a different rhetorical grammar than a deep-tech semiconductor breakdown, an absurdist trillion-dollar thought experiment, or a personal financial simulation.  
@@ -638,17 +1102,21 @@ End on the takeaway from the Concept Brief, stated through the story rather than
 
 ### 2. Verbatim Transcript Reference Excerpts
 
-> **The Sensory Friction Hook (0:00 – 0:45):**
-> *"You land in a new country, your phone's about to die, and you need cash. So, you walk up to that little booth at the airport, hand over $100, and get back less than you expected. Way less. Was it robbery? Not exactly. But you just met one of the most misunderstood systems in the entire global economy. And by the end of this video, you'll understand it better than most people who work in finance."*
+> **The Sensory Friction Hook (0:00 – 0:20) — VERIFIED VERBATIM:**
+> *"You land in a new country, your phone's about to die, and you need cash. So, you walk up to that little booth at the airport, hand over $100, and get back less than you expected. Way less. Was it robbery? Not exactly. But, you just met one of the most misunderstood systems in the entire global economy."*
+> **Register note:** 8 sentences, 63 words — mean 8 words/sentence. Two-word sentence fragment ("Way less.") doing the emphasis work. Zero jargon before the 60-word mark.
 
-> **The First-Principles Model — Engine 1: Trade (1:15 – 2:05):**
-> *"Imagine two countries, let's call them Country A and Country B. Country A makes great cars, and Country B wants to buy them. But here's the catch: the car manufacturer in Country A doesn't want Country B's currency. They need their own currency to pay workers, suppliers, and taxes. So before Country B can buy a single car, they have to go to the global market and trade their currency for Country A's currency. That simple act creates demand for Country A's money. And just like anything else in economics, when demand goes up, the price goes up."*
+> **The Numbered Engine Build (≈3:20) — VERIFIED VERBATIM:**
+> *"Let's build the mechanism from the ground up. If everyone suddenly wants euros, and nobody wants to sell them, the price of euros goes up. If everyone's trying to dump euros, and nobody wants to buy, the price drops. Simple. The interesting part is why people suddenly want more or less of a currency. There are four big engines behind that. Engine one, interest rates."*
+> **Register note:** the mechanism is built from a concrete if/then pair BEFORE any term is named. "Simple." is a one-word reset beat. The taxonomy ("four big engines") is announced only after the reader already feels the mechanic.
 
-> **The Speculative Reality — Engine 4: Market Bets (5:20 – 6:10):**
-> *"Engine four: speculation and capital flows. This is the one that makes currencies move minute by minute. Over five trillion dollars trades on the foreign exchange market every single day. And the vast majority of that is not tourists buying souvenirs or companies buying steel. It's traders and financial institutions betting on what is about to happen next. If traders believe a country's economy is about to stumble, they sell the currency ahead of time. The expectation of weakness creates the actual weakness."*
+> **The Intuition Break (≈6:30) — VERIFIED VERBATIM:**
+> *"You'd assume a strong currency is always the goal, right? Not necessarily. A weaker currency makes a country's exports cheaper for everyone else to buy, which is great if you're trying to sell goods abroad... Economists sometimes call this dynamic a currency war. Nobody's shooting, but everyone's trying to make their exports cheaper than the next country's."*
+> **Register note:** the technical label ("currency war") arrives AFTER the plain-language explanation and is immediately deflated by a joke. Never the reverse order.
 
-> **The Philosophical Payoff / Conclusion (9:45 – 10:20):**
-> *"A currency is not a static number carved into stone. It is a living, continuous tug-of-war between trade balances, central bank interest rates, inflation, and millions of humans betting on the future. The next time you look at that airport booth, you aren't looking at an arbitrary price. You're looking at the consensus of the entire planet."*
+> **The Callback Close (≈10:00) — VERIFIED VERBATIM:**
+> *"So, the next time you check an exchange rate, you're looking at a real-time snapshot of the largest market on Earth. A continuous tug-of-war between interest rates, trade, inflation, and millions of people betting on what happens next."*
+> **Register note:** the close resolves the airport-booth image opened in the hook. One metaphor ("tug-of-war"), not three.
 
 ### 3. Dedicated Script Generator Prompt
 
@@ -688,17 +1156,21 @@ INPUTS:
 
 ### 2. Verbatim Transcript Reference Excerpts
 
-> **The Status Paradox Hook (0:00 – 0:35):**
-> *"This dishwasher boy built a three trillion dollar empire from the table of a Denny's diner. He pitched the business plan over cheap coffee in 1992, and 34 years later, his company makes twenty million dollars every single hour. But Nvidia wasn't supposed to win. In fact, Nvidia almost went bankrupt three separate times. And the secret to how they conquered the world isn't about graphics at all. It's about a twenty-year gamble that everybody in Silicon Valley thought was insane."*
+> **The Status Paradox Hook (0:00 – 0:25) — VERIFIED VERBATIM:**
+> *"This dishwasher boy built a $5 [trillion] empire from the table of a Denny's diner. He pitched the business plan over cheap coffee in 1992, and 34 years later, his company makes $20 [million] every single hour. Not from the safe bet, but from a gamble nobody believed in that crushed entire industries..."*
+> **Register note:** occupation + physical location ("dishwasher boy", "Denny's diner", "cheap coffee") before any company name. The hook is an image, not a thesis.
 
-> **The Visceral Hardware Metaphor — CPU vs GPU (4:10 – 5:15):**
-> *"To understand why Nvidia is winning the AI revolution, you have to understand the difference between two pieces of silicon: the CPU and the GPU. A CPU is like one very smart employee doing tasks one by one, extremely fast. Think of a genius math professor who can solve complex calculus equations in seconds. But a GPU? A GPU is like ten thousand elementary school kids all doing simple addition at the exact same time. For writing a Word document or running an operating system, you want the professor. But for rendering a three-dimensional video game—or training a massive neural network—you don't need one genius doing calculus. You need millions of tiny numbers calculated simultaneously. Jensen built the ultimate playground for the elementary school kids."*
+> **The Stakes Restated as an Object (≈9:10) — VERIFIED VERBATIM:**
+> *"For the first time, they can use a gaming chip like a supercomputer. We don't know what they'll build with it. But when they build something important, it will run on us. If they build nothing, we still have the best gaming cards in the world and a $500 million science project. We've survived worse."*
+> **Register note:** the strategic bet is expressed as a plain either/or a person could say out loud. "We've survived worse." — four words, carries the entire risk posture.
 
-> **The Software Moat — CUDA (8:30 – 9:45):**
-> *"Jensen realized something in 2006 that would change computing history: hardware without software is just expensive sand. He created CUDA, a programming language that let regular software developers talk directly to the GPU. Wall Street hated it. It cost Nvidia hundreds of millions of dollars every single year, crushing their operating margins. Analysts demanded that Jensen kill the project. He refused. And for ten years, CUDA was a money pit. Until 2012, when AI researchers realized that the only chips on planet Earth that could run deep learning were already programmed in CUDA. By the time Intel and Google realized what was happening, switching away from Nvidia wasn't just hard—it was suicide."*
+> **The Waiting Beat (≈9:40) — VERIFIED VERBATIM:**
+> *"Six years passed. The gaming business kept printing money. CUDA kept printing almost nothing. And Jensen kept waiting for the problem big enough to prove him right. Then, in Toronto, someone found it. It's 2012."*
+> **Register note:** the time-skip is three words. Parallel structure ("kept printing / kept printing / kept waiting") then a hard cut to a place and a year. This is how to compress years without an expository paragraph.
 
-> **The Climax & Founder Will (13:40 – 14:15):**
-> *"Every single bet looked completely irrational from the outside. And every single bet paid off. When asked how Nvidia survived against giants ten times its size, Jensen gave the only answer that matters: 'My will to survive exceeds everybody else's will to kill me.'"*
+> **The Climax & Founder Will (≈14:00) — VERIFIED VERBATIM:**
+> *"Not bad for a company that once had 30 days of cash left and one very wrong chip. None of it was supposed to work. Every single bet looked insane from the outside, and every single one paid off. As what he himself said: 'My will to survive exceeds everybody else's will to kill me.'"*
+> **Register note:** the sourced quote is the last thing in the video. It is never paraphrased or introduced with a citation frame.
 
 ### 3. Dedicated Script Generator Prompt
 
@@ -739,17 +1211,21 @@ INPUTS:
 
 ### 2. Verbatim Transcript Reference Excerpts
 
-> **The Systemic Truth Hook (0:00 – 0:40):**
-> *"Did you know that there's a system running the world controlling everything from prices to energy to government policy? And no, it's not the banking system. It's not a secret society. It's an agreement forged fifty years ago in a back room that turned green pieces of American paper into the undisputed lifeblood of global civilization. If you don't understand how the petrodollar works, you don't understand modern history."*
+> **The Systemic Truth Hook (0:00 – 0:25) — VERIFIED VERBATIM:**
+> *"Did you know that there's a system running the world controlling everything from prices to energy to government policy? And no, it's not the banking system. It's not the stock market. It's the petrodollar. For over 50 years, it's been shaping our world."*
+> **Register note:** the elimination ladder — name two things the viewer is already thinking, reject both, then name the real one. Three sentences to the reveal.
 
-> **The Sovereign Roleplay — Japan's Oil Trap (2:10 – 3:05):**
-> *"Imagine you're a country like Japan. You have almost zero domestic oil reserves, but you have thousands of factories, bullet trains, and electricity grids that consume millions of barrels of crude every single day. The Saudis have the oil. But when Japan offers to pay in Japanese yen, the Saudis say no. They will only accept United States dollars. So what does Japan have to do? Japan must manufacture consumer cars, electronics, and industrial machinery, export them to America, and earn US dollars—just to turn around and hand those dollars over to the Middle East for crude oil."*
+> **The Historical Turn (≈3:00) — VERIFIED VERBATIM:**
+> *"But in 1973, the world experienced the OPEC oil crisis. This was when Arab oil producing countries stopped selling oil to countries supporting Israel in the Yom Kippur War, including the United States, in order to gain political leverage. This caused oil prices to quadruple, leading to massive shortages and severe inflation in Western economies."*
+> **Register note:** cause → mechanism → consequence, one per sentence. No stacked subordinate clauses.
 
-> **The Circular Petrodollar Recycling Loop (4:15 – 5:20):**
-> *"And what did Saudi Arabia do with those billions of petrodollars piling up in Riyadh? They couldn't just spend them on palaces and luxury cars. They needed a liquid, safe place to park hundreds of billions of surplus capital. So they channeled those dollars right back into the United States, buying US Treasury bonds. Look at the genius of this closed loop: America got cheap foreign oil, America got guaranteed foreign buyers for its national debt, and America could print currency to pay for overseas commitments without triggering catastrophic domestic inflation. It was the ultimate financial perpetual motion machine."*
+> **The Recycling Loop (≈5:10) — VERIFIED VERBATIM:**
+> *"They don't just store piles of cash. They invest it. This is called petrodollar recycling... It becomes a loop. First, countries buy oil with dollars. Second, oil producers earn dollars. Third, oil producers invest those dollars back into US assets. And fourthly, the dollar stays strong."*
+> **Register note:** a circular system is narrated as an explicit numbered loop the viewer can count on their fingers. This is the single most reusable structure in the archetype.
 
-> **The Climax — Sovereign Leverage (7:15 – 7:55):**
-> *"When you control the currency that prices the world's primary energy supply, your national debt isn't just an economic obligation. It is a global tax. And the moment another nation threatens to step outside of that payment architecture, they aren't just changing an invoice. They are declaring war on the reserve status of the United States."*
+> **The Hedged Forecast (≈7:40) — VERIFIED VERBATIM:**
+> *"It's a gradual shift, not a revolution."*
+> **Register note:** the whole geopolitical forecast lands in seven words. Compare to an academic hedge ("the transition appears likely to proceed incrementally rather than abruptly") — same content, dead on delivery.
 
 ### 3. Dedicated Script Generator Prompt
 
@@ -790,17 +1266,21 @@ INPUTS:
 
 ### 2. Verbatim Transcript Reference Excerpts
 
-> **The Naive Daydream Hook (0:00 – 0:45):**
-> *"Okay, so you want to own a movie theater chain, buy the buildings, hang the marquee, sell tickets to whoever wants to watch the latest release. Sounds simple enough. Here's the problem: when a customer hands over $15 for a ticket on a Friday night, the theater does not really sell that person a movie. It sells that person a seat in a building it has to heat, cool, staff, and insure, whether that seat is filled or empty."*
+> **The Naive Daydream Hook (0:00 – 0:30) — VERIFIED VERBATIM:**
+> *"Okay, so you want to own a movie theater chain, buy the buildings, hang the marquee, sell tickets to whoever wants to watch the latest release. Sounds simple enough. Here's the problem. When a customer hands over $15 for a ticket on a Friday night, the theater does not really sell that person a movie. It sells that person a seat in a building, it has to heat, cool, staff..."*
+> **Register note:** "Here's the problem." — three words, and the entire video's thesis pivots on it. This is the single highest-value transition phrase in the benchmark set.
 
-> **The Film Rent Split Trap (2:40 – 3:50):**
-> *"Here is the math that kills naive owners: the studio film-rent split. On opening weekend for a massive Hollywood blockbuster, the movie studio takes up to 70% of the box office gross. That means on your $15 ticket, $10.50 goes straight to Disney or Warner Bros. Out of your remaining $4.50, you have to pay the projectionist, the cleaning crew, the air conditioning on a 50,000-square-foot facility, and property taxes. On ticket sales alone, every customer who walks through the door is operating at a net loss."*
+> **The Inventory Reframe (≈7:40) — VERIFIED VERBATIM:**
+> *"A grocery store controls its own shelves. A movie theater does not control its own product... The real inventory here is not popcorn or soda. It is screen time. A 12 screen multiplex running 14 hours a day has somewhere between 48 and 60 individual screening slots to fill every single day."*
+> **Register note:** abstract concept ("inventory") is defined by contrast with a familiar business, then converted into a countable physical unit (screening slots per day). Never leave an accounting noun floating.
 
-> **The Concession Engine (7:10 – 8:25):**
-> *"This is why the popcorn exists. A large tub of popcorn costs the theater roughly 30 cents in corn, oil, and paper bucket. It sells at the counter for $9.50. That is an 85% to 90% gross margin. Movie theaters are not film exhibitors; they are concession stands that use multi-million-dollar Hollywood blockbusters as a customer acquisition loss-leader. If customers stop buying soda and candy, the theater goes into Chapter 11 within sixty days."*
+> **The Fixed-Cost Danger (≈15:00) — VERIFIED VERBATIM:**
+> *"When attendance drops for an extended stretch, that same 20-year lease turns into a heavy, immovable weight. And in some of the most valuable urban locations, the land underneath a struggling cinema is actually worth more than the movie business operating on top of it."*
+> **Register note:** the lease is given physical weight; the real-estate point is made spatially (underneath / on top of) rather than as a valuation argument.
 
-> **The Structural Conclusion (22:15 – 22:50):**
-> *"A movie theater survives not because people need a theater to watch a film. It survives because the best-run chains figured out how to monetize the seat, the popcorn, the monthly subscription pass, the pre-show advertising, and the commercial real estate underneath all of it. The moment you look at the balance sheet, the magic of Hollywood disappears—and the retail machine takes over."*
+> **The Structural Conclusion (≈22:30) — VERIFIED VERBATIM:**
+> *"A movie theater chain survives not because people still need a theater to watch a movie. It survives because the best-run chains figured out how to monetize the seat, the popcorn, the subscription, the advertising, and the real estate underneath all of it — and turned going to the movies into something a phone at home still can't fully replace."*
+> **Register note:** the close is a list of five concrete revenue objects, not a list of five abstractions.
 
 ### 3. Dedicated Script Generator Prompt
 
@@ -841,17 +1321,29 @@ INPUTS:
 
 ### 2. Verbatim Transcript Reference Excerpts
 
-> **The Ticking Clock Hook (0:00 – 0:45):**
-> *"Monday morning, bank transfer confirmation. No sender, no explanation, just a number with 12 zeros in one sentence: Spend it all within 7 days or lose everything. You read it twice. You open the app. The number is real. One trillion dollars sitting in an account registered to your name, earning $136 million in interest for every single day you don't move it. The rules: no donations, no gifts, no financial instruments."*
+> **The Ticking Clock Hook (0:00 – 0:25) — VERIFIED VERBATIM:**
+> *"Monday morning, bank transfer confirmation. No sender, no explanation, just a number with 12 zeros in one sentence. Spend it all within 7 days or lose everything. You read it twice. You open the app. The number is real. $1 trillion sitting in an account registered to your name earning $136 million in interest for every day you don't move it. The rules: no donations, no gifts, no financial instruments."*
+> **Register note:** THE CONTRACT IS FULLY STATED IN 8 SENTENCES — premise, deadline, penalty, working rules, and the adversary (compounding interest). No scene-setting, no "imagine if", no throat-clearing. 70 words to total clarity.
 
-> **The Consumer Saturation Ceiling — Day 2 (1:40 – 2:35):**
-> *"You spend Day 1 and Day 2 going on the most aggressive spending spree in human history. You buy a $250 million penthouse in Manhattan, five superyachts, a private island in Fiji, a fleet of Boeing business jets, and the ten most expensive classic cars ever auctioned. You collapse onto your luxury mattress and open your banking app. Your balance hasn't even moved. You haven't spent 0.05% of the capital. In fact, the interest accumulated while you were signing the paperwork earned more cash than you just spent."*
+> **The Desensitization Beat — Day 1 (≈1:10) — VERIFIED VERBATIM:**
+> *"You call the agents. Everyone answers on the first ring. That's the first thing you notice about having a trillion dollars. Not the number, the ring count. By noon you've signed on 80 properties across 12 countries. By the time you finish the last contract, you can't remember what the first three looked like. The desensitization takes about 6 hours."*
+> **Register note:** the psychological point is made through ONE tiny concrete observation (the ring count), not through a paragraph about habituation or dopamine. This is the archetype's signature move.
 
-> **The Physical & Logistical Bottleneck — Day 4 (4:15 – 5:30):**
-> *"Day 4: You decide to solve world hunger. You try to purchase millions of tons of wheat and route shipments into regions with active food insecurity. And you slam directly into a brick wall. You don't own the trucks, the rail networks, or the deepwater container terminals. The largest global ports can't absorb the volume; coordinators tell you the shipping backlog is measured in months. State-owned ports go under immediate national security review the moment your name appears on the manifest. You try to buy the ports; foreign governments block you under sovereign defense laws. World hunger was never a shortage of money. It is a shortage of functional logistics."*
+> **The Category Sprint — Day 2 (≈2:00) — VERIFIED VERBATIM:**
+> *"Luxury goods... The watches are in a vault. You haven't asked which vault... One car, $18 million, done in 11 minutes... You note that fact. You move on. 43 super yachts. Monaco, Miami, the Maldives... Combined crew requirement, roughly 4,000 people. You have become a maritime employer. That problem is for next week."*
+> **Register note:** bare noun-phrase sentences as section headers ("Luxury goods." "Gold." "Art."). Real brand and place names throughout. Consequences are noted and deferred, never explained.
 
-> **The Philosophical Payoff (9:50 – 10:35):**
-> *"Everything above a few billion dollars either takes time you don't have, doesn't exist as private property, or moves in price so fast when you buy it that the purchase undercuts itself. The richest entities on Earth don't spend their capital because the physical supply of assets runs out long before the money does. At extreme scale, money stops being purchasing power. It starts behaving like a gravitational black hole."*
+> **The Wall — Day 5 (≈5:40) — VERIFIED VERBATIM:**
+> *"World hunger isn't a shortage of food. It was never a shortage of food. It's a shortage of functional roads, stable governments, and supply chains not being disrupted by conflict. None of that has a price tag. None of it closes in seven days. You didn't end hunger. You made grain more expensive for a week. The food is sitting in silos. The problem was never the food."*
+> **Register note:** corrective restatement, then anaphora ("None of that / None of it"), then a four-word verdict. Ends on the same image it opened with. Zero technical vocabulary in the entire passage.
+
+> **The Systemic Climax — Day 7 (≈8:30) — VERIFIED VERBATIM:**
+> *"You are a weather event and they are closing the airports... Regulators on six continents are on the same call and the word they keep using is systemic, not illegal. Systemic."*
+> **Register note:** one metaphor, then the key word isolated as a one-word sentence. This replaces an entire paragraph of regulatory explanation.
+
+> **The Payoff (≈10:10) — VERIFIED VERBATIM:**
+> *"You failed. Not because you ran out of ideas, but because the world ran out of things it could sell you fast enough... The richest people alive don't spend their money because the supply runs out long before the money does. And the money that can't be spent earns while you sleep. The earning is faster than the spending."*
+> **Register note:** verdict first (two words), reasoning second. The final line is six words and contains the whole thesis.
 
 ### 3. Dedicated Script Generator Prompt
 
@@ -866,7 +1358,11 @@ CORE RULES:
    - Stage 1 (Personal Extravagance): Attempting to buy luxury assets, instantly hitting the mathematical ceiling of consumer goods.
    - Stage 2 (Asset/Market Distortion): Attempting to buy companies or public stock, triggering price slippage, market halts, and regulatory panic.
    - Stage 3 (Physical/Sovereign Wall): Discovering that money cannot bypass physical infrastructure bottlenecks (ports, roads, raw materials) or national defense vetoes.
-4. RAPID-FIRE PACING: Keep sentences punchy, rhythmic, and visceral. Tag cuts every 2.5–3.5s with [REMOTION: Live Balance Countdown], [MAP: Global Shipping Bottleneck], and [DATA: Market Slippage Card].
+4. RAPID-FIRE PACING (MEASURED, NOT VIBES): Median sentence length must be 7-9 words. At least 38% of sentences must be 6 words or shorter. No more than 2% may exceed 25 words. Second-person density must exceed 45 hits per 1,000 words. Bare noun-phrase sentences ("Gold." "Art." "Private jets.") are encouraged as category markers. Tag cuts every 2.5-3.5s with [REMOTION: Live Balance Countdown], [MAP: Global Shipping Bottleneck], and [DATA: Market Slippage Card].
+4b. THE STAKES CONTRACT: State the premise, the clock, the penalty, the working rules, and the adversary within the first 80 words. No scene-setting before the contract. The benchmark does this in 70 words.
+4c. LEDGER BEATS: Close every time block with the same repeated ledger shape — time elapsed, amount spent, amount remaining, what the adversary did while you acted. Identical format each time.
+4d. THE TINY OBSERVATION RULE: Make psychological points through one small concrete detail, never through explanation. "Everyone answers on the first ring... Not the number, the ring count." — not a paragraph about habituation. If you catch yourself explaining a mental state, delete it and find the object instead.
+4e. JARGON CEILING: 5 terms per 1,000 words maximum against the CP-0 Jargon List. This archetype fails here more than any other because macro topics invite macro vocabulary. Resist it — the benchmark video covers sovereign debt, market microstructure and circuit breakers using almost none of it.
 5. THE SYSTEMIC REVELATION: Conclude with a profound macroeconomic truth about the physical limits of capital vs resources.
 
 INPUTS:
@@ -894,17 +1390,21 @@ INPUTS:
 
 ### 2. Verbatim Transcript Reference Excerpts
 
-> **The Controlled Variable Hook (0:00 – 0:50):**
-> *"Meet Ryan and Steve. They are both 32 years old. They live in the same city. They both earn $80,000 a year. And after years of disciplined financial habits, they each have $80,000 saved up in cash. But this is where their financial lives diverge. Ryan decides it's time to buy a $500,000 home. Steve decides to keep renting an apartment, investing every single dollar of the difference into an S&P 500 index fund. Thirty years later, one of them is dramatically wealthier than the other. And the answer isn't what your parents told you."*
+> **The Controlled Variable Hook (0:00 – 0:30) — VERIFIED VERBATIM:**
+> *"Meet Ryan and Steve. They are both 32. They live in the same city. They both earn $80,000 a year. And after years of responsible financial decisions, canceled subscriptions, and convincing themselves that supermarket brand cereal tastes exactly like the expensive stuff, they've both managed to save $80,000. Financially, they are identical. Personality-wise, not even close."*
+> **Register note:** four clipped declarative sentences establish the controlled experiment, then ONE long sentence carrying the joke, then a two-beat contrast. The humour ("supermarket brand cereal") is what makes the setup survive being a spreadsheet.
 
-> **The Unrecoverable Costs Ledger — Year 5 (3:20 – 4:40):**
-> *"Most people look at Ryan's mortgage and say: 'At least he isn't throwing money away on rent.' But let's open the actual amortization schedule. In the first five years, over 70% of Ryan's monthly payment goes straight to bank interest. Then add in property taxes at 1.5%, private mortgage insurance, HOA fees, and maintenance. When the water heater bursts and the roof needs patching, that money is gone forever. These are unrecoverable costs. While Ryan thinks he's building equity, he is bleeding thousands of dollars a year in phantom ownership taxes."*
+> **The Ledger Beat — Year 3 (≈4:00) — VERIFIED VERBATIM:**
+> *"After 3 years of mortgage payments, Ryan's mortgage balance has fallen from $280,000 to about $270,835. He has paid down just over $9,000 of principal... That leaves Ryan with approximately $112,000 to $123,000 in home equity. That is real wealth. Meanwhile, Steve has paid $72,000 in rent over those 3 [years]."*
+> **Register note:** every checkpoint restates BOTH characters' position. "That is real wealth." — a four-word adjudication that stops the numbers from becoming noise.
 
-> **The Opportunity Cost Reveal — Year 30 (11:15 – 12:45):**
-> *"Steve's original $80,000 down payment was never locked into drywall and timber. It was compounding in the stock market at a historical 8% return. And every single month that Ryan spent on property taxes, interest, and roof repairs, Steve took the surplus cash and bought more shares. Fast forward thirty years. Ryan has completely paid off his mortgage. His home is worth 1 point 2 million dollars free and clear. But Steve's investment portfolio is worth 2 point 1 million dollars in liquid, dividend-producing capital. Steve didn't just beat Ryan; he crushed him—without ever mowing a lawn."*
+> **The Illiquidity Joke (≈12:00) — VERIFIED VERBATIM:**
+> *"But their wealth looks very different. Steve's is much easier to access. Ryan cannot sell 8% of the kitchen, at least not without creating some serious questions from future buyers."*
+> **Register note:** liquidity — the driest concept in the video — is taught entirely through one absurd physical image. No definition is ever given.
 
-> **The Objective Verdict (16:30 – 17:15):**
-> *"Buying a home is an emotional lifestyle decision, not a guaranteed financial investment. When you strip away the social pressure and run the real math, true wealth isn't determined by owning four walls. It is determined by where your surplus capital compounds."*
+> **The Finish Line (≈12:40) — VERIFIED VERBATIM:**
+> *"Ryan has only 10 years left on his mortgage. Steve's rent has no finish line."*
+> **Register note:** the entire long-run verdict in two sentences, seventeen words, built on one image.
 
 ### 3. Dedicated Script Generator Prompt
 
@@ -947,17 +1447,21 @@ INPUTS:
 
 ### 2. Verbatim Transcript Reference Excerpts
 
-> **The Minimalist Punch Hook (0:00 – 0:40):**
-> *"Nine years. That's how long it took me to go from zero to complete financial freedom. But if I knew these nine rules from the beginning, I could have done it in five. Most people believe financial independence requires a seven-figure salary, a winning lottery ticket, or thirty-five years of corporate obedience. The math says otherwise. Here is the exact roadmap."*
+> **The Minimalist Punch Hook (0:00 – 0:20) — VERIFIED VERBATIM:**
+> *"Nine years. That's how long it took me to go from nothing to financial freedom. But, if I knew these nine rules from the start, I could have done it in four years. Rule one, find your financial freedom number."*
+> **Register note:** two-word sentence, then the credential, then the regret, then straight into Rule One. The video is teaching by 0:18 — no channel intro, no roadmap, no "in this video we'll cover".
 
-> **The Savings Rate Asymmetry Rule (2:15 – 3:30):**
-> *"Your time to freedom is determined by one metric, and it is not how much you earn: it is your savings rate. If you save 10% of your income, you have to work nine years just to fund one year of living expenses. That means it will take you 51 years to retire. But look at what happens when you push your savings rate to 50%: every single year you work funds a full year of complete freedom. Your working career drops to 16 years. Push it to 65%, and you are financially free in ten years. You don't need to earn more than your boss; you need to keep your burn rate lower than your peers."*
+> **The Direct Command Stack (≈5:00) — VERIFIED VERBATIM:**
+> *"Okay, you know your number. You're cutting expenses. You're protecting the gap. Now you're excited. You want to start investing. You want to see that number grow. Hold on. Slow down. If you skip this step, you're going to start and then stop. Life is going to punch you in the face and you'll be right back where you started."*
+> **Register note:** second-person density is the highest in the benchmark set (≈76 per 1,000 words). Recap in three beats, two two-word interrupts, then the consequence as physical violence.
 
-> **The $100K Threshold Engine (6:40 – 7:55):**
-> *"Charlie Munger was right: the first hundred thousand dollars is a nightmare. You have to scrape, sacrifice, and say no to every weekend trip. But once you cross that line, the physics of wealth invert. At an 8% return, a $100,000 portfolio generates $8,000 a year while you sleep. At $500,000, it generates $40,000—a full entry-level salary without you lifting a finger. Your job is simply to get the flywheel spinning until the money works harder than you do."*
+> **The Concrete Threshold (≈5:40) — VERIFIED VERBATIM:**
+> *"Step one, save $1,000 fast. This is your oh[-crap] money. Bone cracks, car breaks, bill [hits]."*
+> **Register note:** the emergency fund is never called an emergency fund. Three two-word disasters, all physical.
 
-> **The Freedom Definition Climax (11:50 – 12:30):**
-> *"Wealth is not about buying expensive toys to impress strangers you don't like. True wealth is waking up on a random Tuesday morning, looking at your calendar, and realizing that nobody on this planet owns your time except you."*
+> **The Freedom Definition Climax (≈12:10) — VERIFIED VERBATIM:**
+> *"Balance is a lie sold to people who want to stay comfortable. Work-life balance is for later. Right now, it's work-work balance. You can have a hard four years now or a hard 40 years later."*
+> **Register note:** the closing argument is a single sharp binary. No summary of the nine rules, no recap.
 
 ### 3. Dedicated Script Generator Prompt
 
