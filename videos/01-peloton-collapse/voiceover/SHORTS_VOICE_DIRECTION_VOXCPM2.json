@@ -1,0 +1,49 @@
+[
+  {
+    "short_id": 1,
+    "target_filename": "01_short_ghost_factory.mp4",
+    "voiceover_wav": "voiceover/short_01_ghost_factory_vo.wav",
+    "source_master_chunks": [
+      "chunk_000_001.wav",
+      "chunk_002_003.wav",
+      "chunk_022_023.wav",
+      "chunk_048_049.wav"
+    ],
+    "control_instruction": "Conversational business explainer, clear and engaging. Speaks with cool, unhurried curiosity, letting the staggering contrast land.",
+    "target_text": "This 1 point 2 million square foot unfinished mega-factory in Wood County, Ohio cost four hundred million dollars to build. Two years later, it was sold for thirty-three million dollars in cash. In May 2021, Peloton broke ground on the Peloton Output Park: a massive industrial foundry engineered to stamp out 1 point 5 million exercise bikes every single year, employing two thousand American workers. But by the time the concrete dried, the pandemic quarantine had ended. Gyms reopened. People went outside. And demand for stationary bikes collapsed off a cliff. Peloton was stuck with a half-built steel monolith bleeding millions in property taxes. In 2024, they sold it to a solar panel manufacturer at a ninety-two percent loss. A four-hundred-million-dollar monument to corporate hubris... that never produced a single bike."
+  },
+  {
+    "short_id": 2,
+    "target_filename": "02_short_ryan_reynolds_ad.mp4",
+    "voiceover_wav": "voiceover/short_02_ryan_reynolds_ad_vo.wav",
+    "source_master_chunks": [
+      "chunk_005_006.wav",
+      "chunk_006_007.wav"
+    ],
+    "control_instruction": "Conversational business explainer, clear and engaging. Speaks with dry, amused irony, matter-of-fact and unhurried.",
+    "target_text": "This might be the most cursed seven days in corporate PR history. In December 2021, the Sex and the City reboot premiered. Within the first forty minutes, the beloved character Mr. Big suffers a fatal heart attack immediately after riding a Peloton Bike Plus. Overnight, Peloton's stock plummeted eleven percent. Scrambling to contain the damage, Ryan Reynolds and his agency worked around the clock, producing a viral parody commercial in just forty-eight hours featuring the actor alive and well. The internet erupted in praise. Peloton looked like marketing geniuses. Then, four days later... the actor was hit with serious sexual assault allegations. Peloton had to frantically scrub the commercial from the internet. It was tabloid chaos. But Mr. Big didn't erase fifty billion dollars of value. A lethal accounting mirage did."
+  },
+  {
+    "short_id": 3,
+    "target_filename": "03_short_inverted_economics.mp4",
+    "voiceover_wav": "voiceover/short_03_inverted_economics_vo.wav",
+    "source_master_chunks": [
+      "chunk_024_025.wav",
+      "chunk_025_026.wav",
+      "chunk_028_029.wav"
+    ],
+    "control_instruction": "Conversational business explainer, clear and engaging. Speaks with sharp analytical clarity, dismantling the math step by step.",
+    "target_text": "How do you sell an exercise bike for two thousand dollars and manage to lose money on every single delivery? In 2020, Peloton was a Wall Street darling. Early adopters were happy to pay over two thousand dollars for the hardware, giving Peloton a gorgeous forty-three percent gross profit margin. But when supply chain bottlenecks hit, management panicked. To satisfy backlog demand, they began chartering Boeing 777 cargo jets, burning one hundred and eighty dollars per bike just to fly heavy steel across the Pacific. Then, they slashed the bike's price by seven hundred dollars. By 2022, after factoring in warehousing, air freight, and delivery vans, Peloton was losing one hundred and ninety-six dollars on every single bike loaded off the dock."
+  },
+  {
+    "short_id": 4,
+    "target_filename": "04_short_tread_recall.mp4",
+    "voiceover_wav": "voiceover/short_04_tread_recall_vo.wav",
+    "source_master_chunks": [
+      "chunk_026_027.wav",
+      "chunk_027_028.wav"
+    ],
+    "control_instruction": "Conversational business explainer, clear and engaging. Speaks with solemn, measured gravity, letting the corporate arrogance speak for itself.",
+    "target_text": "In April 2021, the Consumer Product Safety Commission issued an urgent warning to American households: stop using the Peloton Tread Plus immediately. The machine had a fatal design flaw: an exposed rear roller that acted like a vacuum, pulling children and pets underneath the high-speed belt. One child had died, and dozens were injured. But instead of cooperating, CEO John Foley did something almost unheard of in corporate crisis management. He issued a defiant public statement calling the government safety warning 'outrageous and inaccurate.' For seventeen days, Peloton refused to halt sales. The backlash was swift and brutal. Within weeks, Foley was forced to issue a humiliating public apology, recall one hundred and twenty-five thousand treadmills, and later pay a nineteen-million-dollar civil penalty for failing to report hazards immediately."
+  }
+]

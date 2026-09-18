@@ -38,6 +38,12 @@ remotion/out/
 .env.local
 .env.*.local
 
-# Video Episode Projects (Do not commit generated episode deliverables)
-videos/*
-!videos/_template/
+# Video Episode Projects (Ignore heavy media assets, keep markdown/scripts/prompts/subtitles)
+videos/*/assets/*
+!videos/*/assets/.gitkeep
+videos/*/voiceover/*
+!videos/*/voiceover/.gitkeep
+!videos/*/voiceover/*.json
+!videos/*/voiceover/*.md
+videos/*/final video/
+videos/*/*.mov

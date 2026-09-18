@@ -1,0 +1,1243 @@
+1
+00:00:00,067 --> 00:00:05,500
+in January 2024 a solar panel manufacturer named First Solar
+
+2
+00:00:05,500 --> 00:00:09,900
+quietly finalized a real estate purchase in Wood County Ohio
+
+3
+00:00:10,033 --> 00:00:13,166
+the purchase price was $33 million
+
+4
+00:00:13,767 --> 00:00:14,567
+for that money
+
+5
+00:00:14,567 --> 00:00:18,334
+they didn't just get 200 acres of prime industrial farmland
+
+6
+00:00:18,367 --> 00:00:20,667
+they got a 1 dot 2 million square foot
+
+7
+00:00:20,667 --> 00:00:23,100
+unfinished monolith of structural steel
+
+8
+00:00:23,100 --> 00:00:25,233
+poured concrete and vacant assembly bay
+
+9
+00:00:25,867 --> 00:00:28,567
+thirty three million sounds like real money
+
+10
+00:00:28,900 --> 00:00:31,233
+until you look at the company that poured the concrete
+
+11
+00:00:31,800 --> 00:00:33,467
+less than three years earlier
+
+12
+00:00:33,467 --> 00:00:35,200
+this exact parcel of dirt
+
+13
+00:00:35,200 --> 00:00:38,900
+was announced as the crown jewel of American consumer tech
+
+14
+00:00:39,000 --> 00:00:42,033
+it had a name the Peloton Output Park
+
+15
+00:00:42,100 --> 00:00:44,600
+a 400 million dollar mega factory
+
+16
+00:00:44,600 --> 00:00:48,967
+engineered to stamp out 1.5 million connected exercise bikes
+
+17
+00:00:48,967 --> 00:00:53,100
+every single year employing 2,000 American workers
+
+18
+00:00:53,800 --> 00:00:58,900
+$400 million committed 33 million recovered
+
+19
+00:00:59,100 --> 00:01:02,567
+a 70+ percent loss on invested capital
+
+20
+00:01:02,567 --> 00:01:06,834
+wiped out before a single stationary bike ever rolled off the line
+
+21
+00:01:07,500 --> 00:01:11,600
+most people remember the peloton story as a comedy of errors
+
+22
+00:01:11,967 --> 00:01:15,600
+they remember the viral 2019 Christmas commercial
+
+23
+00:01:15,600 --> 00:01:19,900
+where an anxious wife filmed a video diary about her exercise bike
+
+24
+00:01:20,500 --> 00:01:23,533
+they remember that episode of the sex and the city reboot
+
+25
+00:01:23,533 --> 00:01:26,966
+where Mr Big suffered a fatal heart attack on a peloton bike
+
+26
+00:01:26,967 --> 00:01:31,200
+plus tanking the company's stock 11% overnight
+
+27
+00:01:31,400 --> 00:01:33,067
+and they remember Ryan Reynolds
+
+28
+00:01:33,067 --> 00:01:36,800
+frantically producing a parody commercial 48 hours later
+
+29
+00:01:36,800 --> 00:01:39,433
+with the actor to prove he was still alive
+
+30
+00:01:39,533 --> 00:01:42,366
+only for the campaign to implode four days later
+
+31
+00:01:42,367 --> 00:01:45,867
+when the actor was hit with serious sexual assault allegations
+
+32
+00:01:46,400 --> 00:01:51,100
+it was chaotic it was tabloid ready and it made for great memes
+
+33
+00:01:51,767 --> 00:01:55,967
+but here is the reality Mr Big didn't kill Peloton
+
+34
+00:01:56,067 --> 00:01:58,367
+Ryan Reynolds didn't kill peloton
+
+35
+00:01:58,400 --> 00:02:00,733
+and the viral Christmas ad didn't erase
+
+36
+00:02:00,733 --> 00:02:03,433
+$50 billion of enterprise value
+
+37
+00:02:03,533 --> 00:02:06,966
+what destroyed peloton was a lethal accounting mirage
+
+38
+00:02:07,700 --> 00:02:11,867
+corporate executives convinced Wall Street and themselves
+
+39
+00:02:11,867 --> 00:02:15,200
+that a capital heavy manufacturer of heavy consumer
+
+40
+00:02:15,200 --> 00:02:19,967
+metal was actually an asset light Silicon Valley software platform
+
+41
+00:02:20,133 --> 00:02:21,900
+and by the time they realized that
+
+42
+00:02:21,900 --> 00:02:24,767
+every single bike rolling out of their warehouses
+
+43
+00:02:24,767 --> 00:02:28,134
+was actively bleeding hundreds of dollars of cash
+
+44
+00:02:28,133 --> 00:02:30,066
+they had already spent billions
+
+45
+00:02:30,067 --> 00:02:34,067
+building an industrial empire for customers that did not exist
+
+46
+00:02:34,367 --> 00:02:39,867
+this is the forensic autopsy of how $50 billion vanished into thin air
+
+47
+00:02:40,367 --> 00:02:43,267
+to understand how the machine broke
+
+48
+00:02:43,267 --> 00:02:46,034
+you have to look at the man who built it
+
+49
+00:02:46,167 --> 00:02:51,567
+John Foley Foley was not an industrial supply chain engineer
+
+50
+00:02:51,767 --> 00:02:54,100
+he was an e commerce executive
+
+51
+00:02:54,100 --> 00:02:57,767
+who spent years pitching venture capitalists on a simple
+
+52
+00:02:57,767 --> 00:02:59,600
+intoxicating premise
+
+53
+00:03:00,333 --> 00:03:03,400
+he didn't want to sell you a metal exercise bike
+
+54
+00:03:03,500 --> 00:03:07,000
+he wanted to sell you an ongoing lifestyle subscription
+
+55
+00:03:07,133 --> 00:03:10,866
+when peloton went public on the NASDAQ in September 2019
+
+56
+00:03:11,367 --> 00:03:13,467
+institutional investors didn't value it
+
+57
+00:03:13,467 --> 00:03:15,400
+like Nordic Track or Nautilus
+
+58
+00:03:15,667 --> 00:03:18,734
+those traditional fitness companies traded at boring
+
+59
+00:03:18,733 --> 00:03:22,800
+cyclical multiples maybe one or two times their annual revenue
+
+60
+00:03:23,600 --> 00:03:26,767
+peloton claimed to be fundamentally different
+
+61
+00:03:26,867 --> 00:03:31,434
+in their investor pitch the exercise bike was just a Trojan horse
+
+62
+00:03:31,667 --> 00:03:34,867
+you buy the hardware once for twenty two hundred dollars
+
+63
+00:03:34,867 --> 00:03:38,067
+and then you pay 39 dollars every single month
+
+64
+00:03:38,067 --> 00:03:42,900
+forever to stream live workouts from charismatic celebrity instructors
+
+65
+00:03:43,167 --> 00:03:46,434
+on paper the unit economics were gorgeous
+
+66
+00:03:47,000 --> 00:03:49,700
+in software customer acquisition cost
+
+67
+00:03:49,700 --> 00:03:54,500
+or cack is the money you spend on marketing to win one paying customer
+
+68
+00:03:54,733 --> 00:03:58,400
+usually that marketing expense burns cash up front
+
+69
+00:03:58,667 --> 00:04:01,067
+but throughout fiscal 2020
+
+70
+00:04:01,067 --> 00:04:03,067
+Peloton had a secret weapon
+
+71
+00:04:03,333 --> 00:04:04,666
+because affluent early
+
+72
+00:04:04,667 --> 00:04:08,400
+adopters were happy to pay over $2,000 for the bike
+
+73
+00:04:08,533 --> 00:04:14,100
+peloton made roughly 43% gross profit on the physical hardware alone
+
+74
+00:04:14,600 --> 00:04:17,267
+that meant every time someone bought a bike
+
+75
+00:04:17,367 --> 00:04:21,300
+peloton cleared roughly $900 of gross cash
+
+76
+00:04:21,300 --> 00:04:24,167
+before the customer even turned on the screen
+
+77
+00:04:24,333 --> 00:04:28,200
+that $900 completely paid for the Facebook ads
+
+78
+00:04:28,200 --> 00:04:31,200
+the showroom leases in upscale shopping malls
+
+79
+00:04:31,200 --> 00:04:32,967
+and the marketing campaigns
+
+80
+00:04:33,167 --> 00:04:37,500
+in Wall Street terms their customer acquisition was virtually free
+
+81
+00:04:37,567 --> 00:04:39,867
+and once that customer was plugged in
+
+82
+00:04:39,867 --> 00:04:43,400
+they stayed monthly churn was under 1%
+
+83
+00:04:43,900 --> 00:04:47,067
+Wall Street looked at those numbers and lost its mind
+
+84
+00:04:47,300 --> 00:04:49,967
+investors said this isn't a hardware business
+
+85
+00:04:49,967 --> 00:04:51,900
+this is Netflix on a bike
+
+86
+00:04:52,133 --> 00:04:55,000
+um and then came March 2020
+
+87
+00:04:55,467 --> 00:04:59,900
+Covid 19 shuttered every commercial gym in North America and Europe
+
+88
+00:04:59,900 --> 00:05:03,467
+overnight millions of professionals with disposable income
+
+89
+00:05:03,467 --> 00:05:05,700
+found themselves trapped in their living rooms
+
+90
+00:05:05,700 --> 00:05:08,900
+terrified and bored the demand didn't just climb
+
+91
+00:05:08,900 --> 00:05:10,067
+it detonated
+
+92
+00:05:10,800 --> 00:05:15,067
+monthly workouts per subscriber surged past 24
+
+93
+00:05:15,167 --> 00:05:18,567
+delivery backlog stretched from two weeks to eight weeks
+
+94
+00:05:18,567 --> 00:05:22,900
+then to 10 weeks customer service phone lines were overwhelmed
+
+95
+00:05:22,967 --> 00:05:28,400
+in December 2020 Peloton's market valuation passed $50 billion
+
+96
+00:05:28,667 --> 00:05:30,567
+John Foley was a billionaire
+
+97
+00:05:30,600 --> 00:05:34,067
+the instructors were signing seven figure talent contracts
+
+98
+00:05:34,733 --> 00:05:38,133
+but right here at the absolute peak of the frenzy
+
+99
+00:05:38,133 --> 00:05:41,300
+executive leadership made the foundational mistake
+
+100
+00:05:41,300 --> 00:05:42,867
+that would seal their fate
+
+101
+00:05:43,267 --> 00:05:47,700
+they confused a temporary crisis driven pull forward of demand
+
+102
+00:05:47,733 --> 00:05:51,066
+with a permanent structural expansion of their market
+
+103
+00:05:51,667 --> 00:05:53,167
+they looked at customers
+
+104
+00:05:53,267 --> 00:05:56,500
+technically ordering bikes during a global quarantine
+
+105
+00:05:56,500 --> 00:05:58,667
+and assumed that this was the new normal
+
+106
+00:05:58,667 --> 00:06:01,034
+baseline of human civilization
+
+107
+00:06:01,133 --> 00:06:03,100
+and instead of staying asset light
+
+108
+00:06:03,100 --> 00:06:05,767
+and letting customers wait out the pandemic
+
+109
+00:06:05,767 --> 00:06:10,900
+peloton decided to build an industrial empire in logistics
+
+110
+00:06:10,900 --> 00:06:14,700
+there is a famous concept known as the bullwhip effect
+
+111
+00:06:14,867 --> 00:06:16,800
+imagine you are holding a whip
+
+112
+00:06:16,800 --> 00:06:19,233
+if you flick your wrist just two inches
+
+113
+00:06:19,333 --> 00:06:22,300
+the tip of the whip 50 feet away cracks violently
+
+114
+00:06:22,533 --> 00:06:24,766
+through the air across 20 feet
+
+115
+00:06:25,167 --> 00:06:27,434
+in industrial manufacturing
+
+116
+00:06:27,500 --> 00:06:29,467
+customer demand is the risk
+
+117
+00:06:29,733 --> 00:06:33,433
+if consumer demand temporarily jumps 10%
+
+118
+00:06:33,500 --> 00:06:37,467
+retailers panic and increase their orders by 20%
+
+119
+00:06:37,733 --> 00:06:42,833
+wholesalers see that 20% spike and order 40% more from factories
+
+120
+00:06:43,067 --> 00:06:46,667
+and by the time the signal reaches the raw material suppliers
+
+121
+00:06:46,733 --> 00:06:50,466
+orders have amplified into a massive distorted wave
+
+122
+00:06:51,133 --> 00:06:53,733
+Peloton's executive suite took the bullwhip
+
+123
+00:06:53,733 --> 00:06:55,666
+and swung it with both hands
+
+124
+00:06:55,867 --> 00:07:02,234
+in December 2020 Peloton paid $420 million in pure cash to buy Precor
+
+125
+00:07:02,300 --> 00:07:04,800
+a commercial fitness equipment manufacturer
+
+126
+00:07:04,800 --> 00:07:07,767
+purely to acquire their factories in North Carolina and
+
+127
+00:07:07,800 --> 00:07:08,600
+Washington
+
+128
+00:07:09,167 --> 00:07:11,200
+next came the freight panic
+
+129
+00:07:11,400 --> 00:07:13,133
+port congestion in Long Beach
+
+130
+00:07:13,133 --> 00:07:14,066
+and Los Angeles
+
+131
+00:07:14,067 --> 00:07:17,800
+was delaying shipments from their Asian contract manufacturers
+
+132
+00:07:18,000 --> 00:07:24,133
+so what did peloton do they charted entire Boeing 777 cargo freighters
+
+133
+00:07:24,133 --> 00:07:28,433
+to fly thousands of 70 pound steel bikes across the Pacific Ocean
+
+134
+00:07:28,567 --> 00:07:32,134
+spending up to $100 million on expedited air freight
+
+135
+00:07:32,133 --> 00:07:35,400
+just to get bikes into living rooms two weeks faster
+
+136
+00:07:35,967 --> 00:07:40,167
+and then in May 2021 came the big bet
+
+137
+00:07:40,200 --> 00:07:44,467
+the 400 million dollar peloton output park in Ohio
+
+138
+00:07:44,600 --> 00:07:48,967
+2,000 workers 1.2 million square feet
+
+139
+00:07:49,300 --> 00:07:53,600
+Foley declared that peloton would control its own industrial destiny
+
+140
+00:07:53,600 --> 00:07:55,233
+for decades to come
+
+141
+00:07:55,600 --> 00:08:00,700
+structural steel began rising from the Ohio dirt in late 2021
+
+142
+00:08:01,300 --> 00:08:03,833
+and then the world reopened
+
+143
+00:08:04,000 --> 00:08:08,200
+vaccines rolled out people walked out of their apartments
+
+144
+00:08:08,367 --> 00:08:10,867
+commercial gyms unlocked their doors
+
+145
+00:08:11,067 --> 00:08:16,234
+and the demand for 22 dollar stationary bikes didn't just normalize
+
+146
+00:08:16,300 --> 00:08:17,800
+it fell off a cliff
+
+147
+00:08:18,467 --> 00:08:22,067
+every wealthy household that wanted a peloton already had one
+
+148
+00:08:22,067 --> 00:08:23,734
+sitting in their spare bedroom
+
+149
+00:08:23,733 --> 00:08:26,966
+increasingly serving as an expensive clothes rack
+
+150
+00:08:27,167 --> 00:08:29,767
+the backlog evaporated overnight
+
+151
+00:08:29,800 --> 00:08:31,133
+but the container ships
+
+152
+00:08:31,133 --> 00:08:35,266
+full of raw parts were still crossing the ocean the pre core fact
+
+153
+00:08:35,600 --> 00:08:40,367
+was still producing metal and the concrete in Ohio was still drying
+
+154
+00:08:40,900 --> 00:08:44,900
+the bullwhip snapped back and the crack shattered their balance sheet
+
+155
+00:08:45,700 --> 00:08:48,500
+look closely at Peloton's form 10K
+
+156
+00:08:48,500 --> 00:08:53,367
+filing for the fiscal year ended June 30th, 2022
+
+157
+00:08:53,500 --> 00:08:56,700
+this is where the mathematical horror story is buried
+
+158
+00:08:57,000 --> 00:09:01,300
+to clear mountains of bikes piling up in third party warehouses
+
+159
+00:09:01,467 --> 00:09:03,667
+management started slashing prices
+
+160
+00:09:03,667 --> 00:09:07,167
+from 22 hundred dollars down to 14 hundred dollars
+
+161
+00:09:07,700 --> 00:09:11,167
+meanwhile ocean container rates had spiked fivefold
+
+162
+00:09:11,267 --> 00:09:13,500
+storage fees were compounding daily
+
+163
+00:09:13,500 --> 00:09:16,400
+and air freight amortization was hitting the Ledger
+
+164
+00:09:16,567 --> 00:09:18,700
+and then the arithmetic inverted
+
+165
+00:09:19,200 --> 00:09:27,300
+in fiscal 2020 every bike delivered generated $927 in gross profit
+
+166
+00:09:27,700 --> 00:09:35,067
+by fiscal 2022 every single bike delivered generated a loss of $196
+
+167
+00:09:35,067 --> 00:09:37,900
+before paying a single cent for marketing
+
+168
+00:09:37,900 --> 00:09:40,267
+salaries or software development
+
+169
+00:09:40,933 --> 00:09:44,766
+previously hardware gross profit paid for customer acquisition
+
+170
+00:09:44,967 --> 00:09:48,234
+now acquiring a customer burned cash on the marketing
+
+171
+00:09:48,267 --> 00:09:49,934
+burned cash on the delivery
+
+172
+00:09:49,933 --> 00:09:52,233
+and burned cash on the hardware itself
+
+173
+00:09:52,467 --> 00:09:55,067
+the machine was devouring its own capital
+
+174
+00:09:55,167 --> 00:09:58,200
+but bad financial math wasn't their only problem
+
+175
+00:09:58,200 --> 00:10:00,900
+an engineering catastrophe was unfolding
+
+176
+00:10:01,333 --> 00:10:03,700
+peloton had launched a luxury motor
+
+177
+00:10:03,767 --> 00:10:06,000
+this treadmill the tread plus
+
+178
+00:10:06,000 --> 00:10:08,300
+priced at 40 three hundred dollars
+
+179
+00:10:08,600 --> 00:10:11,333
+unlike traditional treadmills that use a flat
+
+180
+00:10:11,333 --> 00:10:15,200
+continuous belt sliding across a deck with a low ground clearance
+
+181
+00:10:15,367 --> 00:10:19,100
+the tread plus used 59 individual rubber coated
+
+182
+00:10:19,100 --> 00:10:23,567
+interlocking aluminum slats powered by a heavy industrial motor
+
+183
+00:10:24,000 --> 00:10:28,567
+crucially the elevated rear roller sat 6 to 8 inches above the floor
+
+184
+00:10:28,567 --> 00:10:30,267
+without a physical safety guard
+
+185
+00:10:30,267 --> 00:10:33,167
+or an automatic emergency shut off threshold
+
+186
+00:10:33,367 --> 00:10:34,600
+if a small pet
+
+187
+00:10:34,600 --> 00:10:38,633
+a yoga ball or a child was pulled underneath the moving slats
+
+188
+00:10:38,667 --> 00:10:40,800
+the powerful motor did not stop
+
+189
+00:10:40,800 --> 00:10:44,100
+it dragged them beneath the belt in early
+
+190
+00:10:44,167 --> 00:10:47,100
+2021 horrific incident reports
+
+191
+00:10:47,100 --> 00:10:49,000
+began piling up on the public
+
+192
+00:10:49,000 --> 00:10:52,467
+docket of the US Consumer Product Safety Commission
+
+193
+00:10:52,933 --> 00:10:55,866
+dozens of children were pulled under the machine
+
+194
+00:10:55,867 --> 00:10:57,800
+suffering severe abrasions
+
+195
+00:10:57,867 --> 00:11:01,000
+broken bones and blunt force trauma
+
+196
+00:11:01,167 --> 00:11:05,200
+in March 2021 a six year old child died
+
+197
+00:11:05,733 --> 00:11:12,500
+on April 17th, 2021 the CPSC issued an extraordinary public warning
+
+198
+00:11:12,500 --> 00:11:16,500
+urging consumers with children and pets to stop using the Tread Plus
+
+199
+00:11:16,500 --> 00:11:21,667
+immediately what did Peloton's executive leadership do to John Foley
+
+200
+00:11:21,667 --> 00:11:25,367
+publicly called the government's safety warning outrageous
+
+201
+00:11:25,367 --> 00:11:27,300
+inaccurate and misleading
+
+202
+00:11:27,300 --> 00:11:29,200
+refusing to recall the machine
+
+203
+00:11:29,200 --> 00:11:31,300
+and insisting it was perfectly safe
+
+204
+00:11:31,300 --> 00:11:33,400
+if consumers followed instructions
+
+205
+00:11:34,167 --> 00:11:37,634
+it was a staggering display of corporate hubris
+
+206
+00:11:37,967 --> 00:11:39,367
+for 18 days
+
+207
+00:11:39,367 --> 00:11:44,034
+management dug in while outrage exploded across national media
+
+208
+00:11:44,200 --> 00:11:46,167
+finally on May 5
+
+209
+00:11:46,167 --> 00:11:50,100
+Foley was forced to issue a humiliating public apology
+
+210
+00:11:50,100 --> 00:11:54,500
+and recall all 125,000 Tread Plus machines
+
+211
+00:11:54,600 --> 00:11:59,000
+taking an immediate 365 million dollar write down
+
+212
+00:11:59,600 --> 00:12:00,967
+eighteen months later
+
+213
+00:12:00,967 --> 00:12:04,134
+federal regulators would extract their pound of flesh
+
+214
+00:12:04,133 --> 00:12:06,500
+a 19 million dollar civil penalty
+
+215
+00:12:06,500 --> 00:12:09,267
+for failing to immediately report known hazards
+
+216
+00:12:09,600 --> 00:12:12,467
+the government's consent order revealed that peloton had
+
+217
+00:12:12,467 --> 00:12:15,367
+received more than 150 reports of people
+
+218
+00:12:15,367 --> 00:12:17,967
+pets and objects being pulled under the machine
+
+219
+00:12:17,967 --> 00:12:20,167
+before ever contacting regulators
+
+220
+00:12:20,500 --> 00:12:22,733
+even worse the audit found that peloton
+
+221
+00:12:22,733 --> 00:12:26,766
+had knowingly delivered 38 recalled Tread Plus units to customers
+
+222
+00:12:26,767 --> 00:12:28,600
+after the recall was declared
+
+223
+00:12:29,200 --> 00:12:31,133
+the brand's premium Halo
+
+224
+00:12:31,133 --> 00:12:35,566
+the trust of affluent suburban parents was broken beyond repair
+
+225
+00:12:36,133 --> 00:12:40,200
+why hadn't the board of directors stopped the bleeding months earlier
+
+226
+00:12:40,267 --> 00:12:44,367
+because of a corporate voting mode when peloton went public
+
+227
+00:12:44,367 --> 00:12:45,700
+it issued two class
+
+228
+00:12:45,800 --> 00:12:46,667
+of stock
+
+229
+00:12:46,967 --> 00:12:51,767
+Class a shares owned by regular retail investors and retirement funds
+
+230
+00:12:51,767 --> 00:12:55,134
+had one vote per share class B shares
+
+231
+00:12:55,133 --> 00:12:59,666
+held almost exclusively by John Foley and his founding inner circle
+
+232
+00:12:59,667 --> 00:13:01,867
+carried 20 votes per share
+
+233
+00:13:02,467 --> 00:13:06,534
+with less than 20% of the actual economic ownership
+
+234
+00:13:06,533 --> 00:13:10,900
+Foley and his team controlled over 80% of the voting power
+
+235
+00:13:11,000 --> 00:13:14,967
+they were untouchable Foley could ignore safety warnings
+
+236
+00:13:15,000 --> 00:13:18,167
+spend hundreds of millions on charter cargo planes
+
+237
+00:13:18,200 --> 00:13:20,167
+and pour concrete in Ohio
+
+238
+00:13:20,167 --> 00:13:22,634
+and public shareholders could do nothing
+
+239
+00:13:22,700 --> 00:13:27,100
+all while executives cashed out over $100 million in stock sales
+
+240
+00:13:27,100 --> 00:13:33,800
+near the market top the wall finally broke on January 24th, 2022
+
+241
+00:13:34,133 --> 00:13:35,733
+activist investment fund
+
+242
+00:13:35,733 --> 00:13:38,966
+Blackwell's Capital published a scathing presentation
+
+243
+00:13:38,967 --> 00:13:42,834
+publicly demanding that the board fire John Foley immediately
+
+244
+00:13:42,967 --> 00:13:45,100
+and explore a sale of the company
+
+245
+00:13:45,500 --> 00:13:48,967
+Blackwell's laid out the catastrophic forensic record
+
+246
+00:13:49,067 --> 00:13:53,434
+selling general and administrative expenses up hundreds of percent
+
+247
+00:13:53,467 --> 00:13:55,167
+bloated corporate payrolls
+
+248
+00:13:55,167 --> 00:13:58,934
+and hundreds of millions committed to an unneeded Ohio mega
+
+249
+00:13:58,967 --> 00:14:02,667
+factory while the core hardware business bled cash
+
+250
+00:14:03,367 --> 00:14:06,934
+Foley tried to hold on but institutional lenders
+
+251
+00:14:06,933 --> 00:14:10,433
+and Class a shareholders delivered an ultimatum
+
+252
+00:14:10,500 --> 00:14:15,600
+on February 8th, 2022 John Foley was removed as CEO
+
+253
+00:14:15,633 --> 00:14:18,666
+in his place the board installed Barry McCarthy
+
+254
+00:14:18,667 --> 00:14:22,500
+the former chief financial officer of Netflix and Spotify
+
+255
+00:14:23,200 --> 00:14:25,967
+McCarthy was an institutional surgeon
+
+256
+00:14:26,067 --> 00:14:30,367
+he had zero emotional attachment to Foley's dream of an integrated
+
+257
+00:14:30,367 --> 00:14:33,934
+industrial kingdom within 48 hours
+
+258
+00:14:33,933 --> 00:14:38,600
+McCarthy swung the axe construction on the 400 million dollar
+
+259
+00:14:38,600 --> 00:14:41,800
+Ohio mega factory was permanently stopped
+
+260
+00:14:41,967 --> 00:14:46,100
+2,800 jobs were eliminated in a single day
+
+261
+00:14:46,267 --> 00:14:49,000
+proprietary delivery vans were shut down
+
+262
+00:14:49,000 --> 00:14:51,900
+replaced with third party delivery contractors
+
+263
+00:14:52,167 --> 00:14:54,767
+proprietary factories were abandoned
+
+264
+00:14:54,867 --> 00:14:58,200
+all hardware manufacturing was surrendered back to overseas
+
+265
+00:14:58,200 --> 00:14:59,833
+contract manufacturers
+
+266
+00:15:00,533 --> 00:15:04,766
+when the final accounting books closed on fiscal 2022
+
+267
+00:15:04,767 --> 00:15:06,400
+the damage was staggering
+
+268
+00:15:06,400 --> 00:15:11,900
+a net loss of $2.8 billion in including $415 million
+
+269
+00:15:12,100 --> 00:15:14,867
+inventory write downs for bikes and raw parts
+
+270
+00:15:14,933 --> 00:15:16,466
+were literally scrapped
+
+271
+00:15:16,967 --> 00:15:20,867
+McCarthy spent two years ruthlessly cutting costs
+
+272
+00:15:20,967 --> 00:15:25,900
+shrinking headcount from over 9,000 employees down to under 3,000
+
+273
+00:15:25,967 --> 00:15:29,400
+and slashing warehouse leases but by 20
+
+274
+00:15:29,467 --> 00:15:33,167
+24 Peloton faced a new structural nightmare
+
+275
+00:15:33,167 --> 00:15:35,067
+their own past success
+
+276
+00:15:35,900 --> 00:15:37,333
+millions of pristine
+
+277
+00:15:37,333 --> 00:15:40,466
+barely used peloton bikes were sitting in basements
+
+278
+00:15:40,567 --> 00:15:43,600
+hundreds of thousands of owners were listing them on Facebook
+
+279
+00:15:43,600 --> 00:15:46,600
+Marketplace and Craigslist for $400
+
+280
+00:15:46,600 --> 00:15:49,100
+less than a quarter of the retail price
+
+281
+00:15:49,300 --> 00:15:52,867
+every time someone bought a secondhand bike on Craigslist
+
+282
+00:15:52,900 --> 00:15:56,367
+Peloton made zero dollars in hardware revenue and the Mark
+
+283
+00:15:56,567 --> 00:16:01,334
+for new bikes dried up completely in August 2024
+
+284
+00:16:01,333 --> 00:16:03,700
+in an act of pure desperation
+
+285
+00:16:03,767 --> 00:16:07,234
+peloton instituted a mandatory $95
+
+286
+00:16:07,267 --> 00:16:08,967
+used activation fee
+
+287
+00:16:08,967 --> 00:16:12,800
+forcing second hand buyers to pay a toll just to register a bike
+
+288
+00:16:12,800 --> 00:16:14,633
+they already legally owned
+
+289
+00:16:15,100 --> 00:16:17,133
+on May 2 2024
+
+290
+00:16:17,133 --> 00:16:19,566
+exhausted and out of levers to pull
+
+291
+00:16:19,567 --> 00:16:24,700
+Barry McCarthy resigned on January 1st, 2025
+
+292
+00:16:24,700 --> 00:16:25,733
+Peter Stern
+
+293
+00:16:25,733 --> 00:16:29,866
+the former co founder of Apple Fitness Plus took over as CEO
+
+294
+00:16:30,000 --> 00:16:33,500
+he inherits a business valued not at $50 billion
+
+295
+00:16:33,500 --> 00:16:35,167
+but at roughly two billion
+
+296
+00:16:35,333 --> 00:16:37,700
+a modest niche subscription utility
+
+297
+00:16:37,700 --> 00:16:41,867
+servicing a loyal but stagnant base of dedicated fitness enthusiasts
+
+298
+00:16:42,500 --> 00:16:45,633
+it is the oldest lesson in corporate finance
+
+299
+00:16:45,867 --> 00:16:48,867
+you cannot value a factory like an algorithm
+
+300
+00:16:49,167 --> 00:16:51,600
+software scales with a line of code
+
+301
+00:16:51,600 --> 00:16:54,467
+physical manufacturing scales with steel
+
+302
+00:16:54,500 --> 00:16:57,867
+concrete freight containers and human hands
+
+303
+00:16:58,167 --> 00:17:02,567
+when a once in a century crisis pulls tomorrow's demand into today
+
+304
+00:17:02,567 --> 00:17:05,967
+the discipline lies in knowing that the storm will pass
+
+305
+00:17:06,633 --> 00:17:08,566
+and if you spend billions
+
+306
+00:17:08,567 --> 00:17:13,100
+building an empire for a world that only exists inside a quarantine
+
+307
+00:17:13,267 --> 00:17:15,167
+the reckoning is inevitable
+
+308
+00:17:15,500 --> 00:17:17,333
+just ask the solar company
+
+309
+00:17:17,333 --> 00:17:20,866
+that bought a 400 million dollar Monument to hubris
+
+310
+00:17:20,867 --> 00:17:22,700
+in Wood County Ohio
+
+311
+00:17:22,700 --> 00:17:25,600
+for 33 million dollars in cash

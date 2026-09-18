@@ -1,0 +1,2801 @@
+[
+  {
+    "index": 1,
+    "start_seconds": 0.067,
+    "end_seconds": 5.5,
+    "duration_seconds": 5.433,
+    "start_timecode": "00:00:00.067",
+    "end_timecode": "00:00:05.500",
+    "text": "in January 2024 a solar panel manufacturer named First Solar"
+  },
+  {
+    "index": 2,
+    "start_seconds": 5.5,
+    "end_seconds": 9.9,
+    "duration_seconds": 4.4,
+    "start_timecode": "00:00:05.500",
+    "end_timecode": "00:00:09.900",
+    "text": "quietly finalized a real estate purchase in Wood County Ohio"
+  },
+  {
+    "index": 3,
+    "start_seconds": 10.033,
+    "end_seconds": 13.166,
+    "duration_seconds": 3.133,
+    "start_timecode": "00:00:10.033",
+    "end_timecode": "00:00:13.166",
+    "text": "the purchase price was $33 million"
+  },
+  {
+    "index": 4,
+    "start_seconds": 13.767,
+    "end_seconds": 14.567,
+    "duration_seconds": 0.8,
+    "start_timecode": "00:00:13.767",
+    "end_timecode": "00:00:14.567",
+    "text": "for that money"
+  },
+  {
+    "index": 5,
+    "start_seconds": 14.567,
+    "end_seconds": 18.334,
+    "duration_seconds": 3.767,
+    "start_timecode": "00:00:14.567",
+    "end_timecode": "00:00:18.334",
+    "text": "they didn't just get 200 acres of prime industrial farmland"
+  },
+  {
+    "index": 6,
+    "start_seconds": 18.367,
+    "end_seconds": 20.667,
+    "duration_seconds": 2.3,
+    "start_timecode": "00:00:18.367",
+    "end_timecode": "00:00:20.667",
+    "text": "they got a 1 dot 2 million square foot"
+  },
+  {
+    "index": 7,
+    "start_seconds": 20.667,
+    "end_seconds": 23.1,
+    "duration_seconds": 2.433,
+    "start_timecode": "00:00:20.667",
+    "end_timecode": "00:00:23.100",
+    "text": "unfinished monolith of structural steel"
+  },
+  {
+    "index": 8,
+    "start_seconds": 23.1,
+    "end_seconds": 25.233,
+    "duration_seconds": 2.133,
+    "start_timecode": "00:00:23.100",
+    "end_timecode": "00:00:25.233",
+    "text": "poured concrete and vacant assembly bay"
+  },
+  {
+    "index": 9,
+    "start_seconds": 25.867,
+    "end_seconds": 28.567,
+    "duration_seconds": 2.7,
+    "start_timecode": "00:00:25.867",
+    "end_timecode": "00:00:28.567",
+    "text": "thirty three million sounds like real money"
+  },
+  {
+    "index": 10,
+    "start_seconds": 28.9,
+    "end_seconds": 31.233,
+    "duration_seconds": 2.333,
+    "start_timecode": "00:00:28.900",
+    "end_timecode": "00:00:31.233",
+    "text": "until you look at the company that poured the concrete"
+  },
+  {
+    "index": 11,
+    "start_seconds": 31.8,
+    "end_seconds": 33.467,
+    "duration_seconds": 1.667,
+    "start_timecode": "00:00:31.800",
+    "end_timecode": "00:00:33.467",
+    "text": "less than three years earlier"
+  },
+  {
+    "index": 12,
+    "start_seconds": 33.467,
+    "end_seconds": 35.2,
+    "duration_seconds": 1.733,
+    "start_timecode": "00:00:33.467",
+    "end_timecode": "00:00:35.200",
+    "text": "this exact parcel of dirt"
+  },
+  {
+    "index": 13,
+    "start_seconds": 35.2,
+    "end_seconds": 38.9,
+    "duration_seconds": 3.7,
+    "start_timecode": "00:00:35.200",
+    "end_timecode": "00:00:38.900",
+    "text": "was announced as the crown jewel of American consumer tech"
+  },
+  {
+    "index": 14,
+    "start_seconds": 39.0,
+    "end_seconds": 42.033,
+    "duration_seconds": 3.033,
+    "start_timecode": "00:00:39.000",
+    "end_timecode": "00:00:42.033",
+    "text": "it had a name the Peloton Output Park"
+  },
+  {
+    "index": 15,
+    "start_seconds": 42.1,
+    "end_seconds": 44.6,
+    "duration_seconds": 2.5,
+    "start_timecode": "00:00:42.100",
+    "end_timecode": "00:00:44.600",
+    "text": "a 400 million dollar mega factory"
+  },
+  {
+    "index": 16,
+    "start_seconds": 44.6,
+    "end_seconds": 48.967,
+    "duration_seconds": 4.367,
+    "start_timecode": "00:00:44.600",
+    "end_timecode": "00:00:48.967",
+    "text": "engineered to stamp out 1.5 million connected exercise bikes"
+  },
+  {
+    "index": 17,
+    "start_seconds": 48.967,
+    "end_seconds": 53.1,
+    "duration_seconds": 4.133,
+    "start_timecode": "00:00:48.967",
+    "end_timecode": "00:00:53.100",
+    "text": "every single year employing 2,000 American workers"
+  },
+  {
+    "index": 18,
+    "start_seconds": 53.8,
+    "end_seconds": 58.9,
+    "duration_seconds": 5.1,
+    "start_timecode": "00:00:53.800",
+    "end_timecode": "00:00:58.900",
+    "text": "$400 million committed 33 million recovered"
+  },
+  {
+    "index": 19,
+    "start_seconds": 59.1,
+    "end_seconds": 62.567,
+    "duration_seconds": 3.467,
+    "start_timecode": "00:00:59.100",
+    "end_timecode": "00:01:02.567",
+    "text": "a 70+ percent loss on invested capital"
+  },
+  {
+    "index": 20,
+    "start_seconds": 62.567,
+    "end_seconds": 66.834,
+    "duration_seconds": 4.267,
+    "start_timecode": "00:01:02.567",
+    "end_timecode": "00:01:06.834",
+    "text": "wiped out before a single stationary bike ever rolled off the line"
+  },
+  {
+    "index": 21,
+    "start_seconds": 67.5,
+    "end_seconds": 71.6,
+    "duration_seconds": 4.1,
+    "start_timecode": "00:01:07.500",
+    "end_timecode": "00:01:11.600",
+    "text": "most people remember the peloton story as a comedy of errors"
+  },
+  {
+    "index": 22,
+    "start_seconds": 71.967,
+    "end_seconds": 75.6,
+    "duration_seconds": 3.633,
+    "start_timecode": "00:01:11.967",
+    "end_timecode": "00:01:15.600",
+    "text": "they remember the viral 2019 Christmas commercial"
+  },
+  {
+    "index": 23,
+    "start_seconds": 75.6,
+    "end_seconds": 79.9,
+    "duration_seconds": 4.3,
+    "start_timecode": "00:01:15.600",
+    "end_timecode": "00:01:19.900",
+    "text": "where an anxious wife filmed a video diary about her exercise bike"
+  },
+  {
+    "index": 24,
+    "start_seconds": 80.5,
+    "end_seconds": 83.533,
+    "duration_seconds": 3.033,
+    "start_timecode": "00:01:20.500",
+    "end_timecode": "00:01:23.533",
+    "text": "they remember that episode of the sex and the city reboot"
+  },
+  {
+    "index": 25,
+    "start_seconds": 83.533,
+    "end_seconds": 86.966,
+    "duration_seconds": 3.433,
+    "start_timecode": "00:01:23.533",
+    "end_timecode": "00:01:26.966",
+    "text": "where Mr Big suffered a fatal heart attack on a peloton bike"
+  },
+  {
+    "index": 26,
+    "start_seconds": 86.967,
+    "end_seconds": 91.2,
+    "duration_seconds": 4.233,
+    "start_timecode": "00:01:26.967",
+    "end_timecode": "00:01:31.200",
+    "text": "plus tanking the company's stock 11% overnight"
+  },
+  {
+    "index": 27,
+    "start_seconds": 91.4,
+    "end_seconds": 93.067,
+    "duration_seconds": 1.667,
+    "start_timecode": "00:01:31.400",
+    "end_timecode": "00:01:33.067",
+    "text": "and they remember Ryan Reynolds"
+  },
+  {
+    "index": 28,
+    "start_seconds": 93.067,
+    "end_seconds": 96.8,
+    "duration_seconds": 3.733,
+    "start_timecode": "00:01:33.067",
+    "end_timecode": "00:01:36.800",
+    "text": "frantically producing a parody commercial 48 hours later"
+  },
+  {
+    "index": 29,
+    "start_seconds": 96.8,
+    "end_seconds": 99.433,
+    "duration_seconds": 2.633,
+    "start_timecode": "00:01:36.800",
+    "end_timecode": "00:01:39.433",
+    "text": "with the actor to prove he was still alive"
+  },
+  {
+    "index": 30,
+    "start_seconds": 99.533,
+    "end_seconds": 102.366,
+    "duration_seconds": 2.833,
+    "start_timecode": "00:01:39.533",
+    "end_timecode": "00:01:42.366",
+    "text": "only for the campaign to implode four days later"
+  },
+  {
+    "index": 31,
+    "start_seconds": 102.367,
+    "end_seconds": 105.867,
+    "duration_seconds": 3.5,
+    "start_timecode": "00:01:42.367",
+    "end_timecode": "00:01:45.867",
+    "text": "when the actor was hit with serious sexual assault allegations"
+  },
+  {
+    "index": 32,
+    "start_seconds": 106.4,
+    "end_seconds": 111.1,
+    "duration_seconds": 4.7,
+    "start_timecode": "00:01:46.400",
+    "end_timecode": "00:01:51.100",
+    "text": "it was chaotic it was tabloid ready and it made for great memes"
+  },
+  {
+    "index": 33,
+    "start_seconds": 111.767,
+    "end_seconds": 115.967,
+    "duration_seconds": 4.2,
+    "start_timecode": "00:01:51.767",
+    "end_timecode": "00:01:55.967",
+    "text": "but here is the reality Mr Big didn't kill Peloton"
+  },
+  {
+    "index": 34,
+    "start_seconds": 116.067,
+    "end_seconds": 118.367,
+    "duration_seconds": 2.3,
+    "start_timecode": "00:01:56.067",
+    "end_timecode": "00:01:58.367",
+    "text": "Ryan Reynolds didn't kill peloton"
+  },
+  {
+    "index": 35,
+    "start_seconds": 118.4,
+    "end_seconds": 120.733,
+    "duration_seconds": 2.333,
+    "start_timecode": "00:01:58.400",
+    "end_timecode": "00:02:00.733",
+    "text": "and the viral Christmas ad didn't erase"
+  },
+  {
+    "index": 36,
+    "start_seconds": 120.733,
+    "end_seconds": 123.433,
+    "duration_seconds": 2.7,
+    "start_timecode": "00:02:00.733",
+    "end_timecode": "00:02:03.433",
+    "text": "$50 billion of enterprise value"
+  },
+  {
+    "index": 37,
+    "start_seconds": 123.533,
+    "end_seconds": 126.966,
+    "duration_seconds": 3.433,
+    "start_timecode": "00:02:03.533",
+    "end_timecode": "00:02:06.966",
+    "text": "what destroyed peloton was a lethal accounting mirage"
+  },
+  {
+    "index": 38,
+    "start_seconds": 127.7,
+    "end_seconds": 131.867,
+    "duration_seconds": 4.167,
+    "start_timecode": "00:02:07.700",
+    "end_timecode": "00:02:11.867",
+    "text": "corporate executives convinced Wall Street and themselves"
+  },
+  {
+    "index": 39,
+    "start_seconds": 131.867,
+    "end_seconds": 135.2,
+    "duration_seconds": 3.333,
+    "start_timecode": "00:02:11.867",
+    "end_timecode": "00:02:15.200",
+    "text": "that a capital heavy manufacturer of heavy consumer"
+  },
+  {
+    "index": 40,
+    "start_seconds": 135.2,
+    "end_seconds": 139.967,
+    "duration_seconds": 4.767,
+    "start_timecode": "00:02:15.200",
+    "end_timecode": "00:02:19.967",
+    "text": "metal was actually an asset light Silicon Valley software platform"
+  },
+  {
+    "index": 41,
+    "start_seconds": 140.133,
+    "end_seconds": 141.9,
+    "duration_seconds": 1.767,
+    "start_timecode": "00:02:20.133",
+    "end_timecode": "00:02:21.900",
+    "text": "and by the time they realized that"
+  },
+  {
+    "index": 42,
+    "start_seconds": 141.9,
+    "end_seconds": 144.767,
+    "duration_seconds": 2.867,
+    "start_timecode": "00:02:21.900",
+    "end_timecode": "00:02:24.767",
+    "text": "every single bike rolling out of their warehouses"
+  },
+  {
+    "index": 43,
+    "start_seconds": 144.767,
+    "end_seconds": 148.134,
+    "duration_seconds": 3.367,
+    "start_timecode": "00:02:24.767",
+    "end_timecode": "00:02:28.134",
+    "text": "was actively bleeding hundreds of dollars of cash"
+  },
+  {
+    "index": 44,
+    "start_seconds": 148.133,
+    "end_seconds": 150.066,
+    "duration_seconds": 1.933,
+    "start_timecode": "00:02:28.133",
+    "end_timecode": "00:02:30.066",
+    "text": "they had already spent billions"
+  },
+  {
+    "index": 45,
+    "start_seconds": 150.067,
+    "end_seconds": 154.067,
+    "duration_seconds": 4.0,
+    "start_timecode": "00:02:30.067",
+    "end_timecode": "00:02:34.067",
+    "text": "building an industrial empire for customers that did not exist"
+  },
+  {
+    "index": 46,
+    "start_seconds": 154.367,
+    "end_seconds": 159.867,
+    "duration_seconds": 5.5,
+    "start_timecode": "00:02:34.367",
+    "end_timecode": "00:02:39.867",
+    "text": "this is the forensic autopsy of how $50 billion vanished into thin air"
+  },
+  {
+    "index": 47,
+    "start_seconds": 160.367,
+    "end_seconds": 163.267,
+    "duration_seconds": 2.9,
+    "start_timecode": "00:02:40.367",
+    "end_timecode": "00:02:43.267",
+    "text": "to understand how the machine broke"
+  },
+  {
+    "index": 48,
+    "start_seconds": 163.267,
+    "end_seconds": 166.034,
+    "duration_seconds": 2.767,
+    "start_timecode": "00:02:43.267",
+    "end_timecode": "00:02:46.034",
+    "text": "you have to look at the man who built it"
+  },
+  {
+    "index": 49,
+    "start_seconds": 166.167,
+    "end_seconds": 171.567,
+    "duration_seconds": 5.4,
+    "start_timecode": "00:02:46.167",
+    "end_timecode": "00:02:51.567",
+    "text": "John Foley Foley was not an industrial supply chain engineer"
+  },
+  {
+    "index": 50,
+    "start_seconds": 171.767,
+    "end_seconds": 174.1,
+    "duration_seconds": 2.333,
+    "start_timecode": "00:02:51.767",
+    "end_timecode": "00:02:54.100",
+    "text": "he was an e commerce executive"
+  },
+  {
+    "index": 51,
+    "start_seconds": 174.1,
+    "end_seconds": 177.767,
+    "duration_seconds": 3.667,
+    "start_timecode": "00:02:54.100",
+    "end_timecode": "00:02:57.767",
+    "text": "who spent years pitching venture capitalists on a simple"
+  },
+  {
+    "index": 52,
+    "start_seconds": 177.767,
+    "end_seconds": 179.6,
+    "duration_seconds": 1.833,
+    "start_timecode": "00:02:57.767",
+    "end_timecode": "00:02:59.600",
+    "text": "intoxicating premise"
+  },
+  {
+    "index": 53,
+    "start_seconds": 180.333,
+    "end_seconds": 183.4,
+    "duration_seconds": 3.067,
+    "start_timecode": "00:03:00.333",
+    "end_timecode": "00:03:03.400",
+    "text": "he didn't want to sell you a metal exercise bike"
+  },
+  {
+    "index": 54,
+    "start_seconds": 183.5,
+    "end_seconds": 187.0,
+    "duration_seconds": 3.5,
+    "start_timecode": "00:03:03.500",
+    "end_timecode": "00:03:07.000",
+    "text": "he wanted to sell you an ongoing lifestyle subscription"
+  },
+  {
+    "index": 55,
+    "start_seconds": 187.133,
+    "end_seconds": 190.866,
+    "duration_seconds": 3.733,
+    "start_timecode": "00:03:07.133",
+    "end_timecode": "00:03:10.866",
+    "text": "when peloton went public on the NASDAQ in September 2019"
+  },
+  {
+    "index": 56,
+    "start_seconds": 191.367,
+    "end_seconds": 193.467,
+    "duration_seconds": 2.1,
+    "start_timecode": "00:03:11.367",
+    "end_timecode": "00:03:13.467",
+    "text": "institutional investors didn't value it"
+  },
+  {
+    "index": 57,
+    "start_seconds": 193.467,
+    "end_seconds": 195.4,
+    "duration_seconds": 1.933,
+    "start_timecode": "00:03:13.467",
+    "end_timecode": "00:03:15.400",
+    "text": "like Nordic Track or Nautilus"
+  },
+  {
+    "index": 58,
+    "start_seconds": 195.667,
+    "end_seconds": 198.734,
+    "duration_seconds": 3.067,
+    "start_timecode": "00:03:15.667",
+    "end_timecode": "00:03:18.734",
+    "text": "those traditional fitness companies traded at boring"
+  },
+  {
+    "index": 59,
+    "start_seconds": 198.733,
+    "end_seconds": 202.8,
+    "duration_seconds": 4.067,
+    "start_timecode": "00:03:18.733",
+    "end_timecode": "00:03:22.800",
+    "text": "cyclical multiples maybe one or two times their annual revenue"
+  },
+  {
+    "index": 60,
+    "start_seconds": 203.6,
+    "end_seconds": 206.767,
+    "duration_seconds": 3.167,
+    "start_timecode": "00:03:23.600",
+    "end_timecode": "00:03:26.767",
+    "text": "peloton claimed to be fundamentally different"
+  },
+  {
+    "index": 61,
+    "start_seconds": 206.867,
+    "end_seconds": 211.434,
+    "duration_seconds": 4.567,
+    "start_timecode": "00:03:26.867",
+    "end_timecode": "00:03:31.434",
+    "text": "in their investor pitch the exercise bike was just a Trojan horse"
+  },
+  {
+    "index": 62,
+    "start_seconds": 211.667,
+    "end_seconds": 214.867,
+    "duration_seconds": 3.2,
+    "start_timecode": "00:03:31.667",
+    "end_timecode": "00:03:34.867",
+    "text": "you buy the hardware once for twenty two hundred dollars"
+  },
+  {
+    "index": 63,
+    "start_seconds": 214.867,
+    "end_seconds": 218.067,
+    "duration_seconds": 3.2,
+    "start_timecode": "00:03:34.867",
+    "end_timecode": "00:03:38.067",
+    "text": "and then you pay 39 dollars every single month"
+  },
+  {
+    "index": 64,
+    "start_seconds": 218.067,
+    "end_seconds": 222.9,
+    "duration_seconds": 4.833,
+    "start_timecode": "00:03:38.067",
+    "end_timecode": "00:03:42.900",
+    "text": "forever to stream live workouts from charismatic celebrity instructors"
+  },
+  {
+    "index": 65,
+    "start_seconds": 223.167,
+    "end_seconds": 226.434,
+    "duration_seconds": 3.267,
+    "start_timecode": "00:03:43.167",
+    "end_timecode": "00:03:46.434",
+    "text": "on paper the unit economics were gorgeous"
+  },
+  {
+    "index": 66,
+    "start_seconds": 227.0,
+    "end_seconds": 229.7,
+    "duration_seconds": 2.7,
+    "start_timecode": "00:03:47.000",
+    "end_timecode": "00:03:49.700",
+    "text": "in software customer acquisition cost"
+  },
+  {
+    "index": 67,
+    "start_seconds": 229.7,
+    "end_seconds": 234.5,
+    "duration_seconds": 4.8,
+    "start_timecode": "00:03:49.700",
+    "end_timecode": "00:03:54.500",
+    "text": "or cack is the money you spend on marketing to win one paying customer"
+  },
+  {
+    "index": 68,
+    "start_seconds": 234.733,
+    "end_seconds": 238.4,
+    "duration_seconds": 3.667,
+    "start_timecode": "00:03:54.733",
+    "end_timecode": "00:03:58.400",
+    "text": "usually that marketing expense burns cash up front"
+  },
+  {
+    "index": 69,
+    "start_seconds": 238.667,
+    "end_seconds": 241.067,
+    "duration_seconds": 2.4,
+    "start_timecode": "00:03:58.667",
+    "end_timecode": "00:04:01.067",
+    "text": "but throughout fiscal 2020"
+  },
+  {
+    "index": 70,
+    "start_seconds": 241.067,
+    "end_seconds": 243.067,
+    "duration_seconds": 2.0,
+    "start_timecode": "00:04:01.067",
+    "end_timecode": "00:04:03.067",
+    "text": "Peloton had a secret weapon"
+  },
+  {
+    "index": 71,
+    "start_seconds": 243.333,
+    "end_seconds": 244.666,
+    "duration_seconds": 1.333,
+    "start_timecode": "00:04:03.333",
+    "end_timecode": "00:04:04.666",
+    "text": "because affluent early"
+  },
+  {
+    "index": 72,
+    "start_seconds": 244.667,
+    "end_seconds": 248.4,
+    "duration_seconds": 3.733,
+    "start_timecode": "00:04:04.667",
+    "end_timecode": "00:04:08.400",
+    "text": "adopters were happy to pay over $2,000 for the bike"
+  },
+  {
+    "index": 73,
+    "start_seconds": 248.533,
+    "end_seconds": 254.1,
+    "duration_seconds": 5.567,
+    "start_timecode": "00:04:08.533",
+    "end_timecode": "00:04:14.100",
+    "text": "peloton made roughly 43% gross profit on the physical hardware alone"
+  },
+  {
+    "index": 74,
+    "start_seconds": 254.6,
+    "end_seconds": 257.267,
+    "duration_seconds": 2.667,
+    "start_timecode": "00:04:14.600",
+    "end_timecode": "00:04:17.267",
+    "text": "that meant every time someone bought a bike"
+  },
+  {
+    "index": 75,
+    "start_seconds": 257.367,
+    "end_seconds": 261.3,
+    "duration_seconds": 3.933,
+    "start_timecode": "00:04:17.367",
+    "end_timecode": "00:04:21.300",
+    "text": "peloton cleared roughly $900 of gross cash"
+  },
+  {
+    "index": 76,
+    "start_seconds": 261.3,
+    "end_seconds": 264.167,
+    "duration_seconds": 2.867,
+    "start_timecode": "00:04:21.300",
+    "end_timecode": "00:04:24.167",
+    "text": "before the customer even turned on the screen"
+  },
+  {
+    "index": 77,
+    "start_seconds": 264.333,
+    "end_seconds": 268.2,
+    "duration_seconds": 3.867,
+    "start_timecode": "00:04:24.333",
+    "end_timecode": "00:04:28.200",
+    "text": "that $900 completely paid for the Facebook ads"
+  },
+  {
+    "index": 78,
+    "start_seconds": 268.2,
+    "end_seconds": 271.2,
+    "duration_seconds": 3.0,
+    "start_timecode": "00:04:28.200",
+    "end_timecode": "00:04:31.200",
+    "text": "the showroom leases in upscale shopping malls"
+  },
+  {
+    "index": 79,
+    "start_seconds": 271.2,
+    "end_seconds": 272.967,
+    "duration_seconds": 1.767,
+    "start_timecode": "00:04:31.200",
+    "end_timecode": "00:04:32.967",
+    "text": "and the marketing campaigns"
+  },
+  {
+    "index": 80,
+    "start_seconds": 273.167,
+    "end_seconds": 277.5,
+    "duration_seconds": 4.333,
+    "start_timecode": "00:04:33.167",
+    "end_timecode": "00:04:37.500",
+    "text": "in Wall Street terms their customer acquisition was virtually free"
+  },
+  {
+    "index": 81,
+    "start_seconds": 277.567,
+    "end_seconds": 279.867,
+    "duration_seconds": 2.3,
+    "start_timecode": "00:04:37.567",
+    "end_timecode": "00:04:39.867",
+    "text": "and once that customer was plugged in"
+  },
+  {
+    "index": 82,
+    "start_seconds": 279.867,
+    "end_seconds": 283.4,
+    "duration_seconds": 3.533,
+    "start_timecode": "00:04:39.867",
+    "end_timecode": "00:04:43.400",
+    "text": "they stayed monthly churn was under 1%"
+  },
+  {
+    "index": 83,
+    "start_seconds": 283.9,
+    "end_seconds": 287.067,
+    "duration_seconds": 3.167,
+    "start_timecode": "00:04:43.900",
+    "end_timecode": "00:04:47.067",
+    "text": "Wall Street looked at those numbers and lost its mind"
+  },
+  {
+    "index": 84,
+    "start_seconds": 287.3,
+    "end_seconds": 289.967,
+    "duration_seconds": 2.667,
+    "start_timecode": "00:04:47.300",
+    "end_timecode": "00:04:49.967",
+    "text": "investors said this isn't a hardware business"
+  },
+  {
+    "index": 85,
+    "start_seconds": 289.967,
+    "end_seconds": 291.9,
+    "duration_seconds": 1.933,
+    "start_timecode": "00:04:49.967",
+    "end_timecode": "00:04:51.900",
+    "text": "this is Netflix on a bike"
+  },
+  {
+    "index": 86,
+    "start_seconds": 292.133,
+    "end_seconds": 295.0,
+    "duration_seconds": 2.867,
+    "start_timecode": "00:04:52.133",
+    "end_timecode": "00:04:55.000",
+    "text": "um and then came March 2020"
+  },
+  {
+    "index": 87,
+    "start_seconds": 295.467,
+    "end_seconds": 299.9,
+    "duration_seconds": 4.433,
+    "start_timecode": "00:04:55.467",
+    "end_timecode": "00:04:59.900",
+    "text": "Covid 19 shuttered every commercial gym in North America and Europe"
+  },
+  {
+    "index": 88,
+    "start_seconds": 299.9,
+    "end_seconds": 303.467,
+    "duration_seconds": 3.567,
+    "start_timecode": "00:04:59.900",
+    "end_timecode": "00:05:03.467",
+    "text": "overnight millions of professionals with disposable income"
+  },
+  {
+    "index": 89,
+    "start_seconds": 303.467,
+    "end_seconds": 305.7,
+    "duration_seconds": 2.233,
+    "start_timecode": "00:05:03.467",
+    "end_timecode": "00:05:05.700",
+    "text": "found themselves trapped in their living rooms"
+  },
+  {
+    "index": 90,
+    "start_seconds": 305.7,
+    "end_seconds": 308.9,
+    "duration_seconds": 3.2,
+    "start_timecode": "00:05:05.700",
+    "end_timecode": "00:05:08.900",
+    "text": "terrified and bored the demand didn't just climb"
+  },
+  {
+    "index": 91,
+    "start_seconds": 308.9,
+    "end_seconds": 310.067,
+    "duration_seconds": 1.167,
+    "start_timecode": "00:05:08.900",
+    "end_timecode": "00:05:10.067",
+    "text": "it detonated"
+  },
+  {
+    "index": 92,
+    "start_seconds": 310.8,
+    "end_seconds": 315.067,
+    "duration_seconds": 4.267,
+    "start_timecode": "00:05:10.800",
+    "end_timecode": "00:05:15.067",
+    "text": "monthly workouts per subscriber surged past 24"
+  },
+  {
+    "index": 93,
+    "start_seconds": 315.167,
+    "end_seconds": 318.567,
+    "duration_seconds": 3.4,
+    "start_timecode": "00:05:15.167",
+    "end_timecode": "00:05:18.567",
+    "text": "delivery backlog stretched from two weeks to eight weeks"
+  },
+  {
+    "index": 94,
+    "start_seconds": 318.567,
+    "end_seconds": 322.9,
+    "duration_seconds": 4.333,
+    "start_timecode": "00:05:18.567",
+    "end_timecode": "00:05:22.900",
+    "text": "then to 10 weeks customer service phone lines were overwhelmed"
+  },
+  {
+    "index": 95,
+    "start_seconds": 322.967,
+    "end_seconds": 328.4,
+    "duration_seconds": 5.433,
+    "start_timecode": "00:05:22.967",
+    "end_timecode": "00:05:28.400",
+    "text": "in December 2020 Peloton's market valuation passed $50 billion"
+  },
+  {
+    "index": 96,
+    "start_seconds": 328.667,
+    "end_seconds": 330.567,
+    "duration_seconds": 1.9,
+    "start_timecode": "00:05:28.667",
+    "end_timecode": "00:05:30.567",
+    "text": "John Foley was a billionaire"
+  },
+  {
+    "index": 97,
+    "start_seconds": 330.6,
+    "end_seconds": 334.067,
+    "duration_seconds": 3.467,
+    "start_timecode": "00:05:30.600",
+    "end_timecode": "00:05:34.067",
+    "text": "the instructors were signing seven figure talent contracts"
+  },
+  {
+    "index": 98,
+    "start_seconds": 334.733,
+    "end_seconds": 338.133,
+    "duration_seconds": 3.4,
+    "start_timecode": "00:05:34.733",
+    "end_timecode": "00:05:38.133",
+    "text": "but right here at the absolute peak of the frenzy"
+  },
+  {
+    "index": 99,
+    "start_seconds": 338.133,
+    "end_seconds": 341.3,
+    "duration_seconds": 3.167,
+    "start_timecode": "00:05:38.133",
+    "end_timecode": "00:05:41.300",
+    "text": "executive leadership made the foundational mistake"
+  },
+  {
+    "index": 100,
+    "start_seconds": 341.3,
+    "end_seconds": 342.867,
+    "duration_seconds": 1.567,
+    "start_timecode": "00:05:41.300",
+    "end_timecode": "00:05:42.867",
+    "text": "that would seal their fate"
+  },
+  {
+    "index": 101,
+    "start_seconds": 343.267,
+    "end_seconds": 347.7,
+    "duration_seconds": 4.433,
+    "start_timecode": "00:05:43.267",
+    "end_timecode": "00:05:47.700",
+    "text": "they confused a temporary crisis driven pull forward of demand"
+  },
+  {
+    "index": 102,
+    "start_seconds": 347.733,
+    "end_seconds": 351.066,
+    "duration_seconds": 3.333,
+    "start_timecode": "00:05:47.733",
+    "end_timecode": "00:05:51.066",
+    "text": "with a permanent structural expansion of their market"
+  },
+  {
+    "index": 103,
+    "start_seconds": 351.667,
+    "end_seconds": 353.167,
+    "duration_seconds": 1.5,
+    "start_timecode": "00:05:51.667",
+    "end_timecode": "00:05:53.167",
+    "text": "they looked at customers"
+  },
+  {
+    "index": 104,
+    "start_seconds": 353.267,
+    "end_seconds": 356.5,
+    "duration_seconds": 3.233,
+    "start_timecode": "00:05:53.267",
+    "end_timecode": "00:05:56.500",
+    "text": "technically ordering bikes during a global quarantine"
+  },
+  {
+    "index": 105,
+    "start_seconds": 356.5,
+    "end_seconds": 358.667,
+    "duration_seconds": 2.167,
+    "start_timecode": "00:05:56.500",
+    "end_timecode": "00:05:58.667",
+    "text": "and assumed that this was the new normal"
+  },
+  {
+    "index": 106,
+    "start_seconds": 358.667,
+    "end_seconds": 361.034,
+    "duration_seconds": 2.367,
+    "start_timecode": "00:05:58.667",
+    "end_timecode": "00:06:01.034",
+    "text": "baseline of human civilization"
+  },
+  {
+    "index": 107,
+    "start_seconds": 361.133,
+    "end_seconds": 363.1,
+    "duration_seconds": 1.967,
+    "start_timecode": "00:06:01.133",
+    "end_timecode": "00:06:03.100",
+    "text": "and instead of staying asset light"
+  },
+  {
+    "index": 108,
+    "start_seconds": 363.1,
+    "end_seconds": 365.767,
+    "duration_seconds": 2.667,
+    "start_timecode": "00:06:03.100",
+    "end_timecode": "00:06:05.767",
+    "text": "and letting customers wait out the pandemic"
+  },
+  {
+    "index": 109,
+    "start_seconds": 365.767,
+    "end_seconds": 370.9,
+    "duration_seconds": 5.133,
+    "start_timecode": "00:06:05.767",
+    "end_timecode": "00:06:10.900",
+    "text": "peloton decided to build an industrial empire in logistics"
+  },
+  {
+    "index": 110,
+    "start_seconds": 370.9,
+    "end_seconds": 374.7,
+    "duration_seconds": 3.8,
+    "start_timecode": "00:06:10.900",
+    "end_timecode": "00:06:14.700",
+    "text": "there is a famous concept known as the bullwhip effect"
+  },
+  {
+    "index": 111,
+    "start_seconds": 374.867,
+    "end_seconds": 376.8,
+    "duration_seconds": 1.933,
+    "start_timecode": "00:06:14.867",
+    "end_timecode": "00:06:16.800",
+    "text": "imagine you are holding a whip"
+  },
+  {
+    "index": 112,
+    "start_seconds": 376.8,
+    "end_seconds": 379.233,
+    "duration_seconds": 2.433,
+    "start_timecode": "00:06:16.800",
+    "end_timecode": "00:06:19.233",
+    "text": "if you flick your wrist just two inches"
+  },
+  {
+    "index": 113,
+    "start_seconds": 379.333,
+    "end_seconds": 382.3,
+    "duration_seconds": 2.967,
+    "start_timecode": "00:06:19.333",
+    "end_timecode": "00:06:22.300",
+    "text": "the tip of the whip 50 feet away cracks violently"
+  },
+  {
+    "index": 114,
+    "start_seconds": 382.533,
+    "end_seconds": 384.766,
+    "duration_seconds": 2.233,
+    "start_timecode": "00:06:22.533",
+    "end_timecode": "00:06:24.766",
+    "text": "through the air across 20 feet"
+  },
+  {
+    "index": 115,
+    "start_seconds": 385.167,
+    "end_seconds": 387.434,
+    "duration_seconds": 2.267,
+    "start_timecode": "00:06:25.167",
+    "end_timecode": "00:06:27.434",
+    "text": "in industrial manufacturing"
+  },
+  {
+    "index": 116,
+    "start_seconds": 387.5,
+    "end_seconds": 389.467,
+    "duration_seconds": 1.967,
+    "start_timecode": "00:06:27.500",
+    "end_timecode": "00:06:29.467",
+    "text": "customer demand is the risk"
+  },
+  {
+    "index": 117,
+    "start_seconds": 389.733,
+    "end_seconds": 393.433,
+    "duration_seconds": 3.7,
+    "start_timecode": "00:06:29.733",
+    "end_timecode": "00:06:33.433",
+    "text": "if consumer demand temporarily jumps 10%"
+  },
+  {
+    "index": 118,
+    "start_seconds": 393.5,
+    "end_seconds": 397.467,
+    "duration_seconds": 3.967,
+    "start_timecode": "00:06:33.500",
+    "end_timecode": "00:06:37.467",
+    "text": "retailers panic and increase their orders by 20%"
+  },
+  {
+    "index": 119,
+    "start_seconds": 397.733,
+    "end_seconds": 402.833,
+    "duration_seconds": 5.1,
+    "start_timecode": "00:06:37.733",
+    "end_timecode": "00:06:42.833",
+    "text": "wholesalers see that 20% spike and order 40% more from factories"
+  },
+  {
+    "index": 120,
+    "start_seconds": 403.067,
+    "end_seconds": 406.667,
+    "duration_seconds": 3.6,
+    "start_timecode": "00:06:43.067",
+    "end_timecode": "00:06:46.667",
+    "text": "and by the time the signal reaches the raw material suppliers"
+  },
+  {
+    "index": 121,
+    "start_seconds": 406.733,
+    "end_seconds": 410.466,
+    "duration_seconds": 3.733,
+    "start_timecode": "00:06:46.733",
+    "end_timecode": "00:06:50.466",
+    "text": "orders have amplified into a massive distorted wave"
+  },
+  {
+    "index": 122,
+    "start_seconds": 411.133,
+    "end_seconds": 413.733,
+    "duration_seconds": 2.6,
+    "start_timecode": "00:06:51.133",
+    "end_timecode": "00:06:53.733",
+    "text": "Peloton's executive suite took the bullwhip"
+  },
+  {
+    "index": 123,
+    "start_seconds": 413.733,
+    "end_seconds": 415.666,
+    "duration_seconds": 1.933,
+    "start_timecode": "00:06:53.733",
+    "end_timecode": "00:06:55.666",
+    "text": "and swung it with both hands"
+  },
+  {
+    "index": 124,
+    "start_seconds": 415.867,
+    "end_seconds": 422.234,
+    "duration_seconds": 6.367,
+    "start_timecode": "00:06:55.867",
+    "end_timecode": "00:07:02.234",
+    "text": "in December 2020 Peloton paid $420 million in pure cash to buy Precor"
+  },
+  {
+    "index": 125,
+    "start_seconds": 422.3,
+    "end_seconds": 424.8,
+    "duration_seconds": 2.5,
+    "start_timecode": "00:07:02.300",
+    "end_timecode": "00:07:04.800",
+    "text": "a commercial fitness equipment manufacturer"
+  },
+  {
+    "index": 126,
+    "start_seconds": 424.8,
+    "end_seconds": 427.767,
+    "duration_seconds": 2.967,
+    "start_timecode": "00:07:04.800",
+    "end_timecode": "00:07:07.767",
+    "text": "purely to acquire their factories in North Carolina and"
+  },
+  {
+    "index": 127,
+    "start_seconds": 427.8,
+    "end_seconds": 428.6,
+    "duration_seconds": 0.8,
+    "start_timecode": "00:07:07.800",
+    "end_timecode": "00:07:08.600",
+    "text": "Washington"
+  },
+  {
+    "index": 128,
+    "start_seconds": 429.167,
+    "end_seconds": 431.2,
+    "duration_seconds": 2.033,
+    "start_timecode": "00:07:09.167",
+    "end_timecode": "00:07:11.200",
+    "text": "next came the freight panic"
+  },
+  {
+    "index": 129,
+    "start_seconds": 431.4,
+    "end_seconds": 433.133,
+    "duration_seconds": 1.733,
+    "start_timecode": "00:07:11.400",
+    "end_timecode": "00:07:13.133",
+    "text": "port congestion in Long Beach"
+  },
+  {
+    "index": 130,
+    "start_seconds": 433.133,
+    "end_seconds": 434.066,
+    "duration_seconds": 0.933,
+    "start_timecode": "00:07:13.133",
+    "end_timecode": "00:07:14.066",
+    "text": "and Los Angeles"
+  },
+  {
+    "index": 131,
+    "start_seconds": 434.067,
+    "end_seconds": 437.8,
+    "duration_seconds": 3.733,
+    "start_timecode": "00:07:14.067",
+    "end_timecode": "00:07:17.800",
+    "text": "was delaying shipments from their Asian contract manufacturers"
+  },
+  {
+    "index": 132,
+    "start_seconds": 438.0,
+    "end_seconds": 444.133,
+    "duration_seconds": 6.133,
+    "start_timecode": "00:07:18.000",
+    "end_timecode": "00:07:24.133",
+    "text": "so what did peloton do they charted entire Boeing 777 cargo freighters"
+  },
+  {
+    "index": 133,
+    "start_seconds": 444.133,
+    "end_seconds": 448.433,
+    "duration_seconds": 4.3,
+    "start_timecode": "00:07:24.133",
+    "end_timecode": "00:07:28.433",
+    "text": "to fly thousands of 70 pound steel bikes across the Pacific Ocean"
+  },
+  {
+    "index": 134,
+    "start_seconds": 448.567,
+    "end_seconds": 452.134,
+    "duration_seconds": 3.567,
+    "start_timecode": "00:07:28.567",
+    "end_timecode": "00:07:32.134",
+    "text": "spending up to $100 million on expedited air freight"
+  },
+  {
+    "index": 135,
+    "start_seconds": 452.133,
+    "end_seconds": 455.4,
+    "duration_seconds": 3.267,
+    "start_timecode": "00:07:32.133",
+    "end_timecode": "00:07:35.400",
+    "text": "just to get bikes into living rooms two weeks faster"
+  },
+  {
+    "index": 136,
+    "start_seconds": 455.967,
+    "end_seconds": 460.167,
+    "duration_seconds": 4.2,
+    "start_timecode": "00:07:35.967",
+    "end_timecode": "00:07:40.167",
+    "text": "and then in May 2021 came the big bet"
+  },
+  {
+    "index": 137,
+    "start_seconds": 460.2,
+    "end_seconds": 464.467,
+    "duration_seconds": 4.267,
+    "start_timecode": "00:07:40.200",
+    "end_timecode": "00:07:44.467",
+    "text": "the 400 million dollar peloton output park in Ohio"
+  },
+  {
+    "index": 138,
+    "start_seconds": 464.6,
+    "end_seconds": 468.967,
+    "duration_seconds": 4.367,
+    "start_timecode": "00:07:44.600",
+    "end_timecode": "00:07:48.967",
+    "text": "2,000 workers 1.2 million square feet"
+  },
+  {
+    "index": 139,
+    "start_seconds": 469.3,
+    "end_seconds": 473.6,
+    "duration_seconds": 4.3,
+    "start_timecode": "00:07:49.300",
+    "end_timecode": "00:07:53.600",
+    "text": "Foley declared that peloton would control its own industrial destiny"
+  },
+  {
+    "index": 140,
+    "start_seconds": 473.6,
+    "end_seconds": 475.233,
+    "duration_seconds": 1.633,
+    "start_timecode": "00:07:53.600",
+    "end_timecode": "00:07:55.233",
+    "text": "for decades to come"
+  },
+  {
+    "index": 141,
+    "start_seconds": 475.6,
+    "end_seconds": 480.7,
+    "duration_seconds": 5.1,
+    "start_timecode": "00:07:55.600",
+    "end_timecode": "00:08:00.700",
+    "text": "structural steel began rising from the Ohio dirt in late 2021"
+  },
+  {
+    "index": 142,
+    "start_seconds": 481.3,
+    "end_seconds": 483.833,
+    "duration_seconds": 2.533,
+    "start_timecode": "00:08:01.300",
+    "end_timecode": "00:08:03.833",
+    "text": "and then the world reopened"
+  },
+  {
+    "index": 143,
+    "start_seconds": 484.0,
+    "end_seconds": 488.2,
+    "duration_seconds": 4.2,
+    "start_timecode": "00:08:04.000",
+    "end_timecode": "00:08:08.200",
+    "text": "vaccines rolled out people walked out of their apartments"
+  },
+  {
+    "index": 144,
+    "start_seconds": 488.367,
+    "end_seconds": 490.867,
+    "duration_seconds": 2.5,
+    "start_timecode": "00:08:08.367",
+    "end_timecode": "00:08:10.867",
+    "text": "commercial gyms unlocked their doors"
+  },
+  {
+    "index": 145,
+    "start_seconds": 491.067,
+    "end_seconds": 496.234,
+    "duration_seconds": 5.167,
+    "start_timecode": "00:08:11.067",
+    "end_timecode": "00:08:16.234",
+    "text": "and the demand for 22 dollar stationary bikes didn't just normalize"
+  },
+  {
+    "index": 146,
+    "start_seconds": 496.3,
+    "end_seconds": 497.8,
+    "duration_seconds": 1.5,
+    "start_timecode": "00:08:16.300",
+    "end_timecode": "00:08:17.800",
+    "text": "it fell off a cliff"
+  },
+  {
+    "index": 147,
+    "start_seconds": 498.467,
+    "end_seconds": 502.067,
+    "duration_seconds": 3.6,
+    "start_timecode": "00:08:18.467",
+    "end_timecode": "00:08:22.067",
+    "text": "every wealthy household that wanted a peloton already had one"
+  },
+  {
+    "index": 148,
+    "start_seconds": 502.067,
+    "end_seconds": 503.734,
+    "duration_seconds": 1.667,
+    "start_timecode": "00:08:22.067",
+    "end_timecode": "00:08:23.734",
+    "text": "sitting in their spare bedroom"
+  },
+  {
+    "index": 149,
+    "start_seconds": 503.733,
+    "end_seconds": 506.966,
+    "duration_seconds": 3.233,
+    "start_timecode": "00:08:23.733",
+    "end_timecode": "00:08:26.966",
+    "text": "increasingly serving as an expensive clothes rack"
+  },
+  {
+    "index": 150,
+    "start_seconds": 507.167,
+    "end_seconds": 509.767,
+    "duration_seconds": 2.6,
+    "start_timecode": "00:08:27.167",
+    "end_timecode": "00:08:29.767",
+    "text": "the backlog evaporated overnight"
+  },
+  {
+    "index": 151,
+    "start_seconds": 509.8,
+    "end_seconds": 511.133,
+    "duration_seconds": 1.333,
+    "start_timecode": "00:08:29.800",
+    "end_timecode": "00:08:31.133",
+    "text": "but the container ships"
+  },
+  {
+    "index": 152,
+    "start_seconds": 511.133,
+    "end_seconds": 515.266,
+    "duration_seconds": 4.133,
+    "start_timecode": "00:08:31.133",
+    "end_timecode": "00:08:35.266",
+    "text": "full of raw parts were still crossing the ocean the pre core fact"
+  },
+  {
+    "index": 153,
+    "start_seconds": 515.6,
+    "end_seconds": 520.367,
+    "duration_seconds": 4.767,
+    "start_timecode": "00:08:35.600",
+    "end_timecode": "00:08:40.367",
+    "text": "was still producing metal and the concrete in Ohio was still drying"
+  },
+  {
+    "index": 154,
+    "start_seconds": 520.9,
+    "end_seconds": 524.9,
+    "duration_seconds": 4.0,
+    "start_timecode": "00:08:40.900",
+    "end_timecode": "00:08:44.900",
+    "text": "the bullwhip snapped back and the crack shattered their balance sheet"
+  },
+  {
+    "index": 155,
+    "start_seconds": 525.7,
+    "end_seconds": 528.5,
+    "duration_seconds": 2.8,
+    "start_timecode": "00:08:45.700",
+    "end_timecode": "00:08:48.500",
+    "text": "look closely at Peloton's form 10K"
+  },
+  {
+    "index": 156,
+    "start_seconds": 528.5,
+    "end_seconds": 533.367,
+    "duration_seconds": 4.867,
+    "start_timecode": "00:08:48.500",
+    "end_timecode": "00:08:53.367",
+    "text": "filing for the fiscal year ended June 30th, 2022"
+  },
+  {
+    "index": 157,
+    "start_seconds": 533.5,
+    "end_seconds": 536.7,
+    "duration_seconds": 3.2,
+    "start_timecode": "00:08:53.500",
+    "end_timecode": "00:08:56.700",
+    "text": "this is where the mathematical horror story is buried"
+  },
+  {
+    "index": 158,
+    "start_seconds": 537.0,
+    "end_seconds": 541.3,
+    "duration_seconds": 4.3,
+    "start_timecode": "00:08:57.000",
+    "end_timecode": "00:09:01.300",
+    "text": "to clear mountains of bikes piling up in third party warehouses"
+  },
+  {
+    "index": 159,
+    "start_seconds": 541.467,
+    "end_seconds": 543.667,
+    "duration_seconds": 2.2,
+    "start_timecode": "00:09:01.467",
+    "end_timecode": "00:09:03.667",
+    "text": "management started slashing prices"
+  },
+  {
+    "index": 160,
+    "start_seconds": 543.667,
+    "end_seconds": 547.167,
+    "duration_seconds": 3.5,
+    "start_timecode": "00:09:03.667",
+    "end_timecode": "00:09:07.167",
+    "text": "from 22 hundred dollars down to 14 hundred dollars"
+  },
+  {
+    "index": 161,
+    "start_seconds": 547.7,
+    "end_seconds": 551.167,
+    "duration_seconds": 3.467,
+    "start_timecode": "00:09:07.700",
+    "end_timecode": "00:09:11.167",
+    "text": "meanwhile ocean container rates had spiked fivefold"
+  },
+  {
+    "index": 162,
+    "start_seconds": 551.267,
+    "end_seconds": 553.5,
+    "duration_seconds": 2.233,
+    "start_timecode": "00:09:11.267",
+    "end_timecode": "00:09:13.500",
+    "text": "storage fees were compounding daily"
+  },
+  {
+    "index": 163,
+    "start_seconds": 553.5,
+    "end_seconds": 556.4,
+    "duration_seconds": 2.9,
+    "start_timecode": "00:09:13.500",
+    "end_timecode": "00:09:16.400",
+    "text": "and air freight amortization was hitting the Ledger"
+  },
+  {
+    "index": 164,
+    "start_seconds": 556.567,
+    "end_seconds": 558.7,
+    "duration_seconds": 2.133,
+    "start_timecode": "00:09:16.567",
+    "end_timecode": "00:09:18.700",
+    "text": "and then the arithmetic inverted"
+  },
+  {
+    "index": 165,
+    "start_seconds": 559.2,
+    "end_seconds": 567.3,
+    "duration_seconds": 8.1,
+    "start_timecode": "00:09:19.200",
+    "end_timecode": "00:09:27.300",
+    "text": "in fiscal 2020 every bike delivered generated $927 in gross profit"
+  },
+  {
+    "index": 166,
+    "start_seconds": 567.7,
+    "end_seconds": 575.067,
+    "duration_seconds": 7.367,
+    "start_timecode": "00:09:27.700",
+    "end_timecode": "00:09:35.067",
+    "text": "by fiscal 2022 every single bike delivered generated a loss of $196"
+  },
+  {
+    "index": 167,
+    "start_seconds": 575.067,
+    "end_seconds": 577.9,
+    "duration_seconds": 2.833,
+    "start_timecode": "00:09:35.067",
+    "end_timecode": "00:09:37.900",
+    "text": "before paying a single cent for marketing"
+  },
+  {
+    "index": 168,
+    "start_seconds": 577.9,
+    "end_seconds": 580.267,
+    "duration_seconds": 2.367,
+    "start_timecode": "00:09:37.900",
+    "end_timecode": "00:09:40.267",
+    "text": "salaries or software development"
+  },
+  {
+    "index": 169,
+    "start_seconds": 580.933,
+    "end_seconds": 584.766,
+    "duration_seconds": 3.833,
+    "start_timecode": "00:09:40.933",
+    "end_timecode": "00:09:44.766",
+    "text": "previously hardware gross profit paid for customer acquisition"
+  },
+  {
+    "index": 170,
+    "start_seconds": 584.967,
+    "end_seconds": 588.234,
+    "duration_seconds": 3.267,
+    "start_timecode": "00:09:44.967",
+    "end_timecode": "00:09:48.234",
+    "text": "now acquiring a customer burned cash on the marketing"
+  },
+  {
+    "index": 171,
+    "start_seconds": 588.267,
+    "end_seconds": 589.934,
+    "duration_seconds": 1.667,
+    "start_timecode": "00:09:48.267",
+    "end_timecode": "00:09:49.934",
+    "text": "burned cash on the delivery"
+  },
+  {
+    "index": 172,
+    "start_seconds": 589.933,
+    "end_seconds": 592.233,
+    "duration_seconds": 2.3,
+    "start_timecode": "00:09:49.933",
+    "end_timecode": "00:09:52.233",
+    "text": "and burned cash on the hardware itself"
+  },
+  {
+    "index": 173,
+    "start_seconds": 592.467,
+    "end_seconds": 595.067,
+    "duration_seconds": 2.6,
+    "start_timecode": "00:09:52.467",
+    "end_timecode": "00:09:55.067",
+    "text": "the machine was devouring its own capital"
+  },
+  {
+    "index": 174,
+    "start_seconds": 595.167,
+    "end_seconds": 598.2,
+    "duration_seconds": 3.033,
+    "start_timecode": "00:09:55.167",
+    "end_timecode": "00:09:58.200",
+    "text": "but bad financial math wasn't their only problem"
+  },
+  {
+    "index": 175,
+    "start_seconds": 598.2,
+    "end_seconds": 600.9,
+    "duration_seconds": 2.7,
+    "start_timecode": "00:09:58.200",
+    "end_timecode": "00:10:00.900",
+    "text": "an engineering catastrophe was unfolding"
+  },
+  {
+    "index": 176,
+    "start_seconds": 601.333,
+    "end_seconds": 603.7,
+    "duration_seconds": 2.367,
+    "start_timecode": "00:10:01.333",
+    "end_timecode": "00:10:03.700",
+    "text": "peloton had launched a luxury motor"
+  },
+  {
+    "index": 177,
+    "start_seconds": 603.767,
+    "end_seconds": 606.0,
+    "duration_seconds": 2.233,
+    "start_timecode": "00:10:03.767",
+    "end_timecode": "00:10:06.000",
+    "text": "this treadmill the tread plus"
+  },
+  {
+    "index": 178,
+    "start_seconds": 606.0,
+    "end_seconds": 608.3,
+    "duration_seconds": 2.3,
+    "start_timecode": "00:10:06.000",
+    "end_timecode": "00:10:08.300",
+    "text": "priced at 40 three hundred dollars"
+  },
+  {
+    "index": 179,
+    "start_seconds": 608.6,
+    "end_seconds": 611.333,
+    "duration_seconds": 2.733,
+    "start_timecode": "00:10:08.600",
+    "end_timecode": "00:10:11.333",
+    "text": "unlike traditional treadmills that use a flat"
+  },
+  {
+    "index": 180,
+    "start_seconds": 611.333,
+    "end_seconds": 615.2,
+    "duration_seconds": 3.867,
+    "start_timecode": "00:10:11.333",
+    "end_timecode": "00:10:15.200",
+    "text": "continuous belt sliding across a deck with a low ground clearance"
+  },
+  {
+    "index": 181,
+    "start_seconds": 615.367,
+    "end_seconds": 619.1,
+    "duration_seconds": 3.733,
+    "start_timecode": "00:10:15.367",
+    "end_timecode": "00:10:19.100",
+    "text": "the tread plus used 59 individual rubber coated"
+  },
+  {
+    "index": 182,
+    "start_seconds": 619.1,
+    "end_seconds": 623.567,
+    "duration_seconds": 4.467,
+    "start_timecode": "00:10:19.100",
+    "end_timecode": "00:10:23.567",
+    "text": "interlocking aluminum slats powered by a heavy industrial motor"
+  },
+  {
+    "index": 183,
+    "start_seconds": 624.0,
+    "end_seconds": 628.567,
+    "duration_seconds": 4.567,
+    "start_timecode": "00:10:24.000",
+    "end_timecode": "00:10:28.567",
+    "text": "crucially the elevated rear roller sat 6 to 8 inches above the floor"
+  },
+  {
+    "index": 184,
+    "start_seconds": 628.567,
+    "end_seconds": 630.267,
+    "duration_seconds": 1.7,
+    "start_timecode": "00:10:28.567",
+    "end_timecode": "00:10:30.267",
+    "text": "without a physical safety guard"
+  },
+  {
+    "index": 185,
+    "start_seconds": 630.267,
+    "end_seconds": 633.167,
+    "duration_seconds": 2.9,
+    "start_timecode": "00:10:30.267",
+    "end_timecode": "00:10:33.167",
+    "text": "or an automatic emergency shut off threshold"
+  },
+  {
+    "index": 186,
+    "start_seconds": 633.367,
+    "end_seconds": 634.6,
+    "duration_seconds": 1.233,
+    "start_timecode": "00:10:33.367",
+    "end_timecode": "00:10:34.600",
+    "text": "if a small pet"
+  },
+  {
+    "index": 187,
+    "start_seconds": 634.6,
+    "end_seconds": 638.633,
+    "duration_seconds": 4.033,
+    "start_timecode": "00:10:34.600",
+    "end_timecode": "00:10:38.633",
+    "text": "a yoga ball or a child was pulled underneath the moving slats"
+  },
+  {
+    "index": 188,
+    "start_seconds": 638.667,
+    "end_seconds": 640.8,
+    "duration_seconds": 2.133,
+    "start_timecode": "00:10:38.667",
+    "end_timecode": "00:10:40.800",
+    "text": "the powerful motor did not stop"
+  },
+  {
+    "index": 189,
+    "start_seconds": 640.8,
+    "end_seconds": 644.1,
+    "duration_seconds": 3.3,
+    "start_timecode": "00:10:40.800",
+    "end_timecode": "00:10:44.100",
+    "text": "it dragged them beneath the belt in early"
+  },
+  {
+    "index": 190,
+    "start_seconds": 644.167,
+    "end_seconds": 647.1,
+    "duration_seconds": 2.933,
+    "start_timecode": "00:10:44.167",
+    "end_timecode": "00:10:47.100",
+    "text": "2021 horrific incident reports"
+  },
+  {
+    "index": 191,
+    "start_seconds": 647.1,
+    "end_seconds": 649.0,
+    "duration_seconds": 1.9,
+    "start_timecode": "00:10:47.100",
+    "end_timecode": "00:10:49.000",
+    "text": "began piling up on the public"
+  },
+  {
+    "index": 192,
+    "start_seconds": 649.0,
+    "end_seconds": 652.467,
+    "duration_seconds": 3.467,
+    "start_timecode": "00:10:49.000",
+    "end_timecode": "00:10:52.467",
+    "text": "docket of the US Consumer Product Safety Commission"
+  },
+  {
+    "index": 193,
+    "start_seconds": 652.933,
+    "end_seconds": 655.866,
+    "duration_seconds": 2.933,
+    "start_timecode": "00:10:52.933",
+    "end_timecode": "00:10:55.866",
+    "text": "dozens of children were pulled under the machine"
+  },
+  {
+    "index": 194,
+    "start_seconds": 655.867,
+    "end_seconds": 657.8,
+    "duration_seconds": 1.933,
+    "start_timecode": "00:10:55.867",
+    "end_timecode": "00:10:57.800",
+    "text": "suffering severe abrasions"
+  },
+  {
+    "index": 195,
+    "start_seconds": 657.867,
+    "end_seconds": 661.0,
+    "duration_seconds": 3.133,
+    "start_timecode": "00:10:57.867",
+    "end_timecode": "00:11:01.000",
+    "text": "broken bones and blunt force trauma"
+  },
+  {
+    "index": 196,
+    "start_seconds": 661.167,
+    "end_seconds": 665.2,
+    "duration_seconds": 4.033,
+    "start_timecode": "00:11:01.167",
+    "end_timecode": "00:11:05.200",
+    "text": "in March 2021 a six year old child died"
+  },
+  {
+    "index": 197,
+    "start_seconds": 665.733,
+    "end_seconds": 672.5,
+    "duration_seconds": 6.767,
+    "start_timecode": "00:11:05.733",
+    "end_timecode": "00:11:12.500",
+    "text": "on April 17th, 2021 the CPSC issued an extraordinary public warning"
+  },
+  {
+    "index": 198,
+    "start_seconds": 672.5,
+    "end_seconds": 676.5,
+    "duration_seconds": 4.0,
+    "start_timecode": "00:11:12.500",
+    "end_timecode": "00:11:16.500",
+    "text": "urging consumers with children and pets to stop using the Tread Plus"
+  },
+  {
+    "index": 199,
+    "start_seconds": 676.5,
+    "end_seconds": 681.667,
+    "duration_seconds": 5.167,
+    "start_timecode": "00:11:16.500",
+    "end_timecode": "00:11:21.667",
+    "text": "immediately what did Peloton's executive leadership do to John Foley"
+  },
+  {
+    "index": 200,
+    "start_seconds": 681.667,
+    "end_seconds": 685.367,
+    "duration_seconds": 3.7,
+    "start_timecode": "00:11:21.667",
+    "end_timecode": "00:11:25.367",
+    "text": "publicly called the government's safety warning outrageous"
+  },
+  {
+    "index": 201,
+    "start_seconds": 685.367,
+    "end_seconds": 687.3,
+    "duration_seconds": 1.933,
+    "start_timecode": "00:11:25.367",
+    "end_timecode": "00:11:27.300",
+    "text": "inaccurate and misleading"
+  },
+  {
+    "index": 202,
+    "start_seconds": 687.3,
+    "end_seconds": 689.2,
+    "duration_seconds": 1.9,
+    "start_timecode": "00:11:27.300",
+    "end_timecode": "00:11:29.200",
+    "text": "refusing to recall the machine"
+  },
+  {
+    "index": 203,
+    "start_seconds": 689.2,
+    "end_seconds": 691.3,
+    "duration_seconds": 2.1,
+    "start_timecode": "00:11:29.200",
+    "end_timecode": "00:11:31.300",
+    "text": "and insisting it was perfectly safe"
+  },
+  {
+    "index": 204,
+    "start_seconds": 691.3,
+    "end_seconds": 693.4,
+    "duration_seconds": 2.1,
+    "start_timecode": "00:11:31.300",
+    "end_timecode": "00:11:33.400",
+    "text": "if consumers followed instructions"
+  },
+  {
+    "index": 205,
+    "start_seconds": 694.167,
+    "end_seconds": 697.634,
+    "duration_seconds": 3.467,
+    "start_timecode": "00:11:34.167",
+    "end_timecode": "00:11:37.634",
+    "text": "it was a staggering display of corporate hubris"
+  },
+  {
+    "index": 206,
+    "start_seconds": 697.967,
+    "end_seconds": 699.367,
+    "duration_seconds": 1.4,
+    "start_timecode": "00:11:37.967",
+    "end_timecode": "00:11:39.367",
+    "text": "for 18 days"
+  },
+  {
+    "index": 207,
+    "start_seconds": 699.367,
+    "end_seconds": 704.034,
+    "duration_seconds": 4.667,
+    "start_timecode": "00:11:39.367",
+    "end_timecode": "00:11:44.034",
+    "text": "management dug in while outrage exploded across national media"
+  },
+  {
+    "index": 208,
+    "start_seconds": 704.2,
+    "end_seconds": 706.167,
+    "duration_seconds": 1.967,
+    "start_timecode": "00:11:44.200",
+    "end_timecode": "00:11:46.167",
+    "text": "finally on May 5"
+  },
+  {
+    "index": 209,
+    "start_seconds": 706.167,
+    "end_seconds": 710.1,
+    "duration_seconds": 3.933,
+    "start_timecode": "00:11:46.167",
+    "end_timecode": "00:11:50.100",
+    "text": "Foley was forced to issue a humiliating public apology"
+  },
+  {
+    "index": 210,
+    "start_seconds": 710.1,
+    "end_seconds": 714.5,
+    "duration_seconds": 4.4,
+    "start_timecode": "00:11:50.100",
+    "end_timecode": "00:11:54.500",
+    "text": "and recall all 125,000 Tread Plus machines"
+  },
+  {
+    "index": 211,
+    "start_seconds": 714.6,
+    "end_seconds": 719.0,
+    "duration_seconds": 4.4,
+    "start_timecode": "00:11:54.600",
+    "end_timecode": "00:11:59.000",
+    "text": "taking an immediate 365 million dollar write down"
+  },
+  {
+    "index": 212,
+    "start_seconds": 719.6,
+    "end_seconds": 720.967,
+    "duration_seconds": 1.367,
+    "start_timecode": "00:11:59.600",
+    "end_timecode": "00:12:00.967",
+    "text": "eighteen months later"
+  },
+  {
+    "index": 213,
+    "start_seconds": 720.967,
+    "end_seconds": 724.134,
+    "duration_seconds": 3.167,
+    "start_timecode": "00:12:00.967",
+    "end_timecode": "00:12:04.134",
+    "text": "federal regulators would extract their pound of flesh"
+  },
+  {
+    "index": 214,
+    "start_seconds": 724.133,
+    "end_seconds": 726.5,
+    "duration_seconds": 2.367,
+    "start_timecode": "00:12:04.133",
+    "end_timecode": "00:12:06.500",
+    "text": "a 19 million dollar civil penalty"
+  },
+  {
+    "index": 215,
+    "start_seconds": 726.5,
+    "end_seconds": 729.267,
+    "duration_seconds": 2.767,
+    "start_timecode": "00:12:06.500",
+    "end_timecode": "00:12:09.267",
+    "text": "for failing to immediately report known hazards"
+  },
+  {
+    "index": 216,
+    "start_seconds": 729.6,
+    "end_seconds": 732.467,
+    "duration_seconds": 2.867,
+    "start_timecode": "00:12:09.600",
+    "end_timecode": "00:12:12.467",
+    "text": "the government's consent order revealed that peloton had"
+  },
+  {
+    "index": 217,
+    "start_seconds": 732.467,
+    "end_seconds": 735.367,
+    "duration_seconds": 2.9,
+    "start_timecode": "00:12:12.467",
+    "end_timecode": "00:12:15.367",
+    "text": "received more than 150 reports of people"
+  },
+  {
+    "index": 218,
+    "start_seconds": 735.367,
+    "end_seconds": 737.967,
+    "duration_seconds": 2.6,
+    "start_timecode": "00:12:15.367",
+    "end_timecode": "00:12:17.967",
+    "text": "pets and objects being pulled under the machine"
+  },
+  {
+    "index": 219,
+    "start_seconds": 737.967,
+    "end_seconds": 740.167,
+    "duration_seconds": 2.2,
+    "start_timecode": "00:12:17.967",
+    "end_timecode": "00:12:20.167",
+    "text": "before ever contacting regulators"
+  },
+  {
+    "index": 220,
+    "start_seconds": 740.5,
+    "end_seconds": 742.733,
+    "duration_seconds": 2.233,
+    "start_timecode": "00:12:20.500",
+    "end_timecode": "00:12:22.733",
+    "text": "even worse the audit found that peloton"
+  },
+  {
+    "index": 221,
+    "start_seconds": 742.733,
+    "end_seconds": 746.766,
+    "duration_seconds": 4.033,
+    "start_timecode": "00:12:22.733",
+    "end_timecode": "00:12:26.766",
+    "text": "had knowingly delivered 38 recalled Tread Plus units to customers"
+  },
+  {
+    "index": 222,
+    "start_seconds": 746.767,
+    "end_seconds": 748.6,
+    "duration_seconds": 1.833,
+    "start_timecode": "00:12:26.767",
+    "end_timecode": "00:12:28.600",
+    "text": "after the recall was declared"
+  },
+  {
+    "index": 223,
+    "start_seconds": 749.2,
+    "end_seconds": 751.133,
+    "duration_seconds": 1.933,
+    "start_timecode": "00:12:29.200",
+    "end_timecode": "00:12:31.133",
+    "text": "the brand's premium Halo"
+  },
+  {
+    "index": 224,
+    "start_seconds": 751.133,
+    "end_seconds": 755.566,
+    "duration_seconds": 4.433,
+    "start_timecode": "00:12:31.133",
+    "end_timecode": "00:12:35.566",
+    "text": "the trust of affluent suburban parents was broken beyond repair"
+  },
+  {
+    "index": 225,
+    "start_seconds": 756.133,
+    "end_seconds": 760.2,
+    "duration_seconds": 4.067,
+    "start_timecode": "00:12:36.133",
+    "end_timecode": "00:12:40.200",
+    "text": "why hadn't the board of directors stopped the bleeding months earlier"
+  },
+  {
+    "index": 226,
+    "start_seconds": 760.267,
+    "end_seconds": 764.367,
+    "duration_seconds": 4.1,
+    "start_timecode": "00:12:40.267",
+    "end_timecode": "00:12:44.367",
+    "text": "because of a corporate voting mode when peloton went public"
+  },
+  {
+    "index": 227,
+    "start_seconds": 764.367,
+    "end_seconds": 765.7,
+    "duration_seconds": 1.333,
+    "start_timecode": "00:12:44.367",
+    "end_timecode": "00:12:45.700",
+    "text": "it issued two class"
+  },
+  {
+    "index": 228,
+    "start_seconds": 765.8,
+    "end_seconds": 766.667,
+    "duration_seconds": 0.867,
+    "start_timecode": "00:12:45.800",
+    "end_timecode": "00:12:46.667",
+    "text": "of stock"
+  },
+  {
+    "index": 229,
+    "start_seconds": 766.967,
+    "end_seconds": 771.767,
+    "duration_seconds": 4.8,
+    "start_timecode": "00:12:46.967",
+    "end_timecode": "00:12:51.767",
+    "text": "Class a shares owned by regular retail investors and retirement funds"
+  },
+  {
+    "index": 230,
+    "start_seconds": 771.767,
+    "end_seconds": 775.134,
+    "duration_seconds": 3.367,
+    "start_timecode": "00:12:51.767",
+    "end_timecode": "00:12:55.134",
+    "text": "had one vote per share class B shares"
+  },
+  {
+    "index": 231,
+    "start_seconds": 775.133,
+    "end_seconds": 779.666,
+    "duration_seconds": 4.533,
+    "start_timecode": "00:12:55.133",
+    "end_timecode": "00:12:59.666",
+    "text": "held almost exclusively by John Foley and his founding inner circle"
+  },
+  {
+    "index": 232,
+    "start_seconds": 779.667,
+    "end_seconds": 781.867,
+    "duration_seconds": 2.2,
+    "start_timecode": "00:12:59.667",
+    "end_timecode": "00:13:01.867",
+    "text": "carried 20 votes per share"
+  },
+  {
+    "index": 233,
+    "start_seconds": 782.467,
+    "end_seconds": 786.534,
+    "duration_seconds": 4.067,
+    "start_timecode": "00:13:02.467",
+    "end_timecode": "00:13:06.534",
+    "text": "with less than 20% of the actual economic ownership"
+  },
+  {
+    "index": 234,
+    "start_seconds": 786.533,
+    "end_seconds": 790.9,
+    "duration_seconds": 4.367,
+    "start_timecode": "00:13:06.533",
+    "end_timecode": "00:13:10.900",
+    "text": "Foley and his team controlled over 80% of the voting power"
+  },
+  {
+    "index": 235,
+    "start_seconds": 791.0,
+    "end_seconds": 794.967,
+    "duration_seconds": 3.967,
+    "start_timecode": "00:13:11.000",
+    "end_timecode": "00:13:14.967",
+    "text": "they were untouchable Foley could ignore safety warnings"
+  },
+  {
+    "index": 236,
+    "start_seconds": 795.0,
+    "end_seconds": 798.167,
+    "duration_seconds": 3.167,
+    "start_timecode": "00:13:15.000",
+    "end_timecode": "00:13:18.167",
+    "text": "spend hundreds of millions on charter cargo planes"
+  },
+  {
+    "index": 237,
+    "start_seconds": 798.2,
+    "end_seconds": 800.167,
+    "duration_seconds": 1.967,
+    "start_timecode": "00:13:18.200",
+    "end_timecode": "00:13:20.167",
+    "text": "and pour concrete in Ohio"
+  },
+  {
+    "index": 238,
+    "start_seconds": 800.167,
+    "end_seconds": 802.634,
+    "duration_seconds": 2.467,
+    "start_timecode": "00:13:20.167",
+    "end_timecode": "00:13:22.634",
+    "text": "and public shareholders could do nothing"
+  },
+  {
+    "index": 239,
+    "start_seconds": 802.7,
+    "end_seconds": 807.1,
+    "duration_seconds": 4.4,
+    "start_timecode": "00:13:22.700",
+    "end_timecode": "00:13:27.100",
+    "text": "all while executives cashed out over $100 million in stock sales"
+  },
+  {
+    "index": 240,
+    "start_seconds": 807.1,
+    "end_seconds": 813.8,
+    "duration_seconds": 6.7,
+    "start_timecode": "00:13:27.100",
+    "end_timecode": "00:13:33.800",
+    "text": "near the market top the wall finally broke on January 24th, 2022"
+  },
+  {
+    "index": 241,
+    "start_seconds": 814.133,
+    "end_seconds": 815.733,
+    "duration_seconds": 1.6,
+    "start_timecode": "00:13:34.133",
+    "end_timecode": "00:13:35.733",
+    "text": "activist investment fund"
+  },
+  {
+    "index": 242,
+    "start_seconds": 815.733,
+    "end_seconds": 818.966,
+    "duration_seconds": 3.233,
+    "start_timecode": "00:13:35.733",
+    "end_timecode": "00:13:38.966",
+    "text": "Blackwell's Capital published a scathing presentation"
+  },
+  {
+    "index": 243,
+    "start_seconds": 818.967,
+    "end_seconds": 822.834,
+    "duration_seconds": 3.867,
+    "start_timecode": "00:13:38.967",
+    "end_timecode": "00:13:42.834",
+    "text": "publicly demanding that the board fire John Foley immediately"
+  },
+  {
+    "index": 244,
+    "start_seconds": 822.967,
+    "end_seconds": 825.1,
+    "duration_seconds": 2.133,
+    "start_timecode": "00:13:42.967",
+    "end_timecode": "00:13:45.100",
+    "text": "and explore a sale of the company"
+  },
+  {
+    "index": 245,
+    "start_seconds": 825.5,
+    "end_seconds": 828.967,
+    "duration_seconds": 3.467,
+    "start_timecode": "00:13:45.500",
+    "end_timecode": "00:13:48.967",
+    "text": "Blackwell's laid out the catastrophic forensic record"
+  },
+  {
+    "index": 246,
+    "start_seconds": 829.067,
+    "end_seconds": 833.434,
+    "duration_seconds": 4.367,
+    "start_timecode": "00:13:49.067",
+    "end_timecode": "00:13:53.434",
+    "text": "selling general and administrative expenses up hundreds of percent"
+  },
+  {
+    "index": 247,
+    "start_seconds": 833.467,
+    "end_seconds": 835.167,
+    "duration_seconds": 1.7,
+    "start_timecode": "00:13:53.467",
+    "end_timecode": "00:13:55.167",
+    "text": "bloated corporate payrolls"
+  },
+  {
+    "index": 248,
+    "start_seconds": 835.167,
+    "end_seconds": 838.934,
+    "duration_seconds": 3.767,
+    "start_timecode": "00:13:55.167",
+    "end_timecode": "00:13:58.934",
+    "text": "and hundreds of millions committed to an unneeded Ohio mega"
+  },
+  {
+    "index": 249,
+    "start_seconds": 838.967,
+    "end_seconds": 842.667,
+    "duration_seconds": 3.7,
+    "start_timecode": "00:13:58.967",
+    "end_timecode": "00:14:02.667",
+    "text": "factory while the core hardware business bled cash"
+  },
+  {
+    "index": 250,
+    "start_seconds": 843.367,
+    "end_seconds": 846.934,
+    "duration_seconds": 3.567,
+    "start_timecode": "00:14:03.367",
+    "end_timecode": "00:14:06.934",
+    "text": "Foley tried to hold on but institutional lenders"
+  },
+  {
+    "index": 251,
+    "start_seconds": 846.933,
+    "end_seconds": 850.433,
+    "duration_seconds": 3.5,
+    "start_timecode": "00:14:06.933",
+    "end_timecode": "00:14:10.433",
+    "text": "and Class a shareholders delivered an ultimatum"
+  },
+  {
+    "index": 252,
+    "start_seconds": 850.5,
+    "end_seconds": 855.6,
+    "duration_seconds": 5.1,
+    "start_timecode": "00:14:10.500",
+    "end_timecode": "00:14:15.600",
+    "text": "on February 8th, 2022 John Foley was removed as CEO"
+  },
+  {
+    "index": 253,
+    "start_seconds": 855.633,
+    "end_seconds": 858.666,
+    "duration_seconds": 3.033,
+    "start_timecode": "00:14:15.633",
+    "end_timecode": "00:14:18.666",
+    "text": "in his place the board installed Barry McCarthy"
+  },
+  {
+    "index": 254,
+    "start_seconds": 858.667,
+    "end_seconds": 862.5,
+    "duration_seconds": 3.833,
+    "start_timecode": "00:14:18.667",
+    "end_timecode": "00:14:22.500",
+    "text": "the former chief financial officer of Netflix and Spotify"
+  },
+  {
+    "index": 255,
+    "start_seconds": 863.2,
+    "end_seconds": 865.967,
+    "duration_seconds": 2.767,
+    "start_timecode": "00:14:23.200",
+    "end_timecode": "00:14:25.967",
+    "text": "McCarthy was an institutional surgeon"
+  },
+  {
+    "index": 256,
+    "start_seconds": 866.067,
+    "end_seconds": 870.367,
+    "duration_seconds": 4.3,
+    "start_timecode": "00:14:26.067",
+    "end_timecode": "00:14:30.367",
+    "text": "he had zero emotional attachment to Foley's dream of an integrated"
+  },
+  {
+    "index": 257,
+    "start_seconds": 870.367,
+    "end_seconds": 873.934,
+    "duration_seconds": 3.567,
+    "start_timecode": "00:14:30.367",
+    "end_timecode": "00:14:33.934",
+    "text": "industrial kingdom within 48 hours"
+  },
+  {
+    "index": 258,
+    "start_seconds": 873.933,
+    "end_seconds": 878.6,
+    "duration_seconds": 4.667,
+    "start_timecode": "00:14:33.933",
+    "end_timecode": "00:14:38.600",
+    "text": "McCarthy swung the axe construction on the 400 million dollar"
+  },
+  {
+    "index": 259,
+    "start_seconds": 878.6,
+    "end_seconds": 881.8,
+    "duration_seconds": 3.2,
+    "start_timecode": "00:14:38.600",
+    "end_timecode": "00:14:41.800",
+    "text": "Ohio mega factory was permanently stopped"
+  },
+  {
+    "index": 260,
+    "start_seconds": 881.967,
+    "end_seconds": 886.1,
+    "duration_seconds": 4.133,
+    "start_timecode": "00:14:41.967",
+    "end_timecode": "00:14:46.100",
+    "text": "2,800 jobs were eliminated in a single day"
+  },
+  {
+    "index": 261,
+    "start_seconds": 886.267,
+    "end_seconds": 889.0,
+    "duration_seconds": 2.733,
+    "start_timecode": "00:14:46.267",
+    "end_timecode": "00:14:49.000",
+    "text": "proprietary delivery vans were shut down"
+  },
+  {
+    "index": 262,
+    "start_seconds": 889.0,
+    "end_seconds": 891.9,
+    "duration_seconds": 2.9,
+    "start_timecode": "00:14:49.000",
+    "end_timecode": "00:14:51.900",
+    "text": "replaced with third party delivery contractors"
+  },
+  {
+    "index": 263,
+    "start_seconds": 892.167,
+    "end_seconds": 894.767,
+    "duration_seconds": 2.6,
+    "start_timecode": "00:14:52.167",
+    "end_timecode": "00:14:54.767",
+    "text": "proprietary factories were abandoned"
+  },
+  {
+    "index": 264,
+    "start_seconds": 894.867,
+    "end_seconds": 898.2,
+    "duration_seconds": 3.333,
+    "start_timecode": "00:14:54.867",
+    "end_timecode": "00:14:58.200",
+    "text": "all hardware manufacturing was surrendered back to overseas"
+  },
+  {
+    "index": 265,
+    "start_seconds": 898.2,
+    "end_seconds": 899.833,
+    "duration_seconds": 1.633,
+    "start_timecode": "00:14:58.200",
+    "end_timecode": "00:14:59.833",
+    "text": "contract manufacturers"
+  },
+  {
+    "index": 266,
+    "start_seconds": 900.533,
+    "end_seconds": 904.766,
+    "duration_seconds": 4.233,
+    "start_timecode": "00:15:00.533",
+    "end_timecode": "00:15:04.766",
+    "text": "when the final accounting books closed on fiscal 2022"
+  },
+  {
+    "index": 267,
+    "start_seconds": 904.767,
+    "end_seconds": 906.4,
+    "duration_seconds": 1.633,
+    "start_timecode": "00:15:04.767",
+    "end_timecode": "00:15:06.400",
+    "text": "the damage was staggering"
+  },
+  {
+    "index": 268,
+    "start_seconds": 906.4,
+    "end_seconds": 911.9,
+    "duration_seconds": 5.5,
+    "start_timecode": "00:15:06.400",
+    "end_timecode": "00:15:11.900",
+    "text": "a net loss of $2.8 billion in including $415 million"
+  },
+  {
+    "index": 269,
+    "start_seconds": 912.1,
+    "end_seconds": 914.867,
+    "duration_seconds": 2.767,
+    "start_timecode": "00:15:12.100",
+    "end_timecode": "00:15:14.867",
+    "text": "inventory write downs for bikes and raw parts"
+  },
+  {
+    "index": 270,
+    "start_seconds": 914.933,
+    "end_seconds": 916.466,
+    "duration_seconds": 1.533,
+    "start_timecode": "00:15:14.933",
+    "end_timecode": "00:15:16.466",
+    "text": "were literally scrapped"
+  },
+  {
+    "index": 271,
+    "start_seconds": 916.967,
+    "end_seconds": 920.867,
+    "duration_seconds": 3.9,
+    "start_timecode": "00:15:16.967",
+    "end_timecode": "00:15:20.867",
+    "text": "McCarthy spent two years ruthlessly cutting costs"
+  },
+  {
+    "index": 272,
+    "start_seconds": 920.967,
+    "end_seconds": 925.9,
+    "duration_seconds": 4.933,
+    "start_timecode": "00:15:20.967",
+    "end_timecode": "00:15:25.900",
+    "text": "shrinking headcount from over 9,000 employees down to under 3,000"
+  },
+  {
+    "index": 273,
+    "start_seconds": 925.967,
+    "end_seconds": 929.4,
+    "duration_seconds": 3.433,
+    "start_timecode": "00:15:25.967",
+    "end_timecode": "00:15:29.400",
+    "text": "and slashing warehouse leases but by 20"
+  },
+  {
+    "index": 274,
+    "start_seconds": 929.467,
+    "end_seconds": 933.167,
+    "duration_seconds": 3.7,
+    "start_timecode": "00:15:29.467",
+    "end_timecode": "00:15:33.167",
+    "text": "24 Peloton faced a new structural nightmare"
+  },
+  {
+    "index": 275,
+    "start_seconds": 933.167,
+    "end_seconds": 935.067,
+    "duration_seconds": 1.9,
+    "start_timecode": "00:15:33.167",
+    "end_timecode": "00:15:35.067",
+    "text": "their own past success"
+  },
+  {
+    "index": 276,
+    "start_seconds": 935.9,
+    "end_seconds": 937.333,
+    "duration_seconds": 1.433,
+    "start_timecode": "00:15:35.900",
+    "end_timecode": "00:15:37.333",
+    "text": "millions of pristine"
+  },
+  {
+    "index": 277,
+    "start_seconds": 937.333,
+    "end_seconds": 940.466,
+    "duration_seconds": 3.133,
+    "start_timecode": "00:15:37.333",
+    "end_timecode": "00:15:40.466",
+    "text": "barely used peloton bikes were sitting in basements"
+  },
+  {
+    "index": 278,
+    "start_seconds": 940.567,
+    "end_seconds": 943.6,
+    "duration_seconds": 3.033,
+    "start_timecode": "00:15:40.567",
+    "end_timecode": "00:15:43.600",
+    "text": "hundreds of thousands of owners were listing them on Facebook"
+  },
+  {
+    "index": 279,
+    "start_seconds": 943.6,
+    "end_seconds": 946.6,
+    "duration_seconds": 3.0,
+    "start_timecode": "00:15:43.600",
+    "end_timecode": "00:15:46.600",
+    "text": "Marketplace and Craigslist for $400"
+  },
+  {
+    "index": 280,
+    "start_seconds": 946.6,
+    "end_seconds": 949.1,
+    "duration_seconds": 2.5,
+    "start_timecode": "00:15:46.600",
+    "end_timecode": "00:15:49.100",
+    "text": "less than a quarter of the retail price"
+  },
+  {
+    "index": 281,
+    "start_seconds": 949.3,
+    "end_seconds": 952.867,
+    "duration_seconds": 3.567,
+    "start_timecode": "00:15:49.300",
+    "end_timecode": "00:15:52.867",
+    "text": "every time someone bought a secondhand bike on Craigslist"
+  },
+  {
+    "index": 282,
+    "start_seconds": 952.9,
+    "end_seconds": 956.367,
+    "duration_seconds": 3.467,
+    "start_timecode": "00:15:52.900",
+    "end_timecode": "00:15:56.367",
+    "text": "Peloton made zero dollars in hardware revenue and the Mark"
+  },
+  {
+    "index": 283,
+    "start_seconds": 956.567,
+    "end_seconds": 961.334,
+    "duration_seconds": 4.767,
+    "start_timecode": "00:15:56.567",
+    "end_timecode": "00:16:01.334",
+    "text": "for new bikes dried up completely in August 2024"
+  },
+  {
+    "index": 284,
+    "start_seconds": 961.333,
+    "end_seconds": 963.7,
+    "duration_seconds": 2.367,
+    "start_timecode": "00:16:01.333",
+    "end_timecode": "00:16:03.700",
+    "text": "in an act of pure desperation"
+  },
+  {
+    "index": 285,
+    "start_seconds": 963.767,
+    "end_seconds": 967.234,
+    "duration_seconds": 3.467,
+    "start_timecode": "00:16:03.767",
+    "end_timecode": "00:16:07.234",
+    "text": "peloton instituted a mandatory $95"
+  },
+  {
+    "index": 286,
+    "start_seconds": 967.267,
+    "end_seconds": 968.967,
+    "duration_seconds": 1.7,
+    "start_timecode": "00:16:07.267",
+    "end_timecode": "00:16:08.967",
+    "text": "used activation fee"
+  },
+  {
+    "index": 287,
+    "start_seconds": 968.967,
+    "end_seconds": 972.8,
+    "duration_seconds": 3.833,
+    "start_timecode": "00:16:08.967",
+    "end_timecode": "00:16:12.800",
+    "text": "forcing second hand buyers to pay a toll just to register a bike"
+  },
+  {
+    "index": 288,
+    "start_seconds": 972.8,
+    "end_seconds": 974.633,
+    "duration_seconds": 1.833,
+    "start_timecode": "00:16:12.800",
+    "end_timecode": "00:16:14.633",
+    "text": "they already legally owned"
+  },
+  {
+    "index": 289,
+    "start_seconds": 975.1,
+    "end_seconds": 977.133,
+    "duration_seconds": 2.033,
+    "start_timecode": "00:16:15.100",
+    "end_timecode": "00:16:17.133",
+    "text": "on May 2 2024"
+  },
+  {
+    "index": 290,
+    "start_seconds": 977.133,
+    "end_seconds": 979.566,
+    "duration_seconds": 2.433,
+    "start_timecode": "00:16:17.133",
+    "end_timecode": "00:16:19.566",
+    "text": "exhausted and out of levers to pull"
+  },
+  {
+    "index": 291,
+    "start_seconds": 979.567,
+    "end_seconds": 984.7,
+    "duration_seconds": 5.133,
+    "start_timecode": "00:16:19.567",
+    "end_timecode": "00:16:24.700",
+    "text": "Barry McCarthy resigned on January 1st, 2025"
+  },
+  {
+    "index": 292,
+    "start_seconds": 984.7,
+    "end_seconds": 985.733,
+    "duration_seconds": 1.033,
+    "start_timecode": "00:16:24.700",
+    "end_timecode": "00:16:25.733",
+    "text": "Peter Stern"
+  },
+  {
+    "index": 293,
+    "start_seconds": 985.733,
+    "end_seconds": 989.866,
+    "duration_seconds": 4.133,
+    "start_timecode": "00:16:25.733",
+    "end_timecode": "00:16:29.866",
+    "text": "the former co founder of Apple Fitness Plus took over as CEO"
+  },
+  {
+    "index": 294,
+    "start_seconds": 990.0,
+    "end_seconds": 993.5,
+    "duration_seconds": 3.5,
+    "start_timecode": "00:16:30.000",
+    "end_timecode": "00:16:33.500",
+    "text": "he inherits a business valued not at $50 billion"
+  },
+  {
+    "index": 295,
+    "start_seconds": 993.5,
+    "end_seconds": 995.167,
+    "duration_seconds": 1.667,
+    "start_timecode": "00:16:33.500",
+    "end_timecode": "00:16:35.167",
+    "text": "but at roughly two billion"
+  },
+  {
+    "index": 296,
+    "start_seconds": 995.333,
+    "end_seconds": 997.7,
+    "duration_seconds": 2.367,
+    "start_timecode": "00:16:35.333",
+    "end_timecode": "00:16:37.700",
+    "text": "a modest niche subscription utility"
+  },
+  {
+    "index": 297,
+    "start_seconds": 997.7,
+    "end_seconds": 1001.867,
+    "duration_seconds": 4.167,
+    "start_timecode": "00:16:37.700",
+    "end_timecode": "00:16:41.867",
+    "text": "servicing a loyal but stagnant base of dedicated fitness enthusiasts"
+  },
+  {
+    "index": 298,
+    "start_seconds": 1002.5,
+    "end_seconds": 1005.633,
+    "duration_seconds": 3.133,
+    "start_timecode": "00:16:42.500",
+    "end_timecode": "00:16:45.633",
+    "text": "it is the oldest lesson in corporate finance"
+  },
+  {
+    "index": 299,
+    "start_seconds": 1005.867,
+    "end_seconds": 1008.867,
+    "duration_seconds": 3.0,
+    "start_timecode": "00:16:45.867",
+    "end_timecode": "00:16:48.867",
+    "text": "you cannot value a factory like an algorithm"
+  },
+  {
+    "index": 300,
+    "start_seconds": 1009.167,
+    "end_seconds": 1011.6,
+    "duration_seconds": 2.433,
+    "start_timecode": "00:16:49.167",
+    "end_timecode": "00:16:51.600",
+    "text": "software scales with a line of code"
+  },
+  {
+    "index": 301,
+    "start_seconds": 1011.6,
+    "end_seconds": 1014.467,
+    "duration_seconds": 2.867,
+    "start_timecode": "00:16:51.600",
+    "end_timecode": "00:16:54.467",
+    "text": "physical manufacturing scales with steel"
+  },
+  {
+    "index": 302,
+    "start_seconds": 1014.5,
+    "end_seconds": 1017.867,
+    "duration_seconds": 3.367,
+    "start_timecode": "00:16:54.500",
+    "end_timecode": "00:16:57.867",
+    "text": "concrete freight containers and human hands"
+  },
+  {
+    "index": 303,
+    "start_seconds": 1018.167,
+    "end_seconds": 1022.567,
+    "duration_seconds": 4.4,
+    "start_timecode": "00:16:58.167",
+    "end_timecode": "00:17:02.567",
+    "text": "when a once in a century crisis pulls tomorrow's demand into today"
+  },
+  {
+    "index": 304,
+    "start_seconds": 1022.567,
+    "end_seconds": 1025.967,
+    "duration_seconds": 3.4,
+    "start_timecode": "00:17:02.567",
+    "end_timecode": "00:17:05.967",
+    "text": "the discipline lies in knowing that the storm will pass"
+  },
+  {
+    "index": 305,
+    "start_seconds": 1026.633,
+    "end_seconds": 1028.566,
+    "duration_seconds": 1.933,
+    "start_timecode": "00:17:06.633",
+    "end_timecode": "00:17:08.566",
+    "text": "and if you spend billions"
+  },
+  {
+    "index": 306,
+    "start_seconds": 1028.567,
+    "end_seconds": 1033.1,
+    "duration_seconds": 4.533,
+    "start_timecode": "00:17:08.567",
+    "end_timecode": "00:17:13.100",
+    "text": "building an empire for a world that only exists inside a quarantine"
+  },
+  {
+    "index": 307,
+    "start_seconds": 1033.267,
+    "end_seconds": 1035.167,
+    "duration_seconds": 1.9,
+    "start_timecode": "00:17:13.267",
+    "end_timecode": "00:17:15.167",
+    "text": "the reckoning is inevitable"
+  },
+  {
+    "index": 308,
+    "start_seconds": 1035.5,
+    "end_seconds": 1037.333,
+    "duration_seconds": 1.833,
+    "start_timecode": "00:17:15.500",
+    "end_timecode": "00:17:17.333",
+    "text": "just ask the solar company"
+  },
+  {
+    "index": 309,
+    "start_seconds": 1037.333,
+    "end_seconds": 1040.866,
+    "duration_seconds": 3.533,
+    "start_timecode": "00:17:17.333",
+    "end_timecode": "00:17:20.866",
+    "text": "that bought a 400 million dollar Monument to hubris"
+  },
+  {
+    "index": 310,
+    "start_seconds": 1040.867,
+    "end_seconds": 1042.7,
+    "duration_seconds": 1.833,
+    "start_timecode": "00:17:20.867",
+    "end_timecode": "00:17:22.700",
+    "text": "in Wood County Ohio"
+  },
+  {
+    "index": 311,
+    "start_seconds": 1042.7,
+    "end_seconds": 1045.6,
+    "duration_seconds": 2.9,
+    "start_timecode": "00:17:22.700",
+    "end_timecode": "00:17:25.600",
+    "text": "for 33 million dollars in cash"
+  }
+]

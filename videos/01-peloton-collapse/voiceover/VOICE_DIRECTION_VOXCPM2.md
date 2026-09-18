@@ -1,0 +1,709 @@
+# FinanceCraft — Voice Direction Script (VoxCPM2)
+
+## Episode: How Peloton Lost $48 Billion in 24 Months
+- **Master Narrator:** Margery (Established Voice Profile via Controllable Cloning)
+- **Cloning Mode:** Controllable Cloning against locked 24-bit 48kHz WAV master reference
+- **Target Normalization:** -16 LUFS (-1.0 dB True Peak)
+- **Total Chunks:** 49 Chunks
+- **Language:** English (US / Neutral Prestige)
+- **Audio Tags Used:** English verified subset (`[laughing]`, `[sigh]`, `[Uhm]`, `[Dissatisfaction]`)
+
+---
+
+## Mandatory Voice Direction Rules & Pre-Flight Checks
+1. **Vivid Delivery Layer Only:** Reference audio locks voice identity, gender, age, and timbre. Control Instructions strictly modulate delivery and mood.
+2. **Strict Opening Formula:** Every Control Instruction strictly begins with `"Speaks with..."` — zero exceptions.
+3. **Anti-Repetition Check:** Adjacent chunks use distinct emotional vocabulary to prevent mechanical delivery.
+4. **Restraint Over Rate:** Vocal tags applied with extreme restraint (4 earned tags total across 14 minutes).
+5. **No Underscores:** All filenames or codes in script text replaced with clean spoken words.
+
+---
+
+## VoxCPM2 Chunk-by-Chunk Generation Prompts
+
+### Chunk 01
+**Control Instruction:**
+`Speaks with quiet, absorbed curiosity, like something has just come into focus.`
+
+**Narration Text:**
+"In January 2024, a solar panel manufacturer named First Solar quietly finalized a real estate purchase in Wood County, Ohio. The purchase price was thirty-three million dollars."
+
+**Copy-Paste Direct Block (API / Web Demo):**
+```text
+(Speaks with quiet, absorbed curiosity, like something has just come into focus.) In January 2024, a solar panel manufacturer named First Solar quietly finalized a real estate purchase in Wood County, Ohio. The purchase price was thirty-three million dollars.
+```
+
+---
+
+### Chunk 02
+**Control Instruction:**
+`Speaks with sharpening attention, as the significance of the physical scale becomes impossible to miss.`
+
+**Narration Text:**
+"For that money, they didn't just get two hundred acres of prime industrial farmland. They got a 1 point 2 million square foot unfinished monolith of structural steel, poured concrete, and vacant assembly bays. Thirty-three million sounds like real money. Until you look at the company that poured the concrete."
+
+**Copy-Paste Direct Block (API / Web Demo):**
+```text
+(Speaks with sharpening attention, as the significance of the physical scale becomes impossible to miss.) For that money, they didn't just get two hundred acres of prime industrial farmland. They got a 1 point 2 million square foot unfinished monolith of structural steel, poured concrete, and vacant assembly bays. Thirty-three million sounds like real money. Until you look at the company that poured the concrete.
+```
+
+---
+
+### Chunk 03
+**Control Instruction:**
+`Speaks with building urgency, stark and rapid, as the scale of the capital destruction becomes clear.`
+
+**Narration Text:**
+"Less than three years earlier, this exact parcel of dirt was announced as the crown jewel of American consumer tech. It had a name: the Peloton Output Park. A four-hundred-million-dollar mega-factory engineered to stamp out 1 point 5 million connected exercise bikes every single year, employing two thousand American workers."
+
+**Copy-Paste Direct Block (API / Web Demo):**
+```text
+(Speaks with building urgency, stark and rapid, as the scale of the capital destruction becomes clear.) Less than three years earlier, this exact parcel of dirt was announced as the crown jewel of American consumer tech. It had a name: the Peloton Output Park. A four-hundred-million-dollar mega-factory engineered to stamp out 1 point 5 million connected exercise bikes every single year, employing two thousand American workers.
+```
+
+---
+
+### Chunk 04
+**Control Instruction:**
+`Speaks with grave weight, each word placed like a verdict being read.`
+
+**Narration Text:**
+"Four hundred million dollars committed. Thirty-three million recovered. A seventy-plus percent loss on invested capital, wiped out before a single stationary bike ever rolled off the line."
+
+**Copy-Paste Direct Block (API / Web Demo):**
+```text
+(Speaks with grave weight, each word placed like a verdict being read.) Four hundred million dollars committed. Thirty-three million recovered. A seventy-plus percent loss on invested capital, wiped out before a single stationary bike ever rolled off the line.
+```
+
+---
+
+### Chunk 05
+**Control Instruction:**
+`Speaks with dry, knowing restraint, the irony doing the work the words don't have to.`
+
+**Narration Text:**
+"Most people remember the Peloton story as a comedy of errors. They remember the viral 2019 Christmas commercial where an anxious wife filmed a video diary about her exercise bike."
+
+**Copy-Paste Direct Block (API / Web Demo):**
+```text
+(Speaks with dry, knowing restraint, the irony doing the work the words don't have to.) Most people remember the Peloton story as a comedy of errors. They remember the viral 2019 Christmas commercial where an anxious wife filmed a video diary about her exercise bike.
+```
+
+---
+
+### Chunk 06
+**Control Instruction:**
+`Speaks with a faintly amused arch, as if sharing a joke the subject never got to hear.`
+
+**Narration Text:**
+"They remember that episode of the Sex and the City reboot where Mr. Big suffered a fatal heart attack on a Peloton Bike Plus, tanking the company's stock eleven percent overnight. And they remember Ryan Reynolds frantically producing a parody commercial forty-eight hours later with the actor to prove he was still alive [sigh] only for the campaign to implode four days later when the actor was hit with serious sexual assault allegations. It was chaotic, it was tabloid-ready, and it made for great memes."
+
+**Copy-Paste Direct Block (API / Web Demo):**
+```text
+(Speaks with a faintly amused arch, as if sharing a joke the subject never got to hear.) They remember that episode of the Sex and the City reboot where Mr. Big suffered a fatal heart attack on a Peloton Bike Plus, tanking the company's stock eleven percent overnight. And they remember Ryan Reynolds frantically producing a parody commercial forty-eight hours later with the actor to prove he was still alive [sigh] only for the campaign to implode four days later when the actor was hit with serious sexual assault allegations. It was chaotic, it was tabloid-ready, and it made for great memes.
+```
+
+---
+
+### Chunk 07
+**Control Instruction:**
+`Speaks with tightening restraint, watching the real mechanism emerge in real time, inexorable.`
+
+**Narration Text:**
+"But here is the reality: Mr. Big didn't kill Peloton. Ryan Reynolds didn't kill Peloton. And the viral Christmas ad didn't erase fifty billion dollars of enterprise value. What destroyed Peloton was a lethal accounting mirage."
+
+**Copy-Paste Direct Block (API / Web Demo):**
+```text
+(Speaks with tightening restraint, watching the real mechanism emerge in real time, inexorable.) But here is the reality: Mr. Big didn't kill Peloton. Ryan Reynolds didn't kill Peloton. And the viral Christmas ad didn't erase fifty billion dollars of enterprise value. What destroyed Peloton was a lethal accounting mirage.
+```
+
+---
+
+### Chunk 08
+**Control Instruction:**
+`Speaks with cold analytical clarity, stripping the corporate presentation down to its physical core.`
+
+**Narration Text:**
+"Corporate executives convinced Wall Street, and themselves, that a capital-heavy manufacturer of heavy consumer metal was actually an asset-light Silicon Valley software platform. And by the time they realized that every single bike rolling out of their warehouses was actively bleeding hundreds of dollars of cash, they had already spent billions building an industrial empire for customers that did not exist. This is the forensic autopsy of how fifty billion dollars vanished into thin air."
+
+**Copy-Paste Direct Block (API / Web Demo):**
+```text
+(Speaks with cold analytical clarity, stripping the corporate presentation down to its physical core.) Corporate executives convinced Wall Street, and themselves, that a capital-heavy manufacturer of heavy consumer metal was actually an asset-light Silicon Valley software platform. And by the time they realized that every single bike rolling out of their warehouses was actively bleeding hundreds of dollars of cash, they had already spent billions building an industrial empire for customers that did not exist. This is the forensic autopsy of how fifty billion dollars vanished into thin air.
+```
+
+---
+
+### Chunk 09
+**Control Instruction:**
+`Speaks with easy, self-assured charm, faintly echoing the founder's initial charisma.`
+
+**Narration Text:**
+"To understand how the machine broke, you have to look at the man who built it: John Foley. Foley was not an industrial supply chain engineer. He was an e-commerce executive who spent years pitching venture capitalists on a simple, intoxicating premise."
+
+**Copy-Paste Direct Block (API / Web Demo):**
+```text
+(Speaks with easy, self-assured charm, faintly echoing the founder's initial charisma.) To understand how the machine broke, you have to look at the man who built it: John Foley. Foley was not an industrial supply chain engineer. He was an e-commerce executive who spent years pitching venture capitalists on a simple, intoxicating premise.
+```
+
+---
+
+### Chunk 10
+**Control Instruction:**
+`Speaks with a trace of subtle skepticism, certain of the flaw beneath the sales pitch.`
+
+**Narration Text:**
+"He didn't want to sell you a metal exercise bike. He wanted to sell you an ongoing lifestyle subscription. When Peloton went public on the NASDAQ in September 2019, institutional investors didn't value it like NordicTrack or Nautilus. Those traditional fitness companies traded at boring, cyclical multiples, maybe one or two times their annual revenue."
+
+**Copy-Paste Direct Block (API / Web Demo):**
+```text
+(Speaks with a trace of subtle skepticism, certain of the flaw beneath the sales pitch.) He didn't want to sell you a metal exercise bike. He wanted to sell you an ongoing lifestyle subscription. When Peloton went public on the NASDAQ in September 2019, institutional investors didn't value it like NordicTrack or Nautilus. Those traditional fitness companies traded at boring, cyclical multiples, maybe one or two times their annual revenue.
+```
+
+---
+
+### Chunk 11
+**Control Instruction:**
+`Speaks with cool forensic precision, unpacking the investor thesis step by step.`
+
+**Narration Text:**
+"Peloton claimed to be fundamentally different. In their investor pitch, the exercise bike was just a trojan horse. You buy the hardware once for twenty-two hundred dollars, and then you pay thirty-nine dollars every single month, forever, to stream live workouts from charismatic celebrity instructors. On paper, the unit economics were gorgeous."
+
+**Copy-Paste Direct Block (API / Web Demo):**
+```text
+(Speaks with cool forensic precision, unpacking the investor thesis step by step.) Peloton claimed to be fundamentally different. In their investor pitch, the exercise bike was just a trojan horse. You buy the hardware once for twenty-two hundred dollars, and then you pay thirty-nine dollars every single month, forever, to stream live workouts from charismatic celebrity instructors. On paper, the unit economics were gorgeous.
+```
+
+---
+
+### Chunk 12
+**Control Instruction:**
+`Speaks with steady, unhurried pedagogical clarity, explaining the financial mechanics.`
+
+**Narration Text:**
+"In software, Customer Acquisition Cost, or CAC, is the money you spend on marketing to win one paying customer. Usually, that marketing expense burns cash upfront. But throughout fiscal 2020, Peloton had a secret weapon. Because affluent early adopters were happy to pay over two thousand dollars for the bike, Peloton made roughly forty-three percent gross profit on the physical hardware alone."
+
+**Copy-Paste Direct Block (API / Web Demo):**
+```text
+(Speaks with steady, unhurried pedagogical clarity, explaining the financial mechanics.) In software, Customer Acquisition Cost, or CAC, is the money you spend on marketing to win one paying customer. Usually, that marketing expense burns cash upfront. But throughout fiscal 2020, Peloton had a secret weapon. Because affluent early adopters were happy to pay over two thousand dollars for the bike, Peloton made roughly forty-three percent gross profit on the physical hardware alone.
+```
+
+---
+
+### Chunk 13
+**Control Instruction:**
+`Speaks with rising narrative momentum, detailing how the math aligned in management's favor.`
+
+**Narration Text:**
+"That meant every time someone bought a bike, Peloton cleared roughly nine hundred dollars of gross cash before the customer even turned on the screen. That nine hundred dollars completely paid for the Facebook ads, the showroom leases in upscale shopping malls, and the marketing campaigns. In Wall Street terms, their customer acquisition was virtually free. And once that customer was plugged in, they stayed. Monthly churn was under one percent."
+
+**Copy-Paste Direct Block (API / Web Demo):**
+```text
+(Speaks with rising narrative momentum, detailing how the math aligned in management's favor.) That meant every time someone bought a bike, Peloton cleared roughly nine hundred dollars of gross cash before the customer even turned on the screen. That nine hundred dollars completely paid for the Facebook ads, the showroom leases in upscale shopping malls, and the marketing campaigns. In Wall Street terms, their customer acquisition was virtually free. And once that customer was plugged in, they stayed. Monthly churn was under one percent.
+```
+
+---
+
+### Chunk 14
+**Control Instruction:**
+`Speaks with a touch of theatrical astonishment, tracing the market's collective euphoria.`
+
+**Narration Text:**
+"Wall Street looked at those numbers and lost its mind. Investors said: This isn't a hardware business. This is Netflix on a bike. [Uhm] And then came March 2020."
+
+**Copy-Paste Direct Block (API / Web Demo):**
+```text
+(Speaks with a touch of theatrical astonishment, tracing the market's collective euphoria.) Wall Street looked at those numbers and lost its mind. Investors said: This isn't a hardware business. This is Netflix on a bike. [Uhm] And then came March 2020.
+```
+
+---
+
+### Chunk 15
+**Control Instruction:**
+`Speaks with stark, dramatic acceleration, capturing the unprecedented quarantine spike.`
+
+**Narration Text:**
+"COVID-19 shuttered every commercial gym in North America and Europe overnight. Millions of professionals with disposable income found themselves trapped in their living rooms, terrified and bored. The demand didn't just climb; it detonated."
+
+**Copy-Paste Direct Block (API / Web Demo):**
+```text
+(Speaks with stark, dramatic acceleration, capturing the unprecedented quarantine spike.) COVID-19 shuttered every commercial gym in North America and Europe overnight. Millions of professionals with disposable income found themselves trapped in their living rooms, terrified and bored. The demand didn't just climb; it detonated.
+```
+
+---
+
+### Chunk 16
+**Control Instruction:**
+`Speaks with breathlessly mounting scale, the numbers compounding out of control.`
+
+**Narration Text:**
+"Monthly workouts per subscriber surged past twenty-four. Delivery backlogs stretched from two weeks to eight weeks, then to ten weeks. Customer service phone lines were overwhelmed. In December 2020, Peloton's market valuation passed fifty billion dollars. John Foley was a billionaire. The instructors were signing seven-figure talent contracts."
+
+**Copy-Paste Direct Block (API / Web Demo):**
+```text
+(Speaks with breathlessly mounting scale, the numbers compounding out of control.) Monthly workouts per subscriber surged past twenty-four. Delivery backlogs stretched from two weeks to eight weeks, then to ten weeks. Customer service phone lines were overwhelmed. In December 2020, Peloton's market valuation passed fifty billion dollars. John Foley was a billionaire. The instructors were signing seven-figure talent contracts.
+```
+
+---
+
+### Chunk 17
+**Control Instruction:**
+`Speaks with sudden, chilling stillness, isolating the single fatal executive mistake.`
+
+**Narration Text:**
+"But right here, at the absolute peak of the frenzy, executive leadership made the foundational mistake that would seal their fate. They confused a temporary, crisis-driven pull-forward of demand with a permanent, structural expansion of their market."
+
+**Copy-Paste Direct Block (API / Web Demo):**
+```text
+(Speaks with sudden, chilling stillness, isolating the single fatal executive mistake.) But right here, at the absolute peak of the frenzy, executive leadership made the foundational mistake that would seal their fate. They confused a temporary, crisis-driven pull-forward of demand with a permanent, structural expansion of their market.
+```
+
+---
+
+### Chunk 18
+**Control Instruction:**
+`Speaks with deliberate, measured gravity, exposing the hubris of the management assumption.`
+
+**Narration Text:**
+"They looked at customers frantically ordering bikes during a global quarantine and assumed that this was the new normal baseline of human civilization. And instead of staying asset-light and letting customers wait out the pandemic, Peloton decided to build an industrial empire."
+
+**Copy-Paste Direct Block (API / Web Demo):**
+```text
+(Speaks with deliberate, measured gravity, exposing the hubris of the management assumption.) They looked at customers frantically ordering bikes during a global quarantine and assumed that this was the new normal baseline of human civilization. And instead of staying asset-light and letting customers wait out the pandemic, Peloton decided to build an industrial empire.
+```
+
+---
+
+### Chunk 19
+**Control Instruction:**
+`Speaks with tense, clipped focus, introducing the supply chain trap.`
+
+**Narration Text:**
+"In logistics, there is a famous concept known as the bullwhip effect. Imagine you are holding a whip. If you flick your wrist just two inches, the tip of the whip fifty feet away cracks violently through the air across twenty feet."
+
+**Copy-Paste Direct Block (API / Web Demo):**
+```text
+(Speaks with tense, clipped focus, introducing the supply chain trap.) In logistics, there is a famous concept known as the bullwhip effect. Imagine you are holding a whip. If you flick your wrist just two inches, the tip of the whip fifty feet away cracks violently through the air across twenty feet.
+```
+
+---
+
+### Chunk 20
+**Control Instruction:**
+`Speaks with tightening restraint, illustrating how small consumer shifts magnify upstream.`
+
+**Narration Text:**
+"In industrial manufacturing, customer demand is the wrist. If consumer demand temporarily jumps ten percent, retailers panic and increase their orders by twenty percent. Wholesalers see that twenty percent spike and order forty percent more from factories. And by the time the signal reaches the raw material suppliers, orders have amplified into a massive, distorted wave."
+
+**Copy-Paste Direct Block (API / Web Demo):**
+```text
+(Speaks with tightening restraint, illustrating how small consumer shifts magnify upstream.) In industrial manufacturing, customer demand is the wrist. If consumer demand temporarily jumps ten percent, retailers panic and increase their orders by twenty percent. Wholesalers see that twenty percent spike and order forty percent more from factories. And by the time the signal reaches the raw material suppliers, orders have amplified into a massive, distorted wave.
+```
+
+---
+
+### Chunk 21
+**Control Instruction:**
+`Speaks with rising, reckless velocity, tracing the executive team's capital splurge.`
+
+**Narration Text:**
+"Peloton's executive suite took the bullwhip and swung it with both hands. In December 2020, Peloton paid four hundred and twenty million dollars in pure cash to buy Precor, a commercial fitness equipment manufacturer, purely to acquire their factories in North Carolina and Washington."
+
+**Copy-Paste Direct Block (API / Web Demo):**
+```text
+(Speaks with rising, reckless velocity, tracing the executive team's capital splurge.) Peloton's executive suite took the bullwhip and swung it with both hands. In December 2020, Peloton paid four hundred and twenty million dollars in pure cash to buy Precor, a commercial fitness equipment manufacturer, purely to acquire their factories in North Carolina and Washington.
+```
+
+---
+
+### Chunk 22
+**Control Instruction:**
+`Speaks with incredulous, sharp tempo, exposing the extreme operational panic.`
+
+**Narration Text:**
+"Next came the freight panic. Port congestion in Long Beach and Los Angeles was delaying shipments from their Asian contract manufacturers. So what did Peloton do? They chartered entire Boeing 777 cargo freighters to fly thousands of seventy-pound steel bikes across the Pacific Ocean [sigh] spending up to a hundred million dollars on expedited air freight just to get bikes into living rooms two weeks faster."
+
+**Copy-Paste Direct Block (API / Web Demo):**
+```text
+(Speaks with incredulous, sharp tempo, exposing the extreme operational panic.) Next came the freight panic. Port congestion in Long Beach and Los Angeles was delaying shipments from their Asian contract manufacturers. So what did Peloton do? They chartered entire Boeing 777 cargo freighters to fly thousands of seventy-pound steel bikes across the Pacific Ocean [sigh] spending up to a hundred million dollars on expedited air freight just to get bikes into living rooms two weeks faster.
+```
+
+---
+
+### Chunk 23
+**Control Instruction:**
+`Speaks with deepening dread, chronicling the final, fatal capital expenditure.`
+
+**Narration Text:**
+"And then, in May 2021, came the big bet: the four-hundred-million-dollar Peloton Output Park in Ohio. Two thousand workers. 1 point 2 million square feet. Foley declared that Peloton would control its own industrial destiny for decades to come. Structural steel began rising from the Ohio dirt in late 2021."
+
+**Copy-Paste Direct Block (API / Web Demo):**
+```text
+(Speaks with deepening dread, chronicling the final, fatal capital expenditure.) And then, in May 2021, came the big bet: the four-hundred-million-dollar Peloton Output Park in Ohio. Two thousand workers. 1 point 2 million square feet. Foley declared that Peloton would control its own industrial destiny for decades to come. Structural steel began rising from the Ohio dirt in late 2021.
+```
+
+---
+
+### Chunk 24
+**Control Instruction:**
+`Speaks with a sudden downward drop in cadence, the party abruptly ending.`
+
+**Narration Text:**
+"And then, the world reopened. Vaccines rolled out. People walked out of their apartments. Commercial gyms unlocked their doors. And the demand for twenty-two-hundred-dollar stationary bikes didn't just normalize. It fell off a cliff."
+
+**Copy-Paste Direct Block (API / Web Demo):**
+```text
+(Speaks with a sudden downward drop in cadence, the party abruptly ending.) And then, the world reopened. Vaccines rolled out. People walked out of their apartments. Commercial gyms unlocked their doors. And the demand for twenty-two-hundred-dollar stationary bikes didn't just normalize. It fell off a cliff.
+```
+
+---
+
+### Chunk 25
+**Control Instruction:**
+`Speaks with stark, hollow finality, the market completely saturated.`
+
+**Narration Text:**
+"Every wealthy household that wanted a Peloton already had one sitting in their spare bedroom, increasingly serving as an expensive clothes rack. The backlog evaporated overnight. But the container ships full of raw parts were still crossing the ocean. The Precor factories were still producing metal. And the concrete in Ohio was still drying."
+
+**Copy-Paste Direct Block (API / Web Demo):**
+```text
+(Speaks with stark, hollow finality, the market completely saturated.) Every wealthy household that wanted a Peloton already had one sitting in their spare bedroom, increasingly serving as an expensive clothes rack. The backlog evaporated overnight. But the container ships full of raw parts were still crossing the ocean. The Precor factories were still producing metal. And the concrete in Ohio was still drying.
+```
+
+---
+
+### Chunk 26
+**Control Instruction:**
+`Speaks with heavy, resonant impact, the physical trap closing shut.`
+
+**Narration Text:**
+"The bullwhip snapped back. And the crack shattered their balance sheet."
+
+**Copy-Paste Direct Block (API / Web Demo):**
+```text
+(Speaks with heavy, resonant impact, the physical trap closing shut.) The bullwhip snapped back. And the crack shattered their balance sheet.
+```
+
+---
+
+### Chunk 27
+**Control Instruction:**
+`Speaks with forensic authority, opening the public regulatory filing.`
+
+**Narration Text:**
+"Look closely at Peloton's Form 10-K filing for the fiscal year ended June 30, 2022. This is where the mathematical horror story is buried. To clear mountains of bikes piling up in third-party warehouses, management started slashing prices from twenty-two hundred dollars down to fourteen hundred dollars."
+
+**Copy-Paste Direct Block (API / Web Demo):**
+```text
+(Speaks with forensic authority, opening the public regulatory filing.) Look closely at Peloton's Form 10-K filing for the fiscal year ended June 30, 2022. This is where the mathematical horror story is buried. To clear mountains of bikes piling up in third-party warehouses, management started slashing prices from twenty-two hundred dollars down to fourteen hundred dollars.
+```
+
+---
+
+### Chunk 28
+**Control Instruction:**
+`Speaks with mounting financial pressure, detailing the crushing overhead costs.`
+
+**Narration Text:**
+"Meanwhile, ocean container rates had spiked five-fold, storage fees were compounding daily, and air freight amortization was hitting the ledger. And then the arithmetic inverted."
+
+**Copy-Paste Direct Block (API / Web Demo):**
+```text
+(Speaks with mounting financial pressure, detailing the crushing overhead costs.) Meanwhile, ocean container rates had spiked five-fold, storage fees were compounding daily, and air freight amortization was hitting the ledger. And then the arithmetic inverted.
+```
+
+---
+
+### Chunk 29
+**Control Instruction:**
+`Speaks with grim, unhurried cadence, stating the catastrophic per-unit collapse.`
+
+**Narration Text:**
+"In fiscal 2020, every bike delivered generated nine hundred and twenty-seven dollars in gross profit. By fiscal 2022, every single bike delivered generated a loss of one hundred and ninety-six dollars before paying a single cent for marketing, salaries, or software development."
+
+**Copy-Paste Direct Block (API / Web Demo):**
+```text
+(Speaks with grim, unhurried cadence, stating the catastrophic per-unit collapse.) In fiscal 2020, every bike delivered generated nine hundred and twenty-seven dollars in gross profit. By fiscal 2022, every single bike delivered generated a loss of one hundred and ninety-six dollars before paying a single cent for marketing, salaries, or software development.
+```
+
+---
+
+### Chunk 30
+**Control Instruction:**
+`Speaks with stark realization, the entire economic engine running in reverse.`
+
+**Narration Text:**
+"Previously, hardware gross profit paid for customer acquisition. Now, acquiring a customer burned cash on the marketing, burned cash on the delivery, and burned cash on the hardware itself. The machine was devouring its own capital. But bad financial math wasn't their only problem. An engineering catastrophe was unfolding."
+
+**Copy-Paste Direct Block (API / Web Demo):**
+```text
+(Speaks with stark realization, the entire economic engine running in reverse.) Previously, hardware gross profit paid for customer acquisition. Now, acquiring a customer burned cash on the marketing, burned cash on the delivery, and burned cash on the hardware itself. The machine was devouring its own capital. But bad financial math wasn't their only problem. An engineering catastrophe was unfolding.
+```
+
+---
+
+### Chunk 31
+**Control Instruction:**
+`Speaks with somber, careful restraint, shifting to the tragic product safety failure.`
+
+**Narration Text:**
+"Peloton had launched a luxury motorized treadmill: the Tread Plus, priced at forty-three hundred dollars. Unlike traditional treadmills that use a flat continuous belt sliding across a deck with a low ground clearance, the Tread Plus used fifty-nine individual rubber-coated interlocking aluminum slats powered by a heavy industrial motor."
+
+**Copy-Paste Direct Block (API / Web Demo):**
+```text
+(Speaks with somber, careful restraint, shifting to the tragic product safety failure.) Peloton had launched a luxury motorized treadmill: the Tread Plus, priced at forty-three hundred dollars. Unlike traditional treadmills that use a flat continuous belt sliding across a deck with a low ground clearance, the Tread Plus used fifty-nine individual rubber-coated interlocking aluminum slats powered by a heavy industrial motor.
+```
+
+---
+
+### Chunk 32
+**Control Instruction:**
+`Speaks with tightening discomfort, laying out the mechanical flaw.`
+
+**Narration Text:**
+"Crucially, the elevated rear roller sat six to eight inches above the floor without a physical safety guard or an automatic emergency shut-off threshold. If a small pet, a yoga ball, or a child was pulled underneath the moving slats, the powerful motor did not stop. It dragged them beneath the belt."
+
+**Copy-Paste Direct Block (API / Web Demo):**
+```text
+(Speaks with tightening discomfort, laying out the mechanical flaw.) Crucially, the elevated rear roller sat six to eight inches above the floor without a physical safety guard or an automatic emergency shut-off threshold. If a small pet, a yoga ball, or a child was pulled underneath the moving slats, the powerful motor did not stop. It dragged them beneath the belt.
+```
+
+---
+
+### Chunk 33
+**Control Instruction:**
+`Speaks with grave solemnity, mindful of the human cost.`
+
+**Narration Text:**
+"In early 2021, horrific incident reports began piling up on the public docket of the U.S. Consumer Product Safety Commission. Dozens of children were pulled under the machine, suffering severe abrasions, broken bones, and blunt force trauma. In March 2021, a six-year-old child died."
+
+**Copy-Paste Direct Block (API / Web Demo):**
+```text
+(Speaks with grave solemnity, mindful of the human cost.) In early 2021, horrific incident reports began piling up on the public docket of the U.S. Consumer Product Safety Commission. Dozens of children were pulled under the machine, suffering severe abrasions, broken bones, and blunt force trauma. In March 2021, a six-year-old child died.
+```
+
+---
+
+### Chunk 34
+**Control Instruction:**
+`Speaks with sharp moral outrage, controlled but unyielding.`
+
+**Narration Text:**
+"On April 17, 2021, the CPSC issued an extraordinary public warning urging consumers with children and pets to stop using the Tread Plus immediately. What did Peloton's executive leadership do? [Dissatisfaction] John Foley publicly called the government safety warning 'outrageous, inaccurate, and misleading,' refusing to recall the machine and insisting it was perfectly safe if consumers followed instructions."
+
+**Copy-Paste Direct Block (API / Web Demo):**
+```text
+(Speaks with sharp moral outrage, controlled but unyielding.) On April 17, 2021, the CPSC issued an extraordinary public warning urging consumers with children and pets to stop using the Tread Plus immediately. What did Peloton's executive leadership do? [Dissatisfaction] John Foley publicly called the government safety warning 'outrageous, inaccurate, and misleading,' refusing to recall the machine and insisting it was perfectly safe if consumers followed instructions.
+```
+
+---
+
+### Chunk 35
+**Control Instruction:**
+`Speaks with stern judicial weight, detailing the consequences of executive defiance.`
+
+**Narration Text:**
+"It was a staggering display of corporate hubris. For eighteen days, management dug in while outrage exploded across national media. Finally, on May 5, Foley was forced to issue a humiliating public apology and recall all one hundred and twenty-five thousand Tread Plus machines, taking an immediate three-hundred-and-sixty-five-million-dollar write-down."
+
+**Copy-Paste Direct Block (API / Web Demo):**
+```text
+(Speaks with stern judicial weight, detailing the consequences of executive defiance.) It was a staggering display of corporate hubris. For eighteen days, management dug in while outrage exploded across national media. Finally, on May 5, Foley was forced to issue a humiliating public apology and recall all one hundred and twenty-five thousand Tread Plus machines, taking an immediate three-hundred-and-sixty-five-million-dollar write-down.
+```
+
+---
+
+### Chunk 36
+**Control Instruction:**
+`Speaks with cold evidentiary precision, reading from the regulatory consent decree.`
+
+**Narration Text:**
+"Eighteen months later, federal regulators would extract their pound of flesh: a nineteen-million-dollar civil penalty for failing to immediately report known hazards. The government's consent order revealed that Peloton had received more than one hundred and fifty reports of people, pets, and objects being pulled under the machine before ever contacting regulators. Even worse, the audit found that Peloton had knowingly delivered thirty-eight recalled Tread Plus units to customers after the recall was declared."
+
+**Copy-Paste Direct Block (API / Web Demo):**
+```text
+(Speaks with cold evidentiary precision, reading from the regulatory consent decree.) Eighteen months later, federal regulators would extract their pound of flesh: a nineteen-million-dollar civil penalty for failing to immediately report known hazards. The government's consent order revealed that Peloton had received more than one hundred and fifty reports of people, pets, and objects being pulled under the machine before ever contacting regulators. Even worse, the audit found that Peloton had knowingly delivered thirty-eight recalled Tread Plus units to customers after the recall was declared.
+```
+
+---
+
+### Chunk 37
+**Control Instruction:**
+`Speaks with quiet, irreparable finality, the brand halo extinguished.`
+
+**Narration Text:**
+"The brand's premium halo, the trust of affluent suburban parents, was broken beyond repair."
+
+**Copy-Paste Direct Block (API / Web Demo):**
+```text
+(Speaks with quiet, irreparable finality, the brand halo extinguished.) The brand's premium halo, the trust of affluent suburban parents, was broken beyond repair.
+```
+
+---
+
+### Chunk 38
+**Control Instruction:**
+`Speaks with piercing investigative skepticism, questioning the corporate governance.`
+
+**Narration Text:**
+"Why hadn't the board of directors stopped the bleeding months earlier? Because of a corporate voting moat. When Peloton went public, it issued two classes of stock. Class A shares, owned by regular retail investors and retirement funds, had one vote per share. Class B shares, held almost exclusively by John Foley and his founding inner circle, carried twenty votes per share."
+
+**Copy-Paste Direct Block (API / Web Demo):**
+```text
+(Speaks with piercing investigative skepticism, questioning the corporate governance.) Why hadn't the board of directors stopped the bleeding months earlier? Because of a corporate voting moat. When Peloton went public, it issued two classes of stock. Class A shares, owned by regular retail investors and retirement funds, had one vote per share. Class B shares, held almost exclusively by John Foley and his founding inner circle, carried twenty votes per share.
+```
+
+---
+
+### Chunk 39
+**Control Instruction:**
+`Speaks with controlled indignation, detailing the dual-class power trap.`
+
+**Narration Text:**
+"With less than twenty percent of the actual economic ownership, Foley and his team controlled over eighty percent of the voting power. They were untouchable. Foley could ignore safety warnings, spend hundreds of millions on charter cargo planes, and pour concrete in Ohio, and public shareholders could do nothing. All while executives cashed out over a hundred million dollars in stock sales near the market top."
+
+**Copy-Paste Direct Block (API / Web Demo):**
+```text
+(Speaks with controlled indignation, detailing the dual-class power trap.) With less than twenty percent of the actual economic ownership, Foley and his team controlled over eighty percent of the voting power. They were untouchable. Foley could ignore safety warnings, spend hundreds of millions on charter cargo planes, and pour concrete in Ohio, and public shareholders could do nothing. All while executives cashed out over a hundred million dollars in stock sales near the market top.
+```
+
+---
+
+### Chunk 40
+**Control Instruction:**
+`Speaks with sharp tactical tempo, the activist rebellion launching.`
+
+**Narration Text:**
+"The wall finally broke on January 24, 2022. Activist investment fund Blackwells Capital published a scathing presentation publicly demanding that the board fire John Foley immediately and explore a sale of the company. Blackwells laid out the catastrophic forensic record: selling, general, and administrative expenses up hundreds of percent, bloated corporate payrolls, and hundreds of millions committed to an unneeded Ohio mega-factory while the core hardware business bled cash."
+
+**Copy-Paste Direct Block (API / Web Demo):**
+```text
+(Speaks with sharp tactical tempo, the activist rebellion launching.) The wall finally broke on January 24, 2022. Activist investment fund Blackwells Capital published a scathing presentation publicly demanding that the board fire John Foley immediately and explore a sale of the company. Blackwells laid out the catastrophic forensic record: selling, general, and administrative expenses up hundreds of percent, bloated corporate payrolls, and hundreds of millions committed to an unneeded Ohio mega-factory while the core hardware business bled cash.
+```
+
+---
+
+### Chunk 41
+**Control Instruction:**
+`Speaks with unhurried finality, the executive empire collapsing.`
+
+**Narration Text:**
+"Foley tried to hold on. But institutional lenders and Class A shareholders delivered an ultimatum. On February 8, 2022, John Foley was removed as CEO. In his place, the board installed Barry McCarthy, the former Chief Financial Officer of Netflix and Spotify."
+
+**Copy-Paste Direct Block (API / Web Demo):**
+```text
+(Speaks with unhurried finality, the executive empire collapsing.) Foley tried to hold on. But institutional lenders and Class A shareholders delivered an ultimatum. On February 8, 2022, John Foley was removed as CEO. In his place, the board installed Barry McCarthy, the former Chief Financial Officer of Netflix and Spotify.
+```
+
+---
+
+### Chunk 42
+**Control Instruction:**
+`Speaks with surgical, calculating coldness, the restructuring beginning.`
+
+**Narration Text:**
+"McCarthy was an institutional surgeon. He had zero emotional attachment to Foley's dream of an integrated industrial kingdom. Within forty-eight hours, McCarthy swung the axe: Construction on the four-hundred-million-dollar Ohio mega-factory was permanently stopped. Two thousand eight hundred jobs were eliminated in a single day. Proprietary delivery vans were shut down, replaced with third-party delivery contractors. Proprietary factories were abandoned; all hardware manufacturing was surrendered back to overseas contract manufacturers."
+
+**Copy-Paste Direct Block (API / Web Demo):**
+```text
+(Speaks with surgical, calculating coldness, the restructuring beginning.) McCarthy was an institutional surgeon. He had zero emotional attachment to Foley's dream of an integrated industrial kingdom. Within forty-eight hours, McCarthy swung the axe: Construction on the four-hundred-million-dollar Ohio mega-factory was permanently stopped. Two thousand eight hundred jobs were eliminated in a single day. Proprietary delivery vans were shut down, replaced with third-party delivery contractors. Proprietary factories were abandoned; all hardware manufacturing was surrendered back to overseas contract manufacturers.
+```
+
+---
+
+### Chunk 43
+**Control Instruction:**
+`Speaks with the flat numbness of an autopsy, reciting the final loss numbers.`
+
+**Narration Text:**
+"When the final accounting books closed on fiscal 2022, the damage was staggering: a net loss of two point eight billion dollars, including four hundred and fifteen million dollars in inventory write-downs for bikes and raw parts that were literally scrapped."
+
+**Copy-Paste Direct Block (API / Web Demo):**
+```text
+(Speaks with the flat numbness of an autopsy, reciting the final loss numbers.) When the final accounting books closed on fiscal 2022, the damage was staggering: a net loss of two point eight billion dollars, including four hundred and fifteen million dollars in inventory write-downs for bikes and raw parts that were literally scrapped.
+```
+
+---
+
+### Chunk 44
+**Control Instruction:**
+`Speaks with weary administrative realism, the multi-year grind to stabilize.`
+
+**Narration Text:**
+"McCarthy spent two years ruthlessly cutting costs, shrinking headcount from over nine thousand employees down to under three thousand, and slashing warehouse leases. But by 2024, Peloton faced a new structural nightmare: their own past success."
+
+**Copy-Paste Direct Block (API / Web Demo):**
+```text
+(Speaks with weary administrative realism, the multi-year grind to stabilize.) McCarthy spent two years ruthlessly cutting costs, shrinking headcount from over nine thousand employees down to under three thousand, and slashing warehouse leases. But by 2024, Peloton faced a new structural nightmare: their own past success.
+```
+
+---
+
+### Chunk 45
+**Control Instruction:**
+`Speaks with dry, ironic amusement, the secondary market devouring the primary.`
+
+**Narration Text:**
+"Millions of pristine, barely-used Peloton bikes were sitting in basements. Hundreds of thousands of owners were listing them on Facebook Marketplace and Craigslist for four hundred dollars, less than a quarter of the retail price. Every time someone bought a second-hand bike on Craigslist, Peloton made zero dollars in hardware revenue, and the market for new bikes dried up completely."
+
+**Copy-Paste Direct Block (API / Web Demo):**
+```text
+(Speaks with dry, ironic amusement, the secondary market devouring the primary.) Millions of pristine, barely-used Peloton bikes were sitting in basements. Hundreds of thousands of owners were listing them on Facebook Marketplace and Craigslist for four hundred dollars, less than a quarter of the retail price. Every time someone bought a second-hand bike on Craigslist, Peloton made zero dollars in hardware revenue, and the market for new bikes dried up completely.
+```
+
+---
+
+### Chunk 46
+**Control Instruction:**
+`Speaks with a wry, exasperated smirk, the desperate consumer squeeze.`
+
+**Narration Text:**
+"In August 2024, in an act of pure desperation, Peloton instituted a mandatory ninety-five-dollar used activation fee [laughing] forcing second-hand buyers to pay a toll just to register a bike they already legally owned. On May 2, 2024, exhausted and out of levers to pull, Barry McCarthy resigned."
+
+**Copy-Paste Direct Block (API / Web Demo):**
+```text
+(Speaks with a wry, exasperated smirk, the desperate consumer squeeze.) In August 2024, in an act of pure desperation, Peloton instituted a mandatory ninety-five-dollar used activation fee [laughing] forcing second-hand buyers to pay a toll just to register a bike they already legally owned. On May 2, 2024, exhausted and out of levers to pull, Barry McCarthy resigned.
+```
+
+---
+
+### Chunk 47
+**Control Instruction:**
+`Speaks with steady, sober perspective, introducing the incoming leadership.`
+
+**Narration Text:**
+"On January 1, 2025, Peter Stern, the former co-founder of Apple Fitness Plus, took over as CEO. He inherits a business valued not at fifty billion dollars, but at roughly two billion. A modest, niche subscription utility servicing a loyal but stagnant base of dedicated fitness enthusiasts."
+
+**Copy-Paste Direct Block (API / Web Demo):**
+```text
+(Speaks with steady, sober perspective, introducing the incoming leadership.) On January 1, 2025, Peter Stern, the former co-founder of Apple Fitness Plus, took over as CEO. He inherits a business valued not at fifty billion dollars, but at roughly two billion. A modest, niche subscription utility servicing a loyal but stagnant base of dedicated fitness enthusiasts.
+```
+
+---
+
+### Chunk 48
+**Control Instruction:**
+`Speaks with profound philosophical weight, articulating the core lesson.`
+
+**Narration Text:**
+"It is the oldest lesson in corporate finance: you cannot value a factory like an algorithm. Software scales with a line of code; physical manufacturing scales with steel, concrete, freight containers, and human hands. When a once-in-a-century crisis pulls tomorrow's demand into today, the discipline lies in knowing that the storm will pass."
+
+**Copy-Paste Direct Block (API / Web Demo):**
+```text
+(Speaks with profound philosophical weight, articulating the core lesson.) It is the oldest lesson in corporate finance: you cannot value a factory like an algorithm. Software scales with a line of code; physical manufacturing scales with steel, concrete, freight containers, and human hands. When a once-in-a-century crisis pulls tomorrow's demand into today, the discipline lies in knowing that the storm will pass.
+```
+
+---
+
+### Chunk 49
+**Control Instruction:**
+`Speaks with quiet, chilling finality, closing the investigation case binder.`
+
+**Narration Text:**
+"And if you spend billions building an empire for a world that only exists inside a quarantine, the reckoning is inevitable. Just ask the solar company that bought a four-hundred-million-dollar monument to hubris in Wood County, Ohio for thirty-three million dollars in cash."
+
+**Copy-Paste Direct Block (API / Web Demo):**
+```text
+(Speaks with quiet, chilling finality, closing the investigation case binder.) And if you spend billions building an empire for a world that only exists inside a quarantine, the reckoning is inevitable. Just ask the solar company that bought a four-hundred-million-dollar monument to hubris in Wood County, Ohio for thirty-three million dollars in cash.
+```
+
+---
+
