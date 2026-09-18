@@ -16,14 +16,11 @@
 
 <!--
 Formatting Guidelines:
-- Write for spoken performance with natural line breaks.
+- Tone Mandate: Conversational, witty, energetic; grounded in physical stakes ("Popcorn & Delivery Van"); strictly zero dry academic or legalistic prose.
+- Phonetic Decimal Normalization: 100% of spoken numbers with decimals MUST be written phonetically with the word "point" (e.g., "1 point 2 million dollars", "2 point 5 billion"), NEVER raw numeric decimals ("1.2", "2.5") which TTS engines mispronounce.
 - Include delivery markers: [TENSE], [WRY], [SOMBER], [BUILDING], [STILLNESS], etc.
-- Include asset tags inline:
-  * [SHOWABLE: <asset description from Research Brief>]
-  * [PIVOTAL]
-  * [MAP: <location/route>]
-  * [CARICATURE: <person name>]
-  * [DATA: <metric/chart>]
+- Track 1 (Corporate Autopsies): Include [SHOWABLE: <asset>], [PIVOTAL], [CARICATURE: <person>], [DATA: <metric>].
+- Track 2 (Thought Experiments): Second-person POV ("You"), include recurring [WATERMARK: HYPOTHETICAL SCENARIO], [COMPOSITE: <role>], [DATA: <metric>], [MAP: <location/telemetry>]. Strictly zero SEC filings.
 -->
 
 [BUILDING]

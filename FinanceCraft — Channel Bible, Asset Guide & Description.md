@@ -10,6 +10,8 @@
 > 2. **Dual-Track Production Routing:**
 >    - **Track 1: Corporate Autopsies & Investigative Scandals (Documented Cases):** Real corporate history (e.g. Peloton, WeWork). Sourced from primary documents when relevant, but told as high-stakes, entertaining human drama.
 >    - **Track 2: "The Hypothetical" & Macro Thought Experiments (Speculative / What-If):** High-concept simulations (e.g. *The Thirty-Day Blackout*, *What If You Had $1 Trillion*). **STRICTLY FORBIDS forcing SEC 10-K filings, court dockets, or legalistic paperwork.** Uses second-person immersion ("You"), telemetry HUDs, economic flowcharts, countdown clocks, and relatable human behavior.
+> 3. **Mandatory Step-by-Step Pre-Delivery Self-Audit Gate:** At EVERY step of the pipeline, the AI generation engine MUST perform a strict self-audit against the task's rules before outputting or presenting any deliverable. If any requirement is violated (e.g. text hook > 4 words, missing quality clause, premature beat generation before audio exists, monolithic file bundling), the output is an **AUTOMATIC REJECTION** and must be re-generated before returning to the user.
+> 4. **Clean-Room Isolation Law (Strict Prohibition on Cross-Episode Mimicry):** The AI generation engine is **STRICTLY FORBIDDEN from looking at, copying, or anchoring to files from other completed episode directories in `videos/` (such as legacy episodes like `videos/01-peloton-collapse/`).** Older episodes contain deprecated monolithic formats, pre-refactor conventions, or track-specific corporate fraud framing that will contaminate active work. For structural file blueprints, the AI MUST strictly reference `videos/_template/` and this Master Channel Bible alone. Every episode must be generated from first principles in its own isolated directory.
 >
 > | Task ID | Active Pipeline Task | Master Section Header | Deliverable File | Target Line Range | Essential Rules to Extract & Follow |
 > | :--- | :--- | :--- | :--- | :---: | :--- |
@@ -1228,10 +1230,11 @@ When the engine builds the timeline in CapCut Desktop:
 > **CRITICAL INSTRUCTION FOR THE AI GENERATION ENGINE:**  
 > The generation engine is programmatically and strictly bound by the following automated sanity checkpoints. Before generating any phase or deliverable (Script, Production Document, Phase 4 Beats, Consolidated Batches, or Timeline Assembly), the engine **MUST execute and explicitly print the designated Sanity Check Audit Block**. If any mathematical checkpoint fails or if the beat count does not satisfy the duration formula, the engine is **FORBIDDEN TO PROCEED** and must halt, recalculate, and expand coverage. Generating fewer beats than required or skipping audit blocks constitutes an automatic system failure and corrupt deliverable.
 
-### **The 12 Master Sanity Checkpoints:**
+### **The 14 Master Sanity Checkpoints:**
 
 | Checkpoint | Scope | Validation Rule & Formula | Enforcement Action |
 | :--- | :--- | :--- | :--- |
+| **CP-0: Pre-Delivery Self-Audit & Clean-Room Gate** | Every Deliverable | **Mandatory Step-by-Step Self-Audit:** At EVERY step of the pipeline, the AI generation engine MUST perform a strict self-audit against the task's rules before outputting or presenting any deliverable.<br>**Clean-Room Isolation Law:** The AI is **STRICTLY FORBIDDEN from looking at, copying, or anchoring to files from other completed episode directories in `videos/` (such as legacy episodes like `videos/01-peloton-collapse/`).** Older episodes contain deprecated monolithic formats, pre-refactor conventions, or track-specific corporate fraud framing that will contaminate active work. For structural blueprints, the AI MUST strictly reference `videos/_template/` and this Master Channel Bible alone. Output MUST be a dedicated standalone file per the 14-phase sequence. | **AUTOMATIC REJECTION** if rules are skipped, cross-episode code/text is copied, or monolithic bundling is attempted. |
 | **CP-1: Evidentiary & Mechanism Spine** | Research / Concept Brief | **Track 1 (Documented Cases):** 9 required sections present; primary showable documents/transcripts where relevant; 1 load-bearing pivotal detail.<br>**Track 2 (Thought Experiments & What-Ifs):** Verified economic mechanisms, academic empirical data (e.g. AER trials), and network telemetry. **STRICTLY FORBIDDEN TO FORCE SEC 10-K FILINGS ONTO THOUGHT EXPERIMENTS.** | Reject brief if relying on unverified gossip or forcing corporate SEC filings onto speculative simulations. |
 | **CP-2: Script Word Count, Runtime & Decimal Normalization** | Script Generator & VO Engine | Word count $W$; Runtime $T = (W / 155) \times 60$ seconds. Target: 12–15 min ($1,860 \le W \le 2,325$). 5-Act narrative balance. **Decimal Normalization Mandate:** All spoken decimal numbers in scripts and VO JSON (`target_text`) MUST be written with the phonetic word "point" (e.g. `1 point 2 million`, `2 point 5 billion dollars`), NEVER raw numeric decimals (`1.2`, `2.5`) which TTS engines mispronounce as "one dot two". | Recalibrate script pacing if runtime is out of bounds; phonetically normalize all decimals to "point" in scripts and VO JSON. |
 | **CP-3: Audio-First Timing & Beat Duration Gatekeeper** | 07_BEAT_SHEET.md | **MANDATORY TIMING PREREQUISITE:** Master VO audio (`master_narration.wav`) and sentence-level timestamp alignment JSON MUST exist BEFORE generating beats. $B_{min} = \lfloor T / 5.0 \rfloor$, $B_{max} = \lceil T / 2.5 \rceil$, $B_{target} = \text{round}(T / 3.5)$. Total duration $\sum D_i = T \pm 2\%$. Beats MUST snap to ground-truth spoken sentence downbeats. Generating beats prior to audio synthesis is an AUTOMATIC FAILURE. | Hard gate: Block beat sheet generation until VO audio timestamps exist; reject arbitrary slicing. |
@@ -1245,6 +1248,132 @@ When the engine builds the timeline in CapCut Desktop:
 | **CP-11: Timeline A/V Synchronization** | Part B Timeline | Narration VO Track Duration ($T_{audio}$) matches Total Visual Beat Duration ($\sum D_i$) within $\pm 0.5$ seconds. Zero gap frames between cuts. All AI video clips muted (-inf dB). | Abort CapCut timeline commit if A/V duration drift $> 0.5$ seconds. |
 | **CP-12: Dynamic Audio Score & Ducking** | Part B Audio | 1 cohesive BGM score bed on Track 3, with separate VO (0dB, -15 LUFS on Track 1) and Foley (-26dB on Track 2); dynamic ducking (-32 to -35 dB); pause swells (+8dB on gaps >1.2s); cognitive ducking (-50 to -60dB) during dense data/math beats; dead silence drops on shock reveals. | Flag any un-ducked or flat audio mix. |
 | **CP-13: Anti-Dryness & Entertainment Mandate** | Script & Narration | Narration MUST be fun, punchy, conversational, and witty. Strictly prohibits stiff courtroom legalese, academic lecture prose, or corporate compliance tone. Must incorporate visceral physical grounding ("Popcorn & Delivery Van" rule), staccato rhythmic variety, and relatable humor ("Cereal Box" principle). | **AUTOMATIC REJECTION** if script sounds like a formal court filing, legal deposition, or academic paper. Rewrite with conversational swagger and narrative electricity. |
+
+---
+
+### **Mandatory Step-by-Step Deliverable Validation Protocol (Self-Audit at Every Phase)**
+
+> [!CAUTION]
+> **PRE-DELIVERY AUDIT RULE FOR THE AI GENERATION ENGINE:**  
+> At **EVERY SINGLE STEP** of the 14-phase pipeline, the AI generation engine MUST perform a rigorous internal self-audit against the target deliverable's explicit rules before presenting or saving the file.  
+> **If ANY condition in the checklist below is violated, the output is an AUTOMATIC REJECTION.** The engine must halt, correct the defect internally, and only return the fully verified deliverable.
+
+```
+PHASE-BY-PHASE AUDIT CHECKLIST:
+
+[ ] PHASE 01: 01_RESEARCH_BRIEF.md
+    - Track Routing verified: Explicitly declared as Track 1 (Documented Case) or Track 2 (Thought Experiment / What-If).
+    - If Track 2: ZERO SEC Form 10-K filings, court dockets, or bankruptcy paperwork forced onto the concept.
+    - Evidentiary Rigor: All 9 sections populated; 1 load-bearing pivotal detail identified; verified empirical mechanisms/telemetry.
+
+[ ] PHASE 02: 02_SCRIPT.md
+    - Target Runtime & Word Count: 1,860 to 2,325 words (12 to 15 minutes at 155 WPM).
+    - 5-Act Narrative Architecture: Calibrated act splits with rising narrative momentum.
+    - Phonetic Decimal Normalization: 100% of spoken decimals MUST use the word "point" (e.g. "1 point 2 million", "2 point 5 billion dollars"), NEVER raw numeric decimals ("1.2", "2.5").
+    - Tone & Swagger: Conversational, witty, energetic; grounded in visceral physical stakes ("Popcorn & Delivery Van"); zero dry academic or legal prose.
+    - In-Script Directing Tags: Correct tags ([DATA], [MAP], [REMOTION], [SHOWABLE]); Track 2 includes recurring [WATERMARK: HYPOTHETICAL SCENARIO] and [COMPOSITE: <role>].
+
+[ ] PHASE 03: 03_TITLES_AND_HOOKS.md
+    - Dedicated standalone file in videos/<episode-slug>/.
+    - 5 distinct CTR title angles (POV-Led, Question-Led, Scale-Led, Mechanism-Led, Behavioral-Led).
+    - Mobile search hooks and core curiosity gap articulation included.
+
+[ ] PHASE 04: 04_THUMBNAILS.md
+    - Dedicated standalone file in videos/<episode-slug>/.
+    - 3 to 6 distinct options (Options A through F) mapping across the 7 Outlier Archetypes.
+    - 1–4 Word Mobile Legibility Rule: On-image headline text hook strictly 1 to 4 words long (e.g. "THE 30-DAY BLACKOUT", "NETWORK COLLAPSE").
+    - 2 to 4 clean forensic data callout badges max (e.g. "BGP ROUTES: 0%", "$24.5B AD LOSS").
+    - Exact syntax: ON-IMAGE TEXT: Direct in-generation text: "[exact text]".
+    - Verbatim CP-7 quality mandate included in 100% of prompts: "follow best industry-standard guidelines and quality and visualisations".
+
+[ ] PHASE 05: 05_CHARACTER_SETUP.md
+    - Dedicated standalone file in videos/<episode-slug>/.
+    - 2 to 4 distinct characters or composite archetypes.
+    - Single static 4K portrait prompt per character (3840×2160); ZERO turnaround or multi-shot character sheets.
+    - Verbatim CP-7 quality mandate in all prompts.
+
+[ ] PHASE 06: 06_VOICE_DIRECTION.json & 06_VOICE_DIRECTION.md
+    - Dedicated standalone .json and .md files in videos/<episode-slug>/.
+    - Valid JSON schema conforming to VoxCPM2 specifications.
+    - Two-Part Control Instructions: Persona Anchor locked to Track + Dynamic Register per chunk.
+    - Phonetic decimal normalization verified ("point") in target_text.
+    - ZERO bracket tag leaks into target_text.
+
+[ ] MANDATORY TIMING GATE: VO AUDIO SYNTHESIS
+    - Audio stems synthesized and assembled into master_narration.wav in videos/<episode-slug>/voiceover/.
+    - Sentence/word timestamp alignment JSON (metadata.json / alignment.json) generated.
+    - HARD GATE: NEVER generate Phase 07 (07_BEAT_SHEET.md) until audio exists.
+
+[ ] PHASE 07: 07_BEAT_SHEET.md
+    - Dedicated standalone file generated STRICTLY after VO audio timestamps exist.
+    - Visual cuts snap to ground-truth spoken audio downbeats (0.0s drift).
+    - Average beat duration targets 2.5s to 4.0s (evidentiary holds up to 10.0s justified).
+    - Visual type, staging, camera motion, and visual role tagged per beat.
+
+[ ] PHASE 08: 08_STILLS_PROMPTS.md
+    - Dedicated standalone file.
+    - Batch 1: Nano Banana 2 4K stills (3840×2160, 16:9).
+    - Verbatim CP-7 quality mandate in 100% of prompts.
+    - Native text specified via ON-IMAGE TEXT: (never negated in negative prompt).
+
+[ ] PHASE 09: 09_VIDEO_PROMPTS.md
+    - Dedicated standalone file.
+    - Batch 2: AI Video prompts (1920×1080, 16:9, muted, 30fps).
+    - Technique explicitly declared (Text-to-Video, Image-to-Video, Frames-to-Video) and INPUT FRAMES listed.
+    - Video clip count <= 25.
+
+[ ] PHASE 10: 10_REMOTION_SPECS.md
+    - Dedicated standalone file.
+    - Batch 3: Remotion motion graphics components matching in-script tags ([DATA], [MAP], [REMOTION]).
+    - Exact frame count matching spoken audio; theme-locked color palette.
+
+[ ] PHASE 11: 11_AUDIO_DESIGN.md
+    - Dedicated standalone file.
+    - Batch 4: Score bed prompts (Suno/Udio) with BPM, Key, Instrumentation, and Mood.
+    - Precise volume ducking envelope specs (-32dB to -35dB base, -50dB math duck, +8dB pause swells, 0dB silence cuts).
+    - Tactile foley cues mapped to beat sequence.
+
+[ ] PHASE 12: shorts.md
+    - Dedicated standalone file.
+    - Vertical (9:16) format, 30 to 60s duration.
+    - High-energy opening hook, fast visual turnover.
+
+[ ] PHASE 13: 12_CAPCUT_ASSEMBLY.md
+    - Dedicated standalone file.
+    - Multi-track timeline mapping (Tracks 0 to 3).
+    - A/V duration drift verified to be < 0.5 seconds.
+    - All AI video clips muted (-inf dB).
+
+[ ] PHASE 14: 13_FINAL_METADATA.md
+    - Dedicated standalone file.
+    - Final high-CTR title.
+    - Verified description with frame-accurate chapter timestamps derived directly from final captions.
+    - 20+ curated SEO tags.
+```
+
+---
+
+### **Clean-Room Isolation & Project Directory Architecture**
+
+> [!IMPORTANT]
+> **CLEAN-ROOM ISOLATION LAW (ZERO CROSS-EPISODE MIMICRY):**
+> When generating or editing deliverables for an episode in `videos/<target-episode>/`, the AI generation engine is **STRICTLY FORBIDDEN from reading, opening, listing, searching, or copying files from any other completed episode directory in `videos/` (such as `videos/01-peloton-collapse/`).**
+>
+> **Why Cross-Episode Inspection is Catastrophic:**
+> 1. **Architectural Contamination:** Older episodes may have been built under legacy monolithic conventions (e.g. a single 340KB `03_PRODUCTION_DOCUMENT.md`). Reading past episodes causes the AI to mistakenly replicate obsolete monolithic structures.
+> 2. **Tone & Track Bleed:** Each episode belongs to its own Track (e.g. Track 1 Corporate Fraud vs Track 2 Thought Experiment). Copying patterns from a corporate fraud episode forces irrelevant SEC filings, court dockets, and dry legalistic tone onto speculative simulations.
+> 3. **Timing & Inventory Drift:** Each episode's beats, prompts, and audio stems must be calibrated strictly to its own unique narration. Copying structure from adjacent episodes introduces uncalibrated durations and broken asset mappings.
+>
+> **The Three Permitted Reference Sources:**
+> When executing any task for an episode, the AI may ONLY inspect:
+> 1. `FinanceCraft — Channel Bible, Asset Guide & Description.md` (The Master Specification).
+> 2. `videos/_template/` (The Canonical Starter Templates).
+> 3. The target episode's own local workspace (`videos/<target-episode>/`).
+>
+> **Directory Architecture & Legacy Project Hygiene:**
+> - Active projects reside in `videos/<episode-slug>/`.
+> - The canonical template directory `videos/_template/` MUST be maintained with modular starter files mirroring the 14-phase sequence.
+> - **Legacy Archival Rule:** Any completed episode that uses legacy monolithic structures should be quarantined into an `archive/` directory (e.g. `archive/01-peloton-collapse/`) or left untouched. The AI must treat all sibling episode folders as invisible dark boxes.
 
 ---
 

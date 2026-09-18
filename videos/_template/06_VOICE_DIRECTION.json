@@ -1,0 +1,10 @@
+[
+  {
+    "chunk_id": "chunk_001",
+    "section": "Prologue",
+    "voice_id": "vox_cpm2_investigative_01",
+    "target_text": "Opening narration sentence with phonetically normalized numbers like 1 point 2 million dollars.",
+    "control_instruction": "Persona: Sharp, articulate investigative documentary narrator. Tone: Measured, suspenseful, leaning into narrative gravity.",
+    "output_filename": "voiceover/chunk_001.wav"
+  }
+]

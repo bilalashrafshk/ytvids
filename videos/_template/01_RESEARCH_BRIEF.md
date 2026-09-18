@@ -5,7 +5,9 @@
 ---
 
 ## 1. Episode Working Title & Concept
-- **Topic**: [Company / Individual / Crisis]
+- **Topic**: [Company / Individual / Crisis / Macro Thought Experiment]
+- **Track Routing**: [Track 1: Corporate Autopsy (Documented Case) | Track 2: Macro Thought Experiment (Hypothetical Simulation)]
+  *(Note: Track 1 relies on real historical records, SEC filings, and investigative audits. Track 2 strictly forbids forcing SEC filings, relying instead on empirical telemetry, academic economic models, and physical stakes).*
 - **Target Runtime**: [e.g., 12-15 minutes (~1,900 - 2,300 words)]
 - **Angle Statement (One Sentence)**: [What is actually new, counter-intuitive, or overlooked here that differentiates this video from conventional coverage?]
 
