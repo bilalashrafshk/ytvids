@@ -1398,13 +1398,13 @@ Generated as a static image, never AI video — this never appears in the video 
 
 **Be specifically clever about the subject, not generically "put a face on it."** A strong thumbnail concept uses the episode's actual central fact or irony as visual metaphor, not just a portrait. Worked example for a Rivian collapse episode: a clean illustrated Rivian vehicle crashing directly through a giant "$100B" stop sign, with bold text reading "HOW THIS $100B COMPANY COLLAPSED" — the crash-through-the-sign image IS the story's core idea (unstoppable momentum meeting a hard financial wall) rendered as one visual, not a character standing next to unrelated numbers. Every thumbnail concept should pass this bar: could someone understand the episode's core tension from the image alone, before reading the text?
 
-1. Generate 2-3 thumbnail variants for A/B testing, at 3840×2160.
+1. **Generate 3 to 6 distinct thumbnail variants (Options A through F) for A/B testing, at 3840×2160.** Rather than sticking to a single visual format, explore multiple distinct archetypes from the 7-archetype menu (e.g. one POV Simulation HUD, one Environmental Metaphor, one Isometric Infographic, one Painterly Editorial, and one Bold Impact Typography option). This gives the creator maximum range to test radically different visual hypotheses on YouTube's "Test & Compare" tool.
 2. Same illustrated system as the episode, using the episode's fixed reference character block if a caricature-driven story — but the metaphor/concept comes first, the character is one possible way to deliver it, not the default.
 3. Nano Banana 2 natively renders clean typography, so bold headline text hooks, numbers, and forensic badges can be requested directly in the generation prompt. **Headline text hooks must strictly follow the 1–4 Word Rule** (high-contrast sans-serif in white/yellow with sharp drop shadow, e.g. "THE $50B ILLUSION") to guarantee instant legibility at 200px mobile feed size. Data badges must be limited to 2–4 clean callouts max. (Post-production touch-ups in Canva/Photoshop remain an optional fallback).
 4. Palette follows the episode's actual tone per the Style Bible's modulation rule and the light/neutral-with-one-accent color system — contrast and a single dominant focal point drive click-through, not brightness or color count.
 5. Final export: downscale to 1280×720 for upload, keeping the 3840×2160 source. Sanity-check readability around 200px wide, mobile-feed scale.
 
-Output filenames: `000_thumbnail_A.png`, `000_thumbnail_B.png`, etc.
+Output filenames: `000_thumbnail_A.png`, `000_thumbnail_B.png`, `000_thumbnail_C.png`, `000_thumbnail_D.png`, `000_thumbnail_E.png`, `000_thumbnail_F.png`.
 
 ## Phase 3 — Character setup
 
