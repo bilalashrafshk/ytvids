@@ -1808,7 +1808,7 @@ When the engine builds the timeline in CapCut Desktop:
 > **CRITICAL INSTRUCTION FOR THE AI GENERATION ENGINE:**  
 > The generation engine is programmatically and strictly bound by the following automated sanity checkpoints. Before generating any phase or deliverable (Script, Production Document, Phase 4 Beats, Consolidated Batches, or Timeline Assembly), the engine **MUST execute and explicitly print the designated Sanity Check Audit Block**. If any mathematical checkpoint fails or if the beat count does not satisfy the duration formula, the engine is **FORBIDDEN TO PROCEED** and must halt, recalculate, and expand coverage. Generating fewer beats than required or skipping audit blocks constitutes an automatic system failure and corrupt deliverable.
 
-### **The 14 Master Sanity Checkpoints:**
+### **The 15 Master Sanity Checkpoints:**
 
 | Checkpoint | Scope | Validation Rule & Formula | Enforcement Action |
 | :--- | :--- | :--- | :--- |
@@ -1822,10 +1822,11 @@ When the engine builds the timeline in CapCut Desktop:
 | **CP-7: Universal Quality Mandate** | 100% of Prompts | Every single prompt block (stills, video, characters, thumbnails) MUST contain: `"follow best industry-standard guidelines and quality and visualisations"`. | Automated regex check: reject prompt if missing the exact clause. |
 | **CP-8: Typography & Native Text** | Stills & Thumbs | Nano Banana 2 renders text natively. Every prompt needing text must specify: `ON-IMAGE TEXT: Direct in-generation text: "[exact text]"`. | Negative prompt MUST NOT contain "no text" or "no words" when text is requested. |
 | **CP-9: Caricature & Legal Guardrails** | Characters & Beats | Real persons (e.g. Foley, McCarthy) are illustrated caricatures only, strictly gesture-only with ZERO scripted dialogue and ZERO lip-sync. Standalone single-pose portrait only (no turnaround). | Strip all mouth movements/dialogue from real person prompts. |
-| **CP-10: Batch 1:1 Reconciliation** | Phase 5 Batches | Sum of assets in Batches 1, 2, 3, and 4 MUST EXACTLY equal $B$ (total beats) + master character references + thumbnail variants. Zero missing/orphaned assets. | Block transition to Part B until inventory is 100% reconciled. |
+| **CP-10: Batch 1:1 Reconciliation** | Phase 5 Batches | Sum of assets in Batches 1, 2, 3, and 4 MUST EXACTLY equal $B$ (total beats) + master character references + thumbnail variants. Zero missing/orphaned assets. Every Batch 4 (Remotion) component additionally requires a rendered still PNG on disk per CP-14 — a component with no rendered still is an orphaned asset for this checkpoint's purposes, same as a missing file. | Block transition to Part B until inventory is 100% reconciled. |
 | **CP-11: Timeline A/V Synchronization** | Part B Timeline | Narration VO Track Duration ($T_{audio}$) matches Total Visual Beat Duration ($\sum D_i$) within $\pm 0.5$ seconds. Zero gap frames between cuts. All AI video clips muted (-inf dB). | Abort CapCut timeline commit if A/V duration drift $> 0.5$ seconds. |
 | **CP-12: Dynamic Audio Score & Ducking** | Part B Audio | 1 cohesive BGM score bed on Track 3, with separate VO (0dB, -15 LUFS on Track 1) and Foley (-26dB on Track 2); dynamic ducking (-32 to -35 dB); pause swells (+8dB on gaps >1.2s); cognitive ducking (-50 to -60dB) during dense data/math beats; dead silence drops on shock reveals. | Flag any un-ducked or flat audio mix. |
 | **CP-13: Anti-Dryness & Entertainment Mandate** | Script & Narration | Narration MUST be fun, punchy, conversational, and witty. Strictly prohibits stiff courtroom legalese, academic lecture prose, or corporate compliance tone. Must incorporate visceral physical grounding ("Popcorn & Delivery Van" rule), staccato rhythmic variety, and relatable humor ("Cereal Box" principle). | **AUTOMATIC REJECTION** if script sounds like a formal court filing, legal deposition, or academic paper. Rewrite with conversational swagger and narrative electricity. |
+| **CP-14: Remotion Render-and-View Verification** | Batch 4 Remotion Components | A component that type-checks and compiles is not the same as a component that looks right — clipped text, overlapping layers, off-theme color, and broken hierarchy all pass a build cleanly. After writing or editing any Remotion scene component, the engine MUST render at least one representative still frame (`npx remotion still <composition-id> <output.png> --frame=<mid-point-frame>`; for anything with meaningful motion, render start/mid/end frames instead of just one) and **actually view the rendered PNG** before marking that component done. Check the rendered frame against: legibility at a glance, no clipped or overlapping elements, Theme-Lock color tokens, and the Information Architecture build order (Skill 1, "Build Order"). If the frame doesn't match, fix the component and re-render — don't mark it complete off a passing build alone. This is a process discipline, not a text-scriptable gate: `gate_check.py` cannot judge whether a frame "looks good," so this step cannot be skipped on the assumption that some other check covers it. | Self-audit only — no deliverable may claim a Remotion component is finished without stating that its rendered still was viewed and matched the spec. CP-10's asset reconciliation additionally requires the rendered still PNG to exist on disk for every composition ID. |
 
 ---
 
@@ -1898,6 +1899,7 @@ PHASE-BY-PHASE AUDIT CHECKLIST:
     - Batch 1: Nano Banana 2 4K stills (3840×2160, 16:9).
     - Verbatim CP-7 quality mandate in 100% of prompts.
     - Native text specified via ON-IMAGE TEXT: (never negated in negative prompt).
+    - Feeder-plate check reconciled against Phase 07's Signature Cinematic Check — if Phase 07 flagged a whip-zoom montage / infinite tunnel / 3D flywheel beat, Batch 1 must include that archetype's required feeder stills (8–15 plates per CP-6's Cross-Batch Asset Pipeline Dependency clause), or Phase 08 must state why they were dropped.
 
 [ ] PHASE 09: 09_VIDEO_PROMPTS.md
     - Dedicated standalone file.
@@ -2319,7 +2321,7 @@ Before outputting Phase 5, the engine MUST run and print the exact reconciliatio
 1. **Static image batch** — every static-image prompt block, including character references and thumbnail variants, in filename order.
 2. **AI video batch** — every AI-video prompt block, in filename order, with the running count against the up-to-25 video cap stated at the end.
 3. **Real-world assets checklist** — table: what to find, where, target filename.
-4. **Remotion build list** — table and full build prompt blocks for every code-animated component, categorized by skill (`newsroom-chart-animations` for financial charts/waterfalls, `map-explainer` for 2D routes/choropleths, `3d-flyover` for 3D terrain flights, `remotion-bits` for UI/text, and standing channel assets), mapped to filename with exact frame count and duration.
+4. **Remotion build list** — table and full build prompt blocks for every code-animated component, categorized by skill (`newsroom-chart-animations` for financial charts/waterfalls, `map-explainer` for 2D routes/choropleths, `3d-flyover` for 3D terrain flights, `remotion-bits` for UI/text, and standing channel assets), mapped to filename with exact frame count and duration. **Per CP-14, each row also states the rendered still PNG's path and confirms it was viewed and matched the spec** — a component listed here without a viewed rendered still is incomplete, not just unverified.
 5. **Background Music Score & Foley batch** — full copy-paste Audio Asset block for the single cohesive background score bed (with Suno/Udio generation prompt, negative prompt, BPM, key, and Epidemic Sound search queries tailored to the episode's primary archetype), plus tactile micro-foley sound cues.
 
 **Hand off to Part B only once every file across these five lists exists, named exactly as specified.**
@@ -2847,6 +2849,13 @@ Complete this checklist before research, design, or writing code:
 2. Confirm compatible `remotion`, `react`, and `typescript` dependencies; identify Studio, type-check, still-render, and video-render commands.
 3. Identify target compositions, frame rate (30fps), duration, dimensions (1920×1080 master; 1080×1920 portrait), required aspect ratios, and design tokens.
 4. Run the cheapest check (`npm run build` or `npx remotion compositions`) before implementation. Record missing dependencies or render prerequisites rather than designing around them.
+
+#### 1b. Postflight Visual Verification (After Implementation — CP-14, mandatory)
+A clean type-check and a successful build only prove the code runs; they say nothing about whether the frame is legible, correctly laid out, or on-theme. Before marking any component done:
+1. Render at least one representative still frame: `npx remotion still <composition-id> <output.png> --frame=<mid-point-frame>`. For components with meaningful motion (builds, reveals, camera moves), render start/mid/end frames instead of a single frame — a mid-point frame alone can miss an entrance or exit that clips or overshoots.
+2. **Actually view the rendered PNG** — this is a visual check, not a file-existence check. Look at what was rendered.
+3. Verify against the spec: legibility at a glance, no clipped or overlapping elements, correct Theme-Lock color tokens, and the Information Architecture build order below (title → hierarchy → annotation → sourcing).
+4. If the frame doesn't match, fix the component and re-render. Do not mark a component complete off a passing build alone — "it compiled" and "it looks right" are different claims, and only the second one satisfies this checkpoint.
 
 #### 2. Editorial Standard
 Treat every chart as an **evidence-bearing news document**, not an illustration, dashboard, or decorative interlude.
