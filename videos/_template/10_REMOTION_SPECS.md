@@ -13,7 +13,7 @@
 
 | Beat # | Component Name | Resolution & FPS | Frame Count / Duration | Visual Purpose |
 | :---: | :--- | :--- | :--- | :--- |
-| **020** | `BeatDataVisualization` | 1920×1080 @ 30fps | 111 frames (~3.7s) | Waterfall / Chart / Counter |
+| **020** | `BeatDataVisualization` | 1920×1080 @ 30fps | 255 frames (~8.5s) | Waterfall / Chart / Counter |
 
 ---
 
@@ -24,5 +24,5 @@
 - **Composition ID**: `BeatDataVisualization`
 - **Render Command**:
 ```bash
-npx remotion render src/index.ts BeatDataVisualization out/020_data_viz.mp4 --props='{"durationInFrames":111}'
+npx remotion render src/index.ts BeatDataVisualization out/020_data_viz.mp4 --props='{"durationInFrames":255}'
 ```
