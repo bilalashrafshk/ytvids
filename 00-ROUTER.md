@@ -2,25 +2,52 @@
 
 *This is the entry point. The engine reads this before anything else. It defines what happens between "here's a topic" and "here are two scripts," and where it is required to stop and wait.*
 
+*Companion files: `IDEA_GATE.md` (STEP 1.5), `SKELETON_LIBRARY.md` (STEP 2 and STEP 5), `gate_idea.py`, `gate_alpha.py`, `gate_check.py`.*
+
 ---
 
 ## The run, end to end
 
 ```
-STEP 1   User supplies topic + working title
-STEP 2   ENGINE classifies the track, states its reasoning
+STEP 1   User supplies working title + one-sentence thesis + demand evidence
+STEP 1.5 ENGINE runs the IDEA GATE (IDEA_GATE.md), checked by gate_idea.py
+         REJECT → three pivots; REWORK → named fixes
+         ══ HARD STOP 0 ══  wait for user: confirm, fix, or pick a pivot
+STEP 2   ENGINE classifies the track AND ranks two skeletons (SKELETON_LIBRARY.md)
          ══ HARD STOP 1 ══  wait for user confirmation
-STEP 3   ENGINE returns the matching prompt file + which AI to run it in
+STEP 3   ENGINE returns the prompt file + skeleton addendum + which AI to run it in
          ══ HARD STOP 2 ══  wait for the user to return the output
-STEP 4   ENGINE validates the returned brief (GATE α + gate_alpha.py)
+STEP 4   ENGINE validates the returned brief (GATE α + gate_alpha.py --skeleton)
          incomplete → reject by field name, do not proceed
-STEP 5   ENGINE writes Draft A (Safe) + Draft B (Swing), gated per CP-VERIFY
-STEP 6   External: gate_check.py on both drafts
+STEP 5   ENGINE writes Draft A (Rank-1 skeleton, Safe) + Draft B (Rank-2 skeleton, Swing)
+         Draft C (Transplant) only when the user asks for it
+STEP 6   External: gate_check.py -a <each draft's own skeleton> on every draft
          fail → targeted regeneration, max 2 → then escalate to user
-STEP 7   Handoff: two scripts, two audit blocks, one recommendation
+STEP 7   Handoff: scripts, audit blocks, one recommendation
 ```
 
-**The two HARD STOPs are the load-bearing part of this document.** The engine does not continue past them on its own initiative — not to "save a step," not because the track seems obvious, not because the user asked it to keep going. Every failure this engine has produced traces back to continuing without material it should have waited for.
+**The three HARD STOPs are the load-bearing part of this document.** The engine does not continue past them on its own initiative — not to "save a step," not because the track seems obvious, not because the user asked it to keep going. Every failure this engine has produced traces back to continuing without material it should have waited for.
+
+---
+
+## STEP 1.5 — Idea Gate
+
+Run `IDEA_GATE.md` on the thesis: ten questions, each answered with an artifact rather than a yes. Then run `gate_idea.py` on the output. If the script rejects it, regenerate the gate output (max 2), then escalate.
+
+**The engine never supplies the demand number.** If the user didn't give one, write `DEMAND: NOT SUPPLIED` and say at HARD STOP 0 that demand is unproven.
+
+## HARD STOP 0 — idea confirmation
+
+The engine shows the gate block, then stops:
+
+```
+VERDICT:       PASS / REWORK / REJECT
+BIGGEST RISK:  [one sentence]
+DEMAND:        [as supplied, or NOT SUPPLIED]
+NEXT:          confirm / apply fixes / pick pivot 1–3
+```
+
+A picked pivot runs the full gate before STEP 2. The user may override a REWORK. The engine records the override in the audit block and does not argue it.
 
 ---
 
@@ -52,9 +79,13 @@ The most expensive error in this entire pipeline is misrouting at Step 2, becaus
 
 Some topics are Track 1 with a hypothetical act ("could MoviePass have worked?"). Route to **Track 1** and note the hypothetical segment separately — a real case with a speculative act is still a documented case. Never the reverse: a hypothetical with real background is still Track 2.
 
+### Skeleton ranking (same step, after the track is set)
+
+Take the SHAPE from the Idea Gate and read the Selection Matrix in `SKELETON_LIBRARY.md`. Rank 1 is Draft A's skeleton; Rank 2 is Draft B's. Skip any rank that is incompatible with the track (A5 and A9 are Track 2 only; A2 and A11 are Track 1 only; A1 and A7 are Track 3). Provisional skeletons (A1, A4, A7, A10) rank normally but are labelled `(provisional)` at HARD STOP 1.
+
 ---
 
-## HARD STOP 1 — classification confirmation
+## HARD STOP 1 — classification + skeleton confirmation
 
 The engine states, and then stops:
 
@@ -63,11 +94,16 @@ TOPIC:          [as supplied]
 CLASSIFICATION: TRACK [n] — [name]
 TEST MATCHED:   [A / B / C] — [one sentence]
 CONSIDERED:     [the track it is NOT, and why not — one sentence]
-PROMPT:         [filename]
+SHAPE:          [a–k] — [name]
+DRAFT A:        A[n] [skeleton] [(provisional)?] — [why it fits this thesis, one sentence]
+DRAFT B:        A[n] [skeleton] [(provisional)?] — [what could go wrong with it, one sentence]
+PROMPT:         [filename] + [skeleton addendum, if any]
 TOOL:           [which AI, and why]
 
 Confirm before I release the prompt.
 ```
+
+The user may swap either skeleton. Accept it without re-arguing.
 
 **Why a stop for something this small:** misclassification costs an entire research cycle and is invisible until the script reads wrong. One keystroke from the user reduces the highest-cost error in the pipeline to near zero. It is the cheapest insurance available here.
 
@@ -83,6 +119,8 @@ If the user confirms, proceed. If the user corrects the track, accept the correc
 | 2 — Hypothetical | `invention-prompt-v2.md` | Gemini (standard) or Claude | **Never Deep Research** — nothing exists to research; it will hunt for real events to cite and poison the register |
 | 3 — Mechanism | `research-prompt-v2.md`, Parts 1, 4, 5, 6 only | Gemini (standard) | Skip Parts 2, 3, 7 — there is no gap to excavate and no case to verify |
 
+**Skeleton addenda.** If either confirmed skeleton has a brief addendum in `SKELETON_LIBRARY.md`, the engine outputs it with the prompt, to be pasted below it. If A and B both have one, include both. A9 *replaces* invention-prompt Part 2 instead of appending.
+
 The engine outputs the prompt file and stops. It does not attempt the research itself, summarise what it expects to find, or draft anything "in the meantime."
 
 **These prompt files are the single source of truth for their content.** The master document describes the methodology; it does not restate the prompts. If the methodology changes, the prompt file is what gets edited.
@@ -91,7 +129,7 @@ The engine outputs the prompt file and stops. It does not attempt the research i
 
 ## STEP 4 — Brief validation (GATE α)
 
-Run `gate_alpha.py` on the returned brief for the mechanical checks, then apply judgement for the rest.
+Run `gate_alpha.py --skeleton <n>` on the returned brief for the mechanical checks. Run it once per confirmed skeleton if A and B differ in addendum, then apply judgement for the rest.
 
 **Mechanical (the script decides):** required sections present and non-empty, texture item count ≥ 10, citation markers present on factual claims, no section consisting only of a heading.
 
@@ -111,16 +149,25 @@ Run `gate_alpha.py` on the returned brief for the mechanical checks, then apply 
 
 Proceed per the master document: CP-0 gates, CP-3 twin drafts, CP-VERIFY checkpoints at each phase, CP-2 audit, then `gate_check.py` externally on both drafts.
 
+**Skeleton rules for drafting:**
+- Each draft follows its skeleton's beat map in `SKELETON_LIBRARY.md` and is gated with **its own** archetype: `gate_check.py -a 8` for an A8 draft, `-a 9` for A9, and so on. Never gate both drafts on one band.
+- Different skeletons satisfy CP-3's Structure axis. The engine still names one more axis.
+- The Stakes Contract applies to A5 only. A9 uses the Cost Contract.
+- A2 drafts never contain invented dialogue for real people, even though the benchmark does.
+- **Draft C (Transplant)** is written only on request: a compatible skeleton not used by A or B, ideally benchmarked in a different niche. It gets the same gates and a one-sentence risk statement.
+
 Two failures on the same gate → stop and escalate with a diagnosis. Do not ship the best near-miss.
 
 ---
 
 ## Known limits — do not claim more than this
 
-This pipeline is **deterministic where the work is mechanical, and loud where it isn't.** It is not infallible, and three things can still get through:
+This pipeline is **deterministic where the work is mechanical, and loud where it isn't.** It is not infallible, and five things can still get through:
 
 1. **Track misclassification** — mitigated by HARD STOP 1, not eliminated. A user confirming on autopilot reintroduces it.
-2. **False material in a well-formed brief** — GATE α validates shape, never truth. A fabricated citation in the correct format passes.
-3. **Prompt/methodology drift** — if someone edits the master document's methodology without editing the prompt file, the two silently disagree. The prompt files are canonical; treat any edit to methodology as an edit to them.
+2. **A weak idea with a well-formed gate** — `gate_idea.py` checks that artifacts exist and verdicts are consistent. It cannot tell whether the prior is one real viewers actually hold, or whether a demand number is real. Those stay with the human at HARD STOP 0.
+3. **Thin skeleton evidence** — most skeletons rest on one outlier; A1, A4, A7 and A10 rest on sub-1× videos; and Track 1 has no autopsy benchmark yet. Skeleton rankings are informed judgement, not proven prediction.
+4. **False material in a well-formed brief** — GATE α validates shape, never truth. A fabricated citation in the correct format passes.
+5. **Prompt/methodology drift** — if someone edits the master document's methodology without editing the prompt file, the two silently disagree. The prompt files are canonical; treat any edit to methodology as an edit to them.
 
 Everything else — sentence distribution, jargon density, tag counts, act allocation, decimal normalisation — is genuinely mechanical, because `gate_check.py` decides it rather than the model's self-report.

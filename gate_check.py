@@ -5,8 +5,7 @@ FinanceCraft — CP-0 / GATE gamma / GATE epsilon external verifier.
 Self-audit is unreliable at counting. This is not. Run it on any delivered
 script before accepting the engine's own audit block.
 
-    python3 gate_check.py script.md            # Track 1 thresholds
-    python3 gate_check.py script.md --track2   # Track 2 / POV thresholds
+    python3 gate_check.py script.md -a <archetype 1-10>
 
 Exit code 0 = all gates pass, 1 = one or more fail.
 """
@@ -34,7 +33,10 @@ capitalization utilization systemic
 # every benchmark lands its first reframe within the opening 11%.
 REFRAME = re.compile(
     r"\b(isn'?t|is not|was never|wasn'?t|doesn'?t|not because|it'?s not|"
-    r"you'?re not|not the|never a|actually)\b", re.I)
+    r"you'?re not|not the|never a|actually|"
+    # added after the outlier audit: real turns the original list missed
+    r"the opposite|turns? out|not just|not only|instead of|rather than|in fact)\b"
+    r"|^Not \w+,", re.I)   # "Not envy, recognition."
 
 # CP-6 signature cinematics — the archetypes that get skipped by default when
 # the beat planner defaults to newsroom charts. Reported, not gated: zero is
@@ -55,6 +57,8 @@ train ship plane bag coin note receipt shelf counter street shop stall
 
 ARCHETYPE_PROFILES = {
     "1": {
+        "provisional": "benchmark (Martik Finance 0.33x) is BELOW the 1x outlier bar; "
+                       "bands are format calibration only",
         "label": "First-Principles Explainer",
         "med": 13,
         "mean": 14.1,
@@ -79,6 +83,8 @@ ARCHETYPE_PROFILES = {
         "you": 14.7
     },
     "4": {
+        "provisional": "benchmark (Mr. Finance 0.09x) is BELOW the 1x outlier bar; "
+                       "bands are format calibration only",
         "label": "P&L Business Breakdown",
         "med": 15,
         "mean": 16.9,
@@ -103,12 +109,61 @@ ARCHETYPE_PROFILES = {
         "you": 6.6
     },
     "7": {
+        "provisional": "benchmark (LITTLE BIT BETTER 0.54x) is BELOW the 1x outlier bar; "
+                       "bands are format calibration only",
         "label": "Compounded Playbook",
         "med": 6,
         "mean": 7.6,
         "short": 52.4,
         "lng": 0.9,
         "you": 75.6
+    },
+    # --- Added from the outlier idea bank (measured with this script's own
+    # --- functions on the caption transcripts; see SKELETON_LIBRARY.md).
+    "8": {
+        "label": "Reversal Explainer (inkly 'Desert People', 253.5x)",
+        "med": 16,
+        "mean": 17.0,
+        "short": 9.0,
+        "lng": 18.9,
+        "you": 36.2,
+        # Second person isn't what makes a reversal work: the sister outlier
+        # (Egyptians, 90.8x) runs 7.6/1k. Reported, not gated.
+        "you_gate": False
+    },
+    "9": {
+        "label": "Second-Person Parable (Hidden Yield 'Look Like a Loser', 169.6x)",
+        "med": 12,
+        "mean": 13.7,
+        "short": 24.8,
+        "lng": 13.3,
+        "you": 69.0,
+        # Opens on a scene, not a claim; the benchmark's first keyword
+        # reframe lands at 27%. The 12% universal would reject the benchmark.
+        "turn1": 30
+    },
+    "10": {
+        "label": "Scale Wall (Kurzgesagt 'Leave the Solar System', 0.38x)",
+        "med": 12,
+        "mean": 14.7,
+        "short": 22.1,
+        "lng": 16.6,
+        "you": 15.5,
+        "provisional": "benchmark is BELOW the 1x outlier bar; bands are format "
+                       "calibration only, not evidence the format performs"
+    },
+    "11": {
+        "label": "Exposé Autopsy (Low Volume Capital 'BYD', 31.5x)",
+        "med": 13,
+        "mean": 14.7,
+        "short": 12.9,
+        "lng": 12.9,
+        "you": 4.2,
+        # The benchmark itself sits just past three universal gates; the bands
+        # follow it (same principle as A9's TURN1), for this skeleton only.
+        "turn1": 25,
+        "bigwd": 16,
+        "openrun": 4
     }
 }
 # Bands are derived from the benchmark video for each archetype, not invented.
@@ -155,10 +210,12 @@ def check(label, observed, ok, evidence=""):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("path")
-    ap.add_argument("--archetype", "-a", type=int, required=True, choices=range(1, 8),
-                    help="1 First-Principles | 2 ELI5 Origin | 3 Geopolitical | "
-                         "4 P&L Breakdown | 5 POV Thought Experiment | "
-                         "6 Dual-Character | 7 Compounded Playbook")
+    ap.add_argument("--archetype", "-a", type=int, required=True, choices=range(1, 12),
+                    help="1 First-Principles | 2 ELI5 Origin / Bet Chain | 3 Causal Chain | "
+                         "4 P&L Breakdown | 5 POV Constrained Hypothetical | "
+                         "6 Dual-Character | 7 Compounded Playbook | "
+                         "8 Reversal Explainer | 9 Second-Person Parable | "
+                         "10 Scale Wall (provisional) | 11 Exposé Autopsy")
     args = ap.parse_args()
 
     p = ARCHETYPE_PROFILES[str(args.archetype)]
@@ -189,6 +246,8 @@ def main():
     print(f"{n_w} words | {n_s} sentences | ~{n_w/155:.1f} min at 155 wpm")
     print(f"Benchmark for this archetype: med {p['med']} | mean {p['mean']} | "
           f"short {p['short']}% | long {p['lng']}% | you {p['you']}/1k\n")
+    if p.get("provisional"):
+        print(f"  [PROVISIONAL] {p['provisional']}\n")
 
     results = [
         check(f"MED    median sentence <= {p['med'] + BAND['med']} (benchmark {p['med']})",
@@ -202,8 +261,9 @@ def main():
         check("JARGON per 1,000 <= 4.0  [UNIVERSAL — max across all 7 benchmarks was 2.2]",
               f"{jrate:.1f}", jrate <= 4.0,
               ("offending: " + ", ".join(jhits)) if jhits else "none found"),
-        check("BIGWD  12+ char words per 1,000 <= 14  [UNIVERSAL — benchmark max 12.8]",
-              f"{longw:.1f}", longw <= 14),
+        check(f"BIGWD  12+ char words per 1,000 <= {p.get('bigwd', 14)}  "
+              + ("[UNIVERSAL — benchmark max 12.8]" if "bigwd" not in p else "[ARCHETYPE OVERRIDE]"),
+              f"{longw:.1f}", longw <= p.get("bigwd", 14)),
     ]
 
     turns = [i for i, s in enumerate(sents) if REFRAME.search(s)]
@@ -213,10 +273,13 @@ def main():
         "REFRAME reframes per 1,000 sentences >= 36  [UNIVERSAL — benchmark range 36-108]",
         f"{rate:.0f} ({len(turns)} found)", rate >= 36,
         "the 'it isn't X, it's Y' turn — what viewers quote back"))
+    t1 = p.get("turn1", 12)
     results.append(check(
-        "TURN1   first reframe within opening 12%  [UNIVERSAL — benchmarks 1-11%]",
+        f"TURN1   first reframe within opening {t1}%  "
+        + ("[UNIVERSAL — benchmarks 1-11%]" if t1 == 12
+           else "[ARCHETYPE OVERRIDE — scene-first opening]"),
         f"{first:.0f}%" if first is not None else "no reframe anywhere",
-        first is not None and first <= 12))
+        first is not None and first <= t1))
 
     openers = collections.Counter(
         s.split()[0].strip('",.') for s in sents if s.split())
@@ -230,10 +293,11 @@ def main():
         "OPENER  most-repeated sentence opener <= 24%  [UNIVERSAL — benchmarks 6-20%]",
         f"'{top_w}' {top_c/n_s*100:.0f}%", top_c / n_s * 100 <= 24))
     results.append(check(
-        "OPENRUN longest same-opener run <= 3  [UNIVERSAL — no benchmark exceeds 3]",
-        f"{worst} consecutive '{top_w}...'", worst <= 3))
+        f"OPENRUN longest same-opener run <= {p.get('openrun', 3)}  "
+        + ("[UNIVERSAL]" if "openrun" not in p else "[ARCHETYPE OVERRIDE]"),
+        f"{worst} consecutive '{top_w}...'", worst <= p.get("openrun", 3)))
 
-    if p["you"] >= 20:  # only archetypes that are genuinely second-person
+    if p["you"] >= 20 and p.get("you_gate", True):  # genuinely second-person archetypes
         results.append(check(
             f"YOU    second-person per 1,000 >= {p['you'] - BAND['you']:.1f} (benchmark {p['you']})",
             f"{you:.1f}", you >= p["you"] - BAND["you"]))
@@ -269,6 +333,16 @@ def main():
     print("      passages with nothing a camera could photograph")
     print("    - R3 explainer-paragraph ban, R5 device repetition")
     print("    - Track 2: Stakes Contract complete within first 80 words")
+    if args.archetype == 9:
+        print("    - A9 Cost Contract: by word 150 the viewer knows the contrarian")
+        print("      choice, its social cost, and the named foil")
+        print("    - A9 honest complication present (the benchmark omits it; we don't)")
+    if args.archetype == 11:
+        print("    - A11: every evidence pillar names its source; allegations are")
+        print("      worded as allegations; the company's response appears")
+    if args.archetype == 8:
+        print("    - A8: prior stated and validated before it is broken; nested")
+        print("      paradox lands after the main mechanism, not before")
     if args.archetype == 5:
         print(f"\n  First 80 words (check premise/clock/penalty/rules/adversary):")
         print(f'    "{" ".join(words[:80])}"')

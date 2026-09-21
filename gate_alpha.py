@@ -3,8 +3,12 @@
 FinanceCraft — GATE alpha. Validates a returned research or concept brief
 BEFORE any scripting begins.
 
-    python3 gate_alpha.py brief.md --track1
-    python3 gate_alpha.py brief.md --track2
+    python3 gate_alpha.py brief.md --track1 [--skeleton 8]
+    python3 gate_alpha.py brief.md --track2 [--skeleton 9]
+
+--skeleton adds the fields that skeleton's addendum (SKELETON_LIBRARY.md)
+requires, and for Track 2 swaps out clock/adversary fields that only the
+A5 constrained hypothetical needs.
 
 Checks shape, not truth. A fabricated citation in the right format will pass
 this gate — verifying that a source resolves is a human opening the filing.
@@ -37,6 +41,60 @@ TRACK2 = {
     "Mechanic verified": [r"verif", r"does the math", r"anchor"],
     "Quotable beat": [r"quotable", r"repeat.{0,20}friend", r"the single thing"],
 }
+
+# Skeleton addenda — extra fields each skeleton's brief must carry.
+SKELETON_FIELDS = {
+    2: {"Bet chain (4+ bets)": [r"bet chain", r"\bbets?\b"],
+        "Deferred payoff": [r"deferred payoff", r"planted", r"pays off"],
+        "Sourced closing quote": [r"closing quote", r"\bquote\b"]},
+    3: {"Causal chain": [r"causal chain", r"cause.{0,10}effect", r"chain"],
+        "The loop": [r"\bloop\b", r"cycle"],
+        "Everyday analogy": [r"analogy", r"it'?s like"]},
+    6: {"Matched characters": [r"matched character", r"identical", r"character"],
+        "Checkpoints": [r"checkpoint", r"year \d+"],
+        "Pre-empted objection": [r"objection", r"pre-?empt"]},
+    8: {"The prior": [r"\bprior\b", r"viewer believes", r"common belief"],
+        "Mechanism layers (3+)": [r"mechanism layer", r"\blayers?\b"],
+        "Nested paradox": [r"nested paradox", r"second paradox"],
+        "Physical stake": [r"physical stake", r"\bstakes?\b"]},
+    9: {"Contrarian choice": [r"contrarian choice", r"the choice"],
+        "Foil": [r"\bfoil\b"],
+        "Mentor + flipped artifact": [r"mentor", r"artifact"],
+        "Misjudging characters (3+)": [r"misjudg", r"side character"],
+        "Timeskips": [r"timeskip", r"time.?skip", r"\bage \d+"],
+        "Vindication event": [r"vindication", r"shock"],
+        "Honest complication": [r"complication", r"counterpoint"]},
+    11: {"The celebrated story": [r"celebrated story", r"who believed", r"believers"],
+         "The anomaly": [r"\banomaly\b", r"doesn'?t add up"],
+         "Evidence pillars (4+)": [r"evidence pillar", r"\bpillars?\b"],
+         "Company response": [r"company response", r"responded", r"denied|blamed"],
+         "Precedent": [r"\bprecedent\b", r"parallel"],
+         "Viewer stake": [r"viewer stake", r"your (pension|portfolio|money)"]},
+    10: {"Absolute claim": [r"absolute claim", r"the claim"],
+         "Carried unit": [r"carried unit", r"\bunit\b"],
+         "Escalation ladder (4+ rungs)": [r"ladder", r"rungs?"],
+         "Second barrier": [r"second barrier", r"barrier"],
+         "Humility close": [r"humility", r"wrong prediction"]},
+}
+SKELETON_FIELDS.update({
+    1: {"Everyday friction": [r"everyday friction", r"friction"],
+        "Engines (3-5)": [r"\bengines?\b"],
+        "Intuition break": [r"intuition break", r"assumes?"],
+        "Label to deflate": [r"label", r"deflate"]},
+    4: {"Romantic illusion": [r"romantic illusion", r"illusion"],
+        "Walked transaction": [r"walked transaction", r"transaction"],
+        "Real product": [r"real product"],
+        "Lifeline": [r"lifeline", r"high.margin"],
+        "Fixed-cost danger": [r"fixed.cost", r"lease|commitment"]},
+    7: {"Single-number hook": [r"single.number", r"hook"],
+        "The lever": [r"\blever\b"],
+        "Rules (5-9)": [r"\brules?\b"],
+        "Honest complication": [r"complication", r"doesn'?t work for"],
+        "Closing binary": [r"binary", r"either"]},
+})
+
+# Track 2 fields that belong to the A5 ticking-clock format only.
+A5_ONLY = {"The contract", "The adversary", "The clock"}
 
 # A texture item must be photographable. These disqualify a bullet.
 ABSTRACT = re.compile(
@@ -89,11 +147,20 @@ def main():
     g = ap.add_mutually_exclusive_group(required=True)
     g.add_argument("--track1", action="store_true")
     g.add_argument("--track2", action="store_true")
+    ap.add_argument("--skeleton", "-s", type=int, choices=sorted(SKELETON_FIELDS) + [5],
+                    help="skeleton chosen at HARD STOP 1 (see SKELETON_LIBRARY.md)")
     args = ap.parse_args()
 
     text = open(args.path, encoding="utf-8").read()
-    spec = TRACK1 if args.track1 else TRACK2
+    spec = dict(TRACK1 if args.track1 else TRACK2)
     track = "1 (Case Autopsy)" if args.track1 else "2 (Hypothetical)"
+    sk = args.skeleton
+    if args.track2 and sk and sk != 5:
+        for f in A5_ONLY:
+            spec.pop(f, None)
+    if sk in SKELETON_FIELDS:
+        spec.update(SKELETON_FIELDS[sk])
+        track += f" | skeleton A{sk}"
 
     print(f"\nGATE alpha — {args.path}")
     print(f"Track {track} | {len(text.split())} words\n")
@@ -139,7 +206,7 @@ def main():
         print("\nTRACK 2 SPECIFICS")
         prem = len(re.findall(r"^\s*(\d+[.)]|[-*])\s+.{15,}", text, re.M))
         print(f"  list items found: {prem} (need 5 distinct premises among them)")
-        if not re.search(r"\b(interest|countdown|remaining|per day|per hour|"
+        if (not sk or sk == 5) and not re.search(r"\b(interest|countdown|remaining|per day|per hour|"
                          r"accru|ticking|running)\b", text, re.I):
             print("  adversary does not appear to be a moving number")
             problems.append("Adversary — not expressible as a number that moves")

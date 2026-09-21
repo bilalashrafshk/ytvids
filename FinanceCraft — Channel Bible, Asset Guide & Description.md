@@ -639,9 +639,18 @@ Two failures on the same gate almost never means the engine needs another try. I
 
 ## **Per-phase checklists**
 
+### GATE alpha-0 -- Idea Intake (before CP-INPUT, before a brief is even requested)
+- Run the ten questions in `IDEA_GATE.md` against the working title + one-line thesis. Every answer is an artifact (a written prior, a written mechanism, a written camera-test list) -- a bare "yes" is a FAIL on that question regardless of what it claims.
+- Run `gate_idea.py` on the completed sheet. It checks that artifacts exist, checks specific shape requirements per question, and checks that the stated VERDICT matches the answers -- it does not and cannot judge whether the prior is *actually* one real viewers hold, or whether a supplied demand number is real. Those two judgments stay with the human.
+- **VERDICT: PASS** -> proceed to HARD STOP 0, then CP-INPUT / brief-building.
+- **VERDICT: REWORK** -> name the fix per failed question; the user reworks or explicitly overrides. Do not silently proceed past a REWORK.
+- **VERDICT: REJECT** -> produce exactly three pivots (Sharpen / Restructure / Adjacent) per `IDEA_GATE.md`'s protocol, each re-runnable through this same gate.
+- FAIL to produce a well-formed gate sheet at all (missing questions, verdict doesn't match answers) -> regenerate the gate sheet itself, same two-attempt-then-escalate rule as every other phase.
+- **This gate did not exist before nine benchmark videos were retroactively run through it; two required updates to the question definitions before all nine passed. Treat gate_idea.py as calibrated against those nine, not proven against a wider set -- it has not yet been tested on flops.**
+
 ### GATE α — Brief Intake (after CP-INPUT, before anything else)
 - Brief type matches the routed track — state which, and why
-- Every load-bearing field present and non-empty: Track 1 → Angle Statement, Verified Facts w/ citations, Pivotal Detail, Showable Assets. Track 2 → Mechanic, Invention Premise + 4 rejected variants, Constraint, Adversary, World Kit, Quotable Beat
+- Every load-bearing field present and non-empty: Track 1 → Angle Statement, Verified Facts w/ citations, Pivotal Detail, Showable Assets. Track 2 → Mechanic, Invention Premise + 4 rejected variants, Constraint, Adversary, World Kit, Quotable Beat. Track 3 → one authoritative number per claim, Texture Pass yielding ≥10 concrete items (same bar as the other tracks), no Angle Statement or Invention Premise required
 - Texture Pass yields ≥10 concrete items — **list them, numbered**
 - FAIL → do not regenerate. Return to the user for the missing material. The engine cannot manufacture its way past this gate.
 
@@ -663,7 +672,8 @@ Run every CP-0 Retention Physics gate with observed values and evidence:
 - R3 explainer-paragraph ban — quote any passage of 3+ mechanism sentences with no person, object, consequence or joke
 - R5 device ledger — list each rhetorical device and its count; any count >1 is a FAIL
 - Track 2: Stakes Contract complete within 80 words — **quote the 80 words**
-- Track 2: ledger beats present and identically shaped at every time block
+- Track 2: ledger beats present and identically shaped at every time block -- **do not eyeball this.** List every checkpoint's field names side by side. If the field set changes between checkpoints (e.g. checkpoint 1 tracks "dispatches / storage revenue / trapped pallets", checkpoint 2 tracks "bank clearance / trapped deposits / failed wire fees"), that is a FAIL even if each individual checkpoint reads well -- it is flavor text updating, not one running instrument the viewer can track. This exact failure has shipped before undetected.
+- **Ledger arithmetic.** For A5 and A11 specifically: take the rate or figure established in the Stakes Contract / Anomaly beat and recompute at least one later checkpoint from it by hand. State the computed number next to the scripted number. A mismatch is a FAIL regardless of how the surrounding prose reads -- this is exactly the kind of error self-audit misses, since it requires arithmetic, not judgement, and CP-VERIFY's "Honest limitation" section already says self-verification is weakest at mechanical counting. This exact failure (a stated demurrage rate that didn't reconcile with a later checkpoint by roughly 10x) has shipped before undetected.
 
 ### GATE δ — Tagging & Assets (after Step 4)
 - Every `[COMPOSITE]` / `[CARICATURE]` beat described in prose carries an actual bracket tag — scan the prose for untagged archetype beats, don't assume
@@ -730,15 +740,21 @@ Run on spoken narration only — strip `[TAGS]`, act headers and audit blocks be
 
 ### Per-archetype bands (from the benchmark for that archetype)
 
-| A# | Archetype | median | mean | ≤6w | ≥25w | you/1k |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1 | First-Principles Explainer | 13 | 14.1 | 15.8% | 13.3% | 23.0 |
-| 2 | ELI5 Origin Narrative | 8 | 9.0 | 41.8% | 1.7% | — |
-| 3 | Geopolitical Chessboard | 10 | 12.7 | 20.9% | 5.8% | — |
-| 4 | P&L Business Breakdown | 15 | 16.9 | 13.7% | 20.9% | — |
-| 5 | POV Thought Experiment | 7 | 8.7 | 43.1% | 1.5% | 57.4 |
-| 6 | Dual-Character Simulation | 11 | 11.8 | 27.4% | 4.6% | — |
-| 7 | Compounded Playbook | 6 | 7.6 | 52.4% | 0.9% | 75.6 |
+| A# | Archetype | median | mean | ≤6w | ≥25w | you/1k | Overrides |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | First-Principles Explainer | 13 | 14.1 | 15.8% | 13.3% | 23.0 | **Provisional** — benchmark 0.33x |
+| 2 | ELI5 Origin Narrative | 8 | 9.0 | 41.8% | 1.7% | — | Weak ratio — benchmark 2.68x |
+| 3 | Geopolitical Chessboard | 10 | 12.7 | 20.9% | 5.8% | — | — |
+| 4 | P&L Business Breakdown | 15 | 16.9 | 13.7% | 20.9% | — | **Provisional** — benchmark 0.09x |
+| 5 | POV Thought Experiment | 7 | 8.7 | 43.1% | 1.5% | 57.4 | — |
+| 6 | Dual-Character Simulation | 11 | 11.8 | 27.4% | 4.6% | — | — |
+| 7 | Compounded Playbook | 6 | 7.6 | 52.4% | 0.9% | 75.6 | **Provisional** — benchmark 0.54x |
+| 8 | Reversal Explainer | 16 | 17.0 | 9.0% | 18.9% | 36.2 | you/1k not gated -- sister video (Egyptians, 90.8x) runs 7.6 |
+| 9 | Second-Person Parable | 12 | 13.7 | 24.8% | 13.3% | 69.0 | **TURN1 = 30%** (opens on a scene, not a claim) |
+| 10 | Scale Wall | 12 | 14.7 | 22.1% | 16.6% | 15.5 | **Provisional** -- benchmark 0.38x, below the outlier bar |
+| 11 | Expose Autopsy | 13 | 14.7 | 12.9% | 12.9% | 4.2 | **TURN1 = 25%, BIGWD <= 16/1k, OPENRUN <= 4** -- all measured from the benchmark |
+
+Archetypes 8-11 and the skeleton-selection logic around all eleven are documented in full in `SKELETON_LIBRARY.md` -- beat maps, brief addenda, and the thesis-shape routing matrix live there, not here. `IDEA_GATE.md` and `gate_idea.py` run before this section, at a new **GATE alpha-0** (see CP-VERIFY below).
 
 **Tolerance is asymmetric.** Drifting *toward* the benchmark's register is free. Drifting away fails: median +3 words, mean +3.0, short-sentence share −8pp, long-sentence share +4pp, second-person −12/1k.
 
@@ -756,7 +772,7 @@ These are the ones that held across every archetype, and they are the ones the e
 
 Format does not excuse either. A 23-minute P&L breakdown with 16.9-word sentences still keeps jargon at 1.2.
 
-**REFRAMES ≥ 36 per 1,000 sentences, first one inside the opening 12%.** The "it isn't X, it's Y" turn — "World hunger isn't a shortage of food." All seven benchmarks fall between 36 and 108, and every one lands its first turn within the first 11%. These are the lines viewers quote back. A script can pass every register gate and still have nothing in it worth repeating; this is the gate that catches that.
+**REFRAMES >= 36 per 1,000 sentences, first one inside the opening 12% (per-skeleton overrides in the CP-0 table above).** The "it isn't X, it's Y" turn -- "World hunger isn't a shortage of food." **The detector also counts:** "the opposite", "turns out", "not just / not only", "instead of", "rather than", "in fact", and a bare "Not X, Y" sentence opening (e.g. "Not envy, recognition.") -- these are real turns the original word list missed when checked against the wider outlier set. Floor stays at 36/1,000. All seven benchmarks fall between 36 and 108, and every one lands its first turn within the first 11%. These are the lines viewers quote back. A script can pass every register gate and still have nothing in it worth repeating; this is the gate that catches that.
 
 **SENTENCE OPENERS: most-repeated ≤ 24%, longest identical run ≤ 3.** Benchmarks run 6–20% with no run exceeding three. Second-person density is a floor, not a target — overshooting it produces "You stand. You wipe. You look. You check," which reads as a chant. A draft can pass the YOU gate and fail this one.
 
@@ -802,7 +818,9 @@ Every one of these appeared in the failing draft and in **none** of the seven be
 
 ---
 
-## **Track 2 — The Stakes Contract (POV / Hypothetical only)**
+## **A5 -- The Stakes Contract (POV / Hypothetical, ticking-clock skeleton only)**
+
+*This is a skeleton rule, not a Track 2 rule. It governs A5 specifically. Two other Track 2 skeletons replace it: **A9** (Second-Person Parable) uses a **Cost Contract** instead -- by word 150 the viewer knows the contrarian choice, its social cost, and the named foil, with no clock or adversary. **A10** (Scale Wall) has no contract at all; it opens on a flat absolute claim. Applying this section to all of Track 2 incorrectly fails both. See `SKELETON_LIBRARY.md` for each skeleton's own opening kit.*
 
 The benchmark POV video states its **entire premise, deadline, penalty, working rules, and adversary within the first 70 words.** The failing draft took 400 words to establish that the outage was even global, and never stated rules or a penalty at all.
 
@@ -839,33 +857,45 @@ You are writing the narration script for a FinanceCraft episode. Your overarchin
 
 **Precedence order on every invocation:**
 
-`CP-INPUT (brief present?) → GATE α → Step 0 (track) → Step 1 → GATE β → Steps 2-3 → GATE γ → Step 4 → GATE δ → CP-3 (twin drafts) → CP-2 (audit) → GATE ε → handoff`
+`GATE alpha-0 (idea) → HARD STOP 0 → CP-INPUT (brief present?) → GATE α → Step 0 (track) → Step 1 (skeleton + entry point) → GATE β → Steps 2-3 → GATE γ → Step 4 → GATE δ → CP-3 (twin drafts) → CP-2 (audit) → GATE ε → handoff`
+
+The idea itself is validated **before** a brief is requested -- see GATE alpha-0 in CP-VERIFY and `IDEA_GATE.md`. What follows here assumes that gate has already returned PASS.
 
 Each GATE is a CP-VERIFY checkpoint: produce, verify with evidence, and regenerate on failure — maximum two attempts, then escalate to the user rather than shipping a near-miss. If CP-INPUT fails, stop there and refuse; do not classify, do not outline, do not draft.
 
-Before writing a single word, classify the topic into one of two tracks:
+Before writing a single word, classify the topic into one of three tracks:
 
 * **Track 1: Documented Case Autopsy (Real Corporate History, Scandal, or Collapse):**
-  - *Topics:* Peloton, WeWork, MoviePass, Theranos, Wirecard, Boeing.
+  - *Topics:* Peloton, WeWork, MoviePass, Theranos, Wirecard, Boeing, BYD.
+  - *Skeletons available:* A2 (Bet Chain), A3 (Causal-Chain), A4 (P&L Breakdown, provisional), A8 (Reversal Explainer), **A11 (Expose Autopsy -- default first choice for "celebrated success, documents say otherwise" theses)**. Rank two per `SKELETON_LIBRARY.md`'s Selection Matrix rather than defaulting to whichever was used last.
   - *Format:* Investigative narrative with real named figures as caricatures (`[CARICATURE: <name>]`), primary filings/records as tactile insets (`[SHOWABLE: <filing>]`), and forensic financial waterfalls (`[DATA]`).
   - *Tone:* Witty, investigative, grounded in real corporate absurdity.
   - *Execution:* Proceed with Step 1 through Step 5 below.
 
 * **Track 2: "The Hypothetical" & Macro Thought Experiments (Speculative / What-If Simulations):**
   - *Topics:* *The Thirty-Day Blackout*, *What If You Had $1 Trillion*, *What If Commercial Banks Froze*, *The Day Money Dies*.
+  - *Skeletons available:* A5 (Constrained Hypothetical -- the Stakes Contract applies here specifically, see below), A6 (Two-Character Simulation), A9 (Second-Person Parable -- Cost Contract, not Stakes Contract), A10 (Scale Wall, provisional -- no contract, opens on a flat claim). Do not apply A5's Stakes Contract to A9 or A10; each has its own opening kit in `SKELETON_LIBRARY.md`.
   - *Format:* Second-person POV immersion ("You"), ticking countdown clocks, composite characters (`[COMPOSITE: <role>]`), telemetry HUDs, and recurring `[WATERMARK: HYPOTHETICAL SCENARIO]` overlays.
   - **CREATIVE MANDATE:** Track 2 is a fiction format with an honest mechanic at its centre. Invent people, places, objects, dialogue and escalation freely and specifically — the Invention Protocol governs this. The only locked layer is the mechanic and its anchoring figures. Over-applying documentary caution here is a failure mode, not a safety measure: it produces careful, generic scenarios nobody finishes watching.
   - **STRICT PROHIBITION:** **NEVER force SEC Form 10-K filings, court dockets, PACER records, or corporate fraud litigation framing onto a thought experiment.** Doing so creates a dry, formal, nonsensical video and constitutes an automatic engine failure.
   - *Execution:* **Route immediately to `# FinanceCraft — "The Hypothetical" Script Generator (Lines 516+)` and `Archetype 5: The POV Thought Experiment (Lines 797+)`.**
 
+* **Track 3: Mechanism / Explainer Episode (How something works, not what went wrong or what if):**
+  - *Topics:* how currencies actually work, the unit economics of an industry, why a market behaves the way it does -- no villain, no collapse, no hypothetical premise.
+  - *Format:* Third person, curiosity-led. Primary-source excavation is optional (per Research Methodology Phase 0) -- one authoritative number per claim plus heavy texture matters more than a citation trail.
+  - *Skeletons available:* A1 (First-Principles Explainer, provisional), A3 (Causal-Chain, when a system/mechanism drives it), A7 (Compounded Playbook, provisional), A8 (Reversal Explainer, when a wrong belief drives it), A10 (Scale Wall, provisional).
+  - *Execution:* Proceed with Step 1 through Step 5 below, same as Track 1, using the Research Methodology's Track 3 routing (Phase 1 + Texture Pass + light Phase 4 -- skip Phases 2-3) rather than the full case-autopsy research process.
+
 ---
 
 ## **Inputs needed**
 
-* The full Research Brief (for Track 1) or Concept Brief (for Track 2)
+* The full Research Brief (Track 1), a lighter Research Brief per Phase 0 (Track 3), or a Concept Brief (Track 2)
 * Target runtime in minutes — if not given, assume 12-15 minutes (~1,860-2,325 words at ~155 words/minute documentary pace)
 
-  ## **Step 1 — Pick a structure, and say which one**
+  ## **Step 1 — Pick a skeleton, then a point of entry**
+
+**Before this menu:** classify the thesis into one of eleven shapes and rank two skeletons using the Selection Matrix in `SKELETON_LIBRARY.md`. That ranking sets each draft's structure -- its beat map, its voice band, and where its reveal lands. The menu below now governs a narrower thing: **where in that skeleton's own beat map the video starts** (in medias res vs. chronological open), not the overall shape of the story.
 
 Don't default to chronological — it should be the least common choice, not the standing one.
 
@@ -901,7 +931,7 @@ Draft this step last, not first. It's easier to write a genuinely sharp opening 
 * Treat every segment transition as a micro-hook, not a natural pause. The gap between two sections is where viewers are most likely to leave — end each segment on a line that pulls forward, not one that trails off.  
 * Once a full draft exists, cut anything that doesn't add a fact, create curiosity, or advance the story. Over-scripting is a common failure mode — if a line doesn't earn its place, remove it even if it's well-written.  
 * Write for spoken delivery, not for reading. Read it aloud during revision — anything that sounds like an essay instead of a person talking gets rewritten.  
-* **Staccato Rhythmic Variety & Punchy Cadence:** Aim for a conversational sentence length averaging 10 to 13 words. Actively break up multi-clause technical explanations with short, punchy 3-to-6-word standalone declarations (*"The math says otherwise."*, *"Not even close."*, *"Here's the catch."*, *"Nobody checked."*). This rhythmic contrast resets viewer cognitive load, injects natural vocal momentum, and gives key documentary beats maximum spoken impact.  
+* **Staccato Rhythmic Variety & Punchy Cadence:** Match the chosen skeleton's band in the CP-0 table above, not a fixed 10-13 word average across all eleven skeletons -- A8 (Reversal Explainer) runs a 16-word median and reads flowing, not staccato; A7 (Compounded Playbook) runs 6. Within whichever band applies, Actively break up multi-clause technical explanations with short, punchy 3-to-6-word standalone declarations (*"The math says otherwise."*, *"Not even close."*, *"Here's the catch."*, *"Nobody checked."*). This rhythmic contrast resets viewer cognitive load, injects natural vocal momentum, and gives key documentary beats maximum spoken impact.  
 * **Spoken Conversational Pivots:** Actively favor forward-driving, conversational signposts (*"Here's what actually happened,"*, *"Now look at the numbers,"*, *"And this is where things get weird,"*, *"To see why, follow the money"*) over formal, academic prose transitions (*"Furthermore,"*, *"Consequently,"*, *"Moreover,"*). Spoken narration thrives on sounding like a sharp, engaging investigative narrator explaining a case across a desk, rather than an academic reading a prepared paper.  
 * **Visceral Physical Grounding (The "Popcorn & Delivery Van" Rule):** Abstract accounting nouns (*inventory write-downs, gross margin compression, cash burn, working capital deficits*) risk losing viewer engagement if left as floating spreadsheet metrics. Narration is strongly encouraged to anchor these abstractions to concrete physical objects, visceral human actions, or real-world friction (e.g., *"losing $196 every time a bike was loaded onto a delivery van"*, *"pallets of unsold metal frames stacked to the ceiling in Ohio warehouses"*, or *"spending more on marketing than it cost to build the factory"*). Physical grounding turns sterile arithmetic into immediate visual realization.  
 * **Relatable Micro-Humor & Everyday Reality Checks (The "Cereal Box" Principle):** Ground corporate absurdity with dry, relatable everyday observations, especially across Act I and Act II. Weaving in 1 or 2 understated, humanizing reality checks (e.g., a $2,500 high-tech touchscreen bike quietly becoming the household's most expensive clothes drying rack) punctures boardroom marketing spin, provides natural breathing room between dense financial calculations, and builds an authentic bond with the viewer.  
@@ -974,7 +1004,7 @@ CP-0 Retention Physics, CP-2 audit block, tagging, decimal normalisation — bot
 
 ### Output order
 
-1. A short comparison table: Draft A vs Draft B across the chosen divergence axes, plus one line on what each is betting on
+1. A short comparison table: Draft A vs Draft B across the chosen divergence axes, plus one line on what each is betting on. **Name each draft's skeleton ID** (e.g. "Draft A -- A8 Reversal Explainer") -- different skeletons on A and B satisfy the Structure divergence axis by construction, but the engine still names a second axis.
 2. Draft A, complete, with its own audit block
 3. Draft B, complete, with its own audit block
 4. **The engine's own recommendation and reasoning** — state which draft to shoot and why, in three or four sentences. Do not present the two neutrally and leave the choice hanging; a recommendation that can be disagreed with is more useful than balanced silence.
@@ -1147,6 +1177,14 @@ End on the takeaway from the Concept Brief, stated through the story rather than
 | **5. POV Thought Experiment** | "The Hypothetical" Sub-Series / Absurdist Realism | 10–14 min | 160–170 WPM (Urgent Ticking Clock) | Second-Person HUDs, Timelines, Logistical Maps | *My Chaotic Stories* (`dwSfdH1K7Zk`) |
 | **6. Dual-Character Simulation** | Personal Finance / Sacred Cows / Rent vs Buy | 14–18 min | 145–155 WPM (Objective Audit) | Side-by-Side Split Screens, 30-Year Wealth Curves | *Logical Money* (`nkT_K8l1rEw`) |
 | **7. Compounded Efficiency** | Wealth Roadmaps / FIRE / Asymmetric Equations | 10–14 min | 150–160 WPM (Empowering Conviction) | Minimalist Formula Breakdowns, Savings Rate Curves | *LITTLE BIT BETTER* (`Pd3HYjpmks4`) |
+| **8. Reversal Explainer** | Everyday-phenomenon reversal / myth-busting | 8-12 min | Flowing, longer clauses | Nested paradox held deliberately still mid-motion | *inkly* "Desert People" (253.5x) |
+| **9. Second-Person Parable** | Contrarian personal-finance habit, invented characters | 8-10 min | High second-person, staccato | Match cut on a decaying object at each timeskip | *Hidden Yield* (169.6x) |
+| **10. Scale Wall** (provisional) | Impossibility / scale-of-the-universe framing | 12-16 min | Steady, escalating | Infinite zoom or flyover up a carried unit | *Kurzgesagt* "Leave the Solar System" (0.38x) |
+| **11. Expose Autopsy** | Track 1 scandal / collapse expose | 14-18 min | Third person, prosecutorial | Evidence pillar opens on its source document | *Low Volume Capital* "BYD" (31.5x) |
+
+**Provisional archetypes (1, 4, 7, 10):** these benchmarks sit below the 1x outlier bar (0.33x, 0.09x, 0.54x, 0.38x). The format is sound and the voice band is measured, but there is no evidence *this specific format* over-performs -- only that the finance/economics niche has room for it. They are fully selectable, including as a draft's primary skeleton; `SKELETON_LIBRARY.md`'s HARD STOP 1 output simply labels the choice `(provisional)` so it's made knowingly, not silently.
+
+**Archetypes 8-11** were added after this matrix was first built. Their full voice-anatomy sections, verbatim excerpts, and generator prompts live in `SKELETON_LIBRARY.md`, not below with 1-7. Archetype 11 is the first Track 1 skeleton sourced from an outlier ratio (31.5x) rather than derived from first principles -- see its beat map before writing any expose-format episode, since it carries the highest legal-risk profile of any skeleton (allegations must be worded as allegations, every evidence pillar needs a named source, the company's response is mandatory for every serious charge).
 
 ---
 
@@ -1550,6 +1588,9 @@ INPUTS:
 
 ---
 
+
+
+**Adaptation for FinanceCraft (see `SKELETON_LIBRARY.md`, A7):** the benchmark opens on the creator's own story ("took me nine years"). FinanceCraft has no first-person host claiming personal financial results. Replace that opening with either a composite protagonist (HYPOTHETICAL framing, Track 2) or a real, sourced person's documented number -- never an invented personal credential for the show itself. The lever driving the rules must be real, verifiable math, checked the same way any Track 2 mechanic is checked.
 # **FinanceCraft — Audio Architecture & Sound Design Engine (Empirical BGM, Voice Dynamics & Adaptive Audio Direction)**
 
 > **Architectural Purpose & Core Protocol**  
@@ -1841,7 +1882,7 @@ When the engine builds the timeline in CapCut Desktop:
 PHASE-BY-PHASE AUDIT CHECKLIST:
 
 [ ] PHASE 01: 01_RESEARCH_BRIEF.md
-    - Track Routing verified: Explicitly declared as Track 1 (Documented Case) or Track 2 (Thought Experiment / What-If).
+    - Track Routing verified: Explicitly declared as Track 1 (Documented Case), Track 2 (Thought Experiment / What-If), or Track 3 (Mechanism / Explainer).
     - If Track 2: ZERO SEC Form 10-K filings, court dockets, or bankruptcy paperwork forced onto the concept.
     - Evidentiary Rigor: All 9 sections populated; 1 load-bearing pivotal detail identified; verified empirical mechanisms/telemetry.
 
@@ -2150,6 +2191,8 @@ List every recurring character in a short table before moving to beat-by-beat ge
 **"The Hypothetical" episodes use `[COMPOSITE: <role>]` instead of `[CARICATURE: <name>]`, exclusively — never both in the same episode.** These are invented, archetypal characters per the Style Bible's Section 10 design rule — deliberately generic, no specific distinguishing features, and never a real named person under any circumstance. They still get a locked reference file for visual consistency within the episode, but the dialogue rule flips: composite characters are fictional, so scripted dialogue is fine, same as Margery.
 
 ## Phase 4 — Beat-by-beat generation instructions
+
+**Visual layer:** apply `SKELETON_LIBRARY.md`'s Visual layer section before generating shots -- the opening-motion rule, each skeleton's signature visual (table in that file), and the rule to keep motion out from under a character speaking or a quote card.
 
 **Mandatory Checkpoint 1: Narration Runtime vs. Beat Total & Sentence-Bound Timecode Gatekeeper:**
 Before writing any beat, the engine MUST calculate and output the exact mathematical Sanity Check Audit Block. This is not a casual suggestion—it is a strict, inviolable gatekeeper that governs the entire generation.
