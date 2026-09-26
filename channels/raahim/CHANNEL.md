@@ -38,15 +38,17 @@ Examples: *What if everyone on Earth jumped at once? What if the Moon was made o
 
 ---
 
-## 3. The comedy layer (added to every script, checked at Pass 2)
+## 3. The comedy toolbox
 
-- **Escalation ladder.** Each consequence is bigger *and a different kind* of consequence than the last — personal → street → city → planet → physics. Never the same joke at a larger scale.
-- **The deadpan turn.** At least once per act, the narrator reports something catastrophic in the tone of a weather report. (*"This is, broadly, the end of Portugal. Now, the tides."*)
-- **One small, specific victim.** A recurring tiny character (a pigeon, a man named Gerald, one very confused dog) whose fate is tracked through the whole escalation. They get the callback at the end.
-- **The honest number.** Each act lands one real, calculated number made physical (*"that's the energy of four hundred Hiroshimas, released by people who just wanted to see what would happen"*).
-- **The button.** The episode ends on a quiet, polite, absurd final line — not a lesson, not a subscribe ask.
+What has made this kind of video funny. Use what the story wants; none of it is a quota.
 
-Pass 2 check: quote the ladder rungs in order, the deadpan turn per act, and the victim's callback line.
+- **Escalation** — each consequence a bigger *and different kind* of consequence, not the same joke scaled up.
+- **The deadpan turn** — a catastrophe reported like a weather report. (*"This is, broadly, the end of Portugal. Now, the tides."*)
+- **A small recurring victim** — one pigeon, one Gerald, whose fate we keep checking on.
+- **The honest number** — a real, calculated figure made physical.
+- **The button** — end on a quiet, polite, absurd line, not a lesson.
+
+The only hard test is the engine's Retell test: every stretch of the video has something worth repeating.
 
 ---
 
@@ -85,12 +87,12 @@ Pass 2 check: quote the ladder rungs in order, the deadpan turn per act, and the
 
 ---
 
-## 5. The Host (recurring character)
+## 5. Raahim — the Host
 
-A cheerful, unflappable mid-century presenter: round head, neat side part, thick black-rimmed glasses, short-sleeved white shirt, skinny black tie, wooden pointer. Always polite, always slightly too calm. **Name: TBD** — pick one and record it here.
+A cheerful, unflappable mid-century presenter: round head, neat side part, thick black-rimmed glasses, short-sleeved white shirt, skinny black tie, wooden pointer. Always polite, always slightly too calm. **His name is Raahim** — the channel is named after him. Reference prompts: `channels/raahim/STANDING_ASSETS.md`.
 
-- Generate **one character reference sheet first** (front, three-quarter, pointing, thumbs-up, alarmed-but-composed) and reuse it as the reference image for every still and clip.
-- He appears in the cold open, at each act's deadpan turn, and at the button. He never panics; at most he adjusts his tie.
+- One master portrait, then each pose generated *from* it as a reference image — every still and clip of him uses these, so he stays on-model.
+- He's funniest where his calm plays against the chaos. He never panics; at most he adjusts his tie.
 - Supporting cast are generic 1950s archetypes (the milkman, the housewife, the kid with a dog, the scientist in a lab coat) — invented, never real people.
 
 ---
@@ -190,7 +192,7 @@ Use them for structure, pacing and the kind of question that pulls — never for
 
 ## 12. Still to decide (record decisions here)
 
-- [ ] The Host's name
+- [x] The Host's name — Raahim
 - [ ] Channel handle, banner and description
 - [ ] First 5 episode ideas through the Idea Gate
 - [ ] Add 3–5 more absurd-what-if outliers to `references/idea_bank/` (only one pure what-if benchmark so far), then re-measure A5's band

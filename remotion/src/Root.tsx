@@ -29,6 +29,18 @@ import { NotificationExplosionHUD } from './scenes/episode03/NotificationExplosi
 import { AttentionReboundVsBusinessDeaths } from './scenes/episode03/AttentionReboundVsBusinessDeaths';
 import { AuctionHammerCrushContainer } from './scenes/episode03/AuctionHammerCrushContainer';
 import { FinanceCraftEndCard } from './scenes/episode03/FinanceCraftEndCard';
+import { Img, staticFile } from 'remotion';
+import { FilmLook } from './channels/raahim/FilmLook';
+import { RaahimChalkboard } from './channels/raahim/RaahimChalkboard';
+import { HonestNumber } from './channels/raahim/HonestNumber';
+import { ActCard } from './channels/raahim/ActCard';
+
+// Raahim kit demo: the approved test still wrapped in the film look.
+const RaahimFilmLookDemo: React.FC = () => (
+  <FilmLook>
+    <Img src={staticFile('filmstrip_jumping_people.jpg')} style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
+  </FilmLook>
+);
 
 export const RemotionRoot: React.FC = () => {
   return (
@@ -264,6 +276,35 @@ export const RemotionRoot: React.FC = () => {
         fps={30}
         width={1920}
         height={1080}
+      />
+      {/* Raahim channel kit — channels/raahim/CHANNEL.md */}
+      <Composition id="Raahim-FilmLookDemo" component={RaahimFilmLookDemo} durationInFrames={90} fps={30} width={1920} height={1080} />
+      <Composition
+        id="Raahim-Chalkboard"
+        component={RaahimChalkboard}
+        durationInFrames={120}
+        fps={30}
+        width={1920}
+        height={1080}
+        defaultProps={{ lines: ['8 BILLION PEOPLE', 'JUMP AT ONCE'], answer: 'EARTH' }}
+      />
+      <Composition
+        id="Raahim-HonestNumber"
+        component={HonestNumber}
+        durationInFrames={105}
+        fps={30}
+        width={1920}
+        height={1080}
+        defaultProps={{ value: 8000000000, caption: 'people, all landing at once', peak: false }}
+      />
+      <Composition
+        id="Raahim-ActCard"
+        component={ActCard}
+        durationInFrames={75}
+        fps={30}
+        width={1920}
+        height={1080}
+        defaultProps={{ part: 'PART TWO', title: 'THE TIDES' }}
       />
     </>
   );

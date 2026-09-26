@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "@remotion/cli": "^4.0.230",
+    "@remotion/google-fonts": "^4.0.525",
     "@rspack/binding-darwin-arm64": "^2.2.4",
     "@types/cesium": "^1.67.14",
     "@types/d3-geo": "^3.1.1",
