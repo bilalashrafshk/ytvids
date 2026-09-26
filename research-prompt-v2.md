@@ -1,16 +1,20 @@
-# FinanceCraft — Research Prompt (v2, Track 1)
+# FinanceCraft — Research Prompt (v3, Track 1)
 
-*Paste this whole thing. Replace `[TOPIC]` on the first line and nothing else.*
+*Paste this whole thing. Replace `[TOPIC]` on the first line. Fill `[SKELETON]` if you know it — Part 8 only fires if you do.*
 
 ---
 
-I'm researching **[TOPIC]** for a financial documentary on YouTube. I need research material, not a report. Follow the output format exactly.
+I'm researching **[TOPIC]** for a financial documentary on YouTube. Skeleton this is for (see `SKELETON_LIBRARY.md`, e.g. A2, A3, A4, A8, A11): **[SKELETON]**. I need research material, not a report. Follow the output format exactly.
 
 ## Critical instruction on register
 
 Do **not** write in academic, analytical, or report prose. No executive summary. No "this analysis examines." No hedged institutional phrasing. Write in plain, direct, spoken English — short sentences, concrete nouns. Where a section asks for a list, give me a bare list and nothing else: no introductory paragraph, no synthesis, no concluding thoughts.
 
 If you find yourself writing a sentence longer than 20 words, break it.
+
+## Critical instruction on staying on-topic
+
+Every fact you give me exists to serve **[TOPIC]**, not whatever it happens to lead to. Downstream causes and effects are welcome — but before including one, check: *would a first-time viewer still recognize this as being about [TOPIC]?* If a chain of causes has wandered into a different subject wearing this one's name (a story about a product collapse turning into a story about port logistics, or a story about a company turning into a lecture on an unrelated regulation), stop the chain earlier or leave it out. Depth is good. Drift is not depth.
 
 ---
 
@@ -34,6 +38,8 @@ Every fact I might state on camera, each with its source. Mark clearly:
 - **[UNCERTAIN]** — sources disagree, or you're inferring
 
 Flag anything resting on a single source, especially claims about a living person.
+
+**If any figure moves or compounds over time** (a debt total that grows, a valuation that falls, a body count that rises, a fine that escalates) — give the figure at every stage you have a source for, and check that consecutive stages are actually consistent with the rate or cause driving the change. If they aren't, say so plainly rather than presenting both.
 
 ## PART 4 — Texture (this is the most important section — do not compress it)
 
@@ -60,6 +66,14 @@ One fact, document, or quote. The one that most changes how this story should be
 ## PART 7 — Open questions
 
 What's genuinely unresolved or contradictory across sources. Don't tidy this up.
+
+## PART 8 — Skeleton-specific evidence (only if you gave a [SKELETON] above)
+
+Find that skeleton's brief addendum in `SKELETON_LIBRARY.md` — the block titled `## PART 8 — <name> kit (skeleton A<n>)`. Paste it below this line. Answer every bullet in it as its own labeled item, sourced exactly like Part 3.
+
+*Why this exists: A11 (Exposé) needs named believers of the celebrated story and the company's response to every charge — a generic Track 1 research pass won't surface those unless asked directly. A4 needs the countable unit a business actually runs out of. A2 needs the deferred payoff dated and the closing quote sourced. Skip this part with a generic pass and the writer has to guess at exactly the fields the skeleton's own gate checks for.*
+
+[PASTE THE SKELETON'S BRIEF ADDENDUM HERE]
 
 ---
 

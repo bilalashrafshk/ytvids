@@ -2,7 +2,7 @@
 
 *This is the entry point. The engine reads this before anything else. It defines what happens between "here's a topic" and "here are two scripts," and where it is required to stop and wait.*
 
-*Companion files: `IDEA_GATE.md` (STEP 1.5), `SKELETON_LIBRARY.md` (STEP 2 and STEP 5), `gate_idea.py`, `gate_alpha.py`, `gate_check.py`.*
+*Companion files: `IDEA_GATE.md` (STEP 1.5), `SKELETON_LIBRARY.md` (STEP 2 and STEP 5), the Bible (index file + `bible/` sections), `gate_idea.py`, `gate_alpha.py`, `gate_check.py`.*
 
 ---
 
@@ -117,7 +117,7 @@ If the user confirms, proceed. If the user corrects the track, accept the correc
 | ----- | ----- | ----- | ----- |
 | 1 — Case Autopsy | `research-prompt-v2.md` | Gemini Deep Research | Depth and source coverage genuinely matter here |
 | 2 — Hypothetical | `invention-prompt-v2.md` | Gemini (standard) or Claude | **Never Deep Research** — nothing exists to research; it will hunt for real events to cite and poison the register |
-| 3 — Mechanism | `research-prompt-v2.md`, Parts 1, 4, 5, 6 only | Gemini (standard) | Skip Parts 2, 3, 7 — there is no gap to excavate and no case to verify |
+| 3 — Mechanism | `research-prompt-track3-v2.md` | Gemini (standard) | Dedicated Track 3 prompt -- lighter sourcing bar than Track 1 by design, per Research Methodology Phase 0 |
 
 **Skeleton addenda.** If either confirmed skeleton has a brief addendum in `SKELETON_LIBRARY.md`, the engine outputs it with the prompt, to be pasted below it. If A and B both have one, include both. A9 *replaces* invention-prompt Part 2 instead of appending.
 
@@ -147,7 +147,7 @@ Run `gate_alpha.py --skeleton <n>` on the returned brief for the mechanical chec
 
 ## STEP 5-7 — Scripting
 
-Proceed per the master document: CP-0 gates, CP-3 twin drafts, CP-VERIFY checkpoints at each phase, CP-2 audit, then `gate_check.py` externally on both drafts.
+Proceed per the master document: CP-0 gates (`bible/06-retention-physics-cp0.md`), CP-3 twin drafts and CP-2 audit (`bible/07-script-generation-prompt.md`), CP-VERIFY checkpoints at each phase (`bible/05-cp-verify-phase-gates.md`), then `gate_check.py` externally on both drafts.
 
 **Skeleton rules for drafting:**
 - Each draft follows its skeleton's beat map in `SKELETON_LIBRARY.md` and is gated with **its own** archetype: `gate_check.py -a 8` for an A8 draft, `-a 9` for A9, and so on. Never gate both drafts on one band.

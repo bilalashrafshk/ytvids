@@ -1,0 +1,2536 @@
+{
+  "video_id": "1GowFTjbUnk",
+  "url": "https://www.youtube.com/watch?v=1GowFTjbUnk",
+  "title": "NVIDIA Explained Like You're 5",
+  "channel": "Crayon Capital",
+  "total_snippets": 421,
+  "duration_seconds": 858.8,
+  "transcript": [
+    {
+      "text": "This dishwasher boy built a $5 empire",
+      "start": 0.0,
+      "duration": 5.24,
+      "end": 5.24
+    },
+    {
+      "text": "from the table of a Denny's diner.",
+      "start": 3.04,
+      "duration": 3.92,
+      "end": 6.96
+    },
+    {
+      "text": "He pitched the business plan over cheap",
+      "start": 5.24,
+      "duration": 4.84,
+      "end": 10.08
+    },
+    {
+      "text": "coffee in 1992, and 34 years later, his",
+      "start": 6.96,
+      "duration": 4.84,
+      "end": 11.8
+    },
+    {
+      "text": "company makes $20",
+      "start": 10.08,
+      "duration": 3.8,
+      "end": 13.88
+    },
+    {
+      "text": "every single hour.",
+      "start": 11.8,
+      "duration": 4.12,
+      "end": 15.92
+    },
+    {
+      "text": "Not from the safe bet, but from a gamble",
+      "start": 13.88,
+      "duration": 3.96,
+      "end": 17.84
+    },
+    {
+      "text": "nobody believed in that crushed entire",
+      "start": 15.92,
+      "duration": 4.28,
+      "end": 20.2
+    },
+    {
+      "text": "industries and took over the AI space,",
+      "start": 17.84,
+      "duration": 4.24,
+      "end": 22.08
+    },
+    {
+      "text": "the gaming industry, and even all of",
+      "start": 20.2,
+      "duration": 3.64,
+      "end": 23.84
+    },
+    {
+      "text": "your app algorithms.",
+      "start": 22.08,
+      "duration": 3.72,
+      "end": 25.8
+    },
+    {
+      "text": "And just as he started winning, the",
+      "start": 23.84,
+      "duration": 3.36,
+      "end": 27.2
+    },
+    {
+      "text": "government moved to [music] bring him",
+      "start": 25.8,
+      "duration": 3.88,
+      "end": 29.68
+    },
+    {
+      "text": "down.",
+      "start": 27.2,
+      "duration": 2.48,
+      "end": 29.68
+    },
+    {
+      "text": "Jensen Huang was born in Taiwan in 1963.",
+      "start": 29.72,
+      "duration": 5.4,
+      "end": 35.12
+    },
+    {
+      "text": "When he was nine, [music] his parents",
+      "start": 33.44,
+      "duration": 3.44,
+      "end": 36.88
+    },
+    {
+      "text": "sent him and his brother to America for",
+      "start": 35.12,
+      "duration": 3.4,
+      "end": 38.52
+    },
+    {
+      "text": "a better education.",
+      "start": 36.88,
+      "duration": 3.96,
+      "end": 40.84
+    },
+    {
+      "text": "The plan was simple. Live with relatives",
+      "start": 38.52,
+      "duration": 7.16,
+      "end": 45.68
+    },
+    {
+      "text": "in Kentucky, study hard, build a future.",
+      "start": 40.84,
+      "duration": 6.8,
+      "end": 47.64
+    },
+    {
+      "text": "This doesn't look like a school. It",
+      "start": 45.68,
+      "duration": 3.28,
+      "end": 48.96
+    },
+    {
+      "text": "looks more like somewhere people get",
+      "start": 47.64,
+      "duration": 2.92,
+      "end": 50.56
+    },
+    {
+      "text": "sent after they've done something very,",
+      "start": 48.96,
+      "duration": 3.44,
+      "end": 52.4
+    },
+    {
+      "text": "very wrong. That's because",
+      "start": 50.56,
+      "duration": 1.88,
+      "end": 52.44
+    },
+    {
+      "text": ">> [music]",
+      "start": 52.4,
+      "duration": 2.56,
+      "end": 54.96
+    },
+    {
+      "text": ">> it kind of is. Welcome to Oneida Baptist",
+      "start": 52.44,
+      "duration": 4.48,
+      "end": 56.92
+    },
+    {
+      "text": "Institute. You'll learn English,",
+      "start": 54.96,
+      "duration": 3.84,
+      "end": 58.8
+    },
+    {
+      "text": "discipline, and how not to complain",
+      "start": 56.92,
+      "duration": 3.64,
+      "end": 60.56
+    },
+    {
+      "text": "while cleaning bathrooms.",
+      "start": 58.8,
+      "duration": 4.44,
+      "end": 63.24
+    },
+    {
+      "text": "This is not how most tech CEO origin",
+      "start": 60.56,
+      "duration": 5.24,
+      "end": 65.8
+    },
+    {
+      "text": "stories start, but it didn't break him.",
+      "start": 63.24,
+      "duration": 4.04,
+      "end": 67.28
+    },
+    {
+      "text": "It taught him something no lecture hall",
+      "start": 65.8,
+      "duration": 2.48,
+      "end": 68.28
+    },
+    {
+      "text": "could.",
+      "start": 67.28,
+      "duration": 2.76,
+      "end": 70.04
+    },
+    {
+      "text": "When the situation is terrible, you",
+      "start": 68.28,
+      "duration": 2.48,
+      "end": 70.76
+    },
+    {
+      "text": "adapt [music]",
+      "start": 70.04,
+      "duration": 2.24,
+      "end": 72.28
+    },
+    {
+      "text": "or you disappear.",
+      "start": 70.76,
+      "duration": 3.52,
+      "end": 74.28
+    },
+    {
+      "text": "He eventually made it to Oregon State,",
+      "start": 72.28,
+      "duration": 4.16,
+      "end": 76.44
+    },
+    {
+      "text": "then Stanford, spent years at chip",
+      "start": 74.28,
+      "duration": 3.32,
+      "end": 77.6
+    },
+    {
+      "text": "companies,",
+      "start": 76.44,
+      "duration": 4.84,
+      "end": 81.28
+    },
+    {
+      "text": "AMD, then LSI Logic, studying",
+      "start": 77.6,
+      "duration": 5.36,
+      "end": 82.96
+    },
+    {
+      "text": "semiconductors with a level of obsession",
+      "start": 81.28,
+      "duration": 4.64,
+      "end": 85.92
+    },
+    {
+      "text": "that was, frankly, a little alarming.",
+      "start": 82.96,
+      "duration": 6.0,
+      "end": 88.96
+    },
+    {
+      "text": "By 1992, Jensen had an idea.",
+      "start": 85.92,
+      "duration": 5.12,
+      "end": 91.04
+    },
+    {
+      "text": "Graphics are going to change computing.",
+      "start": 88.96,
+      "duration": 4.64,
+      "end": 93.6
+    },
+    {
+      "text": "Games are getting bigger. 3D is getting",
+      "start": 91.04,
+      "duration": 6.08,
+      "end": 97.12
+    },
+    {
+      "text": "harder. CPUs can't carry this forever.",
+      "start": 93.6,
+      "duration": 5.16,
+      "end": 98.76
+    },
+    {
+      "text": "Someone is going to build a chip for",
+      "start": 97.12,
+      "duration": 3.04,
+      "end": 100.16
+    },
+    {
+      "text": "this new world.",
+      "start": 98.76,
+      "duration": 3.16,
+      "end": 101.92
+    },
+    {
+      "text": "I think it should be us.",
+      "start": 100.16,
+      "duration": 4.72,
+      "end": 104.88
+    },
+    {
+      "text": "Jensen, I have a mortgage, a stable job,",
+      "start": 101.92,
+      "duration": 4.52,
+      "end": 106.44
+    },
+    {
+      "text": "and a family that currently believes I",
+      "start": 104.88,
+      "duration": 3.64,
+      "end": 108.52
+    },
+    {
+      "text": "make responsible decisions.",
+      "start": 106.44,
+      "duration": 3.16,
+      "end": 109.6
+    },
+    {
+      "text": "Good.",
+      "start": 108.52,
+      "duration": 3.32,
+      "end": 111.84
+    },
+    {
+      "text": "Then this will be exciting. So, the plan",
+      "start": 109.6,
+      "duration": 5.2,
+      "end": 114.8
+    },
+    {
+      "text": "is, quit our jobs, start from zero, and",
+      "start": 111.84,
+      "duration": 4.56,
+      "end": 116.4
+    },
+    {
+      "text": "build a chip for a market that barely",
+      "start": 114.8,
+      "duration": 2.92,
+      "end": 117.72
+    },
+    {
+      "text": "exists?",
+      "start": 116.4,
+      "duration": 3.72,
+      "end": 120.12
+    },
+    {
+      "text": "Correct. I hate that this sounds insane",
+      "start": 117.72,
+      "duration": 4.72,
+      "end": 122.44
+    },
+    {
+      "text": "and also kind of logical.",
+      "start": 120.12,
+      "duration": 4.72,
+      "end": 124.84
+    },
+    {
+      "text": "They called the company Nvidia.",
+      "start": 122.44,
+      "duration": 4.28,
+      "end": 126.72
+    },
+    {
+      "text": "The idea was ambitious. Build one",
+      "start": 124.84,
+      "duration": 3.12,
+      "end": 127.96
+    },
+    {
+      "text": "powerful [music] graphics chip that",
+      "start": 126.72,
+      "duration": 3.32,
+      "end": 130.04
+    },
+    {
+      "text": "could handle everything. A clean",
+      "start": 127.96,
+      "duration": 4.04,
+      "end": 132.0
+    },
+    {
+      "text": "universal chip for the future of gaming",
+      "start": 130.04,
+      "duration": 3.04,
+      "end": 133.08
+    },
+    {
+      "text": "hardware.",
+      "start": 132.0,
+      "duration": 3.32,
+      "end": 135.32
+    },
+    {
+      "text": "For 2 years they worked. They spent",
+      "start": 133.08,
+      "duration": 5.16,
+      "end": 138.24
+    },
+    {
+      "text": "every dollar they had. And in 1995,",
+      "start": 135.32,
+      "duration": 5.24,
+      "end": 140.56
+    },
+    {
+      "text": "Nvidia launched its first product, the",
+      "start": 138.24,
+      "duration": 4.36,
+      "end": 142.6
+    },
+    {
+      "text": "NV1.",
+      "start": 140.56,
+      "duration": 4.72,
+      "end": 145.28
+    },
+    {
+      "text": "Jensen, we have a problem. Microsoft",
+      "start": 142.6,
+      "duration": 4.0,
+      "end": 146.6
+    },
+    {
+      "text": "just [music] published the Direct X",
+      "start": 145.28,
+      "duration": 3.16,
+      "end": 148.44
+    },
+    {
+      "text": "spec, full triangle based rendering",
+      "start": 146.6,
+      "duration": 4.76,
+      "end": 151.36
+    },
+    {
+      "text": "pipeline. Holy crap, the NV1 runs",
+      "start": 148.44,
+      "duration": 4.56,
+      "end": 153.0
+    },
+    {
+      "text": "quadratic mapping?",
+      "start": 151.36,
+      "duration": 2.76,
+      "end": 154.12
+    },
+    {
+      "text": "Yes.",
+      "start": 153.0,
+      "duration": 2.88,
+      "end": 155.88
+    },
+    {
+      "text": "We are the only ones going in the",
+      "start": 154.12,
+      "duration": 3.68,
+      "end": 157.8
+    },
+    {
+      "text": "opposite direction. Games are about to",
+      "start": 155.88,
+      "duration": 4.24,
+      "end": 160.12
+    },
+    {
+      "text": "be built from tiny flat triangles?",
+      "start": 157.8,
+      "duration": 4.96,
+      "end": 162.76
+    },
+    {
+      "text": "Our chip is built for curved surfaces.",
+      "start": 160.12,
+      "duration": 4.04,
+      "end": 164.16
+    },
+    {
+      "text": "We built the wrong chip with tremendous",
+      "start": 162.76,
+      "duration": 4.4,
+      "end": 167.16
+    },
+    {
+      "text": "confidence. 2 years, every dollar. A",
+      "start": 164.16,
+      "duration": 4.56,
+      "end": 168.72
+    },
+    {
+      "text": "chip built for a world that no longer",
+      "start": 167.16,
+      "duration": 4.48,
+      "end": 171.64
+    },
+    {
+      "text": "existed. The NV1 [music] flopped.",
+      "start": 168.72,
+      "duration": 5.52,
+      "end": 174.24
+    },
+    {
+      "text": "But Nvidia still had a lifeline. Sega",
+      "start": 171.64,
+      "duration": 3.84,
+      "end": 175.48
+    },
+    {
+      "text": "had contracted them to build the",
+      "start": 174.24,
+      "duration": 2.92,
+      "end": 177.16
+    },
+    {
+      "text": "graphics processor for the company's",
+      "start": 175.48,
+      "duration": 3.6,
+      "end": 179.08
+    },
+    {
+      "text": "next generation console,",
+      "start": 177.16,
+      "duration": 3.92,
+      "end": 181.08
+    },
+    {
+      "text": "the Dreamcast.",
+      "start": 179.08,
+      "duration": 5.48,
+      "end": 184.56
+    },
+    {
+      "text": "Real money, real chance to start over.",
+      "start": 181.08,
+      "duration": 5.2,
+      "end": 186.28
+    },
+    {
+      "text": "There was only one problem.",
+      "start": 184.56,
+      "duration": 3.52,
+      "end": 188.08
+    },
+    {
+      "text": "Sega's chip used the same dead-end",
+      "start": 186.28,
+      "duration": 3.4,
+      "end": 189.68
+    },
+    {
+      "text": "technology. [music] You're doing the",
+      "start": 188.08,
+      "duration": 3.56,
+      "end": 191.64
+    },
+    {
+      "text": "Sega math again, aren't you?",
+      "start": 189.68,
+      "duration": 3.12,
+      "end": 192.8
+    },
+    {
+      "text": "We'll spend the next year building",
+      "start": 191.64,
+      "duration": 3.2,
+      "end": 194.84
+    },
+    {
+      "text": "something we already know is dead. And",
+      "start": 192.8,
+      "duration": 4.32,
+      "end": 197.12
+    },
+    {
+      "text": "if we cancel, we lose the only customer",
+      "start": 194.84,
+      "duration": 3.88,
+      "end": 198.72
+    },
+    {
+      "text": "still paying us.",
+      "start": 197.12,
+      "duration": 4.44,
+      "end": 201.56
+    },
+    {
+      "text": "Uh, Pretty much.",
+      "start": 198.72,
+      "duration": 5.04,
+      "end": 203.76
+    },
+    {
+      "text": "I miss normal employment.",
+      "start": 201.56,
+      "duration": 3.48,
+      "end": 205.04
+    },
+    {
+      "text": "If we're going to die, let's die",
+      "start": 203.76,
+      "duration": 2.57,
+      "end": 206.33
+    },
+    {
+      "text": "building the right chip.",
+      "start": 205.04,
+      "duration": 1.44,
+      "end": 206.48
+    },
+    {
+      "text": ">> [music]",
+      "start": 206.33,
+      "duration": 2.71,
+      "end": 209.04
+    },
+    {
+      "text": ">> So Jensen flew to Japan.",
+      "start": 206.48,
+      "duration": 4.56,
+      "end": 211.04
+    },
+    {
+      "text": "The chip is a dead end. You should",
+      "start": 209.04,
+      "duration": 3.76,
+      "end": 212.8
+    },
+    {
+      "text": "cancel our contract and find someone",
+      "start": 211.04,
+      "duration": 2.84,
+      "end": 213.88
+    },
+    {
+      "text": "else.",
+      "start": 212.8,
+      "duration": 2.6,
+      "end": 215.4
+    },
+    {
+      "text": "We shouldn't finish the contract. It",
+      "start": 213.88,
+      "duration": 2.93,
+      "end": 216.81
+    },
+    {
+      "text": "would be a waste of your money.",
+      "start": 215.4,
+      "duration": 3.0,
+      "end": 218.4
+    },
+    {
+      "text": ">> [music]",
+      "start": 216.81,
+      "duration": 3.35,
+      "end": 220.16
+    },
+    {
+      "text": ">> There's one more thing. I still need the",
+      "start": 218.4,
+      "duration": 4.08,
+      "end": 222.48
+    },
+    {
+      "text": "money, the $5 million remaining on our",
+      "start": 220.16,
+      "duration": 4.56,
+      "end": 224.72
+    },
+    {
+      "text": "contract. Please put it into Nvidia as",
+      "start": 222.48,
+      "duration": 4.4,
+      "end": 226.88
+    },
+    {
+      "text": "an investment instead. Otherwise, we'll",
+      "start": 224.72,
+      "duration": 3.22,
+      "end": 227.94
+    },
+    {
+      "text": "vaporize overnight.",
+      "start": 226.88,
+      "duration": 1.92,
+      "end": 228.8
+    },
+    {
+      "text": ">> [music]",
+      "start": 227.94,
+      "duration": 2.94,
+      "end": 230.88
+    },
+    {
+      "text": ">> I have nothing to offer you. This money",
+      "start": 228.8,
+      "duration": 4.16,
+      "end": 232.96
+    },
+    {
+      "text": "will most likely be lost, but I'm asking",
+      "start": 230.88,
+      "duration": 4.24,
+      "end": 235.12
+    },
+    {
+      "text": "anyway.",
+      "start": 232.96,
+      "duration": 3.96,
+      "end": 236.92
+    },
+    {
+      "text": "I'll need a few days.",
+      "start": 235.12,
+      "duration": 3.68,
+      "end": 238.8
+    },
+    {
+      "text": "Jensen [music] bowed, walked out, and",
+      "start": 236.92,
+      "duration": 4.12,
+      "end": 241.04
+    },
+    {
+      "text": "got on a plane. Nothing to do now but",
+      "start": 238.8,
+      "duration": 4.56,
+      "end": 243.36
+    },
+    {
+      "text": "sit, and wait, and watch the Pacific",
+      "start": 241.04,
+      "duration": 4.4,
+      "end": 245.44
+    },
+    {
+      "text": "stretch out beneath him.",
+      "start": 243.36,
+      "duration": 4.76,
+      "end": 248.12
+    },
+    {
+      "text": "Jensen, you might want to see this.",
+      "start": 245.44,
+      "duration": 5.0,
+      "end": 250.44
+    },
+    {
+      "text": "He opens [music] it, eyes wide. It's a",
+      "start": 248.12,
+      "duration": 5.64,
+      "end": 253.76
+    },
+    {
+      "text": "massive 10% offer on the value of",
+      "start": 250.44,
+      "duration": 4.6,
+      "end": 255.04
+    },
+    {
+      "text": "BetterHelp.",
+      "start": 253.76,
+      "duration": 2.92,
+      "end": 256.68
+    },
+    {
+      "text": "Just kidding.",
+      "start": 255.04,
+      "duration": 3.64,
+      "end": 258.68
+    },
+    {
+      "text": "Let's be real for a second. When the",
+      "start": 256.68,
+      "duration": 3.92,
+      "end": 260.6
+    },
+    {
+      "text": "outcome is completely out of your hands,",
+      "start": 258.68,
+      "duration": 5.12,
+      "end": 263.8
+    },
+    {
+      "text": "the anxiety Did I make the right call?",
+      "start": 260.6,
+      "duration": 5.24,
+      "end": 265.84
+    },
+    {
+      "text": "That noise won't switch off. It doesn't",
+      "start": 263.8,
+      "duration": 3.84,
+      "end": 267.64
+    },
+    {
+      "text": "go away on its own.",
+      "start": 265.84,
+      "duration": 4.12,
+      "end": 269.96
+    },
+    {
+      "text": "The hardest part for me was noticing the",
+      "start": 267.64,
+      "duration": 3.56,
+      "end": 271.2
+    },
+    {
+      "text": "pattern.",
+      "start": 269.96,
+      "duration": 3.12,
+      "end": 273.08
+    },
+    {
+      "text": "I was pushing through instead of",
+      "start": 271.2,
+      "duration": 4.08,
+      "end": 275.28
+    },
+    {
+      "text": "actually dealing with anything.",
+      "start": 273.08,
+      "duration": 4.52,
+      "end": 277.6
+    },
+    {
+      "text": "My therapist asked me one question.",
+      "start": 275.28,
+      "duration": 4.28,
+      "end": 279.56
+    },
+    {
+      "text": "Are you solving something, or are you",
+      "start": 277.6,
+      "duration": 3.72,
+      "end": 281.32
+    },
+    {
+      "text": "rehearsing a disaster?",
+      "start": 279.56,
+      "duration": 3.84,
+      "end": 283.4
+    },
+    {
+      "text": "I didn't have an answer. Just having a",
+      "start": 281.32,
+      "duration": 3.84,
+      "end": 285.16
+    },
+    {
+      "text": "name for what I was doing,",
+      "start": 283.4,
+      "duration": 4.6,
+      "end": 288.0
+    },
+    {
+      "text": "that single reframe broke the loop.",
+      "start": 285.16,
+      "duration": 4.24,
+      "end": 289.4
+    },
+    {
+      "text": "BetterHelp, the paid [music] partner of",
+      "start": 288.0,
+      "duration": 3.72,
+      "end": 291.72
+    },
+    {
+      "text": "today's video, makes starting therapy",
+      "start": 289.4,
+      "duration": 3.56,
+      "end": 292.96
+    },
+    {
+      "text": "easier.",
+      "start": 291.72,
+      "duration": 3.12,
+      "end": 294.84
+    },
+    {
+      "text": "Take a short quiz, get matched with a",
+      "start": 292.96,
+      "duration": 3.76,
+      "end": 296.72
+    },
+    {
+      "text": "credential therapist, and meet by phone,",
+      "start": 294.84,
+      "duration": 4.8,
+      "end": 299.64
+    },
+    {
+      "text": "[music] video, or text. Whatever works",
+      "start": 296.72,
+      "duration": 4.4,
+      "end": 301.12
+    },
+    {
+      "text": "for your schedule.",
+      "start": 299.64,
+      "duration": 3.32,
+      "end": 302.96
+    },
+    {
+      "text": "If it's not the right fit, switching",
+      "start": 301.12,
+      "duration": 4.08,
+      "end": 305.2
+    },
+    {
+      "text": "costs nothing extra.",
+      "start": 302.96,
+      "duration": 3.84,
+      "end": 306.8
+    },
+    {
+      "text": "And it's working.",
+      "start": 305.2,
+      "duration": 3.31,
+      "end": 308.51
+    },
+    {
+      "text": "Over 6 million people have gotten help",
+      "start": 306.8,
+      "duration": 4.08,
+      "end": 310.88
+    },
+    {
+      "text": "[music] through BetterHelp, rated 4.8",
+      "start": 308.51,
+      "duration": 4.53,
+      "end": 313.04
+    },
+    {
+      "text": "out of five on the App Store.",
+      "start": 310.88,
+      "duration": 2.87,
+      "end": 313.75
+    },
+    {
+      "text": "Click the link in the description,",
+      "start": 313.04,
+      "duration": 1.4,
+      "end": 314.44
+    },
+    {
+      "text": "[music]",
+      "start": 313.75,
+      "duration": 3.09,
+      "end": 316.84
+    },
+    {
+      "text": "or go to betterhelp.com/crowncapital",
+      "start": 314.44,
+      "duration": 5.08,
+      "end": 319.52
+    },
+    {
+      "text": "for 10% off your first month of therapy.",
+      "start": 316.84,
+      "duration": 3.92,
+      "end": 320.76
+    },
+    {
+      "text": "Every great ship [music] needs",
+      "start": 319.52,
+      "duration": 4.8,
+      "end": 324.32
+    },
+    {
+      "text": "maintenance. So do you.",
+      "start": 320.76,
+      "duration": 3.56,
+      "end": 324.32
+    },
+    {
+      "text": "Hello.",
+      "start": 325.32,
+      "duration": 3.52,
+      "end": 328.84
+    },
+    {
+      "text": "The money is coming.",
+      "start": 326.88,
+      "duration": 4.48,
+      "end": 331.36
+    },
+    {
+      "text": "The reason the Sega CEO said yes had",
+      "start": 328.84,
+      "duration": 4.44,
+      "end": 333.28
+    },
+    {
+      "text": "nothing to do with business logic. He",
+      "start": 331.36,
+      "duration": 4.12,
+      "end": 335.48
+    },
+    {
+      "text": "just liked Jensen.",
+      "start": 333.28,
+      "duration": 5.08,
+      "end": 338.36
+    },
+    {
+      "text": "That $5 million bought Nvidia 6 months.",
+      "start": 335.48,
+      "duration": 4.52,
+      "end": 340.0
+    },
+    {
+      "text": "And now they had one last shot to build",
+      "start": 338.36,
+      "duration": 2.9,
+      "end": 341.26
+    },
+    {
+      "text": "the right chip, or",
+      "start": 340.0,
+      "duration": 1.28,
+      "end": 341.28
+    },
+    {
+      "text": ">> [music]",
+      "start": 341.26,
+      "duration": 2.82,
+      "end": 344.08
+    },
+    {
+      "text": ">> go bankrupt.",
+      "start": 341.28,
+      "duration": 2.8,
+      "end": 344.08
+    },
+    {
+      "text": "They called it the Riva 128,",
+      "start": 344.24,
+      "duration": 3.68,
+      "end": 347.92
+    },
+    {
+      "text": "triangle-based, [music]",
+      "start": 346.92,
+      "duration": 4.44,
+      "end": 351.36
+    },
+    {
+      "text": "DirectX compatible, built from scratch.",
+      "start": 347.92,
+      "duration": 5.72,
+      "end": 353.64
+    },
+    {
+      "text": "Weeks of late nights, bad coffee, and",
+      "start": 351.36,
+      "duration": 5.32,
+      "end": 356.68
+    },
+    {
+      "text": "absolutely zero plan B. They had exactly",
+      "start": 353.64,
+      "duration": 4.44,
+      "end": 358.08
+    },
+    {
+      "text": "1 month of payroll [music] left in the",
+      "start": 356.68,
+      "duration": 4.32,
+      "end": 361.0
+    },
+    {
+      "text": "bank to find out if it worked.",
+      "start": 358.08,
+      "duration": 6.08,
+      "end": 364.16
+    },
+    {
+      "text": "The chip launched in 1997, and this time",
+      "start": 361.0,
+      "duration": 5.24,
+      "end": 366.24
+    },
+    {
+      "text": "Nvidia did not miss. Game developers",
+      "start": 364.16,
+      "duration": 3.92,
+      "end": 368.08
+    },
+    {
+      "text": "could actually use it. Customers",
+      "start": 366.24,
+      "duration": 3.72,
+      "end": 369.96
+    },
+    {
+      "text": "actually bought it. From the brink of",
+      "start": 368.08,
+      "duration": 5.2,
+      "end": 373.28
+    },
+    {
+      "text": "bankruptcy to a million units sold in 4",
+      "start": 369.96,
+      "duration": 4.32,
+      "end": 374.28
+    },
+    {
+      "text": "months.",
+      "start": 373.28,
+      "duration": 3.08,
+      "end": 376.36
+    },
+    {
+      "text": "Most CEOs would have taken a long",
+      "start": 374.28,
+      "duration": 4.2,
+      "end": 378.48
+    },
+    {
+      "text": "vacation and slow down a bit.",
+      "start": 376.36,
+      "duration": 3.96,
+      "end": 380.32
+    },
+    {
+      "text": "He walked back into the office and wrote",
+      "start": 378.48,
+      "duration": 3.92,
+      "end": 382.4
+    },
+    {
+      "text": "one word on the whiteboard.",
+      "start": 380.32,
+      "duration": 4.04,
+      "end": 384.36
+    },
+    {
+      "text": "More.",
+      "start": 382.4,
+      "duration": 5.0,
+      "end": 387.4
+    },
+    {
+      "text": "So, by 1999, Nvidia launched the GeForce",
+      "start": 384.36,
+      "duration": 5.36,
+      "end": 389.72
+    },
+    {
+      "text": "256 and gave the world a term it didn't",
+      "start": 387.4,
+      "duration": 4.8,
+      "end": 392.2
+    },
+    {
+      "text": "really have yet, GPU.",
+      "start": 389.72,
+      "duration": 4.56,
+      "end": 394.28
+    },
+    {
+      "text": "Graphics processing unit.",
+      "start": 392.2,
+      "duration": 4.2,
+      "end": 396.4
+    },
+    {
+      "text": "It was a genuine leap. A chip that",
+      "start": 394.28,
+      "duration": 4.56,
+      "end": 398.84
+    },
+    {
+      "text": "handled complex 3D calculations that",
+      "start": 396.4,
+      "duration": 4.56,
+      "end": 400.96
+    },
+    {
+      "text": "previously required an entirely separate",
+      "start": 398.84,
+      "duration": 3.99,
+      "end": 402.83
+    },
+    {
+      "text": "processor. For gamers,",
+      "start": 400.96,
+      "duration": 2.04,
+      "end": 403.0
+    },
+    {
+      "text": ">> [music]",
+      "start": 402.83,
+      "duration": 2.17,
+      "end": 405.0
+    },
+    {
+      "text": ">> this meant smoother worlds, better",
+      "start": 403.0,
+      "duration": 3.8,
+      "end": 406.8
+    },
+    {
+      "text": "lighting, and monsters that looked",
+      "start": 405.0,
+      "duration": 4.24,
+      "end": 409.24
+    },
+    {
+      "text": "slightly less like wet cardboard. Gamers",
+      "start": 406.8,
+      "duration": 4.24,
+      "end": 411.04
+    },
+    {
+      "text": "loved it. Developers wept [music] with",
+      "start": 409.24,
+      "duration": 2.8,
+      "end": 412.04
+    },
+    {
+      "text": "joy.",
+      "start": 411.04,
+      "duration": 3.44,
+      "end": 414.48
+    },
+    {
+      "text": "Revenue exploded. And by the early",
+      "start": 412.04,
+      "duration": 5.36,
+      "end": 417.4
+    },
+    {
+      "text": "2000s, Nvidia had become the king of PC",
+      "start": 414.48,
+      "duration": 5.64,
+      "end": 420.12
+    },
+    {
+      "text": "graphics. Every serious gamer, every",
+      "start": 417.4,
+      "duration": 4.68,
+      "end": 422.08
+    },
+    {
+      "text": "visual effects studio, every game",
+      "start": 420.12,
+      "duration": 4.08,
+      "end": 424.2
+    },
+    {
+      "text": "developer on the planet. The obvious",
+      "start": 422.08,
+      "duration": 4.04,
+      "end": 426.12
+    },
+    {
+      "text": "move was simple. Keep making better",
+      "start": 424.2,
+      "duration": 4.12,
+      "end": 428.32
+    },
+    {
+      "text": "gaming chips, sell them to gamers,",
+      "start": 426.12,
+      "duration": 4.4,
+      "end": 430.52
+    },
+    {
+      "text": "become rich, buy a very large leather",
+      "start": 428.32,
+      "duration": 3.6,
+      "end": 431.92
+    },
+    {
+      "text": "jacket museum.",
+      "start": 430.52,
+      "duration": 2.92,
+      "end": 433.44
+    },
+    {
+      "text": "But Jensen started looking at something",
+      "start": 431.92,
+      "duration": 3.28,
+      "end": 435.2
+    },
+    {
+      "text": "other people missed.",
+      "start": 433.44,
+      "duration": 4.88,
+      "end": 438.32
+    },
+    {
+      "text": "A CPU is like one very smart employee",
+      "start": 435.2,
+      "duration": 6.4,
+      "end": 441.6
+    },
+    {
+      "text": "doing tasks one by one extremely fast.",
+      "start": 438.32,
+      "duration": 6.28,
+      "end": 444.6
+    },
+    {
+      "text": "Meanwhile, a GPU is like 10,000 interns",
+      "start": 441.6,
+      "duration": 5.16,
+      "end": 446.76
+    },
+    {
+      "text": "doing [music] tiny calculations at once.",
+      "start": 444.6,
+      "duration": 3.92,
+      "end": 448.52
+    },
+    {
+      "text": "Are the interns smart?",
+      "start": 446.76,
+      "duration": 2.8,
+      "end": 449.56
+    },
+    {
+      "text": "No.",
+      "start": 448.52,
+      "duration": 2.72,
+      "end": 451.24
+    },
+    {
+      "text": "But there are a lot of them, and if your",
+      "start": 449.56,
+      "duration": 3.36,
+      "end": 452.92
+    },
+    {
+      "text": "problem can be broken into thousands of",
+      "start": 451.24,
+      "duration": 4.56,
+      "end": 455.8
+    },
+    {
+      "text": "small calculations, physics, chemistry,",
+      "start": 452.92,
+      "duration": 5.0,
+      "end": 457.92
+    },
+    {
+      "text": "weather, biology, artificial",
+      "start": 455.8,
+      "duration": 3.36,
+      "end": 459.16
+    },
+    {
+      "text": "intelligence,",
+      "start": 457.92,
+      "duration": 3.21,
+      "end": 461.12
+    },
+    {
+      "text": "suddenly, the chip built for video games",
+      "start": 459.16,
+      "duration": 3.64,
+      "end": 462.8
+    },
+    {
+      "text": "[music] starts looking like something",
+      "start": 461.12,
+      "duration": 4.24,
+      "end": 465.36
+    },
+    {
+      "text": "else, a cheap supercomputer.",
+      "start": 462.8,
+      "duration": 4.84,
+      "end": 467.64
+    },
+    {
+      "text": "Jensen looked at this and thought, \"What",
+      "start": 465.36,
+      "duration": 3.6,
+      "end": 468.96
+    },
+    {
+      "text": "if the same chip that rendered",
+      "start": 467.64,
+      "duration": 3.32,
+      "end": 470.96
+    },
+    {
+      "text": "explosions in video games could help",
+      "start": 468.96,
+      "duration": 4.4,
+      "end": 473.36
+    },
+    {
+      "text": "simulate molecules, predict weather,",
+      "start": 470.96,
+      "duration": 4.48,
+      "end": 475.44
+    },
+    {
+      "text": "model fluids, and maybe one day train",
+      "start": 473.36,
+      "duration": 3.92,
+      "end": 477.28
+    },
+    {
+      "text": "machines to think?\"",
+      "start": 475.44,
+      "duration": 5.28,
+      "end": 480.72
+    },
+    {
+      "text": "So, in 2006, Nvidia launched CUDA,",
+      "start": 477.28,
+      "duration": 5.96,
+      "end": 483.24
+    },
+    {
+      "text": "Compute Unified Device Architecture, a",
+      "start": 480.72,
+      "duration": 3.92,
+      "end": 484.64
+    },
+    {
+      "text": "platform that let scientists,",
+      "start": 483.24,
+      "duration": 3.92,
+      "end": 487.16
+    },
+    {
+      "text": "researchers, and engineers use Nvidia",
+      "start": 484.64,
+      "duration": 4.2,
+      "end": 488.84
+    },
+    {
+      "text": "GPUs [music] for general-purpose",
+      "start": 487.16,
+      "duration": 2.84,
+      "end": 490.0
+    },
+    {
+      "text": "computing.",
+      "start": 488.84,
+      "duration": 3.48,
+      "end": 492.32
+    },
+    {
+      "text": "And then, he committed roughly $500",
+      "start": 490.0,
+      "duration": 4.76,
+      "end": 494.76
+    },
+    {
+      "text": "million to build it.",
+      "start": 492.32,
+      "duration": 3.96,
+      "end": 496.28
+    },
+    {
+      "text": "Jensen,",
+      "start": 494.76,
+      "duration": 3.76,
+      "end": 498.52
+    },
+    {
+      "text": "the gaming business is printing money.",
+      "start": 496.28,
+      "duration": 3.88,
+      "end": 500.16
+    },
+    {
+      "text": "Walk me through who CUDA is actually",
+      "start": 498.52,
+      "duration": 2.88,
+      "end": 501.4
+    },
+    {
+      "text": "for.",
+      "start": 500.16,
+      "duration": 3.76,
+      "end": 503.92
+    },
+    {
+      "text": "Researchers, scientists, people running",
+      "start": 501.4,
+      "duration": 4.76,
+      "end": 506.16
+    },
+    {
+      "text": "fluid dynamics simulations, climate",
+      "start": 503.92,
+      "duration": 4.4,
+      "end": 508.32
+    },
+    {
+      "text": "models, drug discovery?",
+      "start": 506.16,
+      "duration": 4.64,
+      "end": 510.8
+    },
+    {
+      "text": "So, not our customers.",
+      "start": 508.32,
+      "duration": 3.76,
+      "end": 512.08
+    },
+    {
+      "text": "Not yet.",
+      "start": 510.8,
+      "duration": 3.36,
+      "end": 514.16
+    },
+    {
+      "text": "I'm starting to hate that phrase. This",
+      "start": 512.08,
+      "duration": 4.48,
+      "end": 516.56
+    },
+    {
+      "text": "is our CUDA revenue after 2 years. Do",
+      "start": 514.16,
+      "duration": 3.72,
+      "end": 517.88
+    },
+    {
+      "text": "you see a number?",
+      "start": 516.56,
+      "duration": 2.72,
+      "end": 519.28
+    },
+    {
+      "text": "Not today.",
+      "start": 517.88,
+      "duration": 4.2,
+      "end": 522.08
+    },
+    {
+      "text": "Jensen, this is not a business. We are",
+      "start": 519.28,
+      "duration": 5.76,
+      "end": 525.04
+    },
+    {
+      "text": "subsidizing a hobby for PhD students.",
+      "start": 522.08,
+      "duration": 5.0,
+      "end": 527.08
+    },
+    {
+      "text": "PhD students are where the future",
+      "start": 525.04,
+      "duration": 4.44,
+      "end": 529.48
+    },
+    {
+      "text": "starts. For the first time, they can use",
+      "start": 527.08,
+      "duration": 4.84,
+      "end": 531.92
+    },
+    {
+      "text": "a gaming chip like a supercomputer.",
+      "start": 529.48,
+      "duration": 3.68,
+      "end": 533.16
+    },
+    {
+      "text": "We don't know what they'll build with",
+      "start": 531.92,
+      "duration": 2.64,
+      "end": 534.56
+    },
+    {
+      "text": "it. But when they build [music]",
+      "start": 533.16,
+      "duration": 3.76,
+      "end": 536.92
+    },
+    {
+      "text": "something important, it will run on us.",
+      "start": 534.56,
+      "duration": 4.28,
+      "end": 538.84
+    },
+    {
+      "text": "If they build nothing,",
+      "start": 536.92,
+      "duration": 3.72,
+      "end": 540.64
+    },
+    {
+      "text": "we still have the best gaming cards in",
+      "start": 538.84,
+      "duration": 4.48,
+      "end": 543.32
+    },
+    {
+      "text": "the world and a $500 million science",
+      "start": 540.64,
+      "duration": 5.64,
+      "end": 546.28
+    },
+    {
+      "text": "project. We've survived worse.",
+      "start": 543.32,
+      "duration": 3.12,
+      "end": 546.44
+    },
+    {
+      "text": ">> [music]",
+      "start": 546.28,
+      "duration": 2.44,
+      "end": 548.72
+    },
+    {
+      "text": ">> Six years passed. The gaming business",
+      "start": 546.44,
+      "duration": 4.56,
+      "end": 551.0
+    },
+    {
+      "text": "kept printing money. CUDA kept printing",
+      "start": 548.72,
+      "duration": 3.56,
+      "end": 552.28
+    },
+    {
+      "text": "almost nothing.",
+      "start": 551.0,
+      "duration": 3.32,
+      "end": 554.32
+    },
+    {
+      "text": "And Jensen kept waiting for the problem",
+      "start": 552.28,
+      "duration": 3.88,
+      "end": 556.16
+    },
+    {
+      "text": "big enough to prove him right.",
+      "start": 554.32,
+      "duration": 5.88,
+      "end": 560.2
+    },
+    {
+      "text": "Then, in Toronto, someone found it.",
+      "start": 556.16,
+      "duration": 6.92,
+      "end": 563.08
+    },
+    {
+      "text": "It's 2012. Every year, the world's top",
+      "start": 560.2,
+      "duration": 4.42,
+      "end": 564.62
+    },
+    {
+      "text": "AI researchers compete in a challenge",
+      "start": 563.08,
+      "duration": 4.2,
+      "end": 567.28
+    },
+    {
+      "text": "[music] called ImageNet. Tens of",
+      "start": 564.62,
+      "duration": 4.82,
+      "end": 569.44
+    },
+    {
+      "text": "millions of images, and your software",
+      "start": 567.28,
+      "duration": 4.32,
+      "end": 571.6
+    },
+    {
+      "text": "has to identify what's in them.",
+      "start": 569.44,
+      "duration": 4.72,
+      "end": 574.16
+    },
+    {
+      "text": "You see the Toronto submission? Some PhD",
+      "start": 571.6,
+      "duration": 4.0,
+      "end": 575.6
+    },
+    {
+      "text": "student [music] who running a a network",
+      "start": 574.16,
+      "duration": 3.72,
+      "end": 577.88
+    },
+    {
+      "text": "on gaming cards. We've been hand-coding",
+      "start": 575.6,
+      "duration": 4.52,
+      "end": 580.12
+    },
+    {
+      "text": "classifiers for a decade. Gaming cards",
+      "start": 577.88,
+      "duration": 3.88,
+      "end": 581.76
+    },
+    {
+      "text": "aren't going to crack this.",
+      "start": 580.12,
+      "duration": 2.96,
+      "end": 583.08
+    },
+    {
+      "text": "Ladies and gentlemen, thank you for",
+      "start": 581.76,
+      "duration": 2.64,
+      "end": 584.4
+    },
+    {
+      "text": "waiting.",
+      "start": 583.08,
+      "duration": 3.76,
+      "end": 586.84
+    },
+    {
+      "text": "The ImageNet [music] 2012 results are",
+      "start": 584.4,
+      "duration": 5.88,
+      "end": 590.28
+    },
+    {
+      "text": "final. Second place, University of Tokyo",
+      "start": 586.84,
+      "duration": 6.84,
+      "end": 593.68
+    },
+    {
+      "text": "with a 26.2% error rate. And this year's",
+      "start": 590.28,
+      "duration": 4.4,
+      "end": 594.68
+    },
+    {
+      "text": "winner,",
+      "start": 593.68,
+      "duration": 5.32,
+      "end": 599.0
+    },
+    {
+      "text": "University of Toronto, AlexNet, 15.3%.",
+      "start": 594.68,
+      "duration": 6.16,
+      "end": 600.84
+    },
+    {
+      "text": "I'm sorry, 15?",
+      "start": 599.0,
+      "duration": 4.92,
+      "end": 603.92
+    },
+    {
+      "text": "That's not a win. That's a murder scene.",
+      "start": 600.84,
+      "duration": 4.96,
+      "end": 605.8
+    },
+    {
+      "text": "For years, researchers have been trying",
+      "start": 603.92,
+      "duration": 3.56,
+      "end": 607.48
+    },
+    {
+      "text": "to teach computers how to see by",
+      "start": 605.8,
+      "duration": 3.24,
+      "end": 609.04
+    },
+    {
+      "text": "manually designing the features they",
+      "start": 607.48,
+      "duration": 2.88,
+      "end": 610.36
+    },
+    {
+      "text": "should look for.",
+      "start": 609.04,
+      "duration": 5.4,
+      "end": 614.44
+    },
+    {
+      "text": "Edges, textures, shapes, patterns.",
+      "start": 610.36,
+      "duration": 6.56,
+      "end": 616.92
+    },
+    {
+      "text": "AlexNet took a different path. Give the",
+      "start": 614.44,
+      "duration": 4.52,
+      "end": 618.96
+    },
+    {
+      "text": "neural network enough data, enough",
+      "start": 616.92,
+      "duration": 4.72,
+      "end": 621.64
+    },
+    {
+      "text": "layers, and enough computing power,",
+      "start": 618.96,
+      "duration": 5.36,
+      "end": 624.32
+    },
+    {
+      "text": "and let it learn the features itself.",
+      "start": 621.64,
+      "duration": 4.6,
+      "end": 626.24
+    },
+    {
+      "text": "Training a neural network requires",
+      "start": 624.32,
+      "duration": 4.08,
+      "end": 628.4
+    },
+    {
+      "text": "millions of small calculations happening",
+      "start": 626.24,
+      "duration": 3.72,
+      "end": 629.96
+    },
+    {
+      "text": "at the same time.",
+      "start": 628.4,
+      "duration": 3.68,
+      "end": 632.08
+    },
+    {
+      "text": "Exactly the kind of work that Nvidia had",
+      "start": 629.96,
+      "duration": 5.16,
+      "end": 635.12
+    },
+    {
+      "text": "been quietly perfecting for 6 years.",
+      "start": 632.08,
+      "duration": 4.59,
+      "end": 636.67
+    },
+    {
+      "text": "The $500 million bet",
+      "start": 635.12,
+      "duration": 1.6,
+      "end": 636.72
+    },
+    {
+      "text": ">> [music]",
+      "start": 636.67,
+      "duration": 2.13,
+      "end": 638.8
+    },
+    {
+      "text": ">> had finally found its customer.",
+      "start": 636.72,
+      "duration": 4.08,
+      "end": 640.8
+    },
+    {
+      "text": "Suddenly, every major AI lab started",
+      "start": 638.8,
+      "duration": 6.32,
+      "end": 645.12
+    },
+    {
+      "text": "paying attention. Stanford, MIT, Google,",
+      "start": 640.8,
+      "duration": 6.56,
+      "end": 647.36
+    },
+    {
+      "text": "Meta, Microsoft.",
+      "start": 645.12,
+      "duration": 3.99,
+      "end": 649.11
+    },
+    {
+      "text": "They weren't just buying graphics cards",
+      "start": 647.36,
+      "duration": 3.04,
+      "end": 650.4
+    },
+    {
+      "text": "[music] anymore.",
+      "start": 649.11,
+      "duration": 2.57,
+      "end": 651.68
+    },
+    {
+      "text": "They were buying computing power for",
+      "start": 650.4,
+      "duration": 3.08,
+      "end": 653.48
+    },
+    {
+      "text": "intelligence itself.",
+      "start": 651.68,
+      "duration": 3.84,
+      "end": 655.52
+    },
+    {
+      "text": "And Nvidia had the hardware, the",
+      "start": 653.48,
+      "duration": 4.88,
+      "end": 658.36
+    },
+    {
+      "text": "software, and the scale to deliver it.",
+      "start": 655.52,
+      "duration": 5.38,
+      "end": 660.9
+    },
+    {
+      "text": "Great news for Nvidia, until in 2022,",
+      "start": 658.36,
+      "duration": 3.28,
+      "end": 661.64
+    },
+    {
+      "text": "[music]",
+      "start": 660.9,
+      "duration": 4.02,
+      "end": 664.92
+    },
+    {
+      "text": "Washington made a phone call.",
+      "start": 661.64,
+      "duration": 3.28,
+      "end": 664.92
+    },
+    {
+      "text": "Before Washington called, Jensen had",
+      "start": 665.24,
+      "duration": 3.68,
+      "end": 668.92
+    },
+    {
+      "text": "already tried to fix Nvidia's biggest",
+      "start": 667.12,
+      "duration": 3.84,
+      "end": 670.96
+    },
+    {
+      "text": "weakness. Because Nvidia designed the",
+      "start": 668.92,
+      "duration": 3.12,
+      "end": 672.04
+    },
+    {
+      "text": "chips,",
+      "start": 670.96,
+      "duration": 2.72,
+      "end": 673.68
+    },
+    {
+      "text": "but it didn't make them.",
+      "start": 672.04,
+      "duration": 4.2,
+      "end": 676.24
+    },
+    {
+      "text": "That job belonged mostly to TSMC in",
+      "start": 673.68,
+      "duration": 3.84,
+      "end": 677.52
+    },
+    {
+      "text": "Taiwan.",
+      "start": 676.24,
+      "duration": 2.84,
+      "end": 679.08
+    },
+    {
+      "text": "And he didn't own the underlying",
+      "start": 677.52,
+      "duration": 3.16,
+      "end": 680.68
+    },
+    {
+      "text": "architecture, the fundamental",
+      "start": 679.08,
+      "duration": 3.76,
+      "end": 682.84
+    },
+    {
+      "text": "instruction set that tells processors",
+      "start": 680.68,
+      "duration": 3.6,
+      "end": 684.28
+    },
+    {
+      "text": "how to think.",
+      "start": 682.84,
+      "duration": 2.92,
+      "end": 685.76
+    },
+    {
+      "text": "That belonged to a British company",
+      "start": 684.28,
+      "duration": 2.8,
+      "end": 687.08
+    },
+    {
+      "text": "called ARM.",
+      "start": 685.76,
+      "duration": 3.52,
+      "end": 689.28
+    },
+    {
+      "text": "A company whose technology sat inside",
+      "start": 687.08,
+      "duration": 4.84,
+      "end": 691.92
+    },
+    {
+      "text": "virtually every smartphone on Earth.",
+      "start": 689.28,
+      "duration": 6.44,
+      "end": 695.72
+    },
+    {
+      "text": "Apple, Samsung, Qualcomm, your pocket.",
+      "start": 691.92,
+      "duration": 6.36,
+      "end": 698.28
+    },
+    {
+      "text": "Their DNA, not Jensen's.",
+      "start": 695.72,
+      "duration": 4.24,
+      "end": 699.96
+    },
+    {
+      "text": "So, for all of Nvidia's power, [music]",
+      "start": 698.28,
+      "duration": 3.8,
+      "end": 702.08
+    },
+    {
+      "text": "Jensen was still renting the building.",
+      "start": 699.96,
+      "duration": 3.88,
+      "end": 703.84
+    },
+    {
+      "text": "He owned the furniture.",
+      "start": 702.08,
+      "duration": 2.71,
+      "end": 704.79
+    },
+    {
+      "text": "So, in 2020,",
+      "start": 703.84,
+      "duration": 1.04,
+      "end": 704.88
+    },
+    {
+      "text": ">> [music]",
+      "start": 704.79,
+      "duration": 3.13,
+      "end": 707.92
+    },
+    {
+      "text": ">> Jensen made his move. Nvidia offered $40",
+      "start": 704.88,
+      "duration": 4.68,
+      "end": 709.56
+    },
+    {
+      "text": "to buy ARM.",
+      "start": 707.92,
+      "duration": 4.32,
+      "end": 712.24
+    },
+    {
+      "text": "Own the GPU, own the software, own the",
+      "start": 709.56,
+      "duration": 4.64,
+      "end": 714.2
+    },
+    {
+      "text": "architecture. Simple.",
+      "start": 712.24,
+      "duration": 3.48,
+      "end": 715.72
+    },
+    {
+      "text": "Unless you were literally everyone else",
+      "start": 714.2,
+      "duration": 2.88,
+      "end": 717.08
+    },
+    {
+      "text": "in tech.",
+      "start": 715.72,
+      "duration": 4.0,
+      "end": 719.72
+    },
+    {
+      "text": "Nvidia cannot own ARM. Agreed. Agreed.",
+      "start": 717.08,
+      "duration": 3.92,
+      "end": 721.0
+    },
+    {
+      "text": "Also agreed.",
+      "start": 719.72,
+      "duration": 4.4,
+      "end": 724.12
+    },
+    {
+      "text": "Wow, I hate how united we are. If Jensen",
+      "start": 721.0,
+      "duration": 5.44,
+      "end": 726.44
+    },
+    {
+      "text": "owns ARM, then every chip we build runs",
+      "start": 724.12,
+      "duration": 4.32,
+      "end": 728.44
+    },
+    {
+      "text": "through our most dangerous competitor.",
+      "start": 726.44,
+      "duration": 2.58,
+      "end": 729.02
+    },
+    {
+      "text": "Phones,",
+      "start": 728.44,
+      "duration": 0.72,
+      "end": 729.16
+    },
+    {
+      "text": ">> [music]",
+      "start": 729.02,
+      "duration": 3.5,
+      "end": 732.52
+    },
+    {
+      "text": ">> servers, AI chips, everything. So, what",
+      "start": 729.16,
+      "duration": 4.44,
+      "end": 733.6
+    },
+    {
+      "text": "do we do?",
+      "start": 732.52,
+      "duration": 2.64,
+      "end": 735.16
+    },
+    {
+      "text": "We complain to every regulator with an",
+      "start": 733.6,
+      "duration": 3.64,
+      "end": 737.24
+    },
+    {
+      "text": "email address.",
+      "start": 735.16,
+      "duration": 5.28,
+      "end": 740.44
+    },
+    {
+      "text": "And they did. The FTC sued. The European",
+      "start": 737.24,
+      "duration": 5.4,
+      "end": 742.64
+    },
+    {
+      "text": "Commission investigated. The UK blocked",
+      "start": 740.44,
+      "duration": 4.24,
+      "end": 744.68
+    },
+    {
+      "text": "it on national security grounds.",
+      "start": 742.64,
+      "duration": 4.76,
+      "end": 747.4
+    },
+    {
+      "text": "18 months later, Nvidia walked away.",
+      "start": 744.68,
+      "duration": 5.8,
+      "end": 750.48
+    },
+    {
+      "text": "Then Washington called. Mr. Huang,",
+      "start": 747.4,
+      "duration": 5.16,
+      "end": 752.56
+    },
+    {
+      "text": "effective immediately, advanced AI",
+      "start": 750.48,
+      "duration": 4.09,
+      "end": 754.57
+    },
+    {
+      "text": "chips, the H100,",
+      "start": 752.56,
+      "duration": 2.16,
+      "end": 754.72
+    },
+    {
+      "text": ">> [music]",
+      "start": 754.57,
+      "duration": 2.75,
+      "end": 757.32
+    },
+    {
+      "text": ">> can no longer be exported to China.",
+      "start": 754.72,
+      "duration": 4.6,
+      "end": 759.32
+    },
+    {
+      "text": "How much revenue are we talking about?",
+      "start": 757.32,
+      "duration": 4.12,
+      "end": 761.44
+    },
+    {
+      "text": "That sounds like a you problem.",
+      "start": 759.32,
+      "duration": 4.04,
+      "end": 763.36
+    },
+    {
+      "text": "Just like that, some of Nvidia's biggest",
+      "start": 761.44,
+      "duration": 3.76,
+      "end": 765.2
+    },
+    {
+      "text": "customers were cut off.",
+      "start": 763.36,
+      "duration": 5.72,
+      "end": 769.08
+    },
+    {
+      "text": "Alibaba, Baidu, ByteDance, China's AI",
+      "start": 765.2,
+      "duration": 5.16,
+      "end": 770.36
+    },
+    {
+      "text": "companies,",
+      "start": 769.08,
+      "duration": 2.36,
+      "end": 771.44
+    },
+    {
+      "text": "gone.",
+      "start": 770.36,
+      "duration": 3.56,
+      "end": 773.92
+    },
+    {
+      "text": "So, Nvidia did what Nvidia always did.",
+      "start": 771.44,
+      "duration": 4.6,
+      "end": 776.04
+    },
+    {
+      "text": "It engineered around the problem.",
+      "start": 773.92,
+      "duration": 4.8,
+      "end": 778.72
+    },
+    {
+      "text": "They built a weaker version, the H800,",
+      "start": 776.04,
+      "duration": 5.32,
+      "end": 781.36
+    },
+    {
+      "text": "designed to fit inside the rules.",
+      "start": 778.72,
+      "duration": 4.67,
+      "end": 783.39
+    },
+    {
+      "text": "Legal enough to ship. Powerful enough",
+      "start": 781.36,
+      "duration": 3.24,
+      "end": 784.6
+    },
+    {
+      "text": "[music] to sell.",
+      "start": 783.39,
+      "duration": 3.21,
+      "end": 786.6
+    },
+    {
+      "text": "For about 5 minutes, because by late",
+      "start": 784.6,
+      "duration": 4.32,
+      "end": 788.92
+    },
+    {
+      "text": "2023, Washington tightened the rules",
+      "start": 786.6,
+      "duration": 3.28,
+      "end": 789.88
+    },
+    {
+      "text": "again.",
+      "start": 788.92,
+      "duration": 2.98,
+      "end": 791.9
+    },
+    {
+      "text": "The H800 was restricted to",
+      "start": 789.88,
+      "duration": 2.4,
+      "end": 792.28
+    },
+    {
+      "text": ">> [music]",
+      "start": 791.9,
+      "duration": 2.86,
+      "end": 794.76
+    },
+    {
+      "text": ">> The message was clear. Nvidia was now a",
+      "start": 792.28,
+      "duration": 4.52,
+      "end": 796.8
+    },
+    {
+      "text": "strategic weapon in America's technology",
+      "start": 794.76,
+      "duration": 3.6,
+      "end": 798.36
+    },
+    {
+      "text": "war with China.",
+      "start": 796.8,
+      "duration": 4.52,
+      "end": 801.32
+    },
+    {
+      "text": "Jensen wasn't just a CEO anymore. He was",
+      "start": 798.36,
+      "duration": 4.76,
+      "end": 803.12
+    },
+    {
+      "text": "a piece on someone else's chessboard,",
+      "start": 801.32,
+      "duration": 3.44,
+      "end": 804.76
+    },
+    {
+      "text": "moved by people he couldn't negotiate",
+      "start": 803.12,
+      "duration": 2.76,
+      "end": 805.88
+    },
+    {
+      "text": "with.",
+      "start": 804.76,
+      "duration": 3.2,
+      "end": 807.96
+    },
+    {
+      "text": "But while politics got messier, demand",
+      "start": 805.88,
+      "duration": 5.04,
+      "end": 810.92
+    },
+    {
+      "text": "got insane. OpenAI, Google, [music]",
+      "start": 807.96,
+      "duration": 6.6,
+      "end": 814.56
+    },
+    {
+      "text": "Anthropic, xAI, Microsoft. Everyone",
+      "start": 810.92,
+      "duration": 5.84,
+      "end": 816.76
+    },
+    {
+      "text": "building large AI models needed the same",
+      "start": 814.56,
+      "duration": 5.0,
+      "end": 819.56
+    },
+    {
+      "text": "thing, more Nvidia chips, more data",
+      "start": 816.76,
+      "duration": 5.92,
+      "end": 822.68
+    },
+    {
+      "text": "centers, more power, more cooling, more",
+      "start": 819.56,
+      "duration": 4.52,
+      "end": 824.08
+    },
+    {
+      "text": "everything.",
+      "start": 822.68,
+      "duration": 2.8,
+      "end": 825.48
+    },
+    {
+      "text": "Blackwell, Nvidia's next [music]",
+      "start": 824.08,
+      "duration": 3.12,
+      "end": 827.2
+    },
+    {
+      "text": "generation chip, was being ordered",
+      "start": 825.48,
+      "duration": 3.16,
+      "end": 828.64
+    },
+    {
+      "text": "before factories could even finish",
+      "start": 827.2,
+      "duration": 2.88,
+      "end": 830.08
+    },
+    {
+      "text": "making it.",
+      "start": 828.64,
+      "duration": 3.96,
+      "end": 832.6
+    },
+    {
+      "text": "By October 2025, Nvidia [music] crossed",
+      "start": 830.08,
+      "duration": 4.8,
+      "end": 834.88
+    },
+    {
+      "text": "$5 trillion in market value.",
+      "start": 832.6,
+      "duration": 4.04,
+      "end": 836.64
+    },
+    {
+      "text": "The most valuable company on Earth,",
+      "start": 834.88,
+      "duration": 4.92,
+      "end": 839.8
+    },
+    {
+      "text": "ahead of Google, ahead of Apple.",
+      "start": 836.64,
+      "duration": 4.68,
+      "end": 841.32
+    },
+    {
+      "text": "Not bad for a company that once had 30",
+      "start": 839.8,
+      "duration": 3.52,
+      "end": 843.32
+    },
+    {
+      "text": "days of cash left and one very wrong",
+      "start": 841.32,
+      "duration": 3.04,
+      "end": 844.36
+    },
+    {
+      "text": "chip.",
+      "start": 843.32,
+      "duration": 3.12,
+      "end": 846.44
+    },
+    {
+      "text": "None of it was supposed to work.",
+      "start": 844.36,
+      "duration": 3.68,
+      "end": 848.04
+    },
+    {
+      "text": "Every single [music] bet looked insane",
+      "start": 846.44,
+      "duration": 3.84,
+      "end": 850.28
+    },
+    {
+      "text": "from the outside, and every single one",
+      "start": 848.04,
+      "duration": 3.48,
+      "end": 851.52
+    },
+    {
+      "text": "paid off.",
+      "start": 850.28,
+      "duration": 3.28,
+      "end": 853.56
+    },
+    {
+      "text": "As what he himself [music] said,",
+      "start": 851.52,
+      "duration": 4.08,
+      "end": 855.6
+    },
+    {
+      "text": "\"My will to survive exceeds everybody",
+      "start": 853.56,
+      "duration": 5.24,
+      "end": 858.8
+    },
+    {
+      "text": "else's will to kill me.\"",
+      "start": 855.6,
+      "duration": 3.2,
+      "end": 858.8
+    }
+  ]
+}

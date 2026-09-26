@@ -1,0 +1,105 @@
+Title: Rivian's Collapse: What a $100 Billion Company Got So Wrong
+Channel: Low Volume Capital
+URL: https://www.youtube.com/watch?v=Egs18MwKKME
+
+On November 16th, 2021, Rivian was worth $153 billion. It had delivered a few hundred trucks. On that same day, it was worth more than General Motors and more than Ford, two companies that between them had been building cars for well over 200 years. Today, Rivian is worth around 23 billion.
+
+The company still exists. The factory still runs. Customers are still taking delivery, but roughly $130 billion of value evaporated in under 5 years. And almost none of it disappeared for the reason most people assume.
+
+So, how does the biggest American IPO in 7 years lose that much value while its assembly line keeps moving? Let's walk through the wreckage. The story starts in June 2009 in Rockledge, Florida with a 26-year-old named RJ Scaringe, who had just finished a PhD in mechanical engineering at MIT, where he had studied lean manufacturing. For a while, he was the only employee.
+
+He named the company Mainstream Motors, borrowed from his father's engineering firm, and funded the earliest work with family help, second mortgages, and Florida state development money. The first product was not a truck. It was a fuel-efficient sports coupe built around a lightweight aluminum frame, sent to a contract manufacturer in Michigan, and shipped back in late 2010 as a rough prototype the team nicknamed the Blue Thing. It was good enough to show investors.
+
+It was not good enough to build a company on. By the end of 2011, the sports car was shelved. The name had changed twice, and the business had been reset around a single idea that nobody else was chasing. Electric trucks and SUVs for people who drive into the outdoors.
+
+The name settled on Rivian, taken from the Indian River in Florida where Scaringe grew up. Then came the piece that made it real. In January 2017, with about 100 employees, Rivian bought Mitsubishi's shuttered plant in Normal, Illinois for $16 million. 2 and 1/2 million square feet, built to turn out 200,000 cars a year, sitting empty.
+
+In 2018, the R1T pickup and R1S SUV appeared at the Los Angeles Auto Show, and the industry paid attention. In 2019, Amazon led a $700 million investment and ordered 100,000 electric delivery vans. Ford put in 500 million. In September 2021, the first R1T rolled off the line, beating Tesla, Ford, and GM to market with a consumer electric pickup.
+
+Which brings us to the number that started this video. Rivian priced its IPO at $78 a share on November the 9th, 2021, well above the $57 to $62 range it had floated weeks earlier. It sold 153 million shares and raised $11.9 billion, the largest American IPO since Alibaba in 2014. The stock opened at 106.75 the next morning and closed the first day at 100.73, up 29%, which put Rivian's market value at about $86 billion, higher than Ford, level with GM, second most valuable American automaker behind Tesla.
+
+Six trading days later, on November 16th, it closed at 172.01. That was $153 billion of market capitalization, which is the total value of every share the company has issued, for a business that had recorded $55 million of revenue for the entire year. Rivian ended 2021 with $18.1 billion in cash, more money than it had ever had and more than most established carmakers keep on hand. Scaringe told investors the plant would build 50,000 vehicles in 2022.
+
+Wall Street believed him. Reservations were climbing, Amazon was locked in, and the company had capital to burn through several bad years without blinking. For now, everyone was happy. On December 16th, exactly 1 month after the peak, Rivian told investors it would miss its production target for the year.
+
+The stock dropped 10% the next day. But the missed target was not the problem. The problem was a decision the company had already made months before the IPO, and it would take 4 years to fully show up. Before we get to that decision, if you find these breakdowns useful, subscribing helps more than you would think.
+
+It costs you nothing, and it tells the algorithm to put this kind of story in front of people who actually want it. Here is that decision. Rivian chose to scale everything at once. Tesla had spent a decade climbing a ladder.
+
+Expensive halo car first, then a luxury sedan, then a mass-market model once the costs came down. Rivian looked at that ladder and decided to skip it. It launched two premium vehicles simultaneously, both averaging over $80,000. It committed to 100,000 commercial vans for Amazon on a separate platform.
+
+It built its own electrical architecture and software in-house instead of buying from suppliers. It built its own charging network. And in December 2021, it announced a second factory in Georgia, a $5 billion plant designed for 400,000 vehicles a year, supported by an incentive package worth up to $1.5 billion from the state. Vertical integration.
+
+That means building the parts and software yourself rather than buying them from suppliers, and it mattered here because it turns fixed costs into a permanent bet on volume you have not yet proven you can reach. For a while, it looked like a genius move. Owning the software stack is exactly why Volkswagen would later pay billions for access to it. And the Amazon contract looked like the safest revenue in the industry.
+
+A guaranteed buyer for 100,000 vans through 2030 that no other startup could claim. But a guaranteed buyer is also a guaranteed obligation. Rivian had to design, tool, and build an entirely separate commercial vehicle on a separate line at a price Amazon had already negotiated while it was still learning how to build its consumer trucks. Two product programs, one factory, and a workforce that had never mass-produced anything.
+
+Every one of those choices spent cash before it earned any. And Rivian was already losing an extraordinary amount per vehicle. Reuters reported in late 2022 that the company's cost of goods sold worked out to roughly $220,000 per car against an average selling price of about 81,000. Rivian was sold to investors as a manufacturing story.
+
+It was actually a cash-burn story wearing a manufacturing story's clothes. They had no way of knowing how quickly the market would stop funding companies like that. The first public crack showed up in the place that hurt most. Not the factory, the customers.
+
+The 50,000 vehicle target for 2022 was cut in half within months to 25,000. Then on March 1st, 2022, Rivian raised prices across the lineup, adding as much as $12,000 to the quad motor large pack versions of the R1T and R1S. Increases of up to 20%. And it applied them to people who had already reserved a truck, in some cases years earlier, with a refundable deposit and a configured price they thought was locked.
+
+The reaction was immediate. Reservation holders flooded the forums and social media with screenshots of canceled orders. One customer posted his canceled R1S confirmation and called it a bait and switch. These were early believers, the people who had waited through delays and defended the company online, and they were the ones being asked to absorb the cost of inflation.
+
+Two days later, Scaringe published an open letter. He honored original pricing for anyone who had reserved before March 1st, reinstated canceled orders at the old price, and wrote that the company had broken the trust it had spent years building. He called it the most painful mistake he had made in 12 years of running Rivian. The apology worked with customers.
+
+It did not work with the market. The stock fell to a record low near $50, well under the $78 IPO price, roughly 4 months after touching 172. Rivian finished 2022 having produced 24,337 vehicles and delivered 20,332. Revenue came in at $1.66 billion.
+
+The net loss for the year was $6.75 billion, four times what the company earned in revenue. And that was the year the outside world stopped cooperating. The macro turn hit growth companies harder than anything Rivian did to itself. Interest rates climbed through 2022 and 2023.
+
+And when rates rise, investors discount future profits more heavily, which is a polite way of saying that a company promising money in 2030 is suddenly worth far less today. Rivian's entire valuation was built on 2030. So, the valuation came apart first before the operations did. Then the demand assumption cracked.
+
+American EV adoption slowed. Tesla started cutting prices aggressively in 2023 and dragged the whole segment down with it. Ford launched the F-150 Lightning, Chevrolet launched the Silverado EV, and the Cybertruck finally arrived. Rivian had beaten all of them to market and then watched them show up with dealer networks, service infrastructure, and balance sheets it could not match.
+
+Ford, one of its earliest backers, sold down most of its stake and walked away from joint development entirely. Policy turned as well. A meaningful slice of Rivian's revenue came from regulatory credits, which are compliance allowances that carmakers who sell too many combustion vehicles buy from carmakers who sell none. As federal emissions rules softened, the buyers dried up and that revenue line weakened with them.
+
+It was money Rivian had never earned from a customer, and it went away without a single truck being canceled. And further out sat the competitor nobody in normal could do anything about. BYD passed Tesla to become the largest EV maker on Earth, built on cost structures no American manufacturer can currently match, and started pushing into Europe and Latin America. Rivian was fighting for margin at $80,000 a unit, while the global price floor was being reset by companies operating at a fraction of its costs.
+
+Underneath that sat something bigger. The American car market split. Average new vehicle transaction prices pushed toward $50,000, and monthly payments hit record highs. And the buyers who could still absorb that were concentrated at the top.
+
+Rivian sold only in the United States and Canada, only at premium prices, with no cheaper models to fall back on. It was selling $80,000 adventure vehicles into an economy where a growing share of households had stopped shopping for new cars altogether. It wasn't just competition anymore. It was arithmetic.
+
+Then, the internal numbers caught up. Rivian's cash pile fell from $18 billion at the end of 2021 to 7.9 billion by the end of 2023. At the worst of it, the company was burning well over a billion dollars a quarter. The per-vehicle figures tell the story more brutally.
+
+In the second quarter of 2022, Rivian lost about $157,600 for every vehicle it delivered. By the second quarter of 2023, that was down to $32,595. Real progress. But in the third quarter of 2024, the gross loss per vehicle rose again to $39,130.
+
+Because deliveries fell and fixed costs do not care how many trucks you build. So, the cuts started. 6% of staff in 2022, another 6% in 2023, 10% of salaried employees in February 2024, then came March 7th, 2024. At the event where Rivian unveiled the R2, the affordable SUV that was supposed to save the company, Scaringe announced the construction of the $5 billion Georgia plant was being paused indefinitely.
+
+R2 would be built in Normal instead. The move saved $2.25 billion in near-term capital spending. Georgia had promised up to 1.5 billion in incentives against 7,500 jobs. State senators called the decision irresponsible and openly discussed punishing the company.
+
+Rivian had just canceled its own future to pay for its present. Investors loved it. The stock jumped 13% that day. It bought time.
+
+18 months later, a change in federal law took the demand away instead. If you want the full version of stories like this one, the kind the financial press covers for a single afternoon and then forgets, that is what this channel is for. Now, let's get to the date that turned this from a valuation problem into a business problem. On September 30th, 2025, the federal tax credit of up to $7,500 for electric vehicles expired, ended by tax legislation signed that July.
+
+For a company selling premium EVs exclusively in North America, that credit was not a subsidy at the margins. It was the difference between an R1S being expensive and being unaffordable, and it applied to leases as well as purchases. What happened next was visible in the quarterly numbers within weeks. Buyers rushed to close before the deadline, and Rivian posted its best quarter ever, delivering 13,201 vehicles in the third quarter of 2025, up 32% from the year before.
+
+Then the demand simply stopped. Fourth-quarter deliveries came in at 9,745, down 31% year-over-year. Automotive revenue in that quarter fell 45% to $839 million. dollars.
+
+For the full year, Rivian delivered 42,247 vehicles, down 18% from the 51,579 it delivered in 2024. Automotive revenue for the year fell to 3.83 billion from 4.49 billion. The company had spent four years fighting to grow, and 2025 was the year it shrank. Now, put the whole run together.
+
+Net losses of 4.69 billion in 2021, 6.75 billion in 2022, 5.43 billion in 2023, 4.75 billion in 2024, and roughly 3.6 billion in 2025. That is about $25 billion of accumulated losses in five years against a market capitalization that fell from $153 billion to under $20 billion at its lowest point. Roughly $130 billion of investor value gone, and about $25 billion of actual cash consumed producing it. That is the collapse, and this is where most versions of this story stop because the ending is inconvenient.
+
+Rivian did not die. It found other people's money. In June 2024, Volkswagen announced a joint venture for Rivian's electrical architecture and software. Expanded that November to $5.8 billion.
+
+Volkswagen is now one of Rivian's largest shareholders. The Department of Energy approved a $6.6 billion loan for the Georgia plant, and construction finally broke ground in September 2025. That deal changed what Rivian actually is. In 2025, the software and services business generated $1.557 billion of revenue, up from $484 million the year before, and produced $576 million of gross profit against just $7 million in 2024.
+
+The trucks were still losing money. The engineering was making it. Rivian had accidentally become a supplier to the industry it set out to disrupt. Then, on June 9th, 2026, the R2 finally reached customers.
+
+Mid-size, priced in the mid-40s thousands, roughly half an R1S, built in Normal alongside everything else. This is the vehicle the entire company now rests on. Rivian spent 5 years proving it could build expensive trucks that lose money. The R2 has to prove it can build a cheaper one that does not lose money in a segment where the Tesla Model Y, the Hyundai Ioniq 5, and the Chevrolet Equinox EV are already fighting on price, and without the $7,500 credit that used to close the gap.
+
+Scaringe hosted more than 57,000 demo drives in that quarter alone, a company record, because the R2 needs an audience Rivian has never sold to before. The second quarter of 2026 was the best in the company's history. Revenue was $1.658 billion, up 27%. Gross profit was 179 million, a record.
+
+Deliveries were 12,194. Rivian raised its full-year delivery guidance to between 65,000 and 70,000 vehicles and cut its capital spending forecast. But look underneath. The net loss for that quarter was still 837 million dollars.
+
+Free cash flow was negative 849 million. Cash stood at 5.31 billion. So, in July, the company sold 86.25 million new shares to raise another 1.3 billion, which dilutes existing shareholders, meaning each old share now owns a smaller slice of the same company. Total available liquidity, including the government loan and committed investments from Volkswagen and Uber, sits above 14 billion dollars.
+
+And the guidance requires delivering 42,000 to 47,000 vehicles in the second half of a year that produced 22,559 in the first. Close to double the pace in two quarters. As of early September 2026, Rivian trades around $15.70 a share, a market capitalization of roughly 23 billion dollars. That is about 91% below the 172.01 it closed at in November 2021.
+
+Its chief financial officer, Claire McDonough, announced in August that she's leaving by the end of October. Where the stock sits by the time you watch this is anyone's guess, because this story is still being written. Here is what actually collapsed. Not the product, which reviews well and beat every legacy manufacturer to market.
+
+Not the company, which has more liquidity today than it did in 2024. What collapsed was the price, and the price was never really about trucks. In November 2021, the market valued Rivian like a software company that happened to own a factory, when it was a factory that happen to own some software. Software scales for free.
+
+Steel does not. Every dollar of that 153 billion was a bet that the hard part was already finished at a moment when the hard part had barely started. That gap between the story and the assembly line is where roughly 130 billion dollars went. It is also where most retail investors lost money because the story is what gets sold to them and the assembly line is what eventually sets the price.
+
+Rivian builds vehicles designed for the moment the pavement ends. Its investors just spent five years finding out what that feels like on a balance sheet.

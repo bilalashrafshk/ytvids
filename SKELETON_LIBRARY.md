@@ -361,14 +361,6 @@ One rule:
 
 ---
 
-## Required Bible edits (the Bible copy here is read-only — apply manually)
+## Bible integration status
 
-1. **CP-0 per-archetype table:** add rows 8, 9, 10, 11 with the bands above; note A9's TURN1 = 30% and A11's overrides.
-2. **Stakes Contract heading:** change "Track 2 — The Stakes Contract" to "**A5** — The Stakes Contract". It's a skeleton rule; applied to all of Track 2 it rejects A9 and A10.
-3. **Script Generation Prompt, Step 1:** the structure menu (in medias res, ticking clock…) now governs **point of entry within the chosen skeleton**, not the overall shape.
-4. **Script Generation Prompt, Step 3:** "Aim for a conversational sentence length averaging 10 to 13 words" → "Match the chosen skeleton's band."
-5. **Benchmark Archetypes Matrix:** add A8–A10, and mark A1, A4, A7 and A10 as provisional (sub-1× benchmark), citing the idea-bank ratios.
-6. **CP-3 output order:** item 1 names each draft's skeleton ID.
-7. **A7 generator prompt:** replace the personal-credential hook with the composite / bare-number hook (see A7 adaptation above).
-8. **CP-0 reframe gate:** the reframe word list now also counts "the opposite", "turns out", "not just / not only", "instead of", "rather than", "in fact" and "Not X, Y" openings, which the original list missed in real outliers. Floor stays at 36/1k.
-9. **Guided Production Document, Phase 4 (next to CP-6):** add one line: "Apply the Visual layer in `SKELETON_LIBRARY.md`."
+All eight Bible edits this library originally required (CP-0 rows 8–11, A5-scoped Stakes Contract, point-of-entry menu, skeleton-band sentence length, A8–A11 matrix rows + provisional flags, CP-3 skeleton IDs, A7 hook adaptation, expanded reframe word list) were verified as applied on 2026-09-26. The list was removed so no future run re-applies them. The Bible now lives in `bible/`; its CP-0 table is `bible/06-retention-physics-cp0.md`.

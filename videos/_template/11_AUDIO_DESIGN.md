@@ -15,7 +15,7 @@
 ```
 FILENAME: 000_bgm_master_score.mp3
 TYPE: Audio (Score Bed)
-ARCHETYPE: [Inquisitive Neo-Classical / Geopolitical Dark Thriller / Smoky Corporate Noir / Minimalist Pedagogical Bed / Investigative Macro-Suspense]
+MUSIC BED: [M1 Inquisitive Neo-Classical / M2 Geopolitical Dark Thriller / M3 Smoky Corporate Noir / M4 Minimalist Pedagogical Bed / M5 Investigative Macro-Suspense]
 TOOL / ENGINE: Suno v3.5 / Udio
 PROMPT: Instrumental cinematic score, [BPM, Key, primary instruments: e.g. subtle pulsing synthesizer, delicate piano ostinato, warm cello, restrained percussion], brooding, inquisitive, forward-propelling momentum, no vocals, follow best industry-standard guidelines and quality and visualisations.
 NEGATIVE PROMPT: vocals, singing, choir, heavy drums, aggressive distortion, EDM drop, electric guitar solo.

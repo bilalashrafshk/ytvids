@@ -5,7 +5,7 @@ FinanceCraft — CP-0 / GATE gamma / GATE epsilon external verifier.
 Self-audit is unreliable at counting. This is not. Run it on any delivered
 script before accepting the engine's own audit block.
 
-    python3 gate_check.py script.md -a <archetype 1-10>
+    python3 gate_check.py script.md -a <archetype 1-11>
 
 Exit code 0 = all gates pass, 1 = one or more fail.
 """

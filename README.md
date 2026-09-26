@@ -14,7 +14,15 @@ This repository is organized as a modular multi-video engine. The root contains 
 YT Videos/ (Repository Root)
 │
 ├── README.md                                                 # Master System Manual & Reproduction Guide
-├── FinanceCraft — Channel Bible, Asset Guide & Description.md # Master Channel Bible & Production Specification
+├── FinanceCraft — Channel Bible, Asset Guide & Description.md # Bible index: identity, assets, TASK table, section map
+├── bible/                                                    # Channel Bible sections, one file per section (01–15)
+├── 00-ROUTER.md                                              # Engine entry point: steps, HARD STOPs, track routing
+├── IDEA_GATE.md                                              # STEP 1.5 Idea Gate (checked by gate_idea.py)
+├── SKELETON_LIBRARY.md                                       # Narration skeletons A1–A11, beat maps, selection matrix
+├── research-prompt-v2.md / research-prompt-track3-v2.md / invention-prompt-v2.md  # Canonical research/invention prompts
+├── gate_idea.py / gate_alpha.py / gate_check.py              # Mechanical gates (idea, brief, script)
+├── check_beat_sheet_cutaway.py / check_remotion_theme.py     # CP-6 external verifiers
+├── calibration/                                              # Benchmark calibration data
 ├── FinanceCraft — Channel Bible, Asset Guide & Description.docx # Reference Word Document
 ├── .gitignore                                                # Excludes heavy binaries, node_modules, and episode media
 │
@@ -134,7 +142,7 @@ Apply the **Voice Direction Prompt (VoxCPM2)** from the Channel Bible to the tag
 Run the **Guided Production Document Generator** against the tagged script. This runs in strict sequential order:
 
 1. **Phase 1: Titles & Description** — 5 categorized title candidates + full YouTube description with SEO tags and primary source citations.
-2. **Phase 2: Thumbnail Concepts** — 2–3 distinct thumbnail concepts selected from the **7 Thumbnail Archetypes** menu with prompt text and text-hook layers.
+2. **Phase 2: Thumbnail Concepts** — 2–3 distinct thumbnail concepts selected from the **7 thumbnail styles (T1–T7)** menu with prompt text and text-hook layers.
 3. **Phase 3: Character Setup** — Fixed reference blocks for recurring caricatures to prevent AI drift.
 4. **Phase 4: Beat-by-Beat Production Plan** — Granular beat table linking voiceover lines, visual types, camera movements, prompts, and sound design.
 5. **Phase 5: Consolidated Batches** — Grouped execution deliverables:
@@ -198,7 +206,7 @@ When working with Antigravity or any agent in this repository, you can use these
 To allow another developer or creator to `git clone` and immediately begin producing videos using the exact same engine, the repository enforces a strict boundary between **reusable engine code** and **heavy generated episode media**.
 
 ### 1. What IS Committed & Pushed to Git (The Engine)
-* ✅ **`FinanceCraft — Channel Bible, Asset Guide & Description.md`**: The master ruleset, 5 narrative archetypes, 7 thumbnail models, and audio ducking specs.
+* ✅ **`FinanceCraft — Channel Bible, Asset Guide & Description.md`**: The Bible index; full rules live in `bible/` (narration archetypes A1–A11 with `SKELETON_LIBRARY.md`, thumbnail styles T1–T7, music beds M1–M5, audio ducking specs).
 * ✅ **`.agents/skills/`**: The specialized AI video skills (`3d-flyover`, `map-explainer`, `newsroom-chart-animations`).
 * ✅ **`references/`**: The 25 Remotion archetypes, 42-bit library, competitor metadata audits, and audio stem benchmarks.
 * ✅ **`remotion/`**: Complete motion graphics React project (`src/`, `package.json`, `tokens.ts`, `remotion.config.ts`).

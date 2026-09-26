@@ -1,0 +1,425 @@
+Title: NVIDIA Explained Like You're 5
+Channel: Crayon Capital
+URL: https://www.youtube.com/watch?v=1GowFTjbUnk
+
+[  0.00s -   5.24s] This dishwasher boy built a $5 empire
+[  3.04s -   6.96s] from the table of a Denny's diner.
+[  5.24s -  10.08s] He pitched the business plan over cheap
+[  6.96s -  11.80s] coffee in 1992, and 34 years later, his
+[ 10.08s -  13.88s] company makes $20
+[ 11.80s -  15.92s] every single hour.
+[ 13.88s -  17.84s] Not from the safe bet, but from a gamble
+[ 15.92s -  20.20s] nobody believed in that crushed entire
+[ 17.84s -  22.08s] industries and took over the AI space,
+[ 20.20s -  23.84s] the gaming industry, and even all of
+[ 22.08s -  25.80s] your app algorithms.
+[ 23.84s -  27.20s] And just as he started winning, the
+[ 25.80s -  29.68s] government moved to [music] bring him
+[ 27.20s -  29.68s] down.
+[ 29.72s -  35.12s] Jensen Huang was born in Taiwan in 1963.
+[ 33.44s -  36.88s] When he was nine, [music] his parents
+[ 35.12s -  38.52s] sent him and his brother to America for
+[ 36.88s -  40.84s] a better education.
+[ 38.52s -  45.68s] The plan was simple. Live with relatives
+[ 40.84s -  47.64s] in Kentucky, study hard, build a future.
+[ 45.68s -  48.96s] This doesn't look like a school. It
+[ 47.64s -  50.56s] looks more like somewhere people get
+[ 48.96s -  52.40s] sent after they've done something very,
+[ 50.56s -  52.44s] very wrong. That's because
+[ 52.40s -  54.96s] >> [music]
+[ 52.44s -  56.92s] >> it kind of is. Welcome to Oneida Baptist
+[ 54.96s -  58.80s] Institute. You'll learn English,
+[ 56.92s -  60.56s] discipline, and how not to complain
+[ 58.80s -  63.24s] while cleaning bathrooms.
+[ 60.56s -  65.80s] This is not how most tech CEO origin
+[ 63.24s -  67.28s] stories start, but it didn't break him.
+[ 65.80s -  68.28s] It taught him something no lecture hall
+[ 67.28s -  70.04s] could.
+[ 68.28s -  70.76s] When the situation is terrible, you
+[ 70.04s -  72.28s] adapt [music]
+[ 70.76s -  74.28s] or you disappear.
+[ 72.28s -  76.44s] He eventually made it to Oregon State,
+[ 74.28s -  77.60s] then Stanford, spent years at chip
+[ 76.44s -  81.28s] companies,
+[ 77.60s -  82.96s] AMD, then LSI Logic, studying
+[ 81.28s -  85.92s] semiconductors with a level of obsession
+[ 82.96s -  88.96s] that was, frankly, a little alarming.
+[ 85.92s -  91.04s] By 1992, Jensen had an idea.
+[ 88.96s -  93.60s] Graphics are going to change computing.
+[ 91.04s -  97.12s] Games are getting bigger. 3D is getting
+[ 93.60s -  98.76s] harder. CPUs can't carry this forever.
+[ 97.12s - 100.16s] Someone is going to build a chip for
+[ 98.76s - 101.92s] this new world.
+[100.16s - 104.88s] I think it should be us.
+[101.92s - 106.44s] Jensen, I have a mortgage, a stable job,
+[104.88s - 108.52s] and a family that currently believes I
+[106.44s - 109.60s] make responsible decisions.
+[108.52s - 111.84s] Good.
+[109.60s - 114.80s] Then this will be exciting. So, the plan
+[111.84s - 116.40s] is, quit our jobs, start from zero, and
+[114.80s - 117.72s] build a chip for a market that barely
+[116.40s - 120.12s] exists?
+[117.72s - 122.44s] Correct. I hate that this sounds insane
+[120.12s - 124.84s] and also kind of logical.
+[122.44s - 126.72s] They called the company Nvidia.
+[124.84s - 127.96s] The idea was ambitious. Build one
+[126.72s - 130.04s] powerful [music] graphics chip that
+[127.96s - 132.00s] could handle everything. A clean
+[130.04s - 133.08s] universal chip for the future of gaming
+[132.00s - 135.32s] hardware.
+[133.08s - 138.24s] For 2 years they worked. They spent
+[135.32s - 140.56s] every dollar they had. And in 1995,
+[138.24s - 142.60s] Nvidia launched its first product, the
+[140.56s - 145.28s] NV1.
+[142.60s - 146.60s] Jensen, we have a problem. Microsoft
+[145.28s - 148.44s] just [music] published the Direct X
+[146.60s - 151.36s] spec, full triangle based rendering
+[148.44s - 153.00s] pipeline. Holy crap, the NV1 runs
+[151.36s - 154.12s] quadratic mapping?
+[153.00s - 155.88s] Yes.
+[154.12s - 157.80s] We are the only ones going in the
+[155.88s - 160.12s] opposite direction. Games are about to
+[157.80s - 162.76s] be built from tiny flat triangles?
+[160.12s - 164.16s] Our chip is built for curved surfaces.
+[162.76s - 167.16s] We built the wrong chip with tremendous
+[164.16s - 168.72s] confidence. 2 years, every dollar. A
+[167.16s - 171.64s] chip built for a world that no longer
+[168.72s - 174.24s] existed. The NV1 [music] flopped.
+[171.64s - 175.48s] But Nvidia still had a lifeline. Sega
+[174.24s - 177.16s] had contracted them to build the
+[175.48s - 179.08s] graphics processor for the company's
+[177.16s - 181.08s] next generation console,
+[179.08s - 184.56s] the Dreamcast.
+[181.08s - 186.28s] Real money, real chance to start over.
+[184.56s - 188.08s] There was only one problem.
+[186.28s - 189.68s] Sega's chip used the same dead-end
+[188.08s - 191.64s] technology. [music] You're doing the
+[189.68s - 192.80s] Sega math again, aren't you?
+[191.64s - 194.84s] We'll spend the next year building
+[192.80s - 197.12s] something we already know is dead. And
+[194.84s - 198.72s] if we cancel, we lose the only customer
+[197.12s - 201.56s] still paying us.
+[198.72s - 203.76s] Uh, Pretty much.
+[201.56s - 205.04s] I miss normal employment.
+[203.76s - 206.33s] If we're going to die, let's die
+[205.04s - 206.48s] building the right chip.
+[206.33s - 209.04s] >> [music]
+[206.48s - 211.04s] >> So Jensen flew to Japan.
+[209.04s - 212.80s] The chip is a dead end. You should
+[211.04s - 213.88s] cancel our contract and find someone
+[212.80s - 215.40s] else.
+[213.88s - 216.81s] We shouldn't finish the contract. It
+[215.40s - 218.40s] would be a waste of your money.
+[216.81s - 220.16s] >> [music]
+[218.40s - 222.48s] >> There's one more thing. I still need the
+[220.16s - 224.72s] money, the $5 million remaining on our
+[222.48s - 226.88s] contract. Please put it into Nvidia as
+[224.72s - 227.94s] an investment instead. Otherwise, we'll
+[226.88s - 228.80s] vaporize overnight.
+[227.94s - 230.88s] >> [music]
+[228.80s - 232.96s] >> I have nothing to offer you. This money
+[230.88s - 235.12s] will most likely be lost, but I'm asking
+[232.96s - 236.92s] anyway.
+[235.12s - 238.80s] I'll need a few days.
+[236.92s - 241.04s] Jensen [music] bowed, walked out, and
+[238.80s - 243.36s] got on a plane. Nothing to do now but
+[241.04s - 245.44s] sit, and wait, and watch the Pacific
+[243.36s - 248.12s] stretch out beneath him.
+[245.44s - 250.44s] Jensen, you might want to see this.
+[248.12s - 253.76s] He opens [music] it, eyes wide. It's a
+[250.44s - 255.04s] massive 10% offer on the value of
+[253.76s - 256.68s] BetterHelp.
+[255.04s - 258.68s] Just kidding.
+[256.68s - 260.60s] Let's be real for a second. When the
+[258.68s - 263.80s] outcome is completely out of your hands,
+[260.60s - 265.84s] the anxiety Did I make the right call?
+[263.80s - 267.64s] That noise won't switch off. It doesn't
+[265.84s - 269.96s] go away on its own.
+[267.64s - 271.20s] The hardest part for me was noticing the
+[269.96s - 273.08s] pattern.
+[271.20s - 275.28s] I was pushing through instead of
+[273.08s - 277.60s] actually dealing with anything.
+[275.28s - 279.56s] My therapist asked me one question.
+[277.60s - 281.32s] Are you solving something, or are you
+[279.56s - 283.40s] rehearsing a disaster?
+[281.32s - 285.16s] I didn't have an answer. Just having a
+[283.40s - 288.00s] name for what I was doing,
+[285.16s - 289.40s] that single reframe broke the loop.
+[288.00s - 291.72s] BetterHelp, the paid [music] partner of
+[289.40s - 292.96s] today's video, makes starting therapy
+[291.72s - 294.84s] easier.
+[292.96s - 296.72s] Take a short quiz, get matched with a
+[294.84s - 299.64s] credential therapist, and meet by phone,
+[296.72s - 301.12s] [music] video, or text. Whatever works
+[299.64s - 302.96s] for your schedule.
+[301.12s - 305.20s] If it's not the right fit, switching
+[302.96s - 306.80s] costs nothing extra.
+[305.20s - 308.51s] And it's working.
+[306.80s - 310.88s] Over 6 million people have gotten help
+[308.51s - 313.04s] [music] through BetterHelp, rated 4.8
+[310.88s - 313.75s] out of five on the App Store.
+[313.04s - 314.44s] Click the link in the description,
+[313.75s - 316.84s] [music]
+[314.44s - 319.52s] or go to betterhelp.com/crowncapital
+[316.84s - 320.76s] for 10% off your first month of therapy.
+[319.52s - 324.32s] Every great ship [music] needs
+[320.76s - 324.32s] maintenance. So do you.
+[325.32s - 328.84s] Hello.
+[326.88s - 331.36s] The money is coming.
+[328.84s - 333.28s] The reason the Sega CEO said yes had
+[331.36s - 335.48s] nothing to do with business logic. He
+[333.28s - 338.36s] just liked Jensen.
+[335.48s - 340.00s] That $5 million bought Nvidia 6 months.
+[338.36s - 341.26s] And now they had one last shot to build
+[340.00s - 341.28s] the right chip, or
+[341.26s - 344.08s] >> [music]
+[341.28s - 344.08s] >> go bankrupt.
+[344.24s - 347.92s] They called it the Riva 128,
+[346.92s - 351.36s] triangle-based, [music]
+[347.92s - 353.64s] DirectX compatible, built from scratch.
+[351.36s - 356.68s] Weeks of late nights, bad coffee, and
+[353.64s - 358.08s] absolutely zero plan B. They had exactly
+[356.68s - 361.00s] 1 month of payroll [music] left in the
+[358.08s - 364.16s] bank to find out if it worked.
+[361.00s - 366.24s] The chip launched in 1997, and this time
+[364.16s - 368.08s] Nvidia did not miss. Game developers
+[366.24s - 369.96s] could actually use it. Customers
+[368.08s - 373.28s] actually bought it. From the brink of
+[369.96s - 374.28s] bankruptcy to a million units sold in 4
+[373.28s - 376.36s] months.
+[374.28s - 378.48s] Most CEOs would have taken a long
+[376.36s - 380.32s] vacation and slow down a bit.
+[378.48s - 382.40s] He walked back into the office and wrote
+[380.32s - 384.36s] one word on the whiteboard.
+[382.40s - 387.40s] More.
+[384.36s - 389.72s] So, by 1999, Nvidia launched the GeForce
+[387.40s - 392.20s] 256 and gave the world a term it didn't
+[389.72s - 394.28s] really have yet, GPU.
+[392.20s - 396.40s] Graphics processing unit.
+[394.28s - 398.84s] It was a genuine leap. A chip that
+[396.40s - 400.96s] handled complex 3D calculations that
+[398.84s - 402.83s] previously required an entirely separate
+[400.96s - 403.00s] processor. For gamers,
+[402.83s - 405.00s] >> [music]
+[403.00s - 406.80s] >> this meant smoother worlds, better
+[405.00s - 409.24s] lighting, and monsters that looked
+[406.80s - 411.04s] slightly less like wet cardboard. Gamers
+[409.24s - 412.04s] loved it. Developers wept [music] with
+[411.04s - 414.48s] joy.
+[412.04s - 417.40s] Revenue exploded. And by the early
+[414.48s - 420.12s] 2000s, Nvidia had become the king of PC
+[417.40s - 422.08s] graphics. Every serious gamer, every
+[420.12s - 424.20s] visual effects studio, every game
+[422.08s - 426.12s] developer on the planet. The obvious
+[424.20s - 428.32s] move was simple. Keep making better
+[426.12s - 430.52s] gaming chips, sell them to gamers,
+[428.32s - 431.92s] become rich, buy a very large leather
+[430.52s - 433.44s] jacket museum.
+[431.92s - 435.20s] But Jensen started looking at something
+[433.44s - 438.32s] other people missed.
+[435.20s - 441.60s] A CPU is like one very smart employee
+[438.32s - 444.60s] doing tasks one by one extremely fast.
+[441.60s - 446.76s] Meanwhile, a GPU is like 10,000 interns
+[444.60s - 448.52s] doing [music] tiny calculations at once.
+[446.76s - 449.56s] Are the interns smart?
+[448.52s - 451.24s] No.
+[449.56s - 452.92s] But there are a lot of them, and if your
+[451.24s - 455.80s] problem can be broken into thousands of
+[452.92s - 457.92s] small calculations, physics, chemistry,
+[455.80s - 459.16s] weather, biology, artificial
+[457.92s - 461.12s] intelligence,
+[459.16s - 462.80s] suddenly, the chip built for video games
+[461.12s - 465.36s] [music] starts looking like something
+[462.80s - 467.64s] else, a cheap supercomputer.
+[465.36s - 468.96s] Jensen looked at this and thought, "What
+[467.64s - 470.96s] if the same chip that rendered
+[468.96s - 473.36s] explosions in video games could help
+[470.96s - 475.44s] simulate molecules, predict weather,
+[473.36s - 477.28s] model fluids, and maybe one day train
+[475.44s - 480.72s] machines to think?"
+[477.28s - 483.24s] So, in 2006, Nvidia launched CUDA,
+[480.72s - 484.64s] Compute Unified Device Architecture, a
+[483.24s - 487.16s] platform that let scientists,
+[484.64s - 488.84s] researchers, and engineers use Nvidia
+[487.16s - 490.00s] GPUs [music] for general-purpose
+[488.84s - 492.32s] computing.
+[490.00s - 494.76s] And then, he committed roughly $500
+[492.32s - 496.28s] million to build it.
+[494.76s - 498.52s] Jensen,
+[496.28s - 500.16s] the gaming business is printing money.
+[498.52s - 501.40s] Walk me through who CUDA is actually
+[500.16s - 503.92s] for.
+[501.40s - 506.16s] Researchers, scientists, people running
+[503.92s - 508.32s] fluid dynamics simulations, climate
+[506.16s - 510.80s] models, drug discovery?
+[508.32s - 512.08s] So, not our customers.
+[510.80s - 514.16s] Not yet.
+[512.08s - 516.56s] I'm starting to hate that phrase. This
+[514.16s - 517.88s] is our CUDA revenue after 2 years. Do
+[516.56s - 519.28s] you see a number?
+[517.88s - 522.08s] Not today.
+[519.28s - 525.04s] Jensen, this is not a business. We are
+[522.08s - 527.08s] subsidizing a hobby for PhD students.
+[525.04s - 529.48s] PhD students are where the future
+[527.08s - 531.92s] starts. For the first time, they can use
+[529.48s - 533.16s] a gaming chip like a supercomputer.
+[531.92s - 534.56s] We don't know what they'll build with
+[533.16s - 536.92s] it. But when they build [music]
+[534.56s - 538.84s] something important, it will run on us.
+[536.92s - 540.64s] If they build nothing,
+[538.84s - 543.32s] we still have the best gaming cards in
+[540.64s - 546.28s] the world and a $500 million science
+[543.32s - 546.44s] project. We've survived worse.
+[546.28s - 548.72s] >> [music]
+[546.44s - 551.00s] >> Six years passed. The gaming business
+[548.72s - 552.28s] kept printing money. CUDA kept printing
+[551.00s - 554.32s] almost nothing.
+[552.28s - 556.16s] And Jensen kept waiting for the problem
+[554.32s - 560.20s] big enough to prove him right.
+[556.16s - 563.08s] Then, in Toronto, someone found it.
+[560.20s - 564.62s] It's 2012. Every year, the world's top
+[563.08s - 567.28s] AI researchers compete in a challenge
+[564.62s - 569.44s] [music] called ImageNet. Tens of
+[567.28s - 571.60s] millions of images, and your software
+[569.44s - 574.16s] has to identify what's in them.
+[571.60s - 575.60s] You see the Toronto submission? Some PhD
+[574.16s - 577.88s] student [music] who running a a network
+[575.60s - 580.12s] on gaming cards. We've been hand-coding
+[577.88s - 581.76s] classifiers for a decade. Gaming cards
+[580.12s - 583.08s] aren't going to crack this.
+[581.76s - 584.40s] Ladies and gentlemen, thank you for
+[583.08s - 586.84s] waiting.
+[584.40s - 590.28s] The ImageNet [music] 2012 results are
+[586.84s - 593.68s] final. Second place, University of Tokyo
+[590.28s - 594.68s] with a 26.2% error rate. And this year's
+[593.68s - 599.00s] winner,
+[594.68s - 600.84s] University of Toronto, AlexNet, 15.3%.
+[599.00s - 603.92s] I'm sorry, 15?
+[600.84s - 605.80s] That's not a win. That's a murder scene.
+[603.92s - 607.48s] For years, researchers have been trying
+[605.80s - 609.04s] to teach computers how to see by
+[607.48s - 610.36s] manually designing the features they
+[609.04s - 614.44s] should look for.
+[610.36s - 616.92s] Edges, textures, shapes, patterns.
+[614.44s - 618.96s] AlexNet took a different path. Give the
+[616.92s - 621.64s] neural network enough data, enough
+[618.96s - 624.32s] layers, and enough computing power,
+[621.64s - 626.24s] and let it learn the features itself.
+[624.32s - 628.40s] Training a neural network requires
+[626.24s - 629.96s] millions of small calculations happening
+[628.40s - 632.08s] at the same time.
+[629.96s - 635.12s] Exactly the kind of work that Nvidia had
+[632.08s - 636.67s] been quietly perfecting for 6 years.
+[635.12s - 636.72s] The $500 million bet
+[636.67s - 638.80s] >> [music]
+[636.72s - 640.80s] >> had finally found its customer.
+[638.80s - 645.12s] Suddenly, every major AI lab started
+[640.80s - 647.36s] paying attention. Stanford, MIT, Google,
+[645.12s - 649.11s] Meta, Microsoft.
+[647.36s - 650.40s] They weren't just buying graphics cards
+[649.11s - 651.68s] [music] anymore.
+[650.40s - 653.48s] They were buying computing power for
+[651.68s - 655.52s] intelligence itself.
+[653.48s - 658.36s] And Nvidia had the hardware, the
+[655.52s - 660.90s] software, and the scale to deliver it.
+[658.36s - 661.64s] Great news for Nvidia, until in 2022,
+[660.90s - 664.92s] [music]
+[661.64s - 664.92s] Washington made a phone call.
+[665.24s - 668.92s] Before Washington called, Jensen had
+[667.12s - 670.96s] already tried to fix Nvidia's biggest
+[668.92s - 672.04s] weakness. Because Nvidia designed the
+[670.96s - 673.68s] chips,
+[672.04s - 676.24s] but it didn't make them.
+[673.68s - 677.52s] That job belonged mostly to TSMC in
+[676.24s - 679.08s] Taiwan.
+[677.52s - 680.68s] And he didn't own the underlying
+[679.08s - 682.84s] architecture, the fundamental
+[680.68s - 684.28s] instruction set that tells processors
+[682.84s - 685.76s] how to think.
+[684.28s - 687.08s] That belonged to a British company
+[685.76s - 689.28s] called ARM.
+[687.08s - 691.92s] A company whose technology sat inside
+[689.28s - 695.72s] virtually every smartphone on Earth.
+[691.92s - 698.28s] Apple, Samsung, Qualcomm, your pocket.
+[695.72s - 699.96s] Their DNA, not Jensen's.
+[698.28s - 702.08s] So, for all of Nvidia's power, [music]
+[699.96s - 703.84s] Jensen was still renting the building.
+[702.08s - 704.79s] He owned the furniture.
+[703.84s - 704.88s] So, in 2020,
+[704.79s - 707.92s] >> [music]
+[704.88s - 709.56s] >> Jensen made his move. Nvidia offered $40
+[707.92s - 712.24s] to buy ARM.
+[709.56s - 714.20s] Own the GPU, own the software, own the
+[712.24s - 715.72s] architecture. Simple.
+[714.20s - 717.08s] Unless you were literally everyone else
+[715.72s - 719.72s] in tech.
+[717.08s - 721.00s] Nvidia cannot own ARM. Agreed. Agreed.
+[719.72s - 724.12s] Also agreed.
+[721.00s - 726.44s] Wow, I hate how united we are. If Jensen
+[724.12s - 728.44s] owns ARM, then every chip we build runs
+[726.44s - 729.02s] through our most dangerous competitor.
+[728.44s - 729.16s] Phones,
+[729.02s - 732.52s] >> [music]
+[729.16s - 733.60s] >> servers, AI chips, everything. So, what
+[732.52s - 735.16s] do we do?
+[733.60s - 737.24s] We complain to every regulator with an
+[735.16s - 740.44s] email address.
+[737.24s - 742.64s] And they did. The FTC sued. The European
+[740.44s - 744.68s] Commission investigated. The UK blocked
+[742.64s - 747.40s] it on national security grounds.
+[744.68s - 750.48s] 18 months later, Nvidia walked away.
+[747.40s - 752.56s] Then Washington called. Mr. Huang,
+[750.48s - 754.57s] effective immediately, advanced AI
+[752.56s - 754.72s] chips, the H100,
+[754.57s - 757.32s] >> [music]
+[754.72s - 759.32s] >> can no longer be exported to China.
+[757.32s - 761.44s] How much revenue are we talking about?
+[759.32s - 763.36s] That sounds like a you problem.
+[761.44s - 765.20s] Just like that, some of Nvidia's biggest
+[763.36s - 769.08s] customers were cut off.
+[765.20s - 770.36s] Alibaba, Baidu, ByteDance, China's AI
+[769.08s - 771.44s] companies,
+[770.36s - 773.92s] gone.
+[771.44s - 776.04s] So, Nvidia did what Nvidia always did.
+[773.92s - 778.72s] It engineered around the problem.
+[776.04s - 781.36s] They built a weaker version, the H800,
+[778.72s - 783.39s] designed to fit inside the rules.
+[781.36s - 784.60s] Legal enough to ship. Powerful enough
+[783.39s - 786.60s] [music] to sell.
+[784.60s - 788.92s] For about 5 minutes, because by late
+[786.60s - 789.88s] 2023, Washington tightened the rules
+[788.92s - 791.90s] again.
+[789.88s - 792.28s] The H800 was restricted to
+[791.90s - 794.76s] >> [music]
+[792.28s - 796.80s] >> The message was clear. Nvidia was now a
+[794.76s - 798.36s] strategic weapon in America's technology
+[796.80s - 801.32s] war with China.
+[798.36s - 803.12s] Jensen wasn't just a CEO anymore. He was
+[801.32s - 804.76s] a piece on someone else's chessboard,
+[803.12s - 805.88s] moved by people he couldn't negotiate
+[804.76s - 807.96s] with.
+[805.88s - 810.92s] But while politics got messier, demand
+[807.96s - 814.56s] got insane. OpenAI, Google, [music]
+[810.92s - 816.76s] Anthropic, xAI, Microsoft. Everyone
+[814.56s - 819.56s] building large AI models needed the same
+[816.76s - 822.68s] thing, more Nvidia chips, more data
+[819.56s - 824.08s] centers, more power, more cooling, more
+[822.68s - 825.48s] everything.
+[824.08s - 827.20s] Blackwell, Nvidia's next [music]
+[825.48s - 828.64s] generation chip, was being ordered
+[827.20s - 830.08s] before factories could even finish
+[828.64s - 832.60s] making it.
+[830.08s - 834.88s] By October 2025, Nvidia [music] crossed
+[832.60s - 836.64s] $5 trillion in market value.
+[834.88s - 839.80s] The most valuable company on Earth,
+[836.64s - 841.32s] ahead of Google, ahead of Apple.
+[839.80s - 843.32s] Not bad for a company that once had 30
+[841.32s - 844.36s] days of cash left and one very wrong
+[843.32s - 846.44s] chip.
+[844.36s - 848.04s] None of it was supposed to work.
+[846.44s - 850.28s] Every single [music] bet looked insane
+[848.04s - 851.52s] from the outside, and every single one
+[850.28s - 853.56s] paid off.
+[851.52s - 855.60s] As what he himself [music] said,
+[853.56s - 858.80s] "My will to survive exceeds everybody
+[855.60s - 858.80s] else's will to kill me."

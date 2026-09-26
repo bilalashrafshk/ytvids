@@ -200,5 +200,5 @@ Detailed audit of keyword phrases actually embedded by top creators:
    - **Atlas Veil / Editorial Style:** Painterly, atmospheric illustration with ZERO text clutter—letting the intrigue carry the click.
    - **The Business Vault / Tony Talks Business Style (Isometric / Data Callout):** Clean schematic or isometric diagram with 3–4 forensic data callout badges and directional arrows.
 2. **FinanceCraft Thumbnail Strategy:**
-   - FinanceCraft explicitly supports **all four styles** via Archetypes 1, 3, 4, and 7 in the Channel Bible.
+   - FinanceCraft explicitly supports **all four styles** via thumbnail styles T1, T3, T4, and T7 in the Channel Bible (`bible/03-thumbnail-style.md`).
    - Crucially, FinanceCraft generates thumbnails at **3840×2160 (4K)** with embedded text badges and strictly avoids photoreal humans to prevent synthetic media flags.
