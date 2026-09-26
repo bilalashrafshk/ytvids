@@ -5,7 +5,7 @@ The engine is shared; each channel is a **profile**. `00-ROUTER.md` STEP 0 asks 
 | Channel | Profile | Format | Episode folder |
 | --- | --- | --- | --- |
 | **FinanceCraft** | `channels/financecraft/CHANNEL.md` | Finance documentaries: case autopsies, hypotheticals, mechanism explainers | `videos/` |
-| **Raahim** | `channels/raahim/CHANNEL.md` | Absurd what-if stories in a 1950s deadpan educational-film style | `videos/raahim/` |
+| **Raahim** | `channels/raahim/CHANNEL.md` | Absurd what-ifs and strange-but-true questions in a 1950s deadpan educational-film style | `videos/raahim/` |
 
 ## How precedence works
 

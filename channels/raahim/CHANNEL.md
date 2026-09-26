@@ -1,6 +1,6 @@
 # Raahim — Channel Profile
 
-*Absurd what-if stories, explained with total calm. A 1950s educational filmstrip that has been handed a completely unreasonable question and is determined to answer it properly.*
+*Absurd what-if stories and strange-but-true questions, explained with total calm. A 1950s educational filmstrip that has been handed a completely unreasonable question and is determined to answer it properly.*
 
 This profile overrides the Bible wherever they overlap. Anything not covered here falls back to the shared engine (see `channels/README.md`).
 
@@ -11,6 +11,10 @@ This profile overrides the Bible wherever they overlap. Anything not covered her
 **The promise:** a ridiculous premise, followed with real reasoning, all the way to the end. *The premise can be absurd; the reasoning under it can't be.*
 
 **The joke engine:** deadpan contrast. The host and the visual style stay polite, orderly and unbothered while the world falls apart around them. The calmer the delivery, the funnier the consequence. Nobody on screen ever says "this is crazy."
+
+**Two episode types:**
+- **What-ifs (Track 2)** — an impossible premise followed honestly to the end. *What if everyone on Earth jumped at once?*
+- **Strange-but-true questions (Track 3)** — a real, weird question whose answer overturns what you assumed. *Why do desert people wear more clothes in extreme heat? How did ancient Egyptians sleep without air conditioning?* Same deadpan Host, same style — the absurdity is in how strange the real answer is.
 
 **Topics:** any domain — physics, biology, space, society, economics, animals, the human body. The test is the one-line pitch: *would a stranger tap on "What if…" before they've finished reading it?*
 
@@ -24,10 +28,10 @@ Examples: *What if everyone on Earth jumped at once? What if the Moon was made o
 
 | Engine step | For Raahim |
 | --- | --- |
-| STEP 2 track | **Track 2 only.** Every episode is a hypothetical. (A real event is never a Raahim episode — route it to another channel or reject it at HARD STOP 0.) |
-| Skeletons | **A5** (Constrained Hypothetical — clock + escalation) as the default, **A10** (Scale Wall — escalating size/impossibility), **A9** only for a personal-choice what-if. Rank as usual at HARD STOP 1. |
-| STEP 3 prompt | `invention-prompt-v2.md` with `[CHANNEL]` = *"an absurd what-if storytelling channel with a deadpan 1950s educational-film narrator"*. **No research prompt. Never Deep Research.** |
-| Mechanic check | Instead of research: list the **3–6 load-bearing numbers or physical claims** the story stands on (e.g. total force of 8 billion people landing) and verify each with a quick calculation or one reputable source. These are the only facts that must be right. The rest is invented and proud of it. |
+| STEP 2 track | **Track 2** (what-ifs) or **Track 3** (strange-but-true questions). **Never Track 1** — a real company, scandal or event is not a Raahim episode; flag it at HARD STOP 0. |
+| Skeletons | What-ifs: **A5** (Constrained Hypothetical — clock + escalation, default), **A10** (Scale Wall), **A6** (two characters, two choices, e.g. *you vs. your neighbour who didn't*), **A9** (personal-choice parable). Strange-but-true: **A8** (Reversal Explainer — state the common belief, then break it; the channel's best-evidenced shape). Rank as usual at HARD STOP 1. |
+| STEP 3 prompt | What-ifs: `invention-prompt-v2.md` with `[CHANNEL]` = *"an absurd what-if storytelling channel with a deadpan 1950s educational-film narrator"*. Strange-but-true: `research-prompt-track3-v2.md` (light — one trustworthy number per claim, heavy texture). **Never Deep Research. Never the Track 1 research prompt.** |
+| Mechanic check | What-ifs, instead of research: list the **3–6 load-bearing numbers or physical claims** the story stands on (e.g. total force of 8 billion people landing) and verify each with a quick calculation or one reputable source. These are the only facts that must be right. The rest is invented and proud of it. |
 | Script generator | `bible/08-hypothetical-script-generator.md`, with these switched **off**: the `[WATERMARK: HYPOTHETICAL SCENARIO]` badge (the whole channel is obviously fiction), the "teach a real *financial* mechanic" framing (any real mechanic works), finance jargon examples. Invented names only still applies. |
 | Gates | CP-0 bands for the chosen skeleton, `gate_check.py`, Retell test, Two-Pass Rule — all unchanged. `gate_check.py`'s CITES gate matters doubly: "scientists say" is dryness here too. |
 | Episode folder | `videos/raahim/<NN-slug>/`, built from `videos/_template/` with the overrides in this file. |
@@ -168,9 +172,25 @@ Everything general in the engine applies here automatically (see `channels/READM
 
 ---
 
-## 11. Still to decide (record decisions here)
+## 11. Benchmarks — already in the engine
+
+These idea-bank outliers are this channel's lane, and the CP-0 bands for their skeletons were measured on them, so `gate_check.py -a <n>` is already calibrated to them. Transcripts: `references/idea_bank/top_outliers/`; measurements: `calibration/`.
+
+| Video | Ratio | Skeleton | What to take from it |
+| --- | --- | --- | --- |
+| inkly — *Why Desert People Wear More Clothes in Extreme Heat* | 253.5× | A8 | The reversal: a belief everyone holds, broken by a physical answer |
+| My Chaotic Stories — *POV: You Have $1 Trillion But Only 7 Days* | 99.3× | A5 | Second-person clock, escalating by category, ledger beat each time block |
+| inkly — *How Did Ancient Egyptians Sleep in Desert Heat* | 90.8× | A8 | Sister video: proves the A8 shape repeats, not a one-off |
+| Logical Money — *Renting vs Buying a Home* | 66.2× | A6 | Two characters, two choices, running score |
+| Kurzgesagt — *Why Humanity Will Never Leave the Solar System* | 0.38× | A10 | Scale ladder (provisional — below the outlier bar) |
+
+Use them for structure, pacing and the kind of question that pulls — never for their look, characters or wording (Clean-Room rule).
+
+---
+
+## 12. Still to decide (record decisions here)
 
 - [ ] The Host's name
 - [ ] Channel handle, banner and description
 - [ ] First 5 episode ideas through the Idea Gate
-- [ ] Benchmark channels for this niche — the current CP-0 bands come from FinanceCraft's benchmark set (A5's is a what-if video, so it transfers); recalibrate once 3–5 absurd-what-if outliers are in `references/idea_bank/`
+- [ ] Add 3–5 more absurd-what-if outliers to `references/idea_bank/` (only one pure what-if benchmark so far), then re-measure A5's band
