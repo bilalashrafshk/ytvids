@@ -352,7 +352,7 @@ Section markers are bare noun phrases ("The pity phase.").
 ## Visual layer (every skeleton)
 
 Encouraged, not gated:
-- **Opening (first ~20s):** open on motion, an AI clip or Remotion piece rather than a still, and let the first image carry the video's central contradiction. Spending 2–3 of the 25 AI clips here is encouraged.
+- **Opening (first ~20s):** open cold on motion — no logo, bumper or title card — and let the first image carry the video's central contradiction. **Strong default: 2–4 AI video clips** carry the hook (spending them from the 25-clip cap is encouraged). A Remotion piece or a single still may open instead only when it genuinely lands the hook harder; say why in one line.
 - **Signature visual:** each skeleton's (table above) lands on its key story moment.
 - **Big effects** (montage, tunnel, flywheel, flyover) go on turning points: the reversal, the wall, the vindication, the pillar reveal. Not as decoration.
 

@@ -84,6 +84,9 @@ Same techniques as the main show — a specific number, a direct address, an unr
 
 ## Step 3 — Write the full narration
 
+**Two passes (Two-Pass Rule, `bible/05-cp-verify-phase-gates.md`).** *Pass 1:* write the whole draft from the Concept Brief, the invented world and the skeleton's beat map — the only rules in view are invented names, an honest mechanic, and reading as fiction. Push the premise; follow the strangest consequence. *Pass 2:* on the finished draft, run CP-0, the opening-contract check for the skeleton and `gate_check.py`, then make the smallest edits that clear them.
+
+
 - **Invented names only — people, companies, banks, everything.** Never a real entity, never a near-miss that could be mistaken for one.
 - **The underlying mechanic must be accurate.** Every number in the scenario should be internally consistent and true to how the real mechanic works — the story is invented, the math is not.
 - Build one or two invented characters with enough specific, sensory detail to feel real — a recurring visual motif (a whiteboard, a specific object) gives the Guided Production Document something concrete to anchor beats to.
@@ -100,7 +103,7 @@ Also tag where the recurring `[WATERMARK]` reminder falls — roughly every 2-3 
 
 ## Step 5 — Close and hand off
 
-End on the takeaway from the Concept Brief, stated through the story rather than tacked on as a lesson. Don't write the subscribe/sign-off CTA — same standardized block as the main show, though note the Guided Production Document uses this sub-series' own bumper and watermark, not the main show's standing assets.
+End on the takeaway from the Concept Brief, stated through the story rather than tacked on as a lesson. Don't write the subscribe/sign-off CTA — same standardized block as the main show, though note the Guided Production Document uses this sub-series' own lavender watermark badge, not the main show's standing assets.
 
 ## Output format
 

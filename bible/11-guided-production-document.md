@@ -4,14 +4,7 @@
 
 *Feed this prompt, along with a tagged script (from the Script Generation prompt) and the Style Bible, to generate the full production document. The end user is technically capable — comfortable with code, logic, and running AI tools — but has no traditional video-editing or visual-design background, and no creative/production training. Leave no visual, creative, or tool-usage judgment to guesswork.*
 
-| **TASK-07** | **Spoken-Cadence Beat Sheet** | `# FinanceCraft — Guided Production Document` (Phase 5) | `07_BEAT_SHEET.md` | `Lines 1403–1550` | **Generated STRICTLY AFTER VO audio timestamps exist.** Exact millisecond downbeats (`00:00.0 - 00:03.4`), sentence-bound visual cuts (brisk multi-shot cuts for stills; multi-sentence thought-block holds for video/Remotion), framing, motion. Standalone file. |
-| **TASK-08** | **Batch 1: Still Prompts** | `# Asset Instructions: Nano Banana 2` | `08_STILLS_PROMPTS.md` | `Lines 1551–1575` | Consolidated copy-paste prompts for all Batch 1 4K stills (3840×2160, vector flat cel-shaded style). Standalone file. |
-| **TASK-09** | **Batch 2: AI Video Prompts** | `# Asset Instructions: AI Video` | `09_VIDEO_PROMPTS.md` | `Lines 1576–1600` | Consolidated copy-paste prompts for all Batch 2 AI video clips (Google Flow / Omni, muted, 1920×1080). Standalone file. |
-| **TASK-10** | **Batch 3: Remotion Graphics Specs** | `# FinanceCraft — Remotion Prompt Guidelines` | `10_REMOTION_SPECS.md` | `Lines 1987–2314` | Dedicated code specifications, component imports, and render commands for Remotion charts/maps. Standalone file. |
-| **TASK-11** | **Batch 4: Audio Score & Sound Design** | `# FinanceCraft — Audio Architecture & Sound` | `11_AUDIO_DESIGN.md` | `Lines 953–1181` | Dedicated BGM score beds (Suno/Udio prompts), empirical volume ducking curves, tactile foley triggers. Standalone file. |
-| **TASK-12** | **Shorts Spinoffs** | `# FinanceCraft — NotebookLM Cinematic Video` | `shorts.md` | `Lines 1588–1630, 1905–1986` | Standalone vertical (9:16) spinoff scripts, NotebookLM Video Overview prompts, and CapCut vertical assembly instructions. |
-| **TASK-13** | **Timeline Assembly Guide** | `# CapCut Timeline Assembly Blueprint` | `12_CAPCUT_ASSEMBLY.md` | `Lines 2265–2418` | Standalone post-production deliverable. Multi-track timeline assembly guide (Tracks 0–3), transition rules, keyframed pans, and audio ducking envelopes. |
-| **TASK-14** | **YouTube Metadata & Chapters** | `# Phase 10: Video Packaging & Upload Metadata` | `13_FINAL_METADATA.md` | `Lines 2419–2468` | Standalone distribution deliverable. Verified title, YouTube description, **accurate chapter timestamps derived directly from final video cuts**, pinned comment, 25 SEO tags. |
+*Which Bible file each task loads — and the deliverable it produces — is in the TASK table in the Bible index (`../FinanceCraft — Channel Bible, Asset Guide & Description.md`). That table is the single source of truth; this file no longer keeps a copy.*
 
 ---
 
@@ -315,7 +308,9 @@ If a prompt runs very long, it can be compacted for length — but only after co
 
 **Titles come before the script.** Write them from the Idea Gate's thesis and premise, not from a draft script.
 
-**Titles: generate 4-5 distinct variations, never just one.** Ground them in real data — pull recent high-performing titles from the Master Tracker's Coverage Map and Outlier Log tabs and identify keyword phrases and structural patterns recurring in outlier videos, plus the strongest terms from Genre Trend Scan. Each variation should test a genuinely different angle, not reword the same title:
+**Two passes, same as thumbnails.** *Pass 1 — generate wide:* 10–15 raw titles, one line each, from only the thesis, the premise and the zero-context viewer. No angle list, character limits or keyword rules in view. *Pass 2 — check and develop:* a fresh pass applies the rules below, keeps the strongest, and develops the final set.
+
+**Titles: deliver 4-5 distinct variations, never just one.** Ground them in real data — pull recent high-performing titles from the Master Tracker's Coverage Map and Outlier Log tabs and identify keyword phrases and structural patterns recurring in outlier videos, plus the strongest terms from Genre Trend Scan. Each variation should test a genuinely different angle, not reword the same title:
 1. Number/scale-led (e.g. "How This $10B Company Collapsed in 2 Years")
 2. Curiosity/question-led
 3. Keyword-front-loaded for search, using the strongest term from Genre Trend Scan
@@ -386,6 +381,10 @@ List every recurring character in a short table before moving to beat-by-beat ge
 **"The Hypothetical" episodes use `[COMPOSITE: <role>]` instead of `[CARICATURE: <name>]`, exclusively — never both in the same episode.** These are invented, archetypal characters per the Style Bible's Section 10 design rule — deliberately generic, no specific distinguishing features, and never a real named person under any circumstance. They still get a locked reference file for visual consistency within the episode, but the dialogue rule flips: composite characters are fictional, so scripted dialogue is fine, same as Margery.
 
 ## Phase 4 — Beat-by-beat generation instructions
+
+**Cold open — strongly encouraged, not forced:** open the episode on 2–4 AI video clips carrying the hook (roughly the first 10–20 seconds), counted against the normal AI video cap. Motion in the first seconds is the strongest default we have. Deviate only when something else genuinely opens harder — e.g. the hook *is* a number best landed as a Remotion counter, or one arresting still says it faster — and state that reason in one line in the beat sheet. Never open on a logo, title card or channel intro.
+
+**Two passes for visuals (Two-Pass Rule, `bible/05-cp-verify-phase-gates.md`).** *Pass 1:* go through the script and pitch the most striking visual idea for each beat — what would make a stranger keep watching — with only the timing math, the episode's style and the hard constraints in view. *Pass 2:* then fit those ideas to the checkpoints below (shot-duration bounds, AI-video cap, tag coverage, technique rules), changing format before dropping an idea.
 
 **Visual layer:** apply `SKELETON_LIBRARY.md`'s Visual layer section before generating shots -- the opening-motion rule, each skeleton's signature visual (table in that file), and the rule to keep motion out from under a character speaking or a quote card.
 
@@ -535,7 +534,7 @@ npm install d3 d3-geo topojson-client world-atlas
 
 Every standing asset still needs its full generation prompt written out in full at least once, even though it's reused — "recurring" is not a reason to skip the prompt.
 
-- **Cold open bumper** — the channel's recurring opening logo/title card. Fixed Remotion asset, 1920×1080/30fps, 3-5 seconds. Full prompt required, generated once.
+- **No opening bumper, logo or title card.** Every episode opens cold on the hook — the first frame is story, not branding. The biggest drop-off happens in the first 2–5 seconds, and a logo there spends them on nothing. Branding lives in the thumbnail, the palette and the voice; if a channel ident is ever wanted, it goes after the hook has landed (~0:30), never before.
 - **Subscribe graphic overlay** — the on-screen subscribe button/animation. Fixed Remotion asset, 2-4 seconds. Full prompt required, generated once.
 - **Background instrumental score** — one music generation prompt per episode (Suno/Udio/equivalent), instrumental only, no lyrics, matching the episode's tone register per the Style Bible's palette-modulation principle (a tense, propulsive instrumental bed for an accountability story; a sparse, restrained one for a tragedy episode). State the target mood, tempo range, and instrumentation explicitly in the prompt — never leave this to the music tool's own interpretation of a one-word mood label.
 - **Sign-off delivery — decide per episode, not fixed:**
@@ -544,7 +543,7 @@ Every standing asset still needs its full generation prompt written out in full 
   - If this episode centers a strong accountability-tone caricature: that character can deliver the line instead, per the dialogue exception in Character Setup.
   - Do NOT generate a generic news-anchor desk sign-off.
 
-**"The Hypothetical" episodes use their own standing assets instead of the above, per Style Bible Section 10:** a separate cold open bumper in the sub-series' lavender accent, and a recurring "HYPOTHETICAL SCENARIO" watermark badge inserted at every `[WATERMARK]` tag — roughly every 2-3 minutes. Subscribe overlay and sign-off delivery follow the main show's rules.
+**"The Hypothetical" episodes use their own standing assets instead of the above, per Style Bible Section 10:** the sub-series' lavender accent (no opening bumper — same cold-open rule as the main show), and a recurring "HYPOTHETICAL SCENARIO" watermark badge inserted at every `[WATERMARK]` tag — roughly every 2-3 minutes. Subscribe overlay and sign-off delivery follow the main show's rules.
 
 ## Phase 5 — Consolidated batches (Part A's execution deliverable, grouped by type)
 

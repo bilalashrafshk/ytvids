@@ -20,10 +20,27 @@ So the rule underneath this entire section: **verification means producing the e
 
 Every phase runs the same four steps:
 
-**1. PRODUCE** — generate the phase output.
+**1. PRODUCE** — generate the phase output as a **creative pass** (see the Two-Pass Rule below): no gate numbers, bands, word lists or checklists in view.
 **2. VERIFY** — run that phase's checklist below, in full, in writing.
 **3. BRANCH** — all PASS → hand forward. Any FAIL → regenerate.
 **4. REGENERATE** — rewrite only the failing unit, re-verify, repeat. Maximum **two** regeneration attempts per phase.
+
+### The Two-Pass Rule — create first, check after (applies to every creative phase)
+
+Rules and gates narrow ideas before the ideas exist. A model drafting with 3,000 lines of constraints in view writes toward the average of the benchmarks, spends its attention on compliance instead of story, and produces work that passes every gate and still feels flat. So every creative phase — idea pivots, titles, hooks, thumbnails, scripts, beat-sheet visual ideas, character concepts — runs in two separate passes:
+
+**Pass 1 — Create.** Work from only: the inputs that define the job (thesis/premise, the brief's facts or invented world, the confirmed skeleton's beat map, target runtime) and the **hard constraints** — the few rules whose violation can't be fixed by editing:
+- Track 1: no invented facts, no invented dialogue for real people, real people illustrated never photoreal.
+- Track 2: invented names only, the underlying mechanic stays accurate, the episode must read as fiction.
+- Everything: the audience is a stranger with zero context.
+
+Do **not** load or consult during Pass 1: CP-0 bands, the jargon list, reframe counts, device ledgers, word-count targets, legibility limits, callout counts, asset caps, tag quotas. Go wide — generate more options than needed, take the strange idea seriously, follow what is interesting.
+
+**Pass 2 — Check.** Only once the Pass 1 output exists, run the phase's full checklist (below) and `gate_check.py` / `gate_alpha.py` / `gate_idea.py` where they apply. Fix failures with the **smallest** edit that clears them — never by sanding down the idea that made the draft worth checking. If a gate and the draft's best idea truly conflict, keep the idea, fix around it, and flag the conflict to the user rather than silently flattening it.
+
+**Where possible, run Pass 2 as a fresh pass** that sees only the output and the rules, not the creative reasoning — it checks the work instead of defending it. The thumbnail phase (`bible/11`, Phase 2) is the reference implementation.
+
+This does not weaken any gate: nothing is handed forward until Pass 2 returns PASS. It only changes *when* the rules enter.
 
 ### How to verify so the check is real
 

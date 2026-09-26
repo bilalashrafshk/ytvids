@@ -149,6 +149,8 @@ Run `gate_alpha.py --skeleton <n>` on the returned brief for the mechanical chec
 
 Proceed per the master document: CP-0 gates (`bible/06-retention-physics-cp0.md`), CP-3 twin drafts and CP-2 audit (`bible/07-script-generation-prompt.md`), CP-VERIFY checkpoints at each phase (`bible/05-cp-verify-phase-gates.md`), then `gate_check.py` externally on both drafts.
 
+**Create first, check after.** Each draft is written in a creative pass with only the brief, the skeleton's beat map, the runtime and the hard constraints in view. CP-0 bands, the jargon list, device ledgers and `gate_check.py` run only on the finished draft (Two-Pass Rule, `bible/05-cp-verify-phase-gates.md`). Gates decide what ships, not what gets imagined.
+
 **Skeleton rules for drafting:**
 - Each draft follows its skeleton's beat map in `SKELETON_LIBRARY.md` and is gated with **its own** archetype: `gate_check.py -a 8` for an A8 draft, `-a 9` for A9, and so on. Never gate both drafts on one band.
 - Different skeletons satisfy CP-3's Structure axis. The engine still names one more axis.

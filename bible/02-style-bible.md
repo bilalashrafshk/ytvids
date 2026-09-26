@@ -128,7 +128,7 @@ A distinct sub-series for content that teaches a real financial or business mech
 **The inversion, stated plainly:** everywhere the main Style Bible says real names, real sourcing, real caricatures — this sub-series does the opposite. Invented people, invented companies, a verified-accurate underlying mechanic instead of a primary-source trail. Nothing here overrides the parent rules for documented episodes; it's a separate, clearly-marked lane.
 
 **Visual signal — layered, so no single missed cue causes confusion:**
-- **A dedicated cold-open bumper**, distinct from the main show's, branded "The Hypothetical," using a signature lavender/violet accent color that appears nowhere else in the channel's palette system.
+- **A signature lavender/violet accent color** that appears nowhere else in the channel's palette system, used for the badge overlay and sub-series graphics. (No opening bumper — episodes open cold on the hook, same as the main show.)
 - **A persistent badge overlay** — a clean illustrated label graphic reading "HYPOTHETICAL SCENARIO," in the same lavender accent, reappearing every 2-3 minutes throughout the episode, not just at the open. A one-time disclaimer is exactly what a clipped or re-uploaded segment loses; a recurring one isn't.
 - **Composite characters get a deliberately generic, archetypal design** — no specific distinguishing features the way a real-person caricature has. This is a design rule, not just a legal one: it should read as a stand-in, not as anyone in particular.
 
