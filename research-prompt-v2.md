@@ -24,7 +24,7 @@ In 5-6 plain sentences: the version of this story that most articles and videos 
 
 ## PART 2 — The gap
 
-What do primary sources, court records, filings, regulatory reports, contemporaneous press, or non-English coverage say that the common version leaves out, softens, or gets wrong?
+What do interviews, insiders, contemporaneous press, non-English coverage, court records or filings say that the common version leaves out, softens, or gets wrong?
 
 For each item: the fact, the source, and one line on why popular coverage missed it.
 
@@ -37,7 +37,7 @@ Every fact I might state on camera, each with its source. Mark clearly:
 - **[SECONDARY]** — a news article or summary describing one of the above
 - **[UNCERTAIN]** — sources disagree, or you're inferring
 
-Flag anything resting on a single source, especially claims about a living person.
+**Primary sources are required only for load-bearing claims:** anything that accuses or criticises a named living person or a real company, the headline numbers, and the pivotal detail. Everything else can be [SECONDARY] from reputable reporting — don't spend effort chasing filings for background colour. Flag anything load-bearing that rests on a single source.
 
 **If any figure moves or compounds over time** (a debt total that grows, a valuation that falls, a body count that rises, a fine that escalates) — give the figure at every stage you have a source for, and check that consecutive stages are actually consistent with the rate or cause driving the change. If they aren't, say so plainly rather than presenting both.
 

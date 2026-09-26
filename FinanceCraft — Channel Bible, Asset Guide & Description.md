@@ -6,7 +6,7 @@
 > Our mission is to produce **fun, vibrant, witty, visually addictive, and deeply informative documentaries and thought experiments** (combining the best narrative electricity of *MagnatesMedia*, the visual clarity of *Crayon Capital*, and the kinetic urgency of *My Chaotic Stories*).
 >
 > **Core Production Rules:**
-> 1. **Anti-Dryness Law:** If a script sounds like an SEC lawyer or a college economics professor reading prepared remarks, it is an **AUTOMATIC FAILURE**. Narration must be conversational, sharp, humorous, and visceral.
+> 1. **Anti-Dryness Law:** If a script sounds like an SEC lawyer or a college economics professor reading prepared remarks, it is an **AUTOMATIC FAILURE**. Narration must be conversational, sharp, humorous, and visceral. **Research is invisible:** the voiceover never cites sources ("according to its 10-K", "filings show") — it says what happened, to whom, and what it looked like; sources live in the description. Every ~60–90 seconds must carry something a viewer would retell (CP-VERIFY GATE γ).
 > 2. **Track Production Routing (three tracks — `00-ROUTER.md` STEP 2 decides):**
 >    - **Track 1: Corporate Autopsies & Investigative Scandals (Documented Cases):** Real corporate history (e.g. Peloton, WeWork). Sourced from primary documents when relevant, but told as high-stakes, entertaining human drama.
 >    - **Track 2: "The Hypothetical" & Macro Thought Experiments (Speculative / What-If):** High-concept simulations (e.g. *The Thirty-Day Blackout*, *What If You Had $1 Trillion*). **STRICTLY FORBIDS forcing SEC 10-K filings, court dockets, or legalistic paperwork.** Uses second-person immersion ("You"), telemetry HUDs, economic flowcharts, countdown clocks, and relatable human behavior.
@@ -65,7 +65,7 @@ New investigative documentaries exploring corporate collapses, audacious busines
 ## **3\. Channel Identity & Editorial Mission**
 
 > * **Niche:** Business and finance documentaries—corporate fraud, scandal, rise-and-fall stories, and hidden corporate/financial history. High-momentum visual storytelling. Margery is an in-world situational protagonist when an active character is narrative-critical (e.g. stranded on an island in a hypothetical scenario, or navigating a facility), never a generic news anchor or desk host.  
-> * **Core Promise:** Stories people are interested in but haven't heard, or haven't heard told this way—sourced from primary documents (SEC filings, court records, congressional transcripts), avoiding overdone stories like Enron, Theranos, or FTX.  
+> * **Core Promise:** Stories people are interested in but haven't heard, or haven't heard told this way—sourced carefully off camera and told on camera like a story — never like paperwork (research is invisible: `bible/01-research-methodology.md`). Where it matters we go to primary documents. We avoid overdone stories like Enron, Theranos, or FTX.  
 > * **Positioning:** Sits alongside creators like ColdFusion, MagnatesMedia, and Wendover Productions, but niched down strictly to fraud, scandal, and hidden history with primary-source rigor as the differentiator.
 
 ## **4\. Visual System & Palette Rules**

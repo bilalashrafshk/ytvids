@@ -115,6 +115,8 @@ Run every CP-0 Retention Physics gate with observed values and evidence:
 - Median, mean, short-sentence share, long-sentence share, second-person: against **this archetype's band**, not a universal number
 - Jargon per 1,000 ≤ 4.0 (universal) — **list every offending term by name**
 - 12+ char words per 1,000 ≤ 14 (universal)
+- **Retell test (the dryness gate).** Split the draft into ~60–90 second segments. For each, quote the one line a viewer would repeat to a friend — an absurd true detail, a turn, a number made physical. A segment with nothing to quote is dry: rewrite that segment. **Quote the line per segment** — a verdict without the quote is not a check.
+- **Research is invisible.** `gate_check.py`'s CITES gate lists every narrated-source line ("according to", "filings show"); more than two fails (A11 exempt — it names sources by design, as reveals). Each surviving one must be a discovery scene, not a footnote.
 - **By eye, not by script:** passages with nothing a camera could photograph. No reliable automated test exists for this; read for it.
 - **Mechanism repetition.** List every distinct failure mode in the script. If the same one recurs — a blocked login, a frozen account — it is one beat told repeatedly, not escalation. The benchmarks never reuse a failure mode; each stage breaks for a new reason. Not mechanically checkable, since the mechanism is topic-specific.
 - R3 explainer-paragraph ban — quote any passage of 3+ mechanism sentences with no person, object, consequence or joke

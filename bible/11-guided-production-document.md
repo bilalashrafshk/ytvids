@@ -323,7 +323,7 @@ State which one is recommended and why, but always deliver all 4-5 — the final
 - First 1-2 lines carry the real hook and the primary keyword — this is what shows before "show more" truncates it, and matters more than anything after it.
 - A short paragraph (2-4 sentences) expanding on the angle, written for humans, not keyword-stuffed.
 - Relevant keyword phrases worked naturally into the body, not listed.
-- Bulleted list of primary evidentiary sources (SEC 10-K, regulatory consent decrees, court filings, deeds).
+- A short sources list for credibility and legal cover (lives only in the description — never read aloud or shown as a list on screen).
 - Never write the subscribe CTA or channel boilerplate here — that's a fixed block at the channel level, not authored per episode.
 
 > [!CRITICAL]
@@ -413,7 +413,7 @@ To sustain rapid 2.5s–4.0s pacing across a documentary without visual monotony
   - *Cut 2 (Medium):* Subject interaction, machine operation, or worker action in the scene (2.5–3.5s).
   - *Cut 3 (Punch-in / Macro):* Extreme close-up on a smoking gun detail, rusted joint, gauge, padlocked chain, or warning label (2.0–3.0s).
 - **Technique 2 — Document Inset & Conceptual Metaphor Pairing:**
-  - *Evidence Flash:* Brief overview of real document/deed/filing with highlight (1.5s–3.0s max).
+  - *Evidence Flash:* A real artifact with its one payoff line highlighted (1.5s–3.0s max) — only when that line is the drama, never as proof-wallpaper.
   - *Conceptual Illustration:* Cut immediately to an evocative narrative illustration/metaphor (e.g. crumbling concrete foundation, corporate chessboard, assembly line halted) to avoid dry paper fatigue.
 - **Technique 3 — Caricature Performance & Metric Ping-Pong:**
   - *Beat A:* Executive caricature delivering action or reacting at boardroom desk / conference stage (3.0–4.0s).
@@ -449,7 +449,7 @@ For every beat needing a generated or collected asset, produce the full copy-pas
    - **`newsroom-chart-animations` (for `[DATA]`):** Evidence-led financial data graphics, waterfalls, bubble curves, and timelines. Follows strict newsroom design (source under title card, single crimson/emerald semantic accent, zero decorative particles/parallax, 1s stable final hold).
    - **`map-explainer` (for 2D `[MAP]`):** Tracing routes, shipping corridors, supply chains, or regional choropleth reveals using `d3-geo` vector projections, electric draw-heads, sequenced border draws, and projected HTML label overlays — no basemap tile fetch.
    - **`remotion-bits` Catalog (42 Pre-Built Components):** Kinetic UI, typography, counter cards, and scene transitions (`variable-speed-typewriter`, `bit-card-stack`, `bit-basic-counter`, `bit-scene-3d-cube-nav`).
-3. **Real-World Asset Insert:** For anything tagged `[SHOWABLE]` (deeds, SEC filings, official letters). **Anti-Static Rule:** If the document contains dense text, DO NOT present it as an un-animated static block. Pair it immediately with Remotion animated highlighter wipes (`ARCHETYPE_NEWSPRINT_EDITORIAL`), typewriter reveals, or rubber stamps (`ARCHETYPE_RUBBER_STAMP`).
+3. **Real-World Asset Insert:** For anything tagged `[SHOWABLE]` (a tweet, a headline, a photo, a price tag, the one damning line in a memo or document). **Anti-Static Rule:** If the document contains dense text, DO NOT present it as an un-animated static block. Pair it immediately with Remotion animated highlighter wipes (`ARCHETYPE_NEWSPRINT_EDITORIAL`), typewriter reveals, or rubber stamps (`ARCHETYPE_RUBBER_STAMP`).
 4. **Static Image (4K Still for Safe-Title Pan/Zoom):** Used strictly for focused macro details, atmospheric establishing shots, character portraits, and visual metaphors where steady documentary pan/zoom provides deliberate pacing. **Strictly discouraged for text-heavy documents or long-duration statistical breakdowns.**
 
 **Continuity dependency** — state this explicitly, every time, even when the answer is "none."
@@ -656,7 +656,7 @@ Confirm a template draft exists to clone project structure from. Confirm CapCut 
 1. **Selected Title:** The chosen high-CTR title from Phase 1.
 2. **Search-Optimized Hook:** First 1–2 lines delivering the core keyword and emotional tension before YouTube's "Show More" fold.
 3. **Forensic Narrative Summary:** 2–4 sentences breaking down the investigative thesis without fluff.
-4. **Primary Evidentiary Citations:** Direct bulleted list of SEC Form 10-K/10-Q filings, CPSC consent orders, county deed registers, and congressional hearing transcripts.
+4. **Sources:** A short bulleted list of the main sources behind the load-bearing claims (reporting, interviews, documents) — credibility and legal cover, kept compact.
 5. **Frame-Accurate Chapter Timestamps:**
    - Must strictly begin with `00:00`.
    - Timestamps must be extracted directly from the actual millisecond timestamps of the chapter title cards and caption downbeats in the final `.srt` / `.json`.

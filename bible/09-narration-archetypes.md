@@ -214,7 +214,7 @@ INPUTS:
 - **The Voice:** The cynical, seasoned corporate insider. Dismantles the romantic daydream of entrepreneurship with brutal ledger mathematics.
 - **Pacing:** 150–160 WPM. Methodical, conversational, and forensic. Walks line-by-line down an income statement.
 - **The "Real Product" Revelation:** Shows that what the customer thinks they are buying is completely different from how the business actually survives (e.g., *a theater is a popcorn stand; an airline is a credit card loyalty program; an exercise bike is a recurring SaaS utility*).
-- **Visual Sync Integration:** Highly dependent on Remotion financial waterfalls, gross margin comparison cards (`newsroom-chart-animations`), and real SEC Form 10-K expense breakouts.
+- **Visual Sync Integration:** Highly dependent on Remotion financial waterfalls, gross margin comparison cards (`newsroom-chart-animations`), and real cost breakdowns shown per unit a viewer recognises (per ticket, per bike, per cup).
 
 ### 2. Verbatim Transcript Reference Excerpts
 
@@ -245,7 +245,7 @@ CORE RULES:
 2. THE "REAL PRODUCT" PARADOX: Explicitly expose what the business is *actually* selling versus what the customer thinks they are buying (e.g., selling real estate vs burgers; selling credit card miles vs flights; selling soda syrup vs entertainment).
 3. FORENSIC UNIT ECONOMICS BREAKDOWN: Walk through a single transaction in vivid dollar terms ($X gross sale -> $Y studio/distributor split -> $Z fixed overhead -> pennies or negative margin left over).
 4. THE 80%+ MARGIN LIFELINE: Reveal the high-margin secondary engine that actually keeps the doors open (concessions, subscription add-ons, financing fees).
-5. VISUAL & DATA SYNC: Tag cuts every 3.0–4.0s with [REMOTION: Waterfall P&L Breakdown], [SHOWABLE: 10-K Cost of Revenue Table], and [DATA: Margin Inversion Card].
+5. VISUAL & DATA SYNC: Tag cuts every 3.0–4.0s with [REMOTION: Waterfall P&L Breakdown], [DATA: Cost per Ticket Stack], and [DATA: Margin Inversion Card].
 
 INPUTS:
 - Business / Industry: [e.g., Commercial Gyms, Airlines, Auto Dealerships, Fast Food Franchises]

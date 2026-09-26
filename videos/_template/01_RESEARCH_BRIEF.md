@@ -37,7 +37,7 @@
 ---
 
 ## 5. Verified Factual Spine & Timeline
-*Every load-bearing claim with its primary source citation (SEC filings, court dockets, congressional testimony, contemporaneous press).*
+*Every fact you might state, with its source. `[PRIMARY]` is required only for load-bearing claims — accusations about named people or real companies, headline numbers, the pivotal detail. Everything else may be `[SECONDARY]` reputable reporting.*
 - **[Date / Period]** — [Event / Metric / Decision] *(Source: [Doc Name, Page/Docket #])*
 - **[Date / Period]** — [Event / Metric / Decision] *(Source: [Doc Name, Page/Docket #])*
 - **[Date / Period]** — [Event / Metric / Decision] *(Source: [Doc Name, Page/Docket #])*
@@ -56,7 +56,7 @@
 ---
 
 ## 7. Showable Assets (Real Physical Props)
-*Discrete real artifacts to be displayed on screen as tactile paper collages (SEC exhibits, headlines, tweets, financial tables, photographs).*
+*Discrete real artifacts to be displayed on screen as tactile paper collages (headlines, tweets, photographs, price tags, the one damning line in a document).*
 1. **Asset 1**: [Description & Source URL/Citation] — *Compelling factor:*
 2. **Asset 2**: [Description & Source URL/Citation] — *Compelling factor:*
 3. **Asset 3**: [Description & Source URL/Citation] — *Compelling factor:*

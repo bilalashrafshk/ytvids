@@ -55,7 +55,7 @@ Before writing a single word, classify the topic into one of three tracks:
 Don't default to chronological — it should be the least common choice, not the standing one.
 
 * **In medias res** — open at the story's most dramatic moment, then rewind. Best for one clear peak.  
-* **Investigation frame** — narrate as a live discovery ("we found a filing that changes this"). Best when the Pivotal Detail is itself dramatic to reveal.  
+* **Investigation frame** — narrate as a live discovery ("and then someone found the email"). Best when the Pivotal Detail is itself dramatic to reveal.  
 * **Ticking clock** — structure around a countdown to collapse. Best for slow-motion failures.  
 * **Parallel characters** — cut between two opposing arcs. Best when Key Figures has a clear moral opposition.  
 * **Thematic, non-chronological** — organize by theme, not time. Best for sprawling stories with many actors where strict timeline gets confusing.  
@@ -77,7 +77,8 @@ Draft this step last, not first. It's easier to write a genuinely sharp opening 
 **Two passes (see the Two-Pass Rule in `bible/05-cp-verify-phase-gates.md`).** *Pass 1:* write the whole draft from the brief and the skeleton's beat map, treating the craft notes below as instincts, not a checklist — don't count sentences, check bands or consult the jargon list while writing. *Pass 2:* once the full draft exists, run CP-0 and `gate_check.py` and revise the smallest failing units.
 
 
-* Use the Verified Facts as the factual spine. Don't introduce anything not in the Research Brief or clearly conventional public knowledge.  
+* Use the Verified Facts as the factual spine. Don't introduce anything not in the Research Brief or clearly conventional public knowledge.
+* **Research is invisible.** Never narrate the sourcing — no "according to its 10-K", "filings show", "a report found". Say what happened, to whom, and what it looked like. The only exception is when discovering the document *is* the scene. Sources go in the description, not the voiceover.  
 * **Engagement technique is never a license to invent.** Rhetorical questions, direct address, and emphasis all work on real verified facts — none of them require a composite character, an invented scene, or a fabricated inner monologue for a real person. If a technique only works by imagining what someone was thinking or inventing a illustrative stand-in, that's fiction-writing craft, not documentary craft, and it doesn't belong here regardless of how effective it reads.  
 * Weave in Narrative-mining highlights as texture, not as a list — don't let narration run dry for more than \~30 seconds without a human or dramatic detail surfacing.  
 * Place the Pivotal Detail at a moment of maximum narrative weight, not necessarily where it falls chronologically — consider it for the hook, the midpoint turn, or the closing beat.  

@@ -112,7 +112,7 @@ Treat every chart as an **evidence-bearing news document**, not an illustration,
 Build the visual frame in this strict top-to-bottom hierarchy:
 1. **Precise Title:** Clearly state what is measured. Never insert unsupported causality.
 2. **Readable Unit / Descriptor:** Explicit scale ($ Billions, % Margin, Units Delivered).
-3. **Visible Source Immediately Below Header:** Positioned directly under the title card (e.g., `Source: SEC Form 10-K, FY2019–FY2023`) — never hidden in a tiny footer.
+3. **Quiet Source Line:** Small, low-contrast, bottom corner (e.g., `Source: company annual reports`). Present for credibility, never competing with the number — the chart is about the story, not the paperwork.
 4. **The Plot Field:** Grounded on an honest baseline (zero for bars) with sufficient grid scale to judge magnitude.
 5. **Sparse Axes and Dates:** Supply chronological context without becoming wallpaper. Use start, meaningful midpoint, and end labels.
 6. **Direct Annotations:** Point directly to the one or two findings stated by the voiceover. Never make the viewer search a detached legend.
@@ -172,7 +172,7 @@ export const NewsroomChart = ({ data }: { data: Array<{ label: string; value: nu
   return (
     <div style={{ width: 1920, height: 1080, backgroundColor: '#F8F6F0', padding: 80 }}>
       <h1 style={{ fontSize: 44, color: '#0F172A', margin: 0 }}>HOW UNIT ECONOMICS INVERTED</h1>
-      <p style={{ fontSize: 20, color: '#64748B', marginTop: 8 }}>Source: SEC Form 10-K FY2020–FY2022 • Constant Dollars Per Bike</p>
+      <p style={{ fontSize: 20, color: '#64748B', marginTop: 8 }}>Source: company annual reports • Dollars per bike</p>
       {/* Chart Canvas & SVG Elements driven by progress values */}
     </div>
   );

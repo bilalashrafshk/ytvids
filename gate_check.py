@@ -45,6 +45,14 @@ SIGNATURE_CINEMATICS = re.compile(
     r"\[REMOTION:\s*(ARCHETYPE_WHIP_ZOOM_MONTAGE|ARCHETYPE_INFINITE_PORTAL_TUNNEL|"
     r"ARCHETYPE_3D_ORBITAL_FLYWHEEL)[^\]]*\]", re.I)
 
+# Research is invisible (bible/01): narration says what happened, never where
+# it is written. A couple are allowed for a genuine discovery scene.
+CITATION = re.compile(
+    r"\baccording to\b|\b10-[KQ]\b|\bSEC filings?\b|\bcourt (filings?|records?|documents?)\b|"
+    r"\b(filings?|documents?|records?|reports?|data|studies|research|a study|analysts?|surveys?)\s+"
+    r"(show|shows|showed|reveal|reveals|revealed|suggest|suggests|suggested|indicate|indicates|"
+    r"found|finds|confirm|confirms|confirmed)\b", re.I)
+
 # Things a camera could photograph. Extend freely per episode.
 CONCRETE = """
 coffee popcorn door pocket couch television remote bed floor phone glass
@@ -328,11 +336,22 @@ def main():
               "(whip-zoom montage / infinite portal tunnel / orbital flywheel) "
               "or a stated reason none fits this episode")
 
+    cites = [x for x in sents if CITATION.search(x)]
+    if args.archetype == 11:
+        print(f"  [note] CITES: {len(cites)} narrated-source line(s) — A11 names sources "
+              "by design; keep each one a dramatic reveal, not a footnote")
+    else:
+        results.append(check(
+            "CITES  narrated-source lines <= 2  [UNIVERSAL — research is invisible, bible/01]",
+            f"{len(cites)}", len(cites) <= 2,
+            " | ".join(f'"{c[:90]}"' for c in cites[:5])))
+
     print("\n  NOT MECHANICALLY CHECKED — apply by eye (see CP-VERIFY):")
     print("    - concrete-noun runs: no reliable automated test exists; read for")
     print("      passages with nothing a camera could photograph")
     print("    - R3 explainer-paragraph ban, R5 device repetition")
-    print("    - Track 2: Stakes Contract complete within first 80 words")
+    print("    - RETELL test: each ~60-90s segment has one thing a viewer would repeat")
+    print("      to a friend; a segment with none gets rewritten (CP-VERIFY GATE gamma)")
     if args.archetype == 9:
         print("    - A9 Cost Contract: by word 150 the viewer knows the contrarian")
         print("      choice, its social cost, and the named foil")
@@ -344,6 +363,7 @@ def main():
         print("    - A8: prior stated and validated before it is broken; nested")
         print("      paradox lands after the main mechanism, not before")
     if args.archetype == 5:
+        print("    - A5: Stakes Contract complete within first 80 words")
         print(f"\n  First 80 words (check premise/clock/penalty/rules/adversary):")
         print(f'    "{" ".join(words[:80])}"')
 
