@@ -4,7 +4,7 @@
 
 ---
 
-I'm building a fictional scenario episode for a financial documentary channel. Rough premise: **[PREMISE]**. The real financial or physical mechanic I want it to teach: **[MECHANIC]**. Skeleton this is for (see `SKELETON_LIBRARY.md`, e.g. A5, A6, A9, A10): **[SKELETON]**.
+I'm building a fictional scenario episode for **[CHANNEL — the one-line description from the channel profile; FinanceCraft: "a financial documentary channel"]**. Rough premise: **[PREMISE]**. The real mechanic (financial, physical, biological or social) I want it to get right: **[MECHANIC]**. Skeleton this is for (see `SKELETON_LIBRARY.md`, e.g. A5, A6, A9, A10): **[SKELETON]**.
 
 This is invented, not reported. Do not search for real events to cite. Do not give me studies, statistics, or academic sources. The only thing that must be factually correct is the mechanic itself.
 

@@ -1,14 +1,16 @@
-# FinanceCraft — 00 ROUTER (read this first, every run)
+# 00 ROUTER — the shared engine (read this first, every run)
 
 *This is the entry point. The engine reads this before anything else. It defines what happens between "here's a topic" and "here are two scripts," and where it is required to stop and wait.*
 
-*Companion files: `IDEA_GATE.md` (STEP 1.5), `SKELETON_LIBRARY.md` (STEP 2 and STEP 5), the Bible (index file + `bible/` sections), `gate_idea.py`, `gate_alpha.py`, `gate_check.py`.*
+*Serves every channel in `channels/`. Companion files: `channels/<name>/CHANNEL.md` (STEP 0), `IDEA_GATE.md` (STEP 1.5), `SKELETON_LIBRARY.md` (STEP 2 and STEP 5), the Bible (index file + `bible/` sections), `gate_idea.py`, `gate_alpha.py`, `gate_check.py`.*
 
 ---
 
 ## The run, end to end
 
 ```
+STEP 0   ENGINE asks which channel (unless the user already named it)
+         loads channels/<name>/CHANNEL.md — it overrides everything below where it speaks
 STEP 1   User supplies working title + one-sentence thesis + demand evidence
 STEP 1.5 ENGINE runs the IDEA GATE (IDEA_GATE.md), checked by gate_idea.py
          REJECT → three pivots; REWORK → named fixes
@@ -30,6 +32,27 @@ STEP 7   Handoff: scripts, audit blocks, one recommendation
 
 ---
 
+## STEP 0 — Which channel?
+
+If the user hasn't named the channel, the engine's **first output is this question, and nothing else**:
+
+```
+Which channel is this for?
+  1. FinanceCraft — finance documentaries (case autopsies, hypotheticals, explainers)
+  2. Raahim — absurd what-if stories, 1950s deadpan educational-film style
+```
+
+Then load `channels/<name>/CHANNEL.md` and state in one line which profile is active. Every later step reads it:
+
+- **Precedence:** channel profile → shared engine files → FinanceCraft-only Bible sections (only for FinanceCraft, or where a profile points to them). See `channels/README.md`.
+- **The profile can restrict STEP 2:** e.g. Raahim is Track 2 only. A topic that needs a track the channel doesn't allow is flagged at HARD STOP 0, not quietly reshaped.
+- **Episode folder** comes from the profile (`videos/` for FinanceCraft, `videos/raahim/` for Raahim).
+- **Never cross channels.** No reusing another channel's characters, palette, thumbnails or episode files. If a topic fits the other channel better, say so at HARD STOP 0.
+
+Every HARD STOP block starts with a `CHANNEL:` line so the active profile is always visible.
+
+---
+
 ## STEP 1.5 — Idea Gate
 
 Run `IDEA_GATE.md` on the thesis: ten questions, each answered with an artifact rather than a yes. Then run `gate_idea.py` on the output. If the script rejects it, regenerate the gate output (max 2), then escalate.
@@ -41,6 +64,7 @@ Run `IDEA_GATE.md` on the thesis: ten questions, each answered with an artifact 
 The engine shows the gate block, then stops:
 
 ```
+CHANNEL:       [name]
 VERDICT:       PASS / REWORK / REJECT
 BIGGEST RISK:  [one sentence]
 DEMAND:        [as supplied, or NOT SUPPLIED]
@@ -90,6 +114,7 @@ Take the SHAPE from the Idea Gate and read the Selection Matrix in `SKELETON_LIB
 The engine states, and then stops:
 
 ```
+CHANNEL:        [name]
 TOPIC:          [as supplied]
 CLASSIFICATION: TRACK [n] — [name]
 TEST MATCHED:   [A / B / C] — [one sentence]

@@ -16,7 +16,8 @@ YT Videos/ (Repository Root)
 ├── README.md                                                 # Master System Manual & Reproduction Guide
 ├── FinanceCraft — Channel Bible, Asset Guide & Description.md # Bible index: identity, assets, TASK table, section map
 ├── bible/                                                    # Channel Bible sections, one file per section (01–15)
-├── 00-ROUTER.md                                              # Engine entry point: steps, HARD STOPs, track routing
+├── 00-ROUTER.md                                              # Engine entry point: STEP 0 channel pick, HARD STOPs, track routing
+├── channels/                                                 # One profile per channel (financecraft/, raahim/) — overrides the Bible
 ├── IDEA_GATE.md                                              # STEP 1.5 Idea Gate (checked by gate_idea.py)
 ├── SKELETON_LIBRARY.md                                       # Narration skeletons A1–A11, beat maps, selection matrix
 ├── research-prompt-v2.md / research-prompt-track3-v2.md / invention-prompt-v2.md  # Canonical research/invention prompts

@@ -144,12 +144,18 @@ def check_file(path, token_hex, token_hex_to_key):
 
 
 def main():
-    if len(sys.argv) != 2:
-        print(f"usage: {sys.argv[0]} <file.tsx | directory>")
+    args = sys.argv[1:]
+    tokens_path = TOKENS_PATH
+    if len(args) == 3 and args[0] == "--tokens":
+        tokens_path, args = args[1], args[2:]
+    if len(args) != 1:
+        print(f"usage: {sys.argv[0]} [--tokens <channel theme .ts>] <file.tsx | directory>")
+        print("       default tokens: FinanceCraft (remotion/src/tokens.ts); "
+              "Raahim: remotion/src/themes/raahim.ts")
         return 1
-    target = sys.argv[1]
+    target = args[0]
 
-    tokens = load_tokens(TOKENS_PATH)
+    tokens = load_tokens(tokens_path)
     token_hex = set(tokens.values())
     token_hex_to_key = {}
     for key, hexval in tokens.items():
