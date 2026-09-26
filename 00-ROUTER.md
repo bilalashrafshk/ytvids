@@ -44,7 +44,7 @@ Which channel is this for?
 
 Then load `channels/<name>/CHANNEL.md` and state in one line which profile is active. Every later step reads it:
 
-- **Precedence:** channel profile → shared engine files → FinanceCraft-only Bible sections (only for FinanceCraft, or where a profile points to them). See `channels/README.md`.
+- **Precedence:** the channel profile wins where it speaks; **every general production rule in the engine applies to every channel automatically** (text discipline, composition, technique menu, audio mixing, thumbnail legibility, all gates); only FinanceCraft's *identity* (palette, register, characters, thumbnail styles, music beds, persona, research) is never inherited. See `channels/README.md`.
 - **The profile can restrict STEP 2:** e.g. Raahim is Track 2 only. A topic that needs a track the channel doesn't allow is flagged at HARD STOP 0, not quietly reshaped.
 - **Episode folder** comes from the profile (`videos/` for FinanceCraft, `videos/raahim/` for Raahim).
 - **Never cross channels.** No reusing another channel's characters, palette, thumbnails or episode files. If a topic fits the other channel better, say so at HARD STOP 0.

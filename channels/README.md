@@ -9,9 +9,11 @@ The engine is shared; each channel is a **profile**. `00-ROUTER.md` STEP 0 asks 
 
 ## How precedence works
 
-1. **The channel profile wins** wherever it speaks: identity, allowed tracks and skeletons, style, palette, characters, thumbnails, music, voice, titles, and any rule it explicitly switches off.
-2. **Shared engine files** apply unless the profile overrides them: `00-ROUTER.md`, `IDEA_GATE.md`, `SKELETON_LIBRARY.md`, the gate scripts, and the process sections of the Bible (`bible/05` CP-VERIFY + Two-Pass Rule, `bible/06` CP-0, `bible/11` production phases, `bible/12` voice process, `bible/15` Remotion process).
-3. **FinanceCraft-only files** are never loaded for another channel unless its profile says so: the Bible index's identity sections, `bible/01`, `bible/02`, `bible/03`, `bible/07`, `bible/10`, `bible/13`, `bible/14`.
+1. **The channel profile wins** wherever it speaks: identity, allowed tracks and skeletons, look, palette, characters, thumbnail formats, music beds, voice persona, titles, and any rule it explicitly switches off.
+2. **Everything else in the engine applies to every channel automatically** — including the general production rules that happen to live in FinanceCraft's Bible files: minimal, glanceable on-screen text; big-and-few labels with no overlaps; one focal point; recurring settings; animate any text-heavy asset; the stills-first technique menu; map accuracy; standing negative prompts; loss-of-life restraint; audio mixing, ducking and micro-audio mechanics; the thumbnail Anchor / Legibility / Instant-Recognition / Benchmark rules; the Two-Pass Rule, CP-0, cold open and every gate. **A new general rule added anywhere in the engine applies to all channels unless a profile opts out by name.**
+3. **FinanceCraft identity is never inherited:** its mission and tracks, cel-shaded register and palette, caricature and real-person rules, SEC/evidence-insert conventions, T1–T7 thumbnail styles, M1–M5 music beds, narrator persona, research methodology and channel descriptions.
+
+Each profile has an **Inherited rules** section listing the general rules by file, so nothing depends on memory.
 
 ## Isolation
 

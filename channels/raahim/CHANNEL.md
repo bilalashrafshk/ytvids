@@ -133,7 +133,42 @@ VoxCPM2 process from `bible/12` unchanged; persona replaced:
 
 ---
 
-## 10. Still to decide (record decisions here)
+## 10. Inherited rules — apply to Raahim exactly as written
+
+Everything general in the engine applies here automatically (see `channels/README.md`). Listed so nothing depends on memory; where a rule names FinanceCraft's palette or register, read it as **this** channel's.
+
+**On-screen text** (`bible/02` §7, `bible/11` Phase 4 checks)
+- Glanceable, never reading: big bold numbers and 1–4 word labels, never sentences on screen.
+- Labels big and few, never shrunk to fit; zero text-on-text or text-on-chart overlap.
+- Any text-heavy asset must be animated (typewriter, highlight sweep, stamp) — never a static wall of text.
+- Lettering matches the illustrated register (here: Bowlby One / Jost, charcoal or mustard, on cream).
+
+**Composition & look** (`bible/02` §2, §5, §6, §8, §9)
+- **Light by default:** cream paper ground; charcoal frames only for night scenes or a deliberate beat.
+- One focal point per frame, generous negative space, minimal supporting elements.
+- One or two recurring "home base" settings (e.g. the Host's classroom) rather than a new set every beat.
+- Stills-first technique menu: AI stills + pan/zoom and parallax as the default; AI video where motion earns it (cold open, big moments); Frames-to-Video for character consistency.
+- Maps start from a real reference map — never AI-generated geography.
+- Standing negative prompts for scene and map beats, plus this channel's negative prompt (§4).
+- Anything involving real loss of life gets restraint, not jokes.
+
+**Motion & Remotion** (`bible/11`, `bible/15`, `SKELETON_LIBRARY.md`)
+- Cold open on motion, no logo; shot-duration bounds; AI video cap; Remotion render-and-view check (CP-14); Theme Lock via `check_remotion_theme.py --tokens remotion/src/themes/raahim.ts`.
+
+**Audio** (`bible/10` §1, §3, §5 — mixing only; music beds replaced by §7 above)
+- Golden mixing rules, Breathe & Swell ducking, speech EQ pocket, dead-silence drop, VO processing chain.
+
+**Thumbnails & titles** (`bible/03`, `bible/11` Phases 1–2)
+- Anchor Rule, Legibility Rule (168px), Instant-Recognition Object Rule, subject-bridge check, Benchmark Cross-Check, two-pass generation, 4–5 title options with a recommendation.
+
+**Scripts & gates** (`bible/05`, `bible/06`, `bible/08`, `gate_check.py`)
+- Two-Pass Rule, CP-0 bands, Retell test, CITES gate, phonetic decimals ("point"), open loops and micro-hooks at every transition.
+
+**Not inherited:** FinanceCraft's cel-shaded register and palette, caricatures of real people, SEC/evidence inserts, T1–T7, M1–M5, its narrator persona, research methodology, the HYPOTHETICAL SCENARIO watermark.
+
+---
+
+## 11. Still to decide (record decisions here)
 
 - [ ] The Host's name
 - [ ] Channel handle, banner and description
