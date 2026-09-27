@@ -21,7 +21,6 @@ const DRAFT_ROOT = process.env.DRAFT_ROOT_OVERRIDE
   || "/Users/bilalashraf/Movies/CapCut/User Data/Projects/com.lveditor.draft";
 const EP = "/Users/bilalashraf/YT Videos/videos/04-what-if-humans-live-to-150";
 const READY = `${EP}/assets/capcut_ready`;
-const BADGE = `${READY}/remotion/badge_hypothetical.mov`;
 
 import { execSync } from 'node:child_process';
 // Rebuilding a draft while CapCut is open leaves it half-migrated and unopenable. Refuse.
@@ -33,7 +32,13 @@ try {
 
 const plan = JSON.parse(fs.readFileSync(`${READY}/timeline_plan.json`, "utf8"));
 const draftFolder = path.join(DRAFT_ROOT, DRAFT_NAME);
-if (fs.existsSync(draftFolder)) fs.rmSync(draftFolder, { recursive: true, force: true });
+if (fs.existsSync(draftFolder)) {
+  const backup = `${READY}/draft_backups/${DRAFT_NAME} ${new Date().toISOString().replace(/[:.]/g, '-')}`;
+  fs.mkdirSync(path.dirname(backup), { recursive: true });
+  fs.cpSync(draftFolder, backup, { recursive: true });
+  fs.rmSync(draftFolder, { recursive: true, force: true });
+  console.log(`Backed up the previous draft to ${backup}`);
+}
 
 const ids = new UuidIdGenerator();
 const service = new DraftService(
@@ -44,25 +49,26 @@ const service = new DraftService(
 );
 await service.createDraft({ name: DRAFT_NAME, width: 1920, height: 1080, fps: 30 });
 
-let n = { video: 0, image: 0, badge: 0 };
+const extras = JSON.parse(fs.readFileSync(`${READY}/extras.json`, "utf8"));
+let n = { video: 0, kenburns: 0, music: 0, sfx: 0 };
 for (const item of plan) {
-  if (item.filePath.endsWith('.png')) {
-    await service.addImage({ draft: DRAFT_NAME, path: item.filePath, atSeconds: item.start, durationSeconds: item.duration });
-    n.image++;
-  } else {
-    await service.addVideo({ draft: DRAFT_NAME, path: item.filePath, atSeconds: item.start, durationSeconds: item.duration, volume: 0 });
-    n.video++;
-  }
-}
-// Lavender HYPOTHETICAL SCENARIO badge (transparent) — lands on its own track above the pictures.
-for (const item of plan.filter((p) => p.watermark)) {
-  await service.addVideo({ draft: DRAFT_NAME, path: BADGE, atSeconds: item.start, durationSeconds: 4, volume: 0 });
-  n.badge++;
+  // Stills play as their Ken Burns motion clip (assets/capcut_ready/kenburns/), rendered at exact beat length.
+  let file = item.filePath;
+  if (file.endsWith('.png')) { file = `${READY}/kenburns/${path.basename(file, '.png')}.mp4`; n.kenburns++; } else n.video++;
+  await service.addVideo({ draft: DRAFT_NAME, path: file, atSeconds: item.start, durationSeconds: item.duration, volume: 0 });
 }
 await service.addAudio({ draft: DRAFT_NAME, path: `${READY}/vo_master_-15LUFS.wav`, atSeconds: 0, volume: 1 });
-await service.addAudio({ draft: DRAFT_NAME, path: `${READY}/music_bed_ep04.wav`, atSeconds: 0, volume: 1 });
-
+// Music: the user's chosen track, pre-cut into pieces (levels, dips under number graphics, silence drops, loop).
+for (const m of extras.music) {
+  await service.addAudio({ draft: DRAFT_NAME, path: `${READY}/music/cinematic_meditation_loop.mp3`, atSeconds: m.at, sourceStartSeconds: m.src, durationSeconds: m.dur, volume: m.vol });
+  n.music++;
+}
+for (const f of extras.sfx) {
+  await service.addAudio({ draft: DRAFT_NAME, path: `${READY}/sfx/${f.file}`, atSeconds: f.at, volume: f.vol });
+  n.sfx++;
+}
+console.log(`videos ${n.video} | still motion clips ${n.kenburns} | music pieces ${n.music} | sfx ${n.sfx}`);
 const s = await service.getDraft(DRAFT_NAME);
-console.log(`Videos ${n.video} | stills ${n.image} | badges ${n.badge} | duration ${s.durationSeconds.toFixed(1)}s`);
+console.log(`duration ${s.durationSeconds.toFixed(1)}s`);
 s.tracks.forEach((t, i) => console.log(`  track ${i + 1} (${t.type}): ${t.segments.length} segments`));
 console.log(`Draft: ${draftFolder}`);
