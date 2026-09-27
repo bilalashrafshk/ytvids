@@ -86,8 +86,8 @@ def main():
         elif n == 1:
             notes.append("DEMAND 1 outlier — thin; acceptable for a Swing idea")
     shape = field(text, "SHAPE")
-    if not shape or not re.match(r"\s*[a-k]\b", shape, re.I):
-        problems.append("SHAPE — missing or not a–k (needed for skeleton ranking)")
+    if not shape or not re.match(r"\s*[a-k][1-3]?\b", shape, re.I):
+        problems.append("SHAPE — missing or not a–k / c1–c3 (needed for skeleton ranking)")
 
     # ---- questions
     shape_letter = shape.strip()[0].lower() if shape else ""

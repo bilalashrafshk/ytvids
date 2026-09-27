@@ -38,9 +38,9 @@ Derived from what all ten idea-bank outliers share. Reference answers in bracket
 | **Q7** | **CAMERA TEST** | 5+ photographable objects or scenes as a list. [Leather bill folio. Faded pink Ford. Wet reed screen.] | Fewer than 5, or abstractions ("market pressure") |
 | **Q8** | **COMPLICATION** | `Counterpoint:` the strongest objection. `Enters at:` where it goes in the video. [The renter is still ahead at year 20. Only nobles had wind catchers.] | None, or a token objection raised only to be knocked down. **House standard:** the one question not derived from the outliers; Hidden Yield lacks it and would get REWORK, on purpose |
 | **Q9** | **CLOSING LINE** | The ending, written now. Any of: a reframe ("it isn't X, it's Y"), a question turned on the viewer, a sourced quote that carries the thesis, or a humility turn. | A summary or restatement of the thesis (`gate_idea.py` flags >50% shared content words). Whether it *lands* is human judgement |
-| **Q10** | **LANE FIT** | `Track:` 1, 2 or 3, plus one line: **T1** — what the common version likely gets wrong and which filing type would prove it · **T2** — the real mechanic taught · **T3** — the everyday decision it changes. | Doesn't fit a FinanceCraft lane, or T1 with nothing beyond Wikipedia |
+| **Q10** | **LANE FIT** | `Track:` 1, 2 or 3, plus one line: **T1** — what the common version likely gets wrong and which filing type would prove it · **T2** — the real mechanics that must hold (accuracy constraints, not the topic — the premise is the topic) · **T3** — the everyday decision it changes. | Doesn't fit a FinanceCraft lane, or T1 with nothing beyond Wikipedia |
 
-Plus one routing line (not a question): **`SHAPE:`** the thesis shape (a–k) from `SKELETON_LIBRARY.md`. This is the handoff to STEP 2.
+Plus one routing line (not a question): **`SHAPE:`** the thesis shape (a–k; conditional ideas use c1 world / c2 personal / c3 fork) from `SKELETON_LIBRARY.md`. This is the handoff to STEP 2.
 
 ---
 
