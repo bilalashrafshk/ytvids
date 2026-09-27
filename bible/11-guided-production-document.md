@@ -64,7 +64,7 @@ PHASE-BY-PHASE AUDIT CHECKLIST:
     - 5-Act Narrative Architecture: Calibrated act splits with rising narrative momentum.
     - Phonetic Decimal Normalization: 100% of spoken decimals MUST use the word "point" (e.g. "1 point 2 million", "2 point 5 billion dollars"), NEVER raw numeric decimals ("1.2", "2.5").
     - Tone & Swagger: Conversational, witty, energetic; grounded in visceral physical stakes ("Popcorn & Delivery Van"); zero dry academic or legal prose.
-    - In-Script Directing Tags: Correct tags ([DATA], [MAP], [REMOTION], [SHOWABLE]); Track 2 includes recurring [WATERMARK: HYPOTHETICAL SCENARIO] and [COMPOSITE: <role>].
+    - In-Script Directing Tags: Correct tags ([DATA], [MAP], [REMOTION], [SHOWABLE]); Track 2 uses [COMPOSITE: <role>]; no watermark badge.
 
 [ ] PHASE 03: 03_TITLES_AND_HOOKS.md
     - Dedicated standalone file in videos/<episode-slug>/.
@@ -543,7 +543,7 @@ Every standing asset still needs its full generation prompt written out in full 
   - If this episode centers a strong accountability-tone caricature: that character can deliver the line instead, per the dialogue exception in Character Setup.
   - Do NOT generate a generic news-anchor desk sign-off.
 
-**"The Hypothetical" episodes use their own standing assets instead of the above, per Style Bible Section 10:** the sub-series' lavender accent (no opening bumper — same cold-open rule as the main show), and a recurring "HYPOTHETICAL SCENARIO" watermark badge inserted at every `[WATERMARK]` tag — roughly every 2-3 minutes. Subscribe overlay and sign-off delivery follow the main show's rules.
+**"The Hypothetical" episodes use their own standing assets instead of the above, per Style Bible Section 10:** the sub-series' lavender accent (no opening bumper — same cold-open rule as the main show), and no on-screen watermark badge — the title and description signal fiction. Subscribe overlay and sign-off delivery follow the main show's rules.
 
 ## Phase 5 — Consolidated batches (Part A's execution deliverable, grouped by type)
 

@@ -20,7 +20,7 @@ Formatting Guidelines:
 - Phonetic Decimal Normalization: 100% of spoken numbers with decimals MUST be written phonetically with the word "point" (e.g., "1 point 2 million dollars", "2 point 5 billion"), NEVER raw numeric decimals ("1.2", "2.5") which TTS engines mispronounce.
 - Include delivery markers: [TENSE], [WRY], [SOMBER], [BUILDING], [STILLNESS], etc.
 - Track 1 (Corporate Autopsies): Include [SHOWABLE: <asset>], [PIVOTAL], [CARICATURE: <person>], [DATA: <metric>].
-- Track 2 (Thought Experiments): Second-person POV ("You"), include recurring [WATERMARK: HYPOTHETICAL SCENARIO], [COMPOSITE: <role>], [DATA: <metric>], [MAP: <location/telemetry>]. Strictly zero SEC filings.
+- Track 2 (Thought Experiments): Second-person POV ("You"), [COMPOSITE: <role>], [DATA: <metric>], [MAP: <location/telemetry>]. Strictly zero SEC filings.
 -->
 
 [BUILDING]

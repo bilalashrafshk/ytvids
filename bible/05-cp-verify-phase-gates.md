@@ -135,7 +135,6 @@ Then run every CP-0 Retention Physics gate with observed values and evidence:
 ### GATE δ — Tagging & Assets (after Step 4)
 - Every `[COMPOSITE]` / `[CARICATURE]` beat described in prose carries an actual bracket tag — scan the prose for untagged archetype beats, don't assume
 - Every Showable Asset and the Pivotal Detail from the brief is tagged somewhere
-- `[WATERMARK]` spacing ≤3 minutes throughout (Track 2) — compute the gaps from act word counts, don't eyeball
 - Delivery tags present at every genuine energy shift
 - Tag counts produced by scanning the delivered script
 - Signature cinematics: `gate_check.py` reports every `[REMOTION: ARCHETYPE_...]` tag's approximate timestamp. Zero found needs a stated reason in the audit; two or more landing <90s apart needs one too — don't let either pass silently.

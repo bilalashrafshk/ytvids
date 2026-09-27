@@ -127,9 +127,8 @@ A distinct sub-series for invented scenarios followed with real reasoning — no
 
 **The inversion, stated plainly:** everywhere the main Style Bible says real names, real sourcing, real caricatures — this sub-series does the opposite. Invented people, invented companies, a verified-accurate underlying mechanic instead of a primary-source trail. Nothing here overrides the parent rules for documented episodes; it's a separate, clearly-marked lane.
 
-**Visual signal — layered, so no single missed cue causes confusion:**
-- **A signature lavender/violet accent color** that appears nowhere else in the channel's palette system, used for the badge overlay and sub-series graphics. (No opening bumper — episodes open cold on the hook, same as the main show.)
-- **A persistent badge overlay** — a clean illustrated label graphic reading "HYPOTHETICAL SCENARIO," in the same lavender accent, reappearing every 2-3 minutes throughout the episode, not just at the open. A one-time disclaimer is exactly what a clipped or re-uploaded segment loses; a recurring one isn't.
+**How it signals fiction:** the title ("What if…", "POV", "Imagine" or a question mark) and one plain line in the description. **No on-screen "HYPOTHETICAL SCENARIO" badge** — the framing already makes it obvious, and a repeated label just clutters the picture.
+- **A signature lavender/violet accent color** that appears nowhere else in the channel's palette system, used for sub-series graphics. (No opening bumper — episodes open cold on the hook, same as the main show.)
 - **Composite characters get a deliberately generic, archetypal design** — no specific distinguishing features the way a real-person caricature has. This is a design rule, not just a legal one: it should read as a stand-in, not as anyone in particular.
 
 **Absolute rule: invented names only.** People, companies, banks, anything named — all invented, never real entities even loosely disguised. Round, realistic numbers are fine and expected since accuracy to the underlying mechanic matters — but they attach to invented people and invented companies, never to a real one.

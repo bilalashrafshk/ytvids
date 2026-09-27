@@ -103,7 +103,7 @@ Same techniques as the main show — a specific number, a direct address, an unr
 
 Same tagging system as the main Script Generator, with one difference: there is no `[CARICATURE: <name>]` tag here, since there's no real person to lock a likeness to. Use `[COMPOSITE: <role>]` instead (e.g., `[COMPOSITE: the couple]`, `[COMPOSITE: the neighbor]`) — this signals the Guided Production Document to use the generic, archetypal design rule from the Style Bible rather than a locked caricature reference block. `[SHOWABLE]`, `[MAP]`, `[DATA]`, `[PIVOTAL]`, and the delivery tags (`[TENSE]`, `[WRY]`, etc.) all carry over unchanged.
 
-Also tag where the recurring `[WATERMARK]` reminder falls — roughly every 2-3 minutes — so the Guided Production Document knows where to place the "HYPOTHETICAL SCENARIO" badge overlay per the Style Bible's visual-signal requirement. This is not optional and should never be left for the production stage to notice on its own.
+No `[WATERMARK]` tags: the sub-series signals fiction through its title and description, not an on-screen badge (Style Bible §10).
 
 ## Step 5 — Close and hand off
 
