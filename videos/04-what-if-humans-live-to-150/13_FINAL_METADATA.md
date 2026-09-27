@@ -10,7 +10,7 @@
 
 ## Description
 ```
-What if everyone lived to 150? It isn't a longer retirement. It's a world where nobody ever leaves.
+Living to 150 isn't a longer retirement. It's a world where nobody ever leaves.
 
 We follow what changes when ageing slows down for good. Marriages run for a hundred and twenty years. Careers last a century. You get your parents' house at a hundred and twenty. And the healthiest mother on the street becomes her children's biggest bill.
 
