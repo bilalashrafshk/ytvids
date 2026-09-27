@@ -141,9 +141,13 @@ export const KeyFlip: React.FC<{ plate: string }> = ({ plate }) => {
   const f = useCurrentFrame();
   const { durationInFrames: d } = useVideoConfig();
   const r = interpolate(f, [0, d], [0, 180]);
+  // Scale so the rotated frame always covers the screen — no corners showing mid-turn.
+  const rad = (r * Math.PI) / 180;
+  const c = Math.abs(Math.cos(rad)), sn = Math.abs(Math.sin(rad));
+  const cover = Math.max((1920 * c + 1080 * sn) / 1920, (1920 * sn + 1080 * c) / 1080);
   return (
-    <AbsoluteFill style={{ backgroundColor: C.background }}>
-      <Img src={staticFile(`ep04/${plate}`)} style={{ width: '100%', height: '100%', objectFit: 'cover', transform: `rotate(${r}deg) scale(1.15)` }} />
+    <AbsoluteFill style={{ backgroundColor: C.background, overflow: 'hidden' }}>
+      <Img src={staticFile(`ep04/${plate}`)} style={{ width: '100%', height: '100%', objectFit: 'cover', transform: `rotate(${r}deg) scale(${cover * 1.02})` }} />
     </AbsoluteFill>
   );
 };

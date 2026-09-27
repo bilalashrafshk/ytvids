@@ -20,7 +20,7 @@ export const ease = (f: number, a: number, b: number, from = 0, to = 1) =>
 export const Stage: React.FC<BgProps & { children: React.ReactNode; blur?: number }> = ({
   bg,
   children,
-  blur = 10,
+  blur = 18,
 }) => {
   const frame = useCurrentFrame();
   const { durationInFrames } = useVideoConfig();
