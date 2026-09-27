@@ -4,7 +4,7 @@
 >
 > **MANDATORY RULES:**
 > 1. **Audio-First Ground Truth:** Every beat timecode MUST snap directly to spoken sentence/phrase downbeats from `voiceover/alignment.json`. Pre-audio word-count estimation is strictly forbidden for final beats.
-> 2. **Pacing Bounds & Motion Freedom:** Timeline average beat tempo is 2.5s to 4.0s. Static scene-setting stills target 2.5s to 5.0s (multi-sentence scenes illustrated with stills must cut on every sentence). Motion assets (AI video and Remotion graphics) have **zero artificial duration suppression**—they hold across complete multi-sentence thought-blocks (e.g. 5s–8s for AI video, 4s–12s+ for Remotion) to allow the visual motion arc or data reveal to play out naturally.
+> 2. **Pacing Bounds & Motion Freedom:** Stills average 2.5s to 4.0s; AI clips are whole 4–10s spanning several sentences (AI Video Clip Rule) and sit outside that average. Static scene-setting stills target 2.5s to 5.0s (multi-sentence scenes illustrated with stills must cut on every sentence). Motion assets (AI video and Remotion graphics) have **zero artificial duration suppression**—they hold across complete multi-sentence thought-blocks (e.g. 5s–8s for AI video, 4s–12s+ for Remotion) to allow the visual motion arc or data reveal to play out naturally.
 > 3. **Motion Declaration:** Every beat specifies shot framing, camera movement, and visual role.
 > 4. **Cold Open (strong default, not forced):** No logo, bumper or title card. Open on 2–4 AI video clips carrying the hook (~first 10–20s). If a Remotion piece or single still genuinely opens harder, use it and state why in one line under the table.
 
