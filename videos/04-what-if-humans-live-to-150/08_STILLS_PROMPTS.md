@@ -1,5 +1,7 @@
 # Phase 08: Batch 1 — Still Prompts (Nano Banana 2) — Episode 04: What If Humans Lived to 150?
 
+> **v2 (video-first shot list):** these stills are already generated. Each one is now used either as a shot of its own (31, listed in `07_BEAT_SHEET.md`) or as the first frame of an AI clip (`09_VIDEO_PROMPTS.md`, Image-to-Video). Some are no longer used, which is fine; filenames are unchanged.
+
 > Generated from `07_BEAT_SHEET.md` + `voiceover/alignment.json`. Durations are exact; filenames match the beat numbers used in `12_CAPCUT_ASSEMBLY.md`.
 
 > **Rules:** 3840×2160 for crop and pan headroom · the shared style clause on every prompt · characters use their master reference from `05_CHARACTER_SETUP.md` · any in-image text is big and short (`ON-IMAGE TEXT`) · every prompt carries the quality clause.
