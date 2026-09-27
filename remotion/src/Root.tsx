@@ -29,6 +29,7 @@ import { NotificationExplosionHUD } from './scenes/episode03/NotificationExplosi
 import { AttentionReboundVsBusinessDeaths } from './scenes/episode03/AttentionReboundVsBusinessDeaths';
 import { AuctionHammerCrushContainer } from './scenes/episode03/AuctionHammerCrushContainer';
 import { FinanceCraftEndCard } from './scenes/episode03/FinanceCraftEndCard';
+import { Ep04Compositions } from './scenes/episode04';
 import { Img, staticFile } from 'remotion';
 import { FilmLook } from './channels/raahim/FilmLook';
 import { RaahimChalkboard } from './channels/raahim/RaahimChalkboard';
@@ -277,6 +278,7 @@ export const RemotionRoot: React.FC = () => {
         width={1920}
         height={1080}
       />
+      <Ep04Compositions />
       {/* Raahim channel kit — channels/raahim/CHANNEL.md */}
       <Composition id="Raahim-FilmLookDemo" component={RaahimFilmLookDemo} durationInFrames={90} fps={30} width={1920} height={1080} />
       <Composition
