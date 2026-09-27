@@ -3,12 +3,12 @@
 ## Mechanical (gate_check.py)
 | | Draft A (A12, `-a 12`) | Draft B (A5, `-a 5`) |
 |---|---|---|
-| Words / runtime | 1,462 / ~9.4 min | 1,008 / ~6.5 min |
+| Words / runtime | 1,561 / ~10.1 min (v2) | 1,008 / ~6.5 min |
 | All gates (bands, JARGON 0, CITES 0, CLOSE, reframes) | PASS | PASS (after one fix: first reframe moved into the opening) |
 
 ## Promise check
 **Title promise:** the whole world changed by 150-year lives.
-- **A:** family & children ~15% · work & school ~15% · money & mortgages ~15% · homes & inheritance ~20% · power ~15% · health & death ~12% · long run & close ~8%. Money is one lens of seven. **PASS.**
+- **A (v2):** premise & day one ~12% · family & children ~10% · marriage ~7% · work & school ~13% · money & mortgage ~11% · homes & inheritance ~16% · power ~14% · counterpoint & twist ~9% · death ~8% · callback close ~6%. Every thesis item (careers, marriage, inheritance, housing, power) is covered. **PASS.**
 - **B:** same domains visited through one life (party, payslip, Marrow Street, inheritance sale, school, the bench, old age, roads, St Aldric's). The meter is the clock, not the topic — but money runs through every block, ~35% of runtime. **PASS, with the known A5 risk.**
 
 ## Opening contract (B, A5) — 80 words
@@ -29,9 +29,14 @@ Premise ✓ · clock ✓ · penalty ✓ · rules ✓ · adversary (the meter) �
 - 70-year-old student: 50 working years left; 18-year-old: 100 ✓ (**brief and first draft said both ~50/80 — corrected**)
 - Population ~9.5 → ~19.5 billion, then flat; children 1 in 4 → 1 in 8 ✓
 
-## Retell line per segment (A)
-bouncy-castle great-great-grandfather · the spreadsheet cell turning red · "years to retirement: 94" · the 11-page CV · the bank's birthday card · "Is he in?" · six portraits of one judge · good health is bad news · the apprentice who's never seen a body · one name on the key tag
+## Retell line per segment (A v2)
+bouncy-castle great-great-grandfather · the first 150-year-old is a baby born this morning · Grandma's first husband gives the speech at her third wedding · "years to retirement: 94" · the 11-page CV · 3.5× the interest on a 100-year mortgage · the bank's birthday card · "Is he in?" · six portraits of one judge · "never better" — Mum's health is your biggest bill · the apprentice who's never seen a body · she writes her own name under her mother's
+
+## v2 timeline checks (A)
+- Day one: 40-year-old → ~129, 70-year-old → ~92, newborn → 150 ✓ (brief's slowing model)
+- Closing: girl 120, son 90, mother dies at 150, tag held one name 35→150 = 115 years ✓
+- Hospital baby is a great-great-grandmother at ~120 → five rows ✓
 
 ## Other
 - No real companies, people or history used as proof ✓ · invented names only ✓ · `[WATERMARK]` every ~2–3 min ✓ · one signature Remotion sequence each ✓ · ends on the ladder/queue reframe, not a moral ✓
-- **Runtime is under the 12–15 min default** (A 9.4, B 6.5). Not padded on purpose; see handoff.
+- **Runtime under the 12–15 min default** (A v2 10.1, B 6.5). Not padded on purpose.
