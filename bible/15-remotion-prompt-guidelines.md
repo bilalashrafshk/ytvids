@@ -118,7 +118,7 @@ Build the visual frame in this strict top-to-bottom hierarchy:
 6. **Direct Annotations:** Point directly to the one or two findings stated by the voiceover. Never make the viewer search a detached legend.
 
 #### 4. Visual System & Color Semantics
-* **Background Field:** Flat warm parchment/off-white (`#F8F6F0` or `#F4F1EA`) or flat dark corporate slate (`#0F141C`).
+* **Background Field:** The scene the chart belongs to — the neighbouring shot's still, softened (blur ≥ 18px) and washed with the parchment ground (`#F8F6F0` at ~70%), so the number stays tied to its moment. Never a still with readable text (nameplates, letters, signs) behind a chart. Flat parchment (`#F8F6F0`) or flat slate (`#0F141C`) only when no suitable still exists.
 * **History / Comparison Series:** Neutral muted slate/charcoal tones (`#64748B` / `#94A3B8`).
 * **Semantic Accent:** Reserve **one** accent color for the subject or anomaly — Crimson (`#D32F2F`) for crash/loss/outlier; Emerald (`#10B981`) for initial profit/baseline.
 * **Fills & Gradients:** Keep fills flat. Use gradients only when encoding quantity, range, or uncertainty.
