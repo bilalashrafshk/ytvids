@@ -1,0 +1,882 @@
+[
+ {
+  "beat": 1,
+  "type": "AI Video Clip",
+  "filePath": "/Users/bilalashraf/YT Videos/videos/04-what-if-humans-live-to-150/assets/capcut_ready/001_bright_living_room_birthday.mp4",
+  "start": 0.0,
+  "duration": 9.88,
+  "watermark": false
+ },
+ {
+  "beat": 2,
+  "type": "AI Video Clip",
+  "filePath": "/Users/bilalashraf/YT Videos/videos/04-what-if-humans-live-to-150/assets/capcut_ready/002_great_great_grandfather_badge.mp4",
+  "start": 9.88,
+  "duration": 6.6,
+  "watermark": false
+ },
+ {
+  "beat": 3,
+  "type": "AI Video Clip",
+  "filePath": "/Users/bilalashraf/YT Videos/videos/04-what-if-humans-live-to-150/assets/capcut_ready/003_pull_back_out_through.mp4",
+  "start": 16.48,
+  "duration": 4.24,
+  "watermark": true
+ },
+ {
+  "beat": 4,
+  "type": "Static Image",
+  "filePath": "/Users/bilalashraf/YT Videos/remotion/public/ep04/007_care_home_lounge_dusk.png",
+  "start": 20.72,
+  "duration": 3.2,
+  "watermark": false
+ },
+ {
+  "beat": 5,
+  "type": "Static Image",
+  "filePath": "/Users/bilalashraf/YT Videos/remotion/public/ep04/008_family_hallway_coat_rack.png",
+  "start": 23.92,
+  "duration": 2.34,
+  "watermark": false
+ },
+ {
+  "beat": 6,
+  "type": "AI Video Clip",
+  "filePath": "/Users/bilalashraf/YT Videos/videos/04-what-if-humans-live-to-150/assets/capcut_ready/006_glowing_healthy_mother_jogs.mp4",
+  "start": 26.26,
+  "duration": 6.78,
+  "watermark": false
+ },
+ {
+  "beat": 7,
+  "type": "AI Video Clip",
+  "filePath": "/Users/bilalashraf/YT Videos/videos/04-what-if-humans-live-to-150/assets/capcut_ready/007_dawn_ordinary_suburban_town.mp4",
+  "start": 33.04,
+  "duration": 7.44,
+  "watermark": false
+ },
+ {
+  "beat": 8,
+  "type": "AI Video Clip",
+  "filePath": "/Users/bilalashraf/YT Videos/videos/04-what-if-humans-live-to-150/assets/capcut_ready/008_man_blows_out_forty.mp4",
+  "start": 40.48,
+  "duration": 10.1,
+  "watermark": false
+ },
+ {
+  "beat": 9,
+  "type": "AI Video Clip",
+  "filePath": "/Users/bilalashraf/YT Videos/videos/04-what-if-humans-live-to-150/assets/capcut_ready/009_sunrise_hospital_maternity_ward.mp4",
+  "start": 50.58,
+  "duration": 7.04,
+  "watermark": false
+ },
+ {
+  "beat": 10,
+  "type": "AI Video Clip",
+  "filePath": "/Users/bilalashraf/YT Videos/videos/04-what-if-humans-live-to-150/assets/capcut_ready/010_pension_company_office_clerk.mp4",
+  "start": 57.62,
+  "duration": 5.38,
+  "watermark": false
+ },
+ {
+  "beat": 11,
+  "type": "Remotion Graphic",
+  "filePath": "/Users/bilalashraf/YT Videos/remotion/out/ep04/011_shot.mp4",
+  "start": 63.0,
+  "duration": 2.22,
+  "watermark": false
+ },
+ {
+  "beat": 12,
+  "type": "Remotion Graphic",
+  "filePath": "/Users/bilalashraf/YT Videos/remotion/out/ep04/012_red_cascades_cell_cell.mp4",
+  "start": 65.22,
+  "duration": 2.16,
+  "watermark": false
+ },
+ {
+  "beat": 13,
+  "type": "AI Video Clip",
+  "filePath": "/Users/bilalashraf/YT Videos/videos/04-what-if-humans-live-to-150/assets/capcut_ready/013_hand_slowly_turns_pages.mp4",
+  "start": 67.38,
+  "duration": 4.14,
+  "watermark": false
+ },
+ {
+  "beat": 14,
+  "type": "Remotion Graphic",
+  "filePath": "/Users/bilalashraf/YT Videos/remotion/out/ep04/014_queue_line_people_steps.mp4",
+  "start": 71.52,
+  "duration": 4.1,
+  "watermark": false
+ },
+ {
+  "beat": 15,
+  "type": "Static Image",
+  "filePath": "/Users/bilalashraf/YT Videos/remotion/public/ep04/024_gold_watch_handed_beside.png",
+  "start": 75.62,
+  "duration": 3.44,
+  "watermark": false
+ },
+ {
+  "beat": 16,
+  "type": "Static Image",
+  "filePath": "/Users/bilalashraf/YT Videos/remotion/public/ep04/025_house_keys_passed_across.png",
+  "start": 79.06,
+  "duration": 3.84,
+  "watermark": false
+ },
+ {
+  "beat": 17,
+  "type": "Static Image",
+  "filePath": "/Users/bilalashraf/YT Videos/remotion/public/ep04/026_desk_nameplate_slid_out.png",
+  "start": 82.9,
+  "duration": 3.26,
+  "watermark": false
+ },
+ {
+  "beat": 18,
+  "type": "Remotion Graphic",
+  "filePath": "/Users/bilalashraf/YT Videos/remotion/out/ep04/018_queue_loop_speeds_up.mp4",
+  "start": 86.16,
+  "duration": 6.56,
+  "watermark": false
+ },
+ {
+  "beat": 19,
+  "type": "Static Image",
+  "filePath": "/Users/bilalashraf/YT Videos/remotion/public/ep04/028_single_plain_door_front.png",
+  "start": 92.72,
+  "duration": 2.42,
+  "watermark": false
+ },
+ {
+  "beat": 20,
+  "type": "Remotion Graphic",
+  "filePath": "/Users/bilalashraf/YT Videos/remotion/out/ep04/020_queue_animation_freezes_door.mp4",
+  "start": 95.14,
+  "duration": 3.04,
+  "watermark": false
+ },
+ {
+  "beat": 21,
+  "type": "Static Image",
+  "filePath": "/Users/bilalashraf/YT Videos/remotion/public/ep04/030_framed_family_photo_mantelpiece.png",
+  "start": 98.18,
+  "duration": 3.42,
+  "watermark": false
+ },
+ {
+  "beat": 22,
+  "type": "AI Video Clip",
+  "filePath": "/Users/bilalashraf/YT Videos/videos/04-what-if-humans-live-to-150/assets/capcut_ready/022_family_shuffles_position_for.mp4",
+  "start": 101.6,
+  "duration": 6.96,
+  "watermark": false
+ },
+ {
+  "beat": 23,
+  "type": "Remotion Graphic",
+  "filePath": "/Users/bilalashraf/YT Videos/remotion/out/ep04/023_photo_re_shot_twenty.mp4",
+  "start": 108.56,
+  "duration": 6.02,
+  "watermark": false
+ },
+ {
+  "beat": 24,
+  "type": "Remotion Graphic",
+  "filePath": "/Users/bilalashraf/YT Videos/remotion/out/ep04/024_rows_keep_stacking_years.mp4",
+  "start": 114.58,
+  "duration": 6.3,
+  "watermark": false
+ },
+ {
+  "beat": 25,
+  "type": "AI Video Clip",
+  "filePath": "/Users/bilalashraf/YT Videos/videos/04-what-if-humans-live-to-150/assets/capcut_ready/025_five_row_photo_shoot.mp4",
+  "start": 120.88,
+  "duration": 9.68,
+  "watermark": false
+ },
+ {
+  "beat": 26,
+  "type": "AI Video Clip",
+  "filePath": "/Users/bilalashraf/YT Videos/videos/04-what-if-humans-live-to-150/assets/capcut_ready/026_night_side_earth_orbit.mp4",
+  "start": 130.56,
+  "duration": 6.28,
+  "watermark": false
+ },
+ {
+  "beat": 27,
+  "type": "Remotion Graphic",
+  "filePath": "/Users/bilalashraf/YT Videos/remotion/out/ep04/027_counter_climbs_billion_flattens.mp4",
+  "start": 136.84,
+  "duration": 5.2,
+  "watermark": false
+ },
+ {
+  "beat": 28,
+  "type": "Remotion Graphic",
+  "filePath": "/Users/bilalashraf/YT Videos/remotion/out/ep04/028_eight_figures_child_grows.mp4",
+  "start": 142.04,
+  "duration": 3.1,
+  "watermark": false
+ },
+ {
+  "beat": 29,
+  "type": "AI Video Clip",
+  "filePath": "/Users/bilalashraf/YT Videos/videos/04-what-if-humans-live-to-150/assets/capcut_ready/029_back_party_girl_sits.mp4",
+  "start": 145.14,
+  "duration": 6.56,
+  "watermark": false
+ },
+ {
+  "beat": 30,
+  "type": "AI Video Clip",
+  "filePath": "/Users/bilalashraf/YT Videos/videos/04-what-if-humans-live-to-150/assets/capcut_ready/030_young_looking_couple_wedding.mp4",
+  "start": 151.7,
+  "duration": 5.12,
+  "watermark": true
+ },
+ {
+  "beat": 31,
+  "type": "Static Image",
+  "filePath": "/Users/bilalashraf/YT Videos/remotion/public/ep04/044_golden_anniversary_cake_big.png",
+  "start": 156.82,
+  "duration": 3.76,
+  "watermark": false
+ },
+ {
+  "beat": 32,
+  "type": "Remotion Graphic",
+  "filePath": "/Users/bilalashraf/YT Videos/remotion/out/ep04/032_bar_stretches_far_past.mp4",
+  "start": 160.58,
+  "duration": 4.56,
+  "watermark": false
+ },
+ {
+  "beat": 33,
+  "type": "AI Video Clip",
+  "filePath": "/Users/bilalashraf/YT Videos/videos/04-what-if-humans-live-to-150/assets/capcut_ready/033_couple_both_look_about.mp4",
+  "start": 165.14,
+  "duration": 4.74,
+  "watermark": false
+ },
+ {
+  "beat": 34,
+  "type": "Static Image",
+  "filePath": "/Users/bilalashraf/YT Videos/remotion/public/ep04/047_couple_desk_rewriting_vows.png",
+  "start": 169.88,
+  "duration": 2.28,
+  "watermark": false
+ },
+ {
+  "beat": 35,
+  "type": "Static Image",
+  "filePath": "/Users/bilalashraf/YT Videos/remotion/public/ep04/048_split_frame_wedding_ring.png",
+  "start": 172.16,
+  "duration": 5.56,
+  "watermark": false
+ },
+ {
+  "beat": 36,
+  "type": "AI Video Clip",
+  "filePath": "/Users/bilalashraf/YT Videos/videos/04-what-if-humans-live-to-150/assets/capcut_ready/036_grandma_third_wedding_bright.mp4",
+  "start": 177.72,
+  "duration": 5.24,
+  "watermark": false
+ },
+ {
+  "beat": 37,
+  "type": "Static Image",
+  "filePath": "/Users/bilalashraf/YT Videos/remotion/public/ep04/052_office_time_clock_queue.png",
+  "start": 182.96,
+  "duration": 3.78,
+  "watermark": false
+ },
+ {
+  "beat": 38,
+  "type": "Remotion Graphic",
+  "filePath": "/Users/bilalashraf/YT Videos/remotion/out/ep04/038_shot.mp4",
+  "start": 186.74,
+  "duration": 5.8,
+  "watermark": false
+ },
+ {
+  "beat": 39,
+  "type": "Remotion Graphic",
+  "filePath": "/Users/bilalashraf/YT Videos/remotion/out/ep04/039_retirement_bar_floods_red.mp4",
+  "start": 192.54,
+  "duration": 6.12,
+  "watermark": false
+ },
+ {
+  "beat": 40,
+  "type": "Remotion Graphic",
+  "filePath": "/Users/bilalashraf/YT Videos/remotion/out/ep04/040_red_shrinks_years.mp4",
+  "start": 198.66,
+  "duration": 6.24,
+  "watermark": false
+ },
+ {
+  "beat": 41,
+  "type": "Static Image",
+  "filePath": "/Users/bilalashraf/YT Videos/remotion/public/ep04/056_young_worker_desk_opening.png",
+  "start": 204.9,
+  "duration": 2.4,
+  "watermark": false
+ },
+ {
+  "beat": 42,
+  "type": "Static Image",
+  "filePath": "/Users/bilalashraf/YT Videos/remotion/public/ep04/057_payslip_line_years_retirement.png",
+  "start": 207.3,
+  "duration": 5.0,
+  "watermark": false
+ },
+ {
+  "beat": 43,
+  "type": "AI Video Clip",
+  "filePath": "/Users/bilalashraf/YT Videos/videos/04-what-if-humans-live-to-150/assets/capcut_ready/043_graduation_cap_gathers_dust.mp4",
+  "start": 212.3,
+  "duration": 5.9,
+  "watermark": false
+ },
+ {
+  "beat": 44,
+  "type": "AI Video Clip",
+  "filePath": "/Users/bilalashraf/YT Videos/videos/04-what-if-humans-live-to-150/assets/capcut_ready/044_people_age_stream_lecture.mp4",
+  "start": 218.2,
+  "duration": 7.52,
+  "watermark": false
+ },
+ {
+  "beat": 45,
+  "type": "Static Image",
+  "filePath": "/Users/bilalashraf/YT Videos/remotion/public/ep04/062_two_identical_exam_papers.png",
+  "start": 225.72,
+  "duration": 2.34,
+  "watermark": false
+ },
+ {
+  "beat": 46,
+  "type": "Static Image",
+  "filePath": "/Users/bilalashraf/YT Videos/remotion/public/ep04/063_student_small_label_years.png",
+  "start": 228.06,
+  "duration": 3.62,
+  "watermark": false
+ },
+ {
+  "beat": 47,
+  "type": "Static Image",
+  "filePath": "/Users/bilalashraf/YT Videos/remotion/public/ep04/064_year_old_small_label.png",
+  "start": 231.68,
+  "duration": 2.26,
+  "watermark": false
+ },
+ {
+  "beat": 48,
+  "type": "Static Image",
+  "filePath": "/Users/bilalashraf/YT Videos/remotion/public/ep04/065_page_cv_fanned_across.png",
+  "start": 233.94,
+  "duration": 3.94,
+  "watermark": false
+ },
+ {
+  "beat": 49,
+  "type": "AI Video Clip",
+  "filePath": "/Users/bilalashraf/YT Videos/videos/04-what-if-humans-live-to-150/assets/capcut_ready/049_young_couple_looks_up.mp4",
+  "start": 237.88,
+  "duration": 6.68,
+  "watermark": false
+ },
+ {
+  "beat": 50,
+  "type": "Remotion Graphic",
+  "filePath": "/Users/bilalashraf/YT Videos/remotion/out/ep04/050_small_savings_pot_grows.mp4",
+  "start": 244.56,
+  "duration": 4.92,
+  "watermark": false
+ },
+ {
+  "beat": 51,
+  "type": "AI Video Clip",
+  "filePath": "/Users/bilalashraf/YT Videos/videos/04-what-if-humans-live-to-150/assets/capcut_ready/051_crowds_people_all_rush.mp4",
+  "start": 249.48,
+  "duration": 6.56,
+  "watermark": false
+ },
+ {
+  "beat": 52,
+  "type": "Remotion Graphic",
+  "filePath": "/Users/bilalashraf/YT Videos/remotion/out/ep04/052_passbook_rate_shrinking.mp4",
+  "start": 256.04,
+  "duration": 2.32,
+  "watermark": false
+ },
+ {
+  "beat": 53,
+  "type": "Static Image",
+  "filePath": "/Users/bilalashraf/YT Videos/remotion/public/ep04/071_bank_window_poster_new.png",
+  "start": 258.36,
+  "duration": 3.94,
+  "watermark": false
+ },
+ {
+  "beat": 54,
+  "type": "Static Image",
+  "filePath": "/Users/bilalashraf/YT Videos/remotion/public/ep04/072_punch_poster_small_print.png",
+  "start": 262.3,
+  "duration": 2.52,
+  "watermark": false
+ },
+ {
+  "beat": 55,
+  "type": "Remotion Graphic",
+  "filePath": "/Users/bilalashraf/YT Videos/remotion/out/ep04/055_shot.mp4",
+  "start": 264.82,
+  "duration": 4.86,
+  "watermark": false
+ },
+ {
+  "beat": 56,
+  "type": "Remotion Graphic",
+  "filePath": "/Users/bilalashraf/YT Videos/remotion/out/ep04/056_shot.mp4",
+  "start": 269.68,
+  "duration": 3.22,
+  "watermark": false
+ },
+ {
+  "beat": 57,
+  "type": "AI Video Clip",
+  "filePath": "/Users/bilalashraf/YT Videos/videos/04-what-if-humans-live-to-150/assets/capcut_ready/057_family_carries_groceries_house.mp4",
+  "start": 272.9,
+  "duration": 5.9,
+  "watermark": false
+ },
+ {
+  "beat": 58,
+  "type": "Static Image",
+  "filePath": "/Users/bilalashraf/YT Videos/remotion/public/ep04/077_hands_holding_letter_payment.png",
+  "start": 278.8,
+  "duration": 5.26,
+  "watermark": false
+ },
+ {
+  "beat": 59,
+  "type": "AI Video Clip",
+  "filePath": "/Users/bilalashraf/YT Videos/videos/04-what-if-humans-live-to-150/assets/capcut_ready/059_couple_walks_past_window.mp4",
+  "start": 284.06,
+  "duration": 5.72,
+  "watermark": false
+ },
+ {
+  "beat": 60,
+  "type": "Remotion Graphic",
+  "filePath": "/Users/bilalashraf/YT Videos/remotion/out/ep04/060_shot.mp4",
+  "start": 289.78,
+  "duration": 3.16,
+  "watermark": false
+ },
+ {
+  "beat": 61,
+  "type": "Remotion Graphic",
+  "filePath": "/Users/bilalashraf/YT Videos/remotion/out/ep04/061_parent_bar_stretches.mp4",
+  "start": 292.94,
+  "duration": 3.62,
+  "watermark": false
+ },
+ {
+  "beat": 62,
+  "type": "Remotion Graphic",
+  "filePath": "/Users/bilalashraf/YT Videos/remotion/out/ep04/062_handover_marker_slides.mp4",
+  "start": 296.56,
+  "duration": 5.34,
+  "watermark": false
+ },
+ {
+  "beat": 63,
+  "type": "Remotion Graphic",
+  "filePath": "/Users/bilalashraf/YT Videos/remotion/out/ep04/063_shot.mp4",
+  "start": 301.9,
+  "duration": 8.22,
+  "watermark": false
+ },
+ {
+  "beat": 64,
+  "type": "AI Video Clip",
+  "filePath": "/Users/bilalashraf/YT Videos/videos/04-what-if-humans-live-to-150/assets/capcut_ready/064_glides_down_marrow_street.mp4",
+  "start": 310.12,
+  "duration": 9.6,
+  "watermark": true
+ },
+ {
+  "beat": 65,
+  "type": "Remotion Graphic",
+  "filePath": "/Users/bilalashraf/YT Videos/remotion/out/ep04/065_shot.mp4",
+  "start": 319.72,
+  "duration": 7.92,
+  "watermark": false
+ },
+ {
+  "beat": 66,
+  "type": "Static Image",
+  "filePath": "/Users/bilalashraf/YT Videos/remotion/public/ep04/087_queue_young_people_single.png",
+  "start": 327.64,
+  "duration": 2.9,
+  "watermark": false
+ },
+ {
+  "beat": 67,
+  "type": "AI Video Clip",
+  "filePath": "/Users/bilalashraf/YT Videos/videos/04-what-if-humans-live-to-150/assets/capcut_ready/067_brass_key_hangs_just.mp4",
+  "start": 330.54,
+  "duration": 10.24,
+  "watermark": false
+ },
+ {
+  "beat": 68,
+  "type": "AI Video Clip",
+  "filePath": "/Users/bilalashraf/YT Videos/videos/04-what-if-humans-live-to-150/assets/capcut_ready/068_young_woman_bank_counter.mp4",
+  "start": 340.78,
+  "duration": 9.12,
+  "watermark": false
+ },
+ {
+  "beat": 69,
+  "type": "Static Image",
+  "filePath": "/Users/bilalashraf/YT Videos/remotion/public/ep04/094_bank_clerk_pins_photo.png",
+  "start": 349.9,
+  "duration": 3.06,
+  "watermark": false
+ },
+ {
+  "beat": 70,
+  "type": "AI Video Clip",
+  "filePath": "/Users/bilalashraf/YT Videos/videos/04-what-if-humans-live-to-150/assets/capcut_ready/070_mum_opens_birthday_card.mp4",
+  "start": 352.96,
+  "duration": 6.22,
+  "watermark": false
+ },
+ {
+  "beat": 71,
+  "type": "AI Video Clip",
+  "filePath": "/Users/bilalashraf/YT Videos/videos/04-what-if-humans-live-to-150/assets/capcut_ready/071_glass_lift_rises_up.mp4",
+  "start": 359.18,
+  "duration": 9.04,
+  "watermark": false
+ },
+ {
+  "beat": 72,
+  "type": "Static Image",
+  "filePath": "/Users/bilalashraf/YT Videos/remotion/public/ep04/099_close_up_dusty_brass.png",
+  "start": 368.22,
+  "duration": 4.72,
+  "watermark": false
+ },
+ {
+  "beat": 73,
+  "type": "Remotion Graphic",
+  "filePath": "/Users/bilalashraf/YT Videos/remotion/out/ep04/073_shot.mp4",
+  "start": 372.94,
+  "duration": 3.28,
+  "watermark": false
+ },
+ {
+  "beat": 74,
+  "type": "Remotion Graphic",
+  "filePath": "/Users/bilalashraf/YT Videos/remotion/out/ep04/074_tenure_bar_stretches_years.mp4",
+  "start": 376.22,
+  "duration": 2.64,
+  "watermark": false
+ },
+ {
+  "beat": 75,
+  "type": "Remotion Graphic",
+  "filePath": "/Users/bilalashraf/YT Videos/remotion/out/ep04/075_grid_seats_appears.mp4",
+  "start": 378.86,
+  "duration": 2.74,
+  "watermark": false
+ },
+ {
+  "beat": 76,
+  "type": "Remotion Graphic",
+  "filePath": "/Users/bilalashraf/YT Videos/remotion/out/ep04/076_shot.mp4",
+  "start": 381.6,
+  "duration": 4.76,
+  "watermark": false
+ },
+ {
+  "beat": 77,
+  "type": "AI Video Clip",
+  "filePath": "/Users/bilalashraf/YT Videos/videos/04-what-if-humans-live-to-150/assets/capcut_ready/077_man_bench_waits_outside.mp4",
+  "start": 386.36,
+  "duration": 9.24,
+  "watermark": false
+ },
+ {
+  "beat": 78,
+  "type": "AI Video Clip",
+  "filePath": "/Users/bilalashraf/YT Videos/videos/04-what-if-humans-live-to-150/assets/capcut_ready/078_calendar_pages_flutter_off.mp4",
+  "start": 395.6,
+  "duration": 5.3,
+  "watermark": false
+ },
+ {
+  "beat": 79,
+  "type": "Remotion Graphic",
+  "filePath": "/Users/bilalashraf/YT Videos/remotion/out/ep04/079_shot.mp4",
+  "start": 400.9,
+  "duration": 6.44,
+  "watermark": false
+ },
+ {
+  "beat": 80,
+  "type": "AI Video Clip",
+  "filePath": "/Users/bilalashraf/YT Videos/videos/04-what-if-humans-live-to-150/assets/capcut_ready/080_courthouse_hallway_tracks_slowly.mp4",
+  "start": 407.34,
+  "duration": 7.5,
+  "watermark": false
+ },
+ {
+  "beat": 81,
+  "type": "AI Video Clip",
+  "filePath": "/Users/bilalashraf/YT Videos/videos/04-what-if-humans-live-to-150/assets/capcut_ready/081_young_workers_walk_out.mp4",
+  "start": 414.84,
+  "duration": 5.84,
+  "watermark": false
+ },
+ {
+  "beat": 82,
+  "type": "AI Video Clip",
+  "filePath": "/Users/bilalashraf/YT Videos/videos/04-what-if-humans-live-to-150/assets/capcut_ready/082_under_forty_founders_around.mp4",
+  "start": 420.68,
+  "duration": 5.4,
+  "watermark": false
+ },
+ {
+  "beat": 83,
+  "type": "AI Video Clip",
+  "filePath": "/Users/bilalashraf/YT Videos/videos/04-what-if-humans-live-to-150/assets/capcut_ready/083_cheerful_march_young_people.mp4",
+  "start": 426.08,
+  "duration": 6.38,
+  "watermark": false
+ },
+ {
+  "beat": 84,
+  "type": "AI Video Clip",
+  "filePath": "/Users/bilalashraf/YT Videos/videos/04-what-if-humans-live-to-150/assets/capcut_ready/084_sunlit_park_full_three.mp4",
+  "start": 432.46,
+  "duration": 3.96,
+  "watermark": false
+ },
+ {
+  "beat": 85,
+  "type": "Static Image",
+  "filePath": "/Users/bilalashraf/YT Videos/remotion/public/ep04/116_surgeon_scrubbing_small_badge.png",
+  "start": 436.42,
+  "duration": 3.32,
+  "watermark": false
+ },
+ {
+  "beat": 86,
+  "type": "AI Video Clip",
+  "filePath": "/Users/bilalashraf/YT Videos/videos/04-what-if-humans-live-to-150/assets/capcut_ready/086_teacher_chalkboard_glances_old.mp4",
+  "start": 439.74,
+  "duration": 7.9,
+  "watermark": false
+ },
+ {
+  "beat": 87,
+  "type": "AI Video Clip",
+  "filePath": "/Users/bilalashraf/YT Videos/videos/04-what-if-humans-live-to-150/assets/capcut_ready/087_bright_prosperous_city_street.mp4",
+  "start": 447.64,
+  "duration": 4.56,
+  "watermark": false
+ },
+ {
+  "beat": 88,
+  "type": "Static Image",
+  "filePath": "/Users/bilalashraf/YT Videos/remotion/public/ep04/120_old_hand_gripping_house.png",
+  "start": 452.2,
+  "duration": 2.9,
+  "watermark": false
+ },
+ {
+  "beat": 89,
+  "type": "Remotion Graphic",
+  "filePath": "/Users/bilalashraf/YT Videos/remotion/out/ep04/089_key_image_slowly_rotates.mp4",
+  "start": 455.1,
+  "duration": 2.82,
+  "watermark": false
+ },
+ {
+  "beat": 90,
+  "type": "Static Image",
+  "filePath": "/Users/bilalashraf/YT Videos/remotion/public/ep04/122_bank_birthday_card_again.png",
+  "start": 457.92,
+  "duration": 4.38,
+  "watermark": true
+ },
+ {
+  "beat": 91,
+  "type": "AI Video Clip",
+  "filePath": "/Users/bilalashraf/YT Videos/videos/04-what-if-humans-live-to-150/assets/capcut_ready/091_mum_glowing_fit_writes.mp4",
+  "start": 462.3,
+  "duration": 4.7,
+  "watermark": false
+ },
+ {
+  "beat": 92,
+  "type": "Static Image",
+  "filePath": "/Users/bilalashraf/YT Videos/remotion/public/ep04/124_tall_stack_reply_cards.png",
+  "start": 467.0,
+  "duration": 4.44,
+  "watermark": false
+ },
+ {
+  "beat": 93,
+  "type": "Remotion Graphic",
+  "filePath": "/Users/bilalashraf/YT Videos/remotion/out/ep04/093_shot.mp4",
+  "start": 471.44,
+  "duration": 6.3,
+  "watermark": false
+ },
+ {
+  "beat": 94,
+  "type": "AI Video Clip",
+  "filePath": "/Users/bilalashraf/YT Videos/videos/04-what-if-humans-live-to-150/assets/capcut_ready/094_back_birthday_party_awkward.mp4",
+  "start": 477.74,
+  "duration": 4.3,
+  "watermark": false
+ },
+ {
+  "beat": 95,
+  "type": "AI Video Clip",
+  "filePath": "/Users/bilalashraf/YT Videos/videos/04-what-if-humans-live-to-150/assets/capcut_ready/095_hourglass_whose_sand_has.mp4",
+  "start": 482.04,
+  "duration": 5.46,
+  "watermark": false
+ },
+ {
+  "beat": 96,
+  "type": "Static Image",
+  "filePath": "/Users/bilalashraf/YT Videos/remotion/public/ep04/128_man_blowing_out_candles.png",
+  "start": 487.5,
+  "duration": 3.9,
+  "watermark": false
+ },
+ {
+  "beat": 97,
+  "type": "Static Image",
+  "filePath": "/Users/bilalashraf/YT Videos/remotion/public/ep04/129_knee_knee_brace_tiny.png",
+  "start": 491.4,
+  "duration": 2.04,
+  "watermark": false
+ },
+ {
+  "beat": 98,
+  "type": "Remotion Graphic",
+  "filePath": "/Users/bilalashraf/YT Videos/remotion/out/ep04/098_shot.mp4",
+  "start": 493.44,
+  "duration": 4.28,
+  "watermark": false
+ },
+ {
+  "beat": 99,
+  "type": "AI Video Clip",
+  "filePath": "/Users/bilalashraf/YT Videos/videos/04-what-if-humans-live-to-150/assets/capcut_ready/099_busy_road_night_headlight.mp4",
+  "start": 497.72,
+  "duration": 4.16,
+  "watermark": false
+ },
+ {
+  "beat": 100,
+  "type": "Remotion Graphic",
+  "filePath": "/Users/bilalashraf/YT Videos/remotion/out/ep04/100_shot.mp4",
+  "start": 501.88,
+  "duration": 5.9,
+  "watermark": false
+ },
+ {
+  "beat": 101,
+  "type": "AI Video Clip",
+  "filePath": "/Users/bilalashraf/YT Videos/videos/04-what-if-humans-live-to-150/assets/capcut_ready/101_cars_crawl_walking_pace.mp4",
+  "start": 507.78,
+  "duration": 5.54,
+  "watermark": false
+ },
+ {
+  "beat": 102,
+  "type": "AI Video Clip",
+  "filePath": "/Users/bilalashraf/YT Videos/videos/04-what-if-humans-live-to-150/assets/capcut_ready/102_st_aldric_half_crematorium.mp4",
+  "start": 513.32,
+  "duration": 9.52,
+  "watermark": false
+ },
+ {
+  "beat": 103,
+  "type": "AI Video Clip",
+  "filePath": "/Users/bilalashraf/YT Videos/videos/04-what-if-humans-live-to-150/assets/capcut_ready/103_undertaker_apprentice_polishes_spotless.mp4",
+  "start": 522.84,
+  "duration": 6.16,
+  "watermark": false
+ },
+ {
+  "beat": 104,
+  "type": "Static Image",
+  "filePath": "/Users/bilalashraf/YT Videos/remotion/public/ep04/138_match_cut_six_year.png",
+  "start": 529.0,
+  "duration": 4.44,
+  "watermark": true
+ },
+ {
+  "beat": 105,
+  "type": "Static Image",
+  "filePath": "/Users/bilalashraf/YT Videos/remotion/public/ep04/139_kitchen_table_mortgage_letter.png",
+  "start": 533.44,
+  "duration": 4.42,
+  "watermark": false
+ },
+ {
+  "beat": 106,
+  "type": "AI Video Clip",
+  "filePath": "/Users/bilalashraf/YT Videos/videos/04-what-if-humans-live-to-150/assets/capcut_ready/106_quiet_garden_afternoon_light.mp4",
+  "start": 537.86,
+  "duration": 6.34,
+  "watermark": false
+ },
+ {
+  "beat": 107,
+  "type": "AI Video Clip",
+  "filePath": "/Users/bilalashraf/YT Videos/videos/04-what-if-humans-live-to-150/assets/capcut_ready/107_she_walks_up_marrow.mp4",
+  "start": 544.2,
+  "duration": 6.52,
+  "watermark": false
+ },
+ {
+  "beat": 108,
+  "type": "AI Video Clip",
+  "filePath": "/Users/bilalashraf/YT Videos/videos/04-what-if-humans-live-to-150/assets/capcut_ready/108_macro_pen_writes_second.mp4",
+  "start": 550.72,
+  "duration": 7.96,
+  "watermark": false
+ },
+ {
+  "beat": 109,
+  "type": "Remotion Graphic",
+  "filePath": "/Users/bilalashraf/YT Videos/remotion/out/ep04/109_ladder_small_figure_climbs.mp4",
+  "start": 558.68,
+  "duration": 6.04,
+  "watermark": false
+ },
+ {
+  "beat": 110,
+  "type": "Remotion Graphic",
+  "filePath": "/Users/bilalashraf/YT Videos/remotion/out/ep04/110_ladder_tips_becomes_queue.mp4",
+  "start": 564.72,
+  "duration": 4.64,
+  "watermark": false
+ }
+]
