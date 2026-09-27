@@ -31,10 +31,10 @@ FILENAME: 910_montage_judge.png
 TYPE: Static Image (Remotion feeder plate)
 TECHNIQUE: N/A
 INPUT FRAMES: None
-PROMPT: 3840x2160, 16:9, clean flat vector illustration with soft cel-shading, confident linework, subtle dimensional gradients. Feeder plate 1/10 for beat 109 (whip-zoom montage). A judge's bench; the judge (looks ~55) in robes. A small brass plaque on the seat reads 'Since 60 years'. Same composition every plate: the seat centred, the holder facing camera, calm and permanent. Light warm-neutral palette, generous negative space, one clear focal point, a single lavender accent. follow best industry-standard guidelines and quality and visualisations.
+PROMPT: 3840x2160, 16:9, clean flat vector illustration with soft cel-shading, confident linework, subtle dimensional gradients. Feeder plate 1/10 for beat 109 (whip-zoom montage). A judge's bench; the judge (looks ~55) in robes. A small brass plaque on the seat reads '60 YEARS'. Same composition every plate: the seat centred, the holder facing camera, calm and permanent. Light warm-neutral palette, generous negative space, one clear focal point, a single lavender accent. follow best industry-standard guidelines and quality and visualisations.
 NEGATIVE PROMPT: photorealism, glossy 3D render, generic cartoon mascot style, low-effort round-head stick figure with dot eyes, cluttered composition, more than one saturated colour, blurry details, distorted anatomy, extra fingers, misspelled text, watermark.
 CONTINUITY: Feeds Remotion ARCHETYPE_WHIP_ZOOM_MONTAGE
-ON-IMAGE TEXT: Direct in-generation text: "s bench; the judge (looks ~55) in robes. A small brass plaque on the seat reads "
+ON-IMAGE TEXT: Direct in-generation text: "60 YEARS"
 ```
 
 ### 911_montage_professor.png
@@ -43,10 +43,10 @@ FILENAME: 911_montage_professor.png
 TYPE: Static Image (Remotion feeder plate)
 TECHNIQUE: N/A
 INPUT FRAMES: None
-PROMPT: 3840x2160, 16:9, clean flat vector illustration with soft cel-shading, confident linework, subtle dimensional gradients. Feeder plate 2/10 for beat 109 (whip-zoom montage). A university lectern; the professor (looks ~60) mid-lecture. A small brass plaque on the seat reads 'Since 70 years'. Same composition every plate: the seat centred, the holder facing camera, calm and permanent. Light warm-neutral palette, generous negative space, one clear focal point, a single lavender accent. follow best industry-standard guidelines and quality and visualisations.
+PROMPT: 3840x2160, 16:9, clean flat vector illustration with soft cel-shading, confident linework, subtle dimensional gradients. Feeder plate 2/10 for beat 109 (whip-zoom montage). A university lectern; the professor (looks ~60) mid-lecture. A small brass plaque on the seat reads '70 YEARS'. Same composition every plate: the seat centred, the holder facing camera, calm and permanent. Light warm-neutral palette, generous negative space, one clear focal point, a single lavender accent. follow best industry-standard guidelines and quality and visualisations.
 NEGATIVE PROMPT: photorealism, glossy 3D render, generic cartoon mascot style, low-effort round-head stick figure with dot eyes, cluttered composition, more than one saturated colour, blurry details, distorted anatomy, extra fingers, misspelled text, watermark.
 CONTINUITY: Feeds Remotion ARCHETYPE_WHIP_ZOOM_MONTAGE
-ON-IMAGE TEXT: Direct in-generation text: "Since 70 years"
+ON-IMAGE TEXT: Direct in-generation text: "70 YEARS"
 ```
 
 ### 912_montage_council.png
@@ -55,10 +55,10 @@ FILENAME: 912_montage_council.png
 TYPE: Static Image (Remotion feeder plate)
 TECHNIQUE: N/A
 INPUT FRAMES: None
-PROMPT: 3840x2160, 16:9, clean flat vector illustration with soft cel-shading, confident linework, subtle dimensional gradients. Feeder plate 3/10 for beat 109 (whip-zoom montage). A council chamber's chair; the councillor (looks ~50). A small brass plaque on the seat reads 'Since 45 years'. Same composition every plate: the seat centred, the holder facing camera, calm and permanent. Light warm-neutral palette, generous negative space, one clear focal point, a single lavender accent. follow best industry-standard guidelines and quality and visualisations.
+PROMPT: 3840x2160, 16:9, clean flat vector illustration with soft cel-shading, confident linework, subtle dimensional gradients. Feeder plate 3/10 for beat 109 (whip-zoom montage). A council chamber's chair; the councillor (looks ~50). A small brass plaque on the seat reads '45 YEARS'. Same composition every plate: the seat centred, the holder facing camera, calm and permanent. Light warm-neutral palette, generous negative space, one clear focal point, a single lavender accent. follow best industry-standard guidelines and quality and visualisations.
 NEGATIVE PROMPT: photorealism, glossy 3D render, generic cartoon mascot style, low-effort round-head stick figure with dot eyes, cluttered composition, more than one saturated colour, blurry details, distorted anatomy, extra fingers, misspelled text, watermark.
 CONTINUITY: Feeds Remotion ARCHETYPE_WHIP_ZOOM_MONTAGE
-ON-IMAGE TEXT: Direct in-generation text: "s chair; the councillor (looks ~50). A small brass plaque on the seat reads "
+ON-IMAGE TEXT: Direct in-generation text: "45 YEARS"
 ```
 
 ### 913_montage_ceo.png
@@ -67,10 +67,10 @@ FILENAME: 913_montage_ceo.png
 TYPE: Static Image (Remotion feeder plate)
 TECHNIQUE: N/A
 INPUT FRAMES: None
-PROMPT: 3840x2160, 16:9, clean flat vector illustration with soft cel-shading, confident linework, subtle dimensional gradients. Feeder plate 4/10 for beat 109 (whip-zoom montage). A corner-office desk; the chief executive (looks ~60). A small brass plaque on the seat reads 'Since 40 years'. Same composition every plate: the seat centred, the holder facing camera, calm and permanent. Light warm-neutral palette, generous negative space, one clear focal point, a single lavender accent. follow best industry-standard guidelines and quality and visualisations.
+PROMPT: 3840x2160, 16:9, clean flat vector illustration with soft cel-shading, confident linework, subtle dimensional gradients. Feeder plate 4/10 for beat 109 (whip-zoom montage). A corner-office desk; the chief executive (looks ~60). A small brass plaque on the seat reads '40 YEARS'. Same composition every plate: the seat centred, the holder facing camera, calm and permanent. Light warm-neutral palette, generous negative space, one clear focal point, a single lavender accent. follow best industry-standard guidelines and quality and visualisations.
 NEGATIVE PROMPT: photorealism, glossy 3D render, generic cartoon mascot style, low-effort round-head stick figure with dot eyes, cluttered composition, more than one saturated colour, blurry details, distorted anatomy, extra fingers, misspelled text, watermark.
 CONTINUITY: Feeds Remotion ARCHETYPE_WHIP_ZOOM_MONTAGE
-ON-IMAGE TEXT: Direct in-generation text: "Since 40 years"
+ON-IMAGE TEXT: Direct in-generation text: "40 YEARS"
 ```
 
 ### 914_montage_editor.png
@@ -79,10 +79,10 @@ FILENAME: 914_montage_editor.png
 TYPE: Static Image (Remotion feeder plate)
 TECHNIQUE: N/A
 INPUT FRAMES: None
-PROMPT: 3840x2160, 16:9, clean flat vector illustration with soft cel-shading, confident linework, subtle dimensional gradients. Feeder plate 5/10 for beat 109 (whip-zoom montage). A newspaper editor's desk under a wall of front pages; the editor (looks ~55). A small brass plaque on the seat reads 'Since 50 years'. Same composition every plate: the seat centred, the holder facing camera, calm and permanent. Light warm-neutral palette, generous negative space, one clear focal point, a single lavender accent. follow best industry-standard guidelines and quality and visualisations.
+PROMPT: 3840x2160, 16:9, clean flat vector illustration with soft cel-shading, confident linework, subtle dimensional gradients. Feeder plate 5/10 for beat 109 (whip-zoom montage). A newspaper editor's desk under a wall of front pages; the editor (looks ~55). A small brass plaque on the seat reads '50 YEARS'. Same composition every plate: the seat centred, the holder facing camera, calm and permanent. Light warm-neutral palette, generous negative space, one clear focal point, a single lavender accent. follow best industry-standard guidelines and quality and visualisations.
 NEGATIVE PROMPT: photorealism, glossy 3D render, generic cartoon mascot style, low-effort round-head stick figure with dot eyes, cluttered composition, more than one saturated colour, blurry details, distorted anatomy, extra fingers, misspelled text, watermark.
 CONTINUITY: Feeds Remotion ARCHETYPE_WHIP_ZOOM_MONTAGE
-ON-IMAGE TEXT: Direct in-generation text: "s desk under a wall of front pages; the editor (looks ~55). A small brass plaque on the seat reads "
+ON-IMAGE TEXT: Direct in-generation text: "50 YEARS"
 ```
 
 ### 915_montage_conductor.png
@@ -91,10 +91,10 @@ FILENAME: 915_montage_conductor.png
 TYPE: Static Image (Remotion feeder plate)
 TECHNIQUE: N/A
 INPUT FRAMES: None
-PROMPT: 3840x2160, 16:9, clean flat vector illustration with soft cel-shading, confident linework, subtle dimensional gradients. Feeder plate 6/10 for beat 109 (whip-zoom montage). An orchestra conductor's podium; the conductor (looks ~65), baton raised. A small brass plaque on the seat reads 'Since 55 years'. Same composition every plate: the seat centred, the holder facing camera, calm and permanent. Light warm-neutral palette, generous negative space, one clear focal point, a single lavender accent. follow best industry-standard guidelines and quality and visualisations.
+PROMPT: 3840x2160, 16:9, clean flat vector illustration with soft cel-shading, confident linework, subtle dimensional gradients. Feeder plate 6/10 for beat 109 (whip-zoom montage). An orchestra conductor's podium; the conductor (looks ~65), baton raised. A small brass plaque on the seat reads '55 YEARS'. Same composition every plate: the seat centred, the holder facing camera, calm and permanent. Light warm-neutral palette, generous negative space, one clear focal point, a single lavender accent. follow best industry-standard guidelines and quality and visualisations.
 NEGATIVE PROMPT: photorealism, glossy 3D render, generic cartoon mascot style, low-effort round-head stick figure with dot eyes, cluttered composition, more than one saturated colour, blurry details, distorted anatomy, extra fingers, misspelled text, watermark.
 CONTINUITY: Feeds Remotion ARCHETYPE_WHIP_ZOOM_MONTAGE
-ON-IMAGE TEXT: Direct in-generation text: "s podium; the conductor (looks ~65), baton raised. A small brass plaque on the seat reads "
+ON-IMAGE TEXT: Direct in-generation text: "55 YEARS"
 ```
 
 ### 916_montage_headteacher.png
@@ -103,10 +103,10 @@ FILENAME: 916_montage_headteacher.png
 TYPE: Static Image (Remotion feeder plate)
 TECHNIQUE: N/A
 INPUT FRAMES: None
-PROMPT: 3840x2160, 16:9, clean flat vector illustration with soft cel-shading, confident linework, subtle dimensional gradients. Feeder plate 7/10 for beat 109 (whip-zoom montage). A school headteacher's office; the head (looks ~50). A small brass plaque on the seat reads 'Since 48 years'. Same composition every plate: the seat centred, the holder facing camera, calm and permanent. Light warm-neutral palette, generous negative space, one clear focal point, a single lavender accent. follow best industry-standard guidelines and quality and visualisations.
+PROMPT: 3840x2160, 16:9, clean flat vector illustration with soft cel-shading, confident linework, subtle dimensional gradients. Feeder plate 7/10 for beat 109 (whip-zoom montage). A school headteacher's office; the head (looks ~50). A small brass plaque on the seat reads '48 YEARS'. Same composition every plate: the seat centred, the holder facing camera, calm and permanent. Light warm-neutral palette, generous negative space, one clear focal point, a single lavender accent. follow best industry-standard guidelines and quality and visualisations.
 NEGATIVE PROMPT: photorealism, glossy 3D render, generic cartoon mascot style, low-effort round-head stick figure with dot eyes, cluttered composition, more than one saturated colour, blurry details, distorted anatomy, extra fingers, misspelled text, watermark.
 CONTINUITY: Feeds Remotion ARCHETYPE_WHIP_ZOOM_MONTAGE
-ON-IMAGE TEXT: Direct in-generation text: "s office; the head (looks ~50). A small brass plaque on the seat reads "
+ON-IMAGE TEXT: Direct in-generation text: "48 YEARS"
 ```
 
 ### 917_montage_chairman.png
@@ -115,10 +115,10 @@ FILENAME: 917_montage_chairman.png
 TYPE: Static Image (Remotion feeder plate)
 TECHNIQUE: N/A
 INPUT FRAMES: None
-PROMPT: 3840x2160, 16:9, clean flat vector illustration with soft cel-shading, confident linework, subtle dimensional gradients. Feeder plate 8/10 for beat 109 (whip-zoom montage). A bank boardroom's head chair; the chair (looks ~60). A small brass plaque on the seat reads 'Since 52 years'. Same composition every plate: the seat centred, the holder facing camera, calm and permanent. Light warm-neutral palette, generous negative space, one clear focal point, a single lavender accent. follow best industry-standard guidelines and quality and visualisations.
+PROMPT: 3840x2160, 16:9, clean flat vector illustration with soft cel-shading, confident linework, subtle dimensional gradients. Feeder plate 8/10 for beat 109 (whip-zoom montage). A bank boardroom's head chair; the chair (looks ~60). A small brass plaque on the seat reads '52 YEARS'. Same composition every plate: the seat centred, the holder facing camera, calm and permanent. Light warm-neutral palette, generous negative space, one clear focal point, a single lavender accent. follow best industry-standard guidelines and quality and visualisations.
 NEGATIVE PROMPT: photorealism, glossy 3D render, generic cartoon mascot style, low-effort round-head stick figure with dot eyes, cluttered composition, more than one saturated colour, blurry details, distorted anatomy, extra fingers, misspelled text, watermark.
 CONTINUITY: Feeds Remotion ARCHETYPE_WHIP_ZOOM_MONTAGE
-ON-IMAGE TEXT: Direct in-generation text: "s head chair; the chair (looks ~60). A small brass plaque on the seat reads "
+ON-IMAGE TEXT: Direct in-generation text: "52 YEARS"
 ```
 
 ### 918_montage_coach.png
@@ -127,10 +127,10 @@ FILENAME: 918_montage_coach.png
 TYPE: Static Image (Remotion feeder plate)
 TECHNIQUE: N/A
 INPUT FRAMES: None
-PROMPT: 3840x2160, 16:9, clean flat vector illustration with soft cel-shading, confident linework, subtle dimensional gradients. Feeder plate 9/10 for beat 109 (whip-zoom montage). A football dugout; the manager (looks ~55) in a club coat. A small brass plaque on the seat reads 'Since 44 years'. Same composition every plate: the seat centred, the holder facing camera, calm and permanent. Light warm-neutral palette, generous negative space, one clear focal point, a single lavender accent. follow best industry-standard guidelines and quality and visualisations.
+PROMPT: 3840x2160, 16:9, clean flat vector illustration with soft cel-shading, confident linework, subtle dimensional gradients. Feeder plate 9/10 for beat 109 (whip-zoom montage). A football dugout; the manager (looks ~55) in a club coat. A small brass plaque on the seat reads '44 YEARS'. Same composition every plate: the seat centred, the holder facing camera, calm and permanent. Light warm-neutral palette, generous negative space, one clear focal point, a single lavender accent. follow best industry-standard guidelines and quality and visualisations.
 NEGATIVE PROMPT: photorealism, glossy 3D render, generic cartoon mascot style, low-effort round-head stick figure with dot eyes, cluttered composition, more than one saturated colour, blurry details, distorted anatomy, extra fingers, misspelled text, watermark.
 CONTINUITY: Feeds Remotion ARCHETYPE_WHIP_ZOOM_MONTAGE
-ON-IMAGE TEXT: Direct in-generation text: "Since 44 years"
+ON-IMAGE TEXT: Direct in-generation text: "44 YEARS"
 ```
 
 ### 919_montage_mayor.png
@@ -139,10 +139,10 @@ FILENAME: 919_montage_mayor.png
 TYPE: Static Image (Remotion feeder plate)
 TECHNIQUE: N/A
 INPUT FRAMES: None
-PROMPT: 3840x2160, 16:9, clean flat vector illustration with soft cel-shading, confident linework, subtle dimensional gradients. Feeder plate 10/10 for beat 109 (whip-zoom montage). A mayor's desk with a chain of office; the mayor (looks ~58). A small brass plaque on the seat reads 'Since 62 years'. Same composition every plate: the seat centred, the holder facing camera, calm and permanent. Light warm-neutral palette, generous negative space, one clear focal point, a single lavender accent. follow best industry-standard guidelines and quality and visualisations.
+PROMPT: 3840x2160, 16:9, clean flat vector illustration with soft cel-shading, confident linework, subtle dimensional gradients. Feeder plate 10/10 for beat 109 (whip-zoom montage). A mayor's desk with a chain of office; the mayor (looks ~58). A small brass plaque on the seat reads '62 YEARS'. Same composition every plate: the seat centred, the holder facing camera, calm and permanent. Light warm-neutral palette, generous negative space, one clear focal point, a single lavender accent. follow best industry-standard guidelines and quality and visualisations.
 NEGATIVE PROMPT: photorealism, glossy 3D render, generic cartoon mascot style, low-effort round-head stick figure with dot eyes, cluttered composition, more than one saturated colour, blurry details, distorted anatomy, extra fingers, misspelled text, watermark.
 CONTINUITY: Feeds Remotion ARCHETYPE_WHIP_ZOOM_MONTAGE
-ON-IMAGE TEXT: Direct in-generation text: "s desk with a chain of office; the mayor (looks ~58). A small brass plaque on the seat reads "
+ON-IMAGE TEXT: Direct in-generation text: "62 YEARS"
 ```
 
 ---
@@ -522,7 +522,7 @@ INPUT FRAMES: None
 PROMPT: 3840x2160, 16:9, clean flat vector illustration with soft cel-shading, confident linework, subtle dimensional gradients. Split frame: a wedding ring engraved with an end date, beside a milk carton's 'best before' date. Framing: Split-screen, both halves push in. Light warm-neutral palette, generous negative space, one clear focal point, a single lavender accent. follow best industry-standard guidelines and quality and visualisations.
 NEGATIVE PROMPT: photorealism, glossy 3D render, generic cartoon mascot style, low-effort round-head stick figure with dot eyes, cluttered composition, more than one saturated colour, blurry details, distorted anatomy, extra fingers, misspelled text, watermark.
 CONTINUITY: None
-ON-IMAGE TEXT: Direct in-generation text: "s "
+ON-IMAGE TEXT: Direct in-generation text: "best before"
 DURATION: 3.2s
 ```
 
@@ -743,7 +743,7 @@ INPUT FRAMES: None
 PROMPT: 3840x2160, 16:9, clean flat vector illustration with soft cel-shading, confident linework, subtle dimensional gradients. Punch-in on the poster's small print: '*interest applies'. Framing: Snap punch-in. Light warm-neutral palette, generous negative space, one clear focal point, a single lavender accent. follow best industry-standard guidelines and quality and visualisations.
 NEGATIVE PROMPT: photorealism, glossy 3D render, generic cartoon mascot style, low-effort round-head stick figure with dot eyes, cluttered composition, more than one saturated colour, blurry details, distorted anatomy, extra fingers, misspelled text, watermark.
 CONTINUITY: None
-ON-IMAGE TEXT: Direct in-generation text: "s small print: "
+ON-IMAGE TEXT: Direct in-generation text: "*interest applies"
 DURATION: 2.5s
 ```
 
@@ -1159,7 +1159,7 @@ INPUT FRAMES: None
 PROMPT: 3840x2160, 16:9, clean flat vector illustration with soft cel-shading, confident linework, subtle dimensional gradients. The bank's birthday card again, on Mum's mantel. Framing: Medium, push-in. Light warm-neutral palette, generous negative space, one clear focal point, a single lavender accent. follow best industry-standard guidelines and quality and visualisations.
 NEGATIVE PROMPT: photorealism, glossy 3D render, generic cartoon mascot style, low-effort round-head stick figure with dot eyes, cluttered composition, more than one saturated colour, blurry details, distorted anatomy, extra fingers, misspelled text, watermark.
 CONTINUITY: None
-ON-IMAGE TEXT: Direct in-generation text: "s birthday card again, on Mum"
+ON-IMAGE TEXT: None
 DURATION: 4.4s
 ```
 
@@ -1263,7 +1263,7 @@ INPUT FRAMES: ref_char_06_apprentice.png
 PROMPT: 3840x2160, 16:9, clean flat vector illustration with soft cel-shading, confident linework, subtle dimensional gradients. The undertaker's apprentice polishing spotless, unused tools. Framing: Medium, slow push. Light warm-neutral palette, generous negative space, one clear focal point, a single lavender accent. follow best industry-standard guidelines and quality and visualisations.
 NEGATIVE PROMPT: photorealism, glossy 3D render, generic cartoon mascot style, low-effort round-head stick figure with dot eyes, cluttered composition, more than one saturated colour, blurry details, distorted anatomy, extra fingers, misspelled text, watermark.
 CONTINUITY: Character master reference
-ON-IMAGE TEXT: Direct in-generation text: "s apprentice (ref_char_06_apprentice) polishing spotless, unused tools. [COMPOSITE: undertaker"
+ON-IMAGE TEXT: None
 DURATION: 3.8s
 ```
 
