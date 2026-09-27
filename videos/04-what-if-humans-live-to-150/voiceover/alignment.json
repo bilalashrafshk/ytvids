@@ -1,0 +1,9230 @@
+{
+ "audio": "voiceover/live up to 150 years?.wav",
+ "duration": 569.36,
+ "method": "faster-whisper small.en word timestamps, matched to 06_VOICE_DIRECTION.json text (98.4% of words matched, all 173 sentences placed)",
+ "sentences": [
+  {
+   "i": 0,
+   "chunk_id": 0,
+   "text": "Imagine a birthday party.",
+   "start": 0.0,
+   "end": 1.16,
+   "match": 1.0
+  },
+  {
+   "i": 1,
+   "chunk_id": 0,
+   "text": "The girl is six.",
+   "start": 1.72,
+   "end": 2.52,
+   "match": 1.0
+  },
+  {
+   "i": 2,
+   "chunk_id": 0,
+   "text": "There are forty people in the room, and thirty of them are her parents, her grandparents, and the grandparents of her grandparents.",
+   "start": 3.2,
+   "end": 9.08,
+   "match": 1.0
+  },
+  {
+   "i": 3,
+   "chunk_id": 0,
+   "text": "The oldest guest is a hundred and twenty-six.",
+   "start": 9.88,
+   "end": 11.6,
+   "match": 0.89
+  },
+  {
+   "i": 4,
+   "chunk_id": 0,
+   "text": "He is not the one in the wheelchair.",
+   "start": 12.7,
+   "end": 14.06,
+   "match": 1.0
+  },
+  {
+   "i": 5,
+   "chunk_id": 0,
+   "text": "He's the one on the bouncy castle.",
+   "start": 14.52,
+   "end": 15.9,
+   "match": 1.0
+  },
+  {
+   "i": 6,
+   "chunk_id": 1,
+   "text": "This is what the world looks like when humans live to one hundred and fifty.",
+   "start": 16.48,
+   "end": 19.7,
+   "match": 1.0
+  },
+  {
+   "i": 7,
+   "chunk_id": 1,
+   "text": "And no, it isn't a world of very old people.",
+   "start": 20.72,
+   "end": 23.3,
+   "match": 1.0
+  },
+  {
+   "i": 8,
+   "chunk_id": 1,
+   "text": "It's a world where nobody leaves.",
+   "start": 23.92,
+   "end": 25.54,
+   "match": 1.0
+  },
+  {
+   "i": 9,
+   "chunk_id": 1,
+   "text": "By the end, you'll see why, in this world, the healthiest mother on the street is her children's biggest problem.",
+   "start": 26.26,
+   "end": 32.1,
+   "match": 1.0
+  },
+  {
+   "i": 10,
+   "chunk_id": 2,
+   "text": "It starts quietly.",
+   "start": 33.04,
+   "end": 34.0,
+   "match": 1.0
+  },
+  {
+   "i": 11,
+   "chunk_id": 2,
+   "text": "One morning, ageing slows down, for everyone, from wherever their body already is.",
+   "start": 34.78,
+   "end": 39.78,
+   "match": 0.92
+  },
+  {
+   "i": 12,
+   "chunk_id": 2,
+   "text": "A man blows out forty candles, same as last year.",
+   "start": 40.48,
+   "end": 43.62,
+   "match": 1.0
+  },
+  {
+   "i": 13,
+   "chunk_id": 3,
+   "text": "He'll now make it to about a hundred and thirty.",
+   "start": 44.44,
+   "end": 46.28,
+   "match": 0.9
+  },
+  {
+   "i": 14,
+   "chunk_id": 3,
+   "text": "His father, who's seventy, gets twenty-odd bonus years.",
+   "start": 47.02,
+   "end": 50.02,
+   "match": 1.0
+  },
+  {
+   "i": 15,
+   "chunk_id": 3,
+   "text": "And the baby born in the hospital across town that morning?",
+   "start": 50.58,
+   "end": 53.26,
+   "match": 1.0
+  },
+  {
+   "i": 16,
+   "chunk_id": 3,
+   "text": "She's the first human who will ever see one hundred and fifty.",
+   "start": 54.08,
+   "end": 56.88,
+   "match": 1.0
+  },
+  {
+   "i": 17,
+   "chunk_id": 4,
+   "text": "Across town, at a pension company, someone changes one number on a spreadsheet.",
+   "start": 57.62,
+   "end": 62.08,
+   "match": 1.0
+  },
+  {
+   "i": 18,
+   "chunk_id": 4,
+   "text": "Eighty becomes one hundred and fifty.",
+   "start": 63.0,
+   "end": 64.36,
+   "match": 1.0
+  },
+  {
+   "i": 19,
+   "chunk_id": 4,
+   "text": "Every cell below it turns red.",
+   "start": 65.22,
+   "end": 66.88,
+   "match": 1.0
+  },
+  {
+   "i": 20,
+   "chunk_id": 5,
+   "text": "Because here's the thing we never notice.",
+   "start": 67.38,
+   "end": 70.78,
+   "match": 1.0
+  },
+  {
+   "i": 21,
+   "chunk_id": 5,
+   "text": "The whole world is built around people leaving.",
+   "start": 71.52,
+   "end": 74.62,
+   "match": 1.0
+  },
+  {
+   "i": 22,
+   "chunk_id": 6,
+   "text": "You work for about forty years, then you stop.",
+   "start": 75.62,
+   "end": 78.4,
+   "match": 1.0
+  },
+  {
+   "i": 23,
+   "chunk_id": 6,
+   "text": "Your parents pass away, and in your fifties, you get the house.",
+   "start": 79.06,
+   "end": 82.3,
+   "match": 0.92
+  },
+  {
+   "i": 24,
+   "chunk_id": 6,
+   "text": "The boss retires, and somebody gets promoted.",
+   "start": 82.9,
+   "end": 85.52,
+   "match": 1.0
+  },
+  {
+   "i": 25,
+   "chunk_id": 6,
+   "text": "Every few decades, the jobs, the homes, the money and the power all come free again.",
+   "start": 86.16,
+   "end": 91.84,
+   "match": 1.0
+  },
+  {
+   "i": 26,
+   "chunk_id": 6,
+   "text": "Death is the thing that moves the queue.",
+   "start": 92.72,
+   "end": 94.28,
+   "match": 0.88
+  },
+  {
+   "i": 27,
+   "chunk_id": 7,
+   "text": "Take that away, and the queue stops moving.",
+   "start": 95.14,
+   "end": 97.34,
+   "match": 0.88
+  },
+  {
+   "i": 28,
+   "chunk_id": 7,
+   "text": "And the first place you notice is the family photo.",
+   "start": 98.18,
+   "end": 100.72,
+   "match": 1.0
+  },
+  {
+   "i": 29,
+   "chunk_id": 8,
+   "text": "Today, a big family photo has three rows.",
+   "start": 101.6,
+   "end": 103.92,
+   "match": 1.0
+  },
+  {
+   "i": 30,
+   "chunk_id": 8,
+   "text": "Grandparents at the back, parents in the middle, kids on the floor.",
+   "start": 104.6,
+   "end": 107.76,
+   "match": 1.0
+  },
+  {
+   "i": 31,
+   "chunk_id": 8,
+   "text": "In this world, you retake it every twenty years, and every time, the frame gets wider.",
+   "start": 108.56,
+   "end": 113.96,
+   "match": 1.0
+  },
+  {
+   "i": 32,
+   "chunk_id": 8,
+   "text": "By the time that baby from the hospital is a great-great-grandmother, it's five rows deep.",
+   "start": 114.58,
+   "end": 120.18,
+   "match": 1.0
+  },
+  {
+   "i": 33,
+   "chunk_id": 8,
+   "text": "Five generations, all alive, all healthy, all arguing about where to sit.",
+   "start": 120.88,
+   "end": 126.34,
+   "match": 1.0
+  },
+  {
+   "i": 34,
+   "chunk_id": 9,
+   "text": "And look at the front row.",
+   "start": 126.86,
+   "end": 128.08,
+   "match": 1.0
+  },
+  {
+   "i": 35,
+   "chunk_id": 9,
+   "text": "It's almost empty.",
+   "start": 128.58,
+   "end": 129.66,
+   "match": 1.0
+  },
+  {
+   "i": 36,
+   "chunk_id": 10,
+   "text": "If everyone lives twice as long and keeps having kids at today's pace, the planet runs out of room.",
+   "start": 130.56,
+   "end": 135.06,
+   "match": 1.0
+  },
+  {
+   "i": 37,
+   "chunk_id": 10,
+   "text": "So families shrink.",
+   "start": 135.46,
+   "end": 136.32,
+   "match": 1.0
+  },
+  {
+   "i": 38,
+   "chunk_id": 10,
+   "text": "The world grows to about nineteen billion people, roughly double today, and then it stops.",
+   "start": 136.84,
+   "end": 141.12,
+   "match": 1.0
+  },
+  {
+   "i": 39,
+   "chunk_id": 10,
+   "text": "Children go from one in every four people to one in eight.",
+   "start": 142.04,
+   "end": 144.5,
+   "match": 1.0
+  },
+  {
+   "i": 40,
+   "chunk_id": 11,
+   "text": "A kid in this world is rare.",
+   "start": 145.14,
+   "end": 146.58,
+   "match": 1.0
+  },
+  {
+   "i": 41,
+   "chunk_id": 11,
+   "text": "She is outnumbered by her own ancestors at her own birthday party.",
+   "start": 147.22,
+   "end": 150.92,
+   "match": 1.0
+  },
+  {
+   "i": 42,
+   "chunk_id": 12,
+   "text": "And if the family photo gets longer, so does the marriage in the middle of it.",
+   "start": 151.7,
+   "end": 155.8,
+   "match": 1.0
+  },
+  {
+   "i": 43,
+   "chunk_id": 12,
+   "text": "Today, \"till death do us part\" means about fifty years.",
+   "start": 156.82,
+   "end": 159.86,
+   "match": 1.0
+  },
+  {
+   "i": 44,
+   "chunk_id": 12,
+   "text": "Here, marry at thirty, and death is a hundred and twenty years away.",
+   "start": 160.58,
+   "end": 164.54,
+   "match": 0.92
+  },
+  {
+   "i": 45,
+   "chunk_id": 12,
+   "text": "That's a very long time to agree on a thermostat.",
+   "start": 165.14,
+   "end": 167.82,
+   "match": 1.0
+  },
+  {
+   "i": 46,
+   "chunk_id": 13,
+   "text": "So the vows change.",
+   "start": 168.38,
+   "end": 169.4,
+   "match": 1.0
+  },
+  {
+   "i": 47,
+   "chunk_id": 13,
+   "text": "Couples start writing an end date into them.",
+   "start": 169.88,
+   "end": 171.78,
+   "match": 1.0
+  },
+  {
+   "i": 48,
+   "chunk_id": 13,
+   "text": "At the jeweller's, wedding rings come engraved with a year, the way milk comes with a date.",
+   "start": 172.16,
+   "end": 176.88,
+   "match": 0.94
+  },
+  {
+   "i": 49,
+   "chunk_id": 13,
+   "text": "And Grandma's third wedding is a lovely day.",
+   "start": 177.72,
+   "end": 180.0,
+   "match": 1.0
+  },
+  {
+   "i": 50,
+   "chunk_id": 13,
+   "text": "Her first husband gives a speech.",
+   "start": 180.62,
+   "end": 182.24,
+   "match": 1.0
+  },
+  {
+   "i": 51,
+   "chunk_id": 14,
+   "text": "Longer marriages are a choice.",
+   "start": 182.96,
+   "end": 184.24,
+   "match": 1.0
+  },
+  {
+   "i": 52,
+   "chunk_id": 14,
+   "text": "Longer careers aren't.",
+   "start": 184.74,
+   "end": 186.22,
+   "match": 1.0
+  },
+  {
+   "i": 53,
+   "chunk_id": 15,
+   "text": "Today, you start work at twenty, stop at sixty-five, and have about fifteen years left.",
+   "start": 186.74,
+   "end": 191.7,
+   "match": 1.0
+  },
+  {
+   "i": 54,
+   "chunk_id": 15,
+   "text": "Here, stopping at sixty-five would leave you eighty-five years with no pay.",
+   "start": 192.54,
+   "end": 196.16,
+   "match": 1.0
+  },
+  {
+   "i": 55,
+   "chunk_id": 15,
+   "text": "Nobody can save for that.",
+   "start": 196.84,
+   "end": 198.04,
+   "match": 1.0
+  },
+  {
+   "i": 56,
+   "chunk_id": 15,
+   "text": "So the retirement age has to move, and once you do the sums, it lands at about one hundred and twenty.",
+   "start": 198.66,
+   "end": 203.66,
+   "match": 1.0
+  },
+  {
+   "i": 57,
+   "chunk_id": 16,
+   "text": "Picture your first payslip at twenty.",
+   "start": 204.9,
+   "end": 206.76,
+   "match": 0.83
+  },
+  {
+   "i": 58,
+   "chunk_id": 16,
+   "text": "Near the bottom, a new line: years to retirement, ninety-four.",
+   "start": 207.3,
+   "end": 211.42,
+   "match": 1.0
+  },
+  {
+   "i": 59,
+   "chunk_id": 17,
+   "text": "But a hundred-year career has a problem.",
+   "start": 212.3,
+   "end": 214.32,
+   "match": 1.0
+  },
+  {
+   "i": 60,
+   "chunk_id": 17,
+   "text": "Whatever you learned at twenty is useless by sixty.",
+   "start": 215.0,
+   "end": 217.62,
+   "match": 1.0
+  },
+  {
+   "i": 61,
+   "chunk_id": 17,
+   "text": "So people go back to school, again and again.",
+   "start": 218.2,
+   "end": 220.78,
+   "match": 1.0
+  },
+  {
+   "i": 62,
+   "chunk_id": 17,
+   "text": "In a lecture hall, a seventy-year-old sits next to an eighteen-year-old.",
+   "start": 221.58,
+   "end": 225.16,
+   "match": 1.0
+  },
+  {
+   "i": 63,
+   "chunk_id": 18,
+   "text": "Same course.",
+   "start": 225.72,
+   "end": 226.34,
+   "match": 1.0
+  },
+  {
+   "i": 64,
+   "chunk_id": 18,
+   "text": "Same exam.",
+   "start": 226.84,
+   "end": 227.38,
+   "match": 1.0
+  },
+  {
+   "i": 65,
+   "chunk_id": 18,
+   "text": "The seventy-year-old has fifty more years of work ahead.",
+   "start": 228.06,
+   "end": 231.08,
+   "match": 1.0
+  },
+  {
+   "i": 66,
+   "chunk_id": 18,
+   "text": "The eighteen-year-old has a hundred.",
+   "start": 231.68,
+   "end": 233.24,
+   "match": 0.86
+  },
+  {
+   "i": 67,
+   "chunk_id": 18,
+   "text": "The seventy-year-old's CV is eleven pages long.",
+   "start": 233.94,
+   "end": 237.14,
+   "match": 1.0
+  },
+  {
+   "i": 68,
+   "chunk_id": 19,
+   "text": "And a hundred years of work means a hundred years of paying for a home.",
+   "start": 237.88,
+   "end": 241.18,
+   "match": 0.87
+  },
+  {
+   "i": 69,
+   "chunk_id": 19,
+   "text": "You'd think time would make everyone rich.",
+   "start": 241.9,
+   "end": 243.76,
+   "match": 1.0
+  },
+  {
+   "i": 70,
+   "chunk_id": 19,
+   "text": "Give your savings a century and a half to grow, and a small pot becomes a fortune.",
+   "start": 244.56,
+   "end": 248.74,
+   "match": 1.0
+  },
+  {
+   "i": 71,
+   "chunk_id": 19,
+   "text": "But everyone has the same idea, all at once.",
+   "start": 249.48,
+   "end": 251.98,
+   "match": 1.0
+  },
+  {
+   "i": 72,
+   "chunk_id": 19,
+   "text": "Open a savings book in this world and watch the rate on each new page.",
+   "start": 252.6,
+   "end": 256.04,
+   "match": 1.0
+  },
+  {
+   "i": 73,
+   "chunk_id": 19,
+   "text": "It keeps getting smaller.",
+   "start": 256.04,
+   "end": 257.58,
+   "match": 1.0
+  },
+  {
+   "i": 74,
+   "chunk_id": 20,
+   "text": "So people borrow instead, and the banks invent the hundred-year mortgage.",
+   "start": 258.36,
+   "end": 261.88,
+   "match": 1.0
+  },
+  {
+   "i": 75,
+   "chunk_id": 20,
+   "text": "It sounds cheap.",
+   "start": 262.3,
+   "end": 263.1,
+   "match": 1.0
+  },
+  {
+   "i": 76,
+   "chunk_id": 20,
+   "text": "It isn't.",
+   "start": 263.38,
+   "end": 264.34,
+   "match": 1.0
+  },
+  {
+   "i": 77,
+   "chunk_id": 21,
+   "text": "On a three hundred thousand dollar house, the monthly payment drops by less than three hundred dollars.",
+   "start": 264.82,
+   "end": 269.06,
+   "match": 0.88
+  },
+  {
+   "i": 78,
+   "chunk_id": 21,
+   "text": "But you pay three and a half times as much interest.",
+   "start": 269.68,
+   "end": 272.32,
+   "match": 1.0
+  },
+  {
+   "i": 79,
+   "chunk_id": 21,
+   "text": "You're not really paying off the house.",
+   "start": 272.9,
+   "end": 274.54,
+   "match": 1.0
+  },
+  {
+   "i": 80,
+   "chunk_id": 21,
+   "text": "You're renting it from the bank, for the rest of your very long life.",
+   "start": 274.96,
+   "end": 278.2,
+   "match": 1.0
+  },
+  {
+   "i": 81,
+   "chunk_id": 22,
+   "text": "A letter arrives.",
+   "start": 278.8,
+   "end": 279.7,
+   "match": 1.0
+  },
+  {
+   "i": 82,
+   "chunk_id": 22,
+   "text": "Payment eight hundred and forty-seven of one thousand, two hundred.",
+   "start": 280.66,
+   "end": 283.3,
+   "match": 0.91
+  },
+  {
+   "i": 83,
+   "chunk_id": 23,
+   "text": "Which is why everyone is waiting for the other way to get a house.",
+   "start": 284.06,
+   "end": 287.46,
+   "match": 1.0
+  },
+  {
+   "i": 84,
+   "chunk_id": 23,
+   "text": "The one you inherit.",
+   "start": 287.98,
+   "end": 288.84,
+   "match": 1.0
+  },
+  {
+   "i": 85,
+   "chunk_id": 24,
+   "text": "Today, you get your parents' home in your fifties.",
+   "start": 289.78,
+   "end": 291.8,
+   "match": 0.78
+  },
+  {
+   "i": 86,
+   "chunk_id": 24,
+   "text": "Here, your parents live to one hundred and fifty.",
+   "start": 292.94,
+   "end": 295.58,
+   "match": 1.0
+  },
+  {
+   "i": 87,
+   "chunk_id": 24,
+   "text": "They're thirty years older than you.",
+   "start": 296.56,
+   "end": 298.3,
+   "match": 1.0
+  },
+  {
+   "i": 88,
+   "chunk_id": 24,
+   "text": "So you get the house at one hundred and twenty.",
+   "start": 298.5,
+   "end": 300.5,
+   "match": 1.0
+  },
+  {
+   "i": 89,
+   "chunk_id": 24,
+   "text": "Picture the queue for one house: every heir waiting for someone to die, stretching down the street and round the block.",
+   "start": 301.9,
+   "end": 309.48,
+   "match": 0.95
+  },
+  {
+   "i": 90,
+   "chunk_id": 25,
+   "text": "Walk down Marrow Street.",
+   "start": 310.12,
+   "end": 311.36,
+   "match": 1.0
+  },
+  {
+   "i": 91,
+   "chunk_id": 25,
+   "text": "Forty houses.",
+   "start": 312.06,
+   "end": 312.6,
+   "match": 1.0
+  },
+  {
+   "i": 92,
+   "chunk_id": 25,
+   "text": "Each front door is painted with the year it was bought.",
+   "start": 313.14,
+   "end": 315.84,
+   "match": 1.0
+  },
+  {
+   "i": 93,
+   "chunk_id": 26,
+   "text": "Not one of them has changed hands in ninety years.",
+   "start": 316.44,
+   "end": 319.0,
+   "match": 1.0
+  },
+  {
+   "i": 94,
+   "chunk_id": 26,
+   "text": "Today, about one home in forty-five comes free each year when somebody dies.",
+   "start": 319.72,
+   "end": 323.92,
+   "match": 1.0
+  },
+  {
+   "i": 95,
+   "chunk_id": 26,
+   "text": "Here, it's one in a hundred and fifteen.",
+   "start": 324.74,
+   "end": 326.64,
+   "match": 0.88
+  },
+  {
+   "i": 96,
+   "chunk_id": 26,
+   "text": "And there are twice as many people who need one.",
+   "start": 327.64,
+   "end": 330.02,
+   "match": 1.0
+  },
+  {
+   "i": 97,
+   "chunk_id": 27,
+   "text": "A brass key hangs inside one of those doors.",
+   "start": 330.54,
+   "end": 333.3,
+   "match": 1.0
+  },
+  {
+   "i": 98,
+   "chunk_id": 27,
+   "text": "It has a paper tag, for writing each owner's name.",
+   "start": 333.9,
+   "end": 336.92,
+   "match": 1.0
+  },
+  {
+   "i": 99,
+   "chunk_id": 27,
+   "text": "It's had one name on it for a very long time.",
+   "start": 337.52,
+   "end": 340.36,
+   "match": 1.0
+  },
+  {
+   "i": 100,
+   "chunk_id": 28,
+   "text": "So the young do something clever, and a little bit dark.",
+   "start": 340.78,
+   "end": 343.82,
+   "match": 1.0
+  },
+  {
+   "i": 101,
+   "chunk_id": 28,
+   "text": "At twenty-five, they sell their future inheritance to a bank, for cash today.",
+   "start": 344.64,
+   "end": 349.1,
+   "match": 1.0
+  },
+  {
+   "i": 102,
+   "chunk_id": 28,
+   "text": "The bank now owns the right to Mum's house.",
+   "start": 349.9,
+   "end": 352.22,
+   "match": 0.89
+  },
+  {
+   "i": 103,
+   "chunk_id": 28,
+   "text": "And every year, on Mum's birthday, the bank sends her a card.",
+   "start": 352.96,
+   "end": 356.56,
+   "match": 0.92
+  },
+  {
+   "i": 104,
+   "chunk_id": 28,
+   "text": "It asks how she's feeling.",
+   "start": 357.14,
+   "end": 358.5,
+   "match": 1.0
+  },
+  {
+   "i": 105,
+   "chunk_id": 29,
+   "text": "The same queue that blocks the front door blocks the top floor.",
+   "start": 359.18,
+   "end": 362.18,
+   "match": 1.0
+  },
+  {
+   "i": 106,
+   "chunk_id": 29,
+   "text": "On the fortieth floor of the Greyfield Exchange, the desk nameplates are engraved in brass.",
+   "start": 362.76,
+   "end": 367.52,
+   "match": 0.93
+  },
+  {
+   "i": 107,
+   "chunk_id": 29,
+   "text": "Nobody prints them anymore.",
+   "start": 368.22,
+   "end": 369.32,
+   "match": 1.0
+  },
+  {
+   "i": 108,
+   "chunk_id": 29,
+   "text": "Nobody has moved desks in eighty years.",
+   "start": 369.76,
+   "end": 372.04,
+   "match": 1.0
+  },
+  {
+   "i": 109,
+   "chunk_id": 30,
+   "text": "Today, a top boss keeps the job for about seven years.",
+   "start": 372.94,
+   "end": 375.78,
+   "match": 1.0
+  },
+  {
+   "i": 110,
+   "chunk_id": 30,
+   "text": "Here, the same boss can stay for forty.",
+   "start": 376.22,
+   "end": 378.26,
+   "match": 1.0
+  },
+  {
+   "i": 111,
+   "chunk_id": 30,
+   "text": "Take five hundred of the biggest jobs in a country.",
+   "start": 378.86,
+   "end": 381.1,
+   "match": 1.0
+  },
+  {
+   "i": 112,
+   "chunk_id": 30,
+   "text": "Today, about seventy of them open up every year.",
+   "start": 381.6,
+   "end": 384.02,
+   "match": 1.0
+  },
+  {
+   "i": 113,
+   "chunk_id": 30,
+   "text": "Here, it's about twelve.",
+   "start": 384.42,
+   "end": 385.46,
+   "match": 1.0
+  },
+  {
+   "i": 114,
+   "chunk_id": 31,
+   "text": "Outside one corner office, a man in a sharp suit sits on a bench.",
+   "start": 386.36,
+   "end": 390.42,
+   "match": 1.0
+  },
+  {
+   "i": 115,
+   "chunk_id": 31,
+   "text": "He's ninety-one.",
+   "start": 390.92,
+   "end": 391.58,
+   "match": 1.0
+  },
+  {
+   "i": 116,
+   "chunk_id": 31,
+   "text": "He's been waiting for this job since he was fifty.",
+   "start": 392.52,
+   "end": 394.78,
+   "match": 1.0
+  },
+  {
+   "i": 117,
+   "chunk_id": 31,
+   "text": "Every ten years, he asks the same thing.",
+   "start": 395.6,
+   "end": 397.98,
+   "match": 1.0
+  },
+  {
+   "i": 118,
+   "chunk_id": 31,
+   "text": "\"Is he in?\" He's in.",
+   "start": 398.44,
+   "end": 400.36,
+   "match": 1.0
+  },
+  {
+   "i": 119,
+   "chunk_id": 32,
+   "text": "The same goes for judges, for professors, for anyone who holds a seat until they choose to leave.",
+   "start": 400.9,
+   "end": 406.46,
+   "match": 1.0
+  },
+  {
+   "i": 120,
+   "chunk_id": 32,
+   "text": "In a courthouse hallway, six portraits hang side by side.",
+   "start": 407.34,
+   "end": 410.78,
+   "match": 1.0
+  },
+  {
+   "i": 121,
+   "chunk_id": 32,
+   "text": "It's the same judge.",
+   "start": 411.12,
+   "end": 412.02,
+   "match": 1.0
+  },
+  {
+   "i": 122,
+   "chunk_id": 32,
+   "text": "Each one is a little greyer.",
+   "start": 412.7,
+   "end": 413.72,
+   "match": 0.83
+  },
+  {
+   "i": 123,
+   "chunk_id": 33,
+   "text": "So ambition leaves.",
+   "start": 414.84,
+   "end": 416.12,
+   "match": 1.0
+  },
+  {
+   "i": 124,
+   "chunk_id": 33,
+   "text": "If you can't climb the old ladder, you build a new one.",
+   "start": 416.94,
+   "end": 419.86,
+   "match": 1.0
+  },
+  {
+   "i": 125,
+   "chunk_id": 33,
+   "text": "Every founder is under forty, because only a brand new company has no queue.",
+   "start": 420.68,
+   "end": 425.3,
+   "match": 1.0
+  },
+  {
+   "i": 126,
+   "chunk_id": 33,
+   "text": "And the one thing young people vote for, over and over, is term limits.",
+   "start": 426.08,
+   "end": 430.62,
+   "match": 1.0
+  },
+  {
+   "i": 127,
+   "chunk_id": 33,
+   "text": "On everything.",
+   "start": 430.62,
+   "end": 431.94,
+   "match": 1.0
+  },
+  {
+   "i": 128,
+   "chunk_id": 34,
+   "text": "Now, to be fair, some of this is wonderful.",
+   "start": 432.46,
+   "end": 435.64,
+   "match": 1.0
+  },
+  {
+   "i": 129,
+   "chunk_id": 34,
+   "text": "A surgeon with ninety years of practice.",
+   "start": 436.42,
+   "end": 439.0,
+   "match": 1.0
+  },
+  {
+   "i": 130,
+   "chunk_id": 34,
+   "text": "A teacher who taught your grandmother, and now teaches you, and still remembers what your grandmother was like at your age.",
+   "start": 439.74,
+   "end": 446.58,
+   "match": 1.0
+  },
+  {
+   "i": 131,
+   "chunk_id": 34,
+   "text": "Longer lives have always made the world richer.",
+   "start": 447.64,
+   "end": 449.88,
+   "match": 1.0
+  },
+  {
+   "i": 132,
+   "chunk_id": 34,
+   "text": "That part is true.",
+   "start": 450.66,
+   "end": 451.66,
+   "match": 1.0
+  },
+  {
+   "i": 133,
+   "chunk_id": 35,
+   "text": "But only if the old let go.",
+   "start": 452.2,
+   "end": 454.54,
+   "match": 1.0
+  },
+  {
+   "i": 134,
+   "chunk_id": 35,
+   "text": "And that's where it turns upside down.",
+   "start": 455.1,
+   "end": 457.4,
+   "match": 1.0
+  },
+  {
+   "i": 135,
+   "chunk_id": 36,
+   "text": "Remember the bank's birthday card?",
+   "start": 457.92,
+   "end": 459.48,
+   "match": 1.0
+  },
+  {
+   "i": 136,
+   "chunk_id": 36,
+   "text": "Every year it asks Mum how she's feeling.",
+   "start": 460.08,
+   "end": 462.3,
+   "match": 0.88
+  },
+  {
+   "i": 137,
+   "chunk_id": 36,
+   "text": "And every year, she writes back: never better.",
+   "start": 462.3,
+   "end": 465.3,
+   "match": 1.0
+  },
+  {
+   "i": 138,
+   "chunk_id": 37,
+   "text": "Every one of those cards is another year her children rent.",
+   "start": 467.0,
+   "end": 470.42,
+   "match": 1.0
+  },
+  {
+   "i": 139,
+   "chunk_id": 37,
+   "text": "In this world, your parents' long, happy, healthy life is your single biggest bill.",
+   "start": 471.44,
+   "end": 476.82,
+   "match": 1.0
+  },
+  {
+   "i": 140,
+   "chunk_id": 37,
+   "text": "It's the one thing nobody says out loud at the birthday party.",
+   "start": 477.74,
+   "end": 481.52,
+   "match": 1.0
+  },
+  {
+   "i": 141,
+   "chunk_id": 38,
+   "text": "And then there's death itself.",
+   "start": 482.04,
+   "end": 483.82,
+   "match": 1.0
+  },
+  {
+   "i": 142,
+   "chunk_id": 38,
+   "text": "It doesn't vanish.",
+   "start": 484.52,
+   "end": 485.34,
+   "match": 1.0
+  },
+  {
+   "i": 143,
+   "chunk_id": 38,
+   "text": "It changes shape.",
+   "start": 485.64,
+   "end": 486.86,
+   "match": 1.0
+  },
+  {
+   "i": 144,
+   "chunk_id": 39,
+   "text": "You still get old.",
+   "start": 487.5,
+   "end": 488.34,
+   "match": 1.0
+  },
+  {
+   "i": 145,
+   "chunk_id": 39,
+   "text": "It just starts around one hundred and thirteen.",
+   "start": 488.72,
+   "end": 490.08,
+   "match": 1.0
+  },
+  {
+   "i": 146,
+   "chunk_id": 39,
+   "text": "Your knees hand in their notice.",
+   "start": 491.4,
+   "end": 492.82,
+   "match": 1.0
+  },
+  {
+   "i": 147,
+   "chunk_id": 39,
+   "text": "You slow down for your last thirty-odd years, instead of your last fifteen.",
+   "start": 493.44,
+   "end": 497.2,
+   "match": 1.0
+  },
+  {
+   "i": 148,
+   "chunk_id": 40,
+   "text": "But the biggest killer isn't age anymore.",
+   "start": 497.72,
+   "end": 499.78,
+   "match": 1.0
+  },
+  {
+   "i": 149,
+   "chunk_id": 40,
+   "text": "It's the road.",
+   "start": 500.32,
+   "end": 500.94,
+   "match": 1.0
+  },
+  {
+   "i": 150,
+   "chunk_id": 40,
+   "text": "A car crash at forty used to cost forty years.",
+   "start": 501.88,
+   "end": 504.82,
+   "match": 1.0
+  },
+  {
+   "i": 151,
+   "chunk_id": 40,
+   "text": "Now it costs one hundred and ten.",
+   "start": 505.44,
+   "end": 506.94,
+   "match": 1.0
+  },
+  {
+   "i": 152,
+   "chunk_id": 40,
+   "text": "People start driving like they have a lot to lose.",
+   "start": 507.78,
+   "end": 510.74,
+   "match": 1.0
+  },
+  {
+   "i": 153,
+   "chunk_id": 40,
+   "text": "Because they do.",
+   "start": 510.74,
+   "end": 512.56,
+   "match": 1.0
+  },
+  {
+   "i": 154,
+   "chunk_id": 41,
+   "text": "St Aldric's crematorium only needs half its building now.",
+   "start": 513.32,
+   "end": 516.4,
+   "match": 1.0
+  },
+  {
+   "i": 155,
+   "chunk_id": 41,
+   "text": "The other half becomes a nursery.",
+   "start": 517.0,
+   "end": 518.38,
+   "match": 1.0
+  },
+  {
+   "i": 156,
+   "chunk_id": 41,
+   "text": "One chimney.",
+   "start": 519.32,
+   "end": 519.92,
+   "match": 1.0
+  },
+  {
+   "i": 157,
+   "chunk_id": 41,
+   "text": "One playground.",
+   "start": 520.28,
+   "end": 520.88,
+   "match": 1.0
+  },
+  {
+   "i": 158,
+   "chunk_id": 41,
+   "text": "One car park.",
+   "start": 521.36,
+   "end": 522.16,
+   "match": 1.0
+  },
+  {
+   "i": 159,
+   "chunk_id": 42,
+   "text": "And the undertaker's apprentice has been training for sixty years.",
+   "start": 522.84,
+   "end": 526.1,
+   "match": 1.0
+  },
+  {
+   "i": 160,
+   "chunk_id": 42,
+   "text": "He's never actually seen a body.",
+   "start": 526.64,
+   "end": 528.26,
+   "match": 1.0
+  },
+  {
+   "i": 161,
+   "chunk_id": 43,
+   "text": "Remember the girl at the birthday party?",
+   "start": 529.0,
+   "end": 530.66,
+   "match": 1.0
+  },
+  {
+   "i": 162,
+   "chunk_id": 43,
+   "text": "She's one hundred and twenty now.",
+   "start": 531.32,
+   "end": 533.0,
+   "match": 1.0
+  },
+  {
+   "i": 163,
+   "chunk_id": 43,
+   "text": "She has a job, a mortgage, and a son who's ninety.",
+   "start": 533.44,
+   "end": 536.86,
+   "match": 1.0
+  },
+  {
+   "i": 164,
+   "chunk_id": 43,
+   "text": "This morning, her mother died, peacefully, in the garden, at one hundred and fifty.",
+   "start": 537.86,
+   "end": 542.94,
+   "match": 1.0
+  },
+  {
+   "i": 165,
+   "chunk_id": 44,
+   "text": "She walks up to a door on Marrow Street.",
+   "start": 544.2,
+   "end": 546.52,
+   "match": 1.0
+  },
+  {
+   "i": 166,
+   "chunk_id": 44,
+   "text": "The brass key is still hanging inside.",
+   "start": 547.34,
+   "end": 549.66,
+   "match": 1.0
+  },
+  {
+   "i": 167,
+   "chunk_id": 44,
+   "text": "Under her mother's name, on a tag that has waited a hundred and fifteen years, she writes a second one.",
+   "start": 550.72,
+   "end": 557.06,
+   "match": 0.95
+  },
+  {
+   "i": 168,
+   "chunk_id": 44,
+   "text": "Her own.",
+   "start": 557.44,
+   "end": 558.06,
+   "match": 1.0
+  },
+  {
+   "i": 169,
+   "chunk_id": 45,
+   "text": "We like to think a life is a ladder.",
+   "start": 558.68,
+   "end": 560.38,
+   "match": 1.0
+  },
+  {
+   "i": 170,
+   "chunk_id": 45,
+   "text": "You start at the bottom, you climb, you reach the top.",
+   "start": 560.82,
+   "end": 564.08,
+   "match": 1.0
+  },
+  {
+   "i": 171,
+   "chunk_id": 46,
+   "text": "It was always a queue.",
+   "start": 564.72,
+   "end": 565.58,
+   "match": 0.8
+  },
+  {
+   "i": 172,
+   "chunk_id": 46,
+   "text": "And the only thing that ever moved it was death.",
+   "start": 566.3,
+   "end": 568.98,
+   "match": 1.0
+  }
+ ],
+ "chunks": [
+  {
+   "chunk_id": 0,
+   "start": 0.0,
+   "end": 15.9
+  },
+  {
+   "chunk_id": 1,
+   "start": 16.48,
+   "end": 32.1
+  },
+  {
+   "chunk_id": 2,
+   "start": 33.04,
+   "end": 43.62
+  },
+  {
+   "chunk_id": 3,
+   "start": 44.44,
+   "end": 56.88
+  },
+  {
+   "chunk_id": 4,
+   "start": 57.62,
+   "end": 66.88
+  },
+  {
+   "chunk_id": 5,
+   "start": 67.38,
+   "end": 74.62
+  },
+  {
+   "chunk_id": 6,
+   "start": 75.62,
+   "end": 94.28
+  },
+  {
+   "chunk_id": 7,
+   "start": 95.14,
+   "end": 100.72
+  },
+  {
+   "chunk_id": 8,
+   "start": 101.6,
+   "end": 126.34
+  },
+  {
+   "chunk_id": 9,
+   "start": 126.86,
+   "end": 129.66
+  },
+  {
+   "chunk_id": 10,
+   "start": 130.56,
+   "end": 144.5
+  },
+  {
+   "chunk_id": 11,
+   "start": 145.14,
+   "end": 150.92
+  },
+  {
+   "chunk_id": 12,
+   "start": 151.7,
+   "end": 167.82
+  },
+  {
+   "chunk_id": 13,
+   "start": 168.38,
+   "end": 182.24
+  },
+  {
+   "chunk_id": 14,
+   "start": 182.96,
+   "end": 186.22
+  },
+  {
+   "chunk_id": 15,
+   "start": 186.74,
+   "end": 203.66
+  },
+  {
+   "chunk_id": 16,
+   "start": 204.9,
+   "end": 211.42
+  },
+  {
+   "chunk_id": 17,
+   "start": 212.3,
+   "end": 225.16
+  },
+  {
+   "chunk_id": 18,
+   "start": 225.72,
+   "end": 237.14
+  },
+  {
+   "chunk_id": 19,
+   "start": 237.88,
+   "end": 257.58
+  },
+  {
+   "chunk_id": 20,
+   "start": 258.36,
+   "end": 264.34
+  },
+  {
+   "chunk_id": 21,
+   "start": 264.82,
+   "end": 278.2
+  },
+  {
+   "chunk_id": 22,
+   "start": 278.8,
+   "end": 283.3
+  },
+  {
+   "chunk_id": 23,
+   "start": 284.06,
+   "end": 288.84
+  },
+  {
+   "chunk_id": 24,
+   "start": 289.78,
+   "end": 309.48
+  },
+  {
+   "chunk_id": 25,
+   "start": 310.12,
+   "end": 315.84
+  },
+  {
+   "chunk_id": 26,
+   "start": 316.44,
+   "end": 330.02
+  },
+  {
+   "chunk_id": 27,
+   "start": 330.54,
+   "end": 340.36
+  },
+  {
+   "chunk_id": 28,
+   "start": 340.78,
+   "end": 358.5
+  },
+  {
+   "chunk_id": 29,
+   "start": 359.18,
+   "end": 372.04
+  },
+  {
+   "chunk_id": 30,
+   "start": 372.94,
+   "end": 385.46
+  },
+  {
+   "chunk_id": 31,
+   "start": 386.36,
+   "end": 400.36
+  },
+  {
+   "chunk_id": 32,
+   "start": 400.9,
+   "end": 413.72
+  },
+  {
+   "chunk_id": 33,
+   "start": 414.84,
+   "end": 431.94
+  },
+  {
+   "chunk_id": 34,
+   "start": 432.46,
+   "end": 451.66
+  },
+  {
+   "chunk_id": 35,
+   "start": 452.2,
+   "end": 457.4
+  },
+  {
+   "chunk_id": 36,
+   "start": 457.92,
+   "end": 465.3
+  },
+  {
+   "chunk_id": 37,
+   "start": 467.0,
+   "end": 481.52
+  },
+  {
+   "chunk_id": 38,
+   "start": 482.04,
+   "end": 486.86
+  },
+  {
+   "chunk_id": 39,
+   "start": 487.5,
+   "end": 497.2
+  },
+  {
+   "chunk_id": 40,
+   "start": 497.72,
+   "end": 512.56
+  },
+  {
+   "chunk_id": 41,
+   "start": 513.32,
+   "end": 522.16
+  },
+  {
+   "chunk_id": 42,
+   "start": 522.84,
+   "end": 528.26
+  },
+  {
+   "chunk_id": 43,
+   "start": 529.0,
+   "end": 542.94
+  },
+  {
+   "chunk_id": 44,
+   "start": 544.2,
+   "end": 558.06
+  },
+  {
+   "chunk_id": 45,
+   "start": 558.68,
+   "end": 564.08
+  },
+  {
+   "chunk_id": 46,
+   "start": 564.72,
+   "end": 568.98
+  }
+ ],
+ "words": [
+  {
+   "w": "Imagine",
+   "s": 0.0,
+   "e": 0.3
+  },
+  {
+   "w": "a",
+   "s": 0.3,
+   "e": 0.52
+  },
+  {
+   "w": "birthday",
+   "s": 0.52,
+   "e": 0.74
+  },
+  {
+   "w": "party.",
+   "s": 0.74,
+   "e": 1.16
+  },
+  {
+   "w": "The",
+   "s": 1.72,
+   "e": 1.86
+  },
+  {
+   "w": "girl",
+   "s": 1.86,
+   "e": 2.06
+  },
+  {
+   "w": "is",
+   "s": 2.06,
+   "e": 2.3
+  },
+  {
+   "w": "six.",
+   "s": 2.3,
+   "e": 2.52
+  },
+  {
+   "w": "There",
+   "s": 3.2,
+   "e": 3.36
+  },
+  {
+   "w": "are",
+   "s": 3.36,
+   "e": 3.56
+  },
+  {
+   "w": "40",
+   "s": 3.56,
+   "e": 3.82
+  },
+  {
+   "w": "people",
+   "s": 3.82,
+   "e": 4.14
+  },
+  {
+   "w": "in",
+   "s": 4.14,
+   "e": 4.32
+  },
+  {
+   "w": "the",
+   "s": 4.32,
+   "e": 4.42
+  },
+  {
+   "w": "room,",
+   "s": 4.42,
+   "e": 4.66
+  },
+  {
+   "w": "and",
+   "s": 4.9,
+   "e": 5.06
+  },
+  {
+   "w": "30",
+   "s": 5.06,
+   "e": 5.34
+  },
+  {
+   "w": "of",
+   "s": 5.34,
+   "e": 5.52
+  },
+  {
+   "w": "them",
+   "s": 5.52,
+   "e": 5.66
+  },
+  {
+   "w": "are",
+   "s": 5.66,
+   "e": 5.82
+  },
+  {
+   "w": "her",
+   "s": 5.82,
+   "e": 5.96
+  },
+  {
+   "w": "parents,",
+   "s": 5.96,
+   "e": 6.36
+  },
+  {
+   "w": "her",
+   "s": 6.66,
+   "e": 6.76
+  },
+  {
+   "w": "grandparents,",
+   "s": 6.76,
+   "e": 7.18
+  },
+  {
+   "w": "and",
+   "s": 7.58,
+   "e": 7.72
+  },
+  {
+   "w": "the",
+   "s": 7.72,
+   "e": 7.82
+  },
+  {
+   "w": "grandparents",
+   "s": 7.82,
+   "e": 8.2
+  },
+  {
+   "w": "of",
+   "s": 8.2,
+   "e": 8.52
+  },
+  {
+   "w": "her",
+   "s": 8.52,
+   "e": 8.68
+  },
+  {
+   "w": "grandparents.",
+   "s": 8.68,
+   "e": 9.08
+  },
+  {
+   "w": "The",
+   "s": 9.88,
+   "e": 10.0
+  },
+  {
+   "w": "oldest",
+   "s": 10.0,
+   "e": 10.32
+  },
+  {
+   "w": "guest",
+   "s": 10.32,
+   "e": 10.64
+  },
+  {
+   "w": "is",
+   "s": 10.64,
+   "e": 10.92
+  },
+  {
+   "w": "126.",
+   "s": 10.92,
+   "e": 11.6
+  },
+  {
+   "w": "He",
+   "s": 12.7,
+   "e": 12.86
+  },
+  {
+   "w": "is",
+   "s": 12.86,
+   "e": 12.98
+  },
+  {
+   "w": "not",
+   "s": 12.98,
+   "e": 13.2
+  },
+  {
+   "w": "the",
+   "s": 13.2,
+   "e": 13.36
+  },
+  {
+   "w": "one",
+   "s": 13.36,
+   "e": 13.48
+  },
+  {
+   "w": "in",
+   "s": 13.48,
+   "e": 13.6
+  },
+  {
+   "w": "the",
+   "s": 13.6,
+   "e": 13.7
+  },
+  {
+   "w": "wheelchair.",
+   "s": 13.7,
+   "e": 14.06
+  },
+  {
+   "w": "He's",
+   "s": 14.52,
+   "e": 14.76
+  },
+  {
+   "w": "the",
+   "s": 14.76,
+   "e": 14.88
+  },
+  {
+   "w": "one",
+   "s": 14.88,
+   "e": 15.02
+  },
+  {
+   "w": "on",
+   "s": 15.02,
+   "e": 15.14
+  },
+  {
+   "w": "the",
+   "s": 15.14,
+   "e": 15.26
+  },
+  {
+   "w": "bouncy",
+   "s": 15.26,
+   "e": 15.58
+  },
+  {
+   "w": "castle.",
+   "s": 15.58,
+   "e": 15.9
+  },
+  {
+   "w": "This",
+   "s": 16.48,
+   "e": 16.64
+  },
+  {
+   "w": "is",
+   "s": 16.64,
+   "e": 16.76
+  },
+  {
+   "w": "what",
+   "s": 16.76,
+   "e": 16.9
+  },
+  {
+   "w": "the",
+   "s": 16.9,
+   "e": 17.06
+  },
+  {
+   "w": "world",
+   "s": 17.06,
+   "e": 17.3
+  },
+  {
+   "w": "looks",
+   "s": 17.3,
+   "e": 17.5
+  },
+  {
+   "w": "like",
+   "s": 17.5,
+   "e": 17.8
+  },
+  {
+   "w": "when",
+   "s": 17.8,
+   "e": 18.02
+  },
+  {
+   "w": "humans",
+   "s": 18.02,
+   "e": 18.44
+  },
+  {
+   "w": "live",
+   "s": 18.44,
+   "e": 18.72
+  },
+  {
+   "w": "to",
+   "s": 18.72,
+   "e": 18.94
+  },
+  {
+   "w": "150.",
+   "s": 18.94,
+   "e": 19.7
+  },
+  {
+   "w": "And",
+   "s": 20.72,
+   "e": 20.96
+  },
+  {
+   "w": "no,",
+   "s": 20.96,
+   "e": 21.24
+  },
+  {
+   "w": "it",
+   "s": 21.46,
+   "e": 21.6
+  },
+  {
+   "w": "isn't",
+   "s": 21.6,
+   "e": 21.82
+  },
+  {
+   "w": "a",
+   "s": 21.82,
+   "e": 21.98
+  },
+  {
+   "w": "world",
+   "s": 21.98,
+   "e": 22.2
+  },
+  {
+   "w": "of",
+   "s": 22.2,
+   "e": 22.4
+  },
+  {
+   "w": "very",
+   "s": 22.4,
+   "e": 22.66
+  },
+  {
+   "w": "old",
+   "s": 22.66,
+   "e": 22.94
+  },
+  {
+   "w": "people.",
+   "s": 22.94,
+   "e": 23.3
+  },
+  {
+   "w": "It's",
+   "s": 23.92,
+   "e": 24.12
+  },
+  {
+   "w": "a",
+   "s": 24.12,
+   "e": 24.24
+  },
+  {
+   "w": "world",
+   "s": 24.24,
+   "e": 24.52
+  },
+  {
+   "w": "where",
+   "s": 24.52,
+   "e": 24.76
+  },
+  {
+   "w": "nobody",
+   "s": 24.76,
+   "e": 25.1
+  },
+  {
+   "w": "leaves.",
+   "s": 25.1,
+   "e": 25.54
+  },
+  {
+   "w": "By",
+   "s": 26.26,
+   "e": 26.5
+  },
+  {
+   "w": "the",
+   "s": 26.5,
+   "e": 26.64
+  },
+  {
+   "w": "end,",
+   "s": 26.64,
+   "e": 26.96
+  },
+  {
+   "w": "you'll",
+   "s": 27.08,
+   "e": 27.38
+  },
+  {
+   "w": "see",
+   "s": 27.38,
+   "e": 27.52
+  },
+  {
+   "w": "why,",
+   "s": 27.52,
+   "e": 27.84
+  },
+  {
+   "w": "in",
+   "s": 28.04,
+   "e": 28.22
+  },
+  {
+   "w": "this",
+   "s": 28.22,
+   "e": 28.4
+  },
+  {
+   "w": "world,",
+   "s": 28.4,
+   "e": 28.72
+  },
+  {
+   "w": "the",
+   "s": 28.72,
+   "e": 29.08
+  },
+  {
+   "w": "healthiest",
+   "s": 29.08,
+   "e": 29.58
+  },
+  {
+   "w": "mother",
+   "s": 29.58,
+   "e": 29.78
+  },
+  {
+   "w": "on",
+   "s": 29.78,
+   "e": 30.0
+  },
+  {
+   "w": "the",
+   "s": 30.0,
+   "e": 30.12
+  },
+  {
+   "w": "street",
+   "s": 30.12,
+   "e": 30.42
+  },
+  {
+   "w": "is",
+   "s": 30.42,
+   "e": 30.68
+  },
+  {
+   "w": "her",
+   "s": 30.68,
+   "e": 30.84
+  },
+  {
+   "w": "children's",
+   "s": 30.84,
+   "e": 31.38
+  },
+  {
+   "w": "biggest",
+   "s": 31.38,
+   "e": 31.56
+  },
+  {
+   "w": "problem.",
+   "s": 31.56,
+   "e": 32.1
+  },
+  {
+   "w": "It",
+   "s": 33.04,
+   "e": 33.08
+  },
+  {
+   "w": "starts",
+   "s": 33.08,
+   "e": 33.36
+  },
+  {
+   "w": "quietly.",
+   "s": 33.36,
+   "e": 34.0
+  },
+  {
+   "w": "One",
+   "s": 34.78,
+   "e": 34.92
+  },
+  {
+   "w": "morning,",
+   "s": 34.92,
+   "e": 35.36
+  },
+  {
+   "w": "aging",
+   "s": 35.66,
+   "e": 35.88
+  },
+  {
+   "w": "slows",
+   "s": 35.88,
+   "e": 36.26
+  },
+  {
+   "w": "down,",
+   "s": 36.26,
+   "e": 36.68
+  },
+  {
+   "w": "for",
+   "s": 37.0,
+   "e": 37.22
+  },
+  {
+   "w": "everyone",
+   "s": 37.22,
+   "e": 37.64
+  },
+  {
+   "w": "from",
+   "s": 37.64,
+   "e": 38.04
+  },
+  {
+   "w": "wherever",
+   "s": 38.04,
+   "e": 38.38
+  },
+  {
+   "w": "their",
+   "s": 38.38,
+   "e": 38.64
+  },
+  {
+   "w": "body",
+   "s": 38.64,
+   "e": 38.92
+  },
+  {
+   "w": "already",
+   "s": 38.92,
+   "e": 39.3
+  },
+  {
+   "w": "is.",
+   "s": 39.3,
+   "e": 39.78
+  },
+  {
+   "w": "A",
+   "s": 40.48,
+   "e": 40.66
+  },
+  {
+   "w": "man",
+   "s": 40.66,
+   "e": 40.88
+  },
+  {
+   "w": "blows",
+   "s": 40.88,
+   "e": 41.18
+  },
+  {
+   "w": "out",
+   "s": 41.18,
+   "e": 41.5
+  },
+  {
+   "w": "40",
+   "s": 41.5,
+   "e": 41.84
+  },
+  {
+   "w": "candles,",
+   "s": 41.84,
+   "e": 42.42
+  },
+  {
+   "w": "same",
+   "s": 42.62,
+   "e": 42.84
+  },
+  {
+   "w": "as",
+   "s": 42.84,
+   "e": 43.02
+  },
+  {
+   "w": "last",
+   "s": 43.02,
+   "e": 43.28
+  },
+  {
+   "w": "year.",
+   "s": 43.28,
+   "e": 43.62
+  },
+  {
+   "w": "He'll",
+   "s": 44.44,
+   "e": 44.72
+  },
+  {
+   "w": "now",
+   "s": 44.72,
+   "e": 44.92
+  },
+  {
+   "w": "make",
+   "s": 44.92,
+   "e": 45.12
+  },
+  {
+   "w": "it",
+   "s": 45.12,
+   "e": 45.3
+  },
+  {
+   "w": "to",
+   "s": 45.3,
+   "e": 45.44
+  },
+  {
+   "w": "about",
+   "s": 45.44,
+   "e": 45.64
+  },
+  {
+   "w": "130.",
+   "s": 45.64,
+   "e": 46.28
+  },
+  {
+   "w": "His",
+   "s": 47.02,
+   "e": 47.22
+  },
+  {
+   "w": "father,",
+   "s": 47.22,
+   "e": 47.54
+  },
+  {
+   "w": "who's",
+   "s": 47.68,
+   "e": 47.92
+  },
+  {
+   "w": "70,",
+   "s": 47.92,
+   "e": 48.26
+  },
+  {
+   "w": "gets",
+   "s": 48.62,
+   "e": 48.78
+  },
+  {
+   "w": "20",
+   "s": 48.78,
+   "e": 49.16
+  },
+  {
+   "w": "-odd",
+   "s": 49.16,
+   "e": 49.36
+  },
+  {
+   "w": "bonus",
+   "s": 49.36,
+   "e": 49.68
+  },
+  {
+   "w": "years.",
+   "s": 49.68,
+   "e": 50.02
+  },
+  {
+   "w": "And",
+   "s": 50.58,
+   "e": 50.8
+  },
+  {
+   "w": "the",
+   "s": 50.8,
+   "e": 50.9
+  },
+  {
+   "w": "baby",
+   "s": 50.9,
+   "e": 51.12
+  },
+  {
+   "w": "born",
+   "s": 51.12,
+   "e": 51.4
+  },
+  {
+   "w": "in",
+   "s": 51.4,
+   "e": 51.56
+  },
+  {
+   "w": "the",
+   "s": 51.56,
+   "e": 51.66
+  },
+  {
+   "w": "hospital",
+   "s": 51.66,
+   "e": 52.06
+  },
+  {
+   "w": "across",
+   "s": 52.06,
+   "e": 52.42
+  },
+  {
+   "w": "town",
+   "s": 52.42,
+   "e": 52.74
+  },
+  {
+   "w": "that",
+   "s": 52.74,
+   "e": 52.92
+  },
+  {
+   "w": "morning?",
+   "s": 52.92,
+   "e": 53.26
+  },
+  {
+   "w": "She's",
+   "s": 54.08,
+   "e": 54.52
+  },
+  {
+   "w": "the",
+   "s": 54.52,
+   "e": 54.64
+  },
+  {
+   "w": "first",
+   "s": 54.64,
+   "e": 54.9
+  },
+  {
+   "w": "human",
+   "s": 54.9,
+   "e": 55.24
+  },
+  {
+   "w": "who",
+   "s": 55.24,
+   "e": 55.48
+  },
+  {
+   "w": "will",
+   "s": 55.48,
+   "e": 55.6
+  },
+  {
+   "w": "ever",
+   "s": 55.6,
+   "e": 55.8
+  },
+  {
+   "w": "see",
+   "s": 55.8,
+   "e": 56.08
+  },
+  {
+   "w": "150.",
+   "s": 56.08,
+   "e": 56.88
+  },
+  {
+   "w": "Across",
+   "s": 57.62,
+   "e": 57.94
+  },
+  {
+   "w": "town,",
+   "s": 57.94,
+   "e": 58.4
+  },
+  {
+   "w": "at",
+   "s": 58.62,
+   "e": 58.7
+  },
+  {
+   "w": "a",
+   "s": 58.7,
+   "e": 58.82
+  },
+  {
+   "w": "pension",
+   "s": 58.82,
+   "e": 59.04
+  },
+  {
+   "w": "company,",
+   "s": 59.04,
+   "e": 59.58
+  },
+  {
+   "w": "someone",
+   "s": 60.06,
+   "e": 60.22
+  },
+  {
+   "w": "changes",
+   "s": 60.22,
+   "e": 60.62
+  },
+  {
+   "w": "one",
+   "s": 60.62,
+   "e": 60.94
+  },
+  {
+   "w": "number",
+   "s": 60.94,
+   "e": 61.26
+  },
+  {
+   "w": "on",
+   "s": 61.26,
+   "e": 61.52
+  },
+  {
+   "w": "a",
+   "s": 61.52,
+   "e": 61.66
+  },
+  {
+   "w": "spreadsheet.",
+   "s": 61.66,
+   "e": 62.08
+  },
+  {
+   "w": "80",
+   "s": 63.0,
+   "e": 63.0
+  },
+  {
+   "w": "becomes",
+   "s": 63.0,
+   "e": 63.44
+  },
+  {
+   "w": "150.",
+   "s": 63.44,
+   "e": 64.36
+  },
+  {
+   "w": "Every",
+   "s": 65.22,
+   "e": 65.48
+  },
+  {
+   "w": "cell",
+   "s": 65.48,
+   "e": 65.74
+  },
+  {
+   "w": "below",
+   "s": 65.74,
+   "e": 66.04
+  },
+  {
+   "w": "it",
+   "s": 66.04,
+   "e": 66.28
+  },
+  {
+   "w": "turns",
+   "s": 66.28,
+   "e": 66.54
+  },
+  {
+   "w": "red,",
+   "s": 66.54,
+   "e": 66.88
+  },
+  {
+   "w": "because",
+   "s": 67.38,
+   "e": 67.94
+  },
+  {
+   "w": "here's",
+   "s": 67.94,
+   "e": 68.82
+  },
+  {
+   "w": "the",
+   "s": 68.82,
+   "e": 69.0
+  },
+  {
+   "w": "thing",
+   "s": 69.0,
+   "e": 69.34
+  },
+  {
+   "w": "we",
+   "s": 69.34,
+   "e": 69.94
+  },
+  {
+   "w": "never",
+   "s": 69.94,
+   "e": 70.28
+  },
+  {
+   "w": "notice.",
+   "s": 70.28,
+   "e": 70.78
+  },
+  {
+   "w": "The",
+   "s": 71.52,
+   "e": 71.76
+  },
+  {
+   "w": "whole",
+   "s": 71.76,
+   "e": 72.1
+  },
+  {
+   "w": "world",
+   "s": 72.1,
+   "e": 72.46
+  },
+  {
+   "w": "is",
+   "s": 72.46,
+   "e": 72.78
+  },
+  {
+   "w": "built",
+   "s": 72.78,
+   "e": 73.1
+  },
+  {
+   "w": "around",
+   "s": 73.1,
+   "e": 73.5
+  },
+  {
+   "w": "people",
+   "s": 73.5,
+   "e": 73.96
+  },
+  {
+   "w": "leaving.",
+   "s": 73.96,
+   "e": 74.62
+  },
+  {
+   "w": "You",
+   "s": 75.62,
+   "e": 75.82
+  },
+  {
+   "w": "work",
+   "s": 75.82,
+   "e": 76.08
+  },
+  {
+   "w": "for",
+   "s": 76.08,
+   "e": 76.32
+  },
+  {
+   "w": "about",
+   "s": 76.32,
+   "e": 76.58
+  },
+  {
+   "w": "40",
+   "s": 76.58,
+   "e": 76.9
+  },
+  {
+   "w": "years,",
+   "s": 76.9,
+   "e": 77.38
+  },
+  {
+   "w": "then",
+   "s": 77.72,
+   "e": 77.9
+  },
+  {
+   "w": "you",
+   "s": 77.9,
+   "e": 78.08
+  },
+  {
+   "w": "stop.",
+   "s": 78.08,
+   "e": 78.4
+  },
+  {
+   "w": "Your",
+   "s": 79.06,
+   "e": 79.2
+  },
+  {
+   "w": "parents",
+   "s": 79.2,
+   "e": 79.56
+  },
+  {
+   "w": "pass",
+   "s": 79.56,
+   "e": 79.84
+  },
+  {
+   "w": "away,",
+   "s": 79.84,
+   "e": 80.22
+  },
+  {
+   "w": "and",
+   "s": 80.56,
+   "e": 80.76
+  },
+  {
+   "w": "in",
+   "s": 80.76,
+   "e": 80.88
+  },
+  {
+   "w": "your",
+   "s": 80.88,
+   "e": 81.04
+  },
+  {
+   "w": "50s,",
+   "s": 81.04,
+   "e": 81.54
+  },
+  {
+   "w": "you",
+   "s": 81.54,
+   "e": 81.68
+  },
+  {
+   "w": "get",
+   "s": 81.68,
+   "e": 81.82
+  },
+  {
+   "w": "the",
+   "s": 81.82,
+   "e": 81.98
+  },
+  {
+   "w": "house.",
+   "s": 81.98,
+   "e": 82.3
+  },
+  {
+   "w": "The",
+   "s": 82.9,
+   "e": 83.1
+  },
+  {
+   "w": "boss",
+   "s": 83.1,
+   "e": 83.32
+  },
+  {
+   "w": "retires,",
+   "s": 83.32,
+   "e": 83.88
+  },
+  {
+   "w": "and",
+   "s": 84.22,
+   "e": 84.46
+  },
+  {
+   "w": "somebody",
+   "s": 84.46,
+   "e": 84.78
+  },
+  {
+   "w": "gets",
+   "s": 84.78,
+   "e": 85.08
+  },
+  {
+   "w": "promoted.",
+   "s": 85.08,
+   "e": 85.52
+  },
+  {
+   "w": "Every",
+   "s": 86.16,
+   "e": 86.68
+  },
+  {
+   "w": "few",
+   "s": 86.68,
+   "e": 86.98
+  },
+  {
+   "w": "decades,",
+   "s": 86.98,
+   "e": 87.4
+  },
+  {
+   "w": "the",
+   "s": 87.78,
+   "e": 87.82
+  },
+  {
+   "w": "jobs,",
+   "s": 87.82,
+   "e": 88.26
+  },
+  {
+   "w": "the",
+   "s": 88.64,
+   "e": 88.68
+  },
+  {
+   "w": "homes,",
+   "s": 88.68,
+   "e": 89.08
+  },
+  {
+   "w": "the",
+   "s": 89.4,
+   "e": 89.48
+  },
+  {
+   "w": "money",
+   "s": 89.48,
+   "e": 89.72
+  },
+  {
+   "w": "and",
+   "s": 89.72,
+   "e": 90.02
+  },
+  {
+   "w": "the",
+   "s": 90.02,
+   "e": 90.16
+  },
+  {
+   "w": "power",
+   "s": 90.16,
+   "e": 90.48
+  },
+  {
+   "w": "all",
+   "s": 90.48,
+   "e": 90.94
+  },
+  {
+   "w": "come",
+   "s": 90.94,
+   "e": 91.16
+  },
+  {
+   "w": "free",
+   "s": 91.16,
+   "e": 91.46
+  },
+  {
+   "w": "again.",
+   "s": 91.46,
+   "e": 91.84
+  },
+  {
+   "w": "Death",
+   "s": 92.72,
+   "e": 92.86
+  },
+  {
+   "w": "is",
+   "s": 92.86,
+   "e": 93.18
+  },
+  {
+   "w": "the",
+   "s": 93.18,
+   "e": 93.4
+  },
+  {
+   "w": "thing",
+   "s": 93.4,
+   "e": 93.58
+  },
+  {
+   "w": "that",
+   "s": 93.58,
+   "e": 93.8
+  },
+  {
+   "w": "moves",
+   "s": 93.8,
+   "e": 94.08
+  },
+  {
+   "w": "the",
+   "s": 94.08,
+   "e": 94.28
+  },
+  {
+   "w": "cue.",
+   "s": 94.28,
+   "e": 94.48
+  },
+  {
+   "w": "Take",
+   "s": 95.14,
+   "e": 95.28
+  },
+  {
+   "w": "that",
+   "s": 95.28,
+   "e": 95.5
+  },
+  {
+   "w": "away,",
+   "s": 95.5,
+   "e": 95.8
+  },
+  {
+   "w": "and",
+   "s": 96.14,
+   "e": 96.22
+  },
+  {
+   "w": "the",
+   "s": 96.22,
+   "e": 96.36
+  },
+  {
+   "w": "cue",
+   "s": 96.36,
+   "e": 96.56
+  },
+  {
+   "w": "stops",
+   "s": 96.56,
+   "e": 96.88
+  },
+  {
+   "w": "moving.",
+   "s": 96.88,
+   "e": 97.34
+  },
+  {
+   "w": "And",
+   "s": 98.18,
+   "e": 98.3
+  },
+  {
+   "w": "the",
+   "s": 98.3,
+   "e": 98.42
+  },
+  {
+   "w": "first",
+   "s": 98.42,
+   "e": 98.66
+  },
+  {
+   "w": "place",
+   "s": 98.66,
+   "e": 98.92
+  },
+  {
+   "w": "you",
+   "s": 98.92,
+   "e": 99.16
+  },
+  {
+   "w": "notice",
+   "s": 99.16,
+   "e": 99.46
+  },
+  {
+   "w": "is",
+   "s": 99.46,
+   "e": 99.86
+  },
+  {
+   "w": "the",
+   "s": 99.86,
+   "e": 100.02
+  },
+  {
+   "w": "family",
+   "s": 100.02,
+   "e": 100.38
+  },
+  {
+   "w": "photo.",
+   "s": 100.38,
+   "e": 100.72
+  },
+  {
+   "w": "Today,",
+   "s": 101.6,
+   "e": 101.84
+  },
+  {
+   "w": "a",
+   "s": 102.04,
+   "e": 102.14
+  },
+  {
+   "w": "big",
+   "s": 102.14,
+   "e": 102.36
+  },
+  {
+   "w": "family",
+   "s": 102.36,
+   "e": 102.72
+  },
+  {
+   "w": "photo",
+   "s": 102.72,
+   "e": 103.04
+  },
+  {
+   "w": "has",
+   "s": 103.04,
+   "e": 103.3
+  },
+  {
+   "w": "three",
+   "s": 103.3,
+   "e": 103.58
+  },
+  {
+   "w": "rows.",
+   "s": 103.58,
+   "e": 103.92
+  },
+  {
+   "w": "Grandparents",
+   "s": 104.6,
+   "e": 104.96
+  },
+  {
+   "w": "at",
+   "s": 104.96,
+   "e": 105.16
+  },
+  {
+   "w": "the",
+   "s": 105.16,
+   "e": 105.28
+  },
+  {
+   "w": "back,",
+   "s": 105.28,
+   "e": 105.54
+  },
+  {
+   "w": "parents",
+   "s": 106.0,
+   "e": 106.22
+  },
+  {
+   "w": "in",
+   "s": 106.22,
+   "e": 106.42
+  },
+  {
+   "w": "the",
+   "s": 106.42,
+   "e": 106.5
+  },
+  {
+   "w": "middle,",
+   "s": 106.5,
+   "e": 106.76
+  },
+  {
+   "w": "kids",
+   "s": 107.08,
+   "e": 107.2
+  },
+  {
+   "w": "on",
+   "s": 107.2,
+   "e": 107.38
+  },
+  {
+   "w": "the",
+   "s": 107.38,
+   "e": 107.5
+  },
+  {
+   "w": "floor.",
+   "s": 107.5,
+   "e": 107.76
+  },
+  {
+   "w": "In",
+   "s": 108.56,
+   "e": 108.72
+  },
+  {
+   "w": "this",
+   "s": 108.72,
+   "e": 108.92
+  },
+  {
+   "w": "world,",
+   "s": 108.92,
+   "e": 109.24
+  },
+  {
+   "w": "you",
+   "s": 109.42,
+   "e": 109.58
+  },
+  {
+   "w": "retake",
+   "s": 109.58,
+   "e": 109.92
+  },
+  {
+   "w": "it",
+   "s": 109.92,
+   "e": 110.22
+  },
+  {
+   "w": "every",
+   "s": 110.22,
+   "e": 110.46
+  },
+  {
+   "w": "20",
+   "s": 110.46,
+   "e": 110.82
+  },
+  {
+   "w": "years,",
+   "s": 110.82,
+   "e": 111.24
+  },
+  {
+   "w": "and",
+   "s": 111.7,
+   "e": 111.96
+  },
+  {
+   "w": "every",
+   "s": 111.96,
+   "e": 112.38
+  },
+  {
+   "w": "time,",
+   "s": 112.38,
+   "e": 112.74
+  },
+  {
+   "w": "the",
+   "s": 112.94,
+   "e": 113.06
+  },
+  {
+   "w": "frame",
+   "s": 113.06,
+   "e": 113.34
+  },
+  {
+   "w": "gets",
+   "s": 113.34,
+   "e": 113.6
+  },
+  {
+   "w": "wider.",
+   "s": 113.6,
+   "e": 113.96
+  },
+  {
+   "w": "By",
+   "s": 114.58,
+   "e": 115.1
+  },
+  {
+   "w": "the",
+   "s": 115.1,
+   "e": 115.24
+  },
+  {
+   "w": "time",
+   "s": 115.24,
+   "e": 115.46
+  },
+  {
+   "w": "that",
+   "s": 115.46,
+   "e": 115.7
+  },
+  {
+   "w": "baby",
+   "s": 115.7,
+   "e": 115.92
+  },
+  {
+   "w": "from",
+   "s": 115.92,
+   "e": 116.16
+  },
+  {
+   "w": "the",
+   "s": 116.16,
+   "e": 116.3
+  },
+  {
+   "w": "hospital",
+   "s": 116.3,
+   "e": 116.72
+  },
+  {
+   "w": "is",
+   "s": 116.72,
+   "e": 116.96
+  },
+  {
+   "w": "a",
+   "s": 116.96,
+   "e": 117.1
+  },
+  {
+   "w": "great,",
+   "s": 117.1,
+   "e": 117.36
+  },
+  {
+   "w": "great",
+   "s": 117.48,
+   "e": 117.68
+  },
+  {
+   "w": "grandmother,",
+   "s": 117.68,
+   "e": 118.1
+  },
+  {
+   "w": "it's",
+   "s": 119.06,
+   "e": 119.28
+  },
+  {
+   "w": "five",
+   "s": 119.28,
+   "e": 119.56
+  },
+  {
+   "w": "rows",
+   "s": 119.56,
+   "e": 119.82
+  },
+  {
+   "w": "deep,",
+   "s": 119.82,
+   "e": 120.18
+  },
+  {
+   "w": "five",
+   "s": 120.88,
+   "e": 121.12
+  },
+  {
+   "w": "generations,",
+   "s": 121.12,
+   "e": 121.74
+  },
+  {
+   "w": "all",
+   "s": 122.26,
+   "e": 122.56
+  },
+  {
+   "w": "alive,",
+   "s": 122.56,
+   "e": 123.02
+  },
+  {
+   "w": "all",
+   "s": 123.38,
+   "e": 123.56
+  },
+  {
+   "w": "healthy,",
+   "s": 123.56,
+   "e": 124.08
+  },
+  {
+   "w": "all",
+   "s": 124.68,
+   "e": 124.92
+  },
+  {
+   "w": "arguing",
+   "s": 124.92,
+   "e": 125.38
+  },
+  {
+   "w": "about",
+   "s": 125.38,
+   "e": 125.68
+  },
+  {
+   "w": "where",
+   "s": 125.68,
+   "e": 125.9
+  },
+  {
+   "w": "to",
+   "s": 125.9,
+   "e": 126.04
+  },
+  {
+   "w": "sit.",
+   "s": 126.04,
+   "e": 126.34
+  },
+  {
+   "w": "And",
+   "s": 126.86,
+   "e": 127.12
+  },
+  {
+   "w": "look",
+   "s": 127.12,
+   "e": 127.3
+  },
+  {
+   "w": "at",
+   "s": 127.3,
+   "e": 127.42
+  },
+  {
+   "w": "the",
+   "s": 127.42,
+   "e": 127.58
+  },
+  {
+   "w": "front",
+   "s": 127.58,
+   "e": 127.78
+  },
+  {
+   "w": "row.",
+   "s": 127.78,
+   "e": 128.08
+  },
+  {
+   "w": "It's",
+   "s": 128.58,
+   "e": 128.86
+  },
+  {
+   "w": "almost",
+   "s": 128.86,
+   "e": 129.18
+  },
+  {
+   "w": "empty.",
+   "s": 129.18,
+   "e": 129.66
+  },
+  {
+   "w": "If",
+   "s": 130.56,
+   "e": 130.68
+  },
+  {
+   "w": "everyone",
+   "s": 130.68,
+   "e": 131.0
+  },
+  {
+   "w": "lives",
+   "s": 131.0,
+   "e": 131.3
+  },
+  {
+   "w": "twice",
+   "s": 131.3,
+   "e": 131.58
+  },
+  {
+   "w": "as",
+   "s": 131.58,
+   "e": 131.8
+  },
+  {
+   "w": "long",
+   "s": 131.8,
+   "e": 132.04
+  },
+  {
+   "w": "and",
+   "s": 132.04,
+   "e": 132.24
+  },
+  {
+   "w": "keeps",
+   "s": 132.24,
+   "e": 132.4
+  },
+  {
+   "w": "having",
+   "s": 132.4,
+   "e": 132.7
+  },
+  {
+   "w": "kids",
+   "s": 132.7,
+   "e": 132.9
+  },
+  {
+   "w": "at",
+   "s": 132.9,
+   "e": 133.1
+  },
+  {
+   "w": "today's",
+   "s": 133.1,
+   "e": 133.42
+  },
+  {
+   "w": "pace,",
+   "s": 133.42,
+   "e": 133.68
+  },
+  {
+   "w": "the",
+   "s": 134.0,
+   "e": 134.06
+  },
+  {
+   "w": "planet",
+   "s": 134.06,
+   "e": 134.3
+  },
+  {
+   "w": "runs",
+   "s": 134.3,
+   "e": 134.54
+  },
+  {
+   "w": "out",
+   "s": 134.54,
+   "e": 134.72
+  },
+  {
+   "w": "of",
+   "s": 134.72,
+   "e": 134.84
+  },
+  {
+   "w": "room,",
+   "s": 134.84,
+   "e": 135.06
+  },
+  {
+   "w": "so",
+   "s": 135.46,
+   "e": 135.68
+  },
+  {
+   "w": "families",
+   "s": 135.68,
+   "e": 136.04
+  },
+  {
+   "w": "shrink.",
+   "s": 136.04,
+   "e": 136.32
+  },
+  {
+   "w": "The",
+   "s": 136.84,
+   "e": 137.02
+  },
+  {
+   "w": "world",
+   "s": 137.02,
+   "e": 137.22
+  },
+  {
+   "w": "grows",
+   "s": 137.22,
+   "e": 137.5
+  },
+  {
+   "w": "to",
+   "s": 137.5,
+   "e": 137.74
+  },
+  {
+   "w": "about",
+   "s": 137.74,
+   "e": 137.94
+  },
+  {
+   "w": "19",
+   "s": 137.94,
+   "e": 138.36
+  },
+  {
+   "w": "billion",
+   "s": 138.36,
+   "e": 138.62
+  },
+  {
+   "w": "people,",
+   "s": 138.62,
+   "e": 139.06
+  },
+  {
+   "w": "roughly",
+   "s": 139.34,
+   "e": 139.58
+  },
+  {
+   "w": "double",
+   "s": 139.58,
+   "e": 139.86
+  },
+  {
+   "w": "today,",
+   "s": 139.86,
+   "e": 140.26
+  },
+  {
+   "w": "and",
+   "s": 140.44,
+   "e": 140.64
+  },
+  {
+   "w": "then",
+   "s": 140.64,
+   "e": 140.74
+  },
+  {
+   "w": "it",
+   "s": 140.74,
+   "e": 140.88
+  },
+  {
+   "w": "stops.",
+   "s": 140.88,
+   "e": 141.12
+  },
+  {
+   "w": "Children",
+   "s": 142.04,
+   "e": 142.04
+  },
+  {
+   "w": "go",
+   "s": 142.04,
+   "e": 142.32
+  },
+  {
+   "w": "from",
+   "s": 142.32,
+   "e": 142.52
+  },
+  {
+   "w": "one",
+   "s": 142.52,
+   "e": 142.74
+  },
+  {
+   "w": "in",
+   "s": 142.74,
+   "e": 142.82
+  },
+  {
+   "w": "every",
+   "s": 142.82,
+   "e": 143.04
+  },
+  {
+   "w": "four",
+   "s": 143.04,
+   "e": 143.3
+  },
+  {
+   "w": "people",
+   "s": 143.3,
+   "e": 143.68
+  },
+  {
+   "w": "to",
+   "s": 143.68,
+   "e": 143.96
+  },
+  {
+   "w": "one",
+   "s": 143.96,
+   "e": 144.14
+  },
+  {
+   "w": "in",
+   "s": 144.14,
+   "e": 144.28
+  },
+  {
+   "w": "eight.",
+   "s": 144.28,
+   "e": 144.5
+  },
+  {
+   "w": "A",
+   "s": 145.14,
+   "e": 145.2
+  },
+  {
+   "w": "kid",
+   "s": 145.2,
+   "e": 145.4
+  },
+  {
+   "w": "in",
+   "s": 145.4,
+   "e": 145.56
+  },
+  {
+   "w": "this",
+   "s": 145.56,
+   "e": 145.72
+  },
+  {
+   "w": "world",
+   "s": 145.72,
+   "e": 146.06
+  },
+  {
+   "w": "is",
+   "s": 146.06,
+   "e": 146.28
+  },
+  {
+   "w": "rare.",
+   "s": 146.28,
+   "e": 146.58
+  },
+  {
+   "w": "She",
+   "s": 147.22,
+   "e": 147.34
+  },
+  {
+   "w": "is",
+   "s": 147.34,
+   "e": 147.46
+  },
+  {
+   "w": "outnumbered",
+   "s": 147.46,
+   "e": 147.92
+  },
+  {
+   "w": "by",
+   "s": 147.92,
+   "e": 148.3
+  },
+  {
+   "w": "her",
+   "s": 148.3,
+   "e": 148.48
+  },
+  {
+   "w": "own",
+   "s": 148.48,
+   "e": 148.72
+  },
+  {
+   "w": "ancestors",
+   "s": 148.72,
+   "e": 149.3
+  },
+  {
+   "w": "at",
+   "s": 149.3,
+   "e": 149.7
+  },
+  {
+   "w": "her",
+   "s": 149.7,
+   "e": 149.86
+  },
+  {
+   "w": "own",
+   "s": 149.86,
+   "e": 150.14
+  },
+  {
+   "w": "birthday",
+   "s": 150.14,
+   "e": 150.5
+  },
+  {
+   "w": "party.",
+   "s": 150.5,
+   "e": 150.92
+  },
+  {
+   "w": "And",
+   "s": 151.7,
+   "e": 151.84
+  },
+  {
+   "w": "if",
+   "s": 151.84,
+   "e": 152.08
+  },
+  {
+   "w": "the",
+   "s": 152.08,
+   "e": 152.24
+  },
+  {
+   "w": "family",
+   "s": 152.24,
+   "e": 152.56
+  },
+  {
+   "w": "photo",
+   "s": 152.56,
+   "e": 152.84
+  },
+  {
+   "w": "gets",
+   "s": 152.84,
+   "e": 153.1
+  },
+  {
+   "w": "longer,",
+   "s": 153.1,
+   "e": 153.5
+  },
+  {
+   "w": "so",
+   "s": 154.02,
+   "e": 154.14
+  },
+  {
+   "w": "does",
+   "s": 154.14,
+   "e": 154.38
+  },
+  {
+   "w": "the",
+   "s": 154.38,
+   "e": 154.54
+  },
+  {
+   "w": "marriage",
+   "s": 154.54,
+   "e": 154.84
+  },
+  {
+   "w": "in",
+   "s": 154.84,
+   "e": 155.08
+  },
+  {
+   "w": "the",
+   "s": 155.08,
+   "e": 155.2
+  },
+  {
+   "w": "middle",
+   "s": 155.2,
+   "e": 155.32
+  },
+  {
+   "w": "of",
+   "s": 155.32,
+   "e": 155.52
+  },
+  {
+   "w": "it.",
+   "s": 155.52,
+   "e": 155.8
+  },
+  {
+   "w": "Today,",
+   "s": 156.82,
+   "e": 156.82
+  },
+  {
+   "w": "till",
+   "s": 157.34,
+   "e": 157.4
+  },
+  {
+   "w": "death",
+   "s": 157.4,
+   "e": 157.64
+  },
+  {
+   "w": "do",
+   "s": 157.64,
+   "e": 157.84
+  },
+  {
+   "w": "us",
+   "s": 157.84,
+   "e": 158.02
+  },
+  {
+   "w": "part,",
+   "s": 158.02,
+   "e": 158.28
+  },
+  {
+   "w": "means",
+   "s": 158.46,
+   "e": 158.68
+  },
+  {
+   "w": "about",
+   "s": 158.68,
+   "e": 159.08
+  },
+  {
+   "w": "50",
+   "s": 159.08,
+   "e": 159.5
+  },
+  {
+   "w": "years.",
+   "s": 159.5,
+   "e": 159.86
+  },
+  {
+   "w": "Here,",
+   "s": 160.58,
+   "e": 160.92
+  },
+  {
+   "w": "marry",
+   "s": 161.34,
+   "e": 161.42
+  },
+  {
+   "w": "at",
+   "s": 161.42,
+   "e": 161.64
+  },
+  {
+   "w": "30,",
+   "s": 161.64,
+   "e": 161.94
+  },
+  {
+   "w": "and",
+   "s": 162.42,
+   "e": 162.64
+  },
+  {
+   "w": "death",
+   "s": 162.64,
+   "e": 162.88
+  },
+  {
+   "w": "is",
+   "s": 162.88,
+   "e": 163.12
+  },
+  {
+   "w": "120",
+   "s": 163.12,
+   "e": 163.62
+  },
+  {
+   "w": "years",
+   "s": 163.62,
+   "e": 164.18
+  },
+  {
+   "w": "away.",
+   "s": 164.18,
+   "e": 164.54
+  },
+  {
+   "w": "That's",
+   "s": 165.14,
+   "e": 165.42
+  },
+  {
+   "w": "a",
+   "s": 165.42,
+   "e": 165.54
+  },
+  {
+   "w": "very",
+   "s": 165.54,
+   "e": 165.8
+  },
+  {
+   "w": "long",
+   "s": 165.8,
+   "e": 166.1
+  },
+  {
+   "w": "time",
+   "s": 166.1,
+   "e": 166.48
+  },
+  {
+   "w": "to",
+   "s": 166.48,
+   "e": 166.74
+  },
+  {
+   "w": "agree",
+   "s": 166.74,
+   "e": 167.0
+  },
+  {
+   "w": "on",
+   "s": 167.0,
+   "e": 167.18
+  },
+  {
+   "w": "a",
+   "s": 167.18,
+   "e": 167.3
+  },
+  {
+   "w": "thermostat.",
+   "s": 167.3,
+   "e": 167.82
+  },
+  {
+   "w": "So",
+   "s": 168.38,
+   "e": 168.62
+  },
+  {
+   "w": "the",
+   "s": 168.62,
+   "e": 168.76
+  },
+  {
+   "w": "vows",
+   "s": 168.76,
+   "e": 168.98
+  },
+  {
+   "w": "change.",
+   "s": 168.98,
+   "e": 169.4
+  },
+  {
+   "w": "Couples",
+   "s": 169.88,
+   "e": 170.06
+  },
+  {
+   "w": "start",
+   "s": 170.06,
+   "e": 170.3
+  },
+  {
+   "w": "writing",
+   "s": 170.3,
+   "e": 170.62
+  },
+  {
+   "w": "an",
+   "s": 170.62,
+   "e": 170.84
+  },
+  {
+   "w": "end",
+   "s": 170.84,
+   "e": 171.04
+  },
+  {
+   "w": "date",
+   "s": 171.04,
+   "e": 171.22
+  },
+  {
+   "w": "into",
+   "s": 171.22,
+   "e": 171.52
+  },
+  {
+   "w": "them.",
+   "s": 171.52,
+   "e": 171.78
+  },
+  {
+   "w": "At",
+   "s": 172.16,
+   "e": 172.44
+  },
+  {
+   "w": "the",
+   "s": 172.44,
+   "e": 172.58
+  },
+  {
+   "w": "jewelers,",
+   "s": 172.58,
+   "e": 173.1
+  },
+  {
+   "w": "wedding",
+   "s": 173.38,
+   "e": 173.52
+  },
+  {
+   "w": "rings",
+   "s": 173.52,
+   "e": 173.9
+  },
+  {
+   "w": "come",
+   "s": 173.9,
+   "e": 174.12
+  },
+  {
+   "w": "engraved",
+   "s": 174.12,
+   "e": 174.48
+  },
+  {
+   "w": "with",
+   "s": 174.48,
+   "e": 174.68
+  },
+  {
+   "w": "a",
+   "s": 174.68,
+   "e": 174.82
+  },
+  {
+   "w": "year,",
+   "s": 174.82,
+   "e": 175.08
+  },
+  {
+   "w": "the",
+   "s": 175.36,
+   "e": 175.46
+  },
+  {
+   "w": "way",
+   "s": 175.46,
+   "e": 175.62
+  },
+  {
+   "w": "milk",
+   "s": 175.62,
+   "e": 175.94
+  },
+  {
+   "w": "comes",
+   "s": 175.94,
+   "e": 176.3
+  },
+  {
+   "w": "with",
+   "s": 176.3,
+   "e": 176.52
+  },
+  {
+   "w": "a",
+   "s": 176.52,
+   "e": 176.66
+  },
+  {
+   "w": "date.",
+   "s": 176.66,
+   "e": 176.88
+  },
+  {
+   "w": "And",
+   "s": 177.72,
+   "e": 177.82
+  },
+  {
+   "w": "grandma's",
+   "s": 177.82,
+   "e": 178.32
+  },
+  {
+   "w": "third",
+   "s": 178.32,
+   "e": 178.5
+  },
+  {
+   "w": "wedding",
+   "s": 178.5,
+   "e": 178.84
+  },
+  {
+   "w": "is",
+   "s": 178.84,
+   "e": 179.18
+  },
+  {
+   "w": "a",
+   "s": 179.18,
+   "e": 179.38
+  },
+  {
+   "w": "lovely",
+   "s": 179.38,
+   "e": 179.64
+  },
+  {
+   "w": "day.",
+   "s": 179.64,
+   "e": 180.0
+  },
+  {
+   "w": "Her",
+   "s": 180.62,
+   "e": 180.72
+  },
+  {
+   "w": "first",
+   "s": 180.72,
+   "e": 181.06
+  },
+  {
+   "w": "husband",
+   "s": 181.06,
+   "e": 181.4
+  },
+  {
+   "w": "gives",
+   "s": 181.4,
+   "e": 181.68
+  },
+  {
+   "w": "a",
+   "s": 181.68,
+   "e": 181.88
+  },
+  {
+   "w": "speech.",
+   "s": 181.88,
+   "e": 182.24
+  },
+  {
+   "w": "Longer",
+   "s": 182.96,
+   "e": 183.14
+  },
+  {
+   "w": "marriages",
+   "s": 183.14,
+   "e": 183.54
+  },
+  {
+   "w": "are",
+   "s": 183.54,
+   "e": 183.78
+  },
+  {
+   "w": "a",
+   "s": 183.78,
+   "e": 183.92
+  },
+  {
+   "w": "choice.",
+   "s": 183.92,
+   "e": 184.24
+  },
+  {
+   "w": "Longer",
+   "s": 184.74,
+   "e": 185.04
+  },
+  {
+   "w": "careers",
+   "s": 185.04,
+   "e": 185.38
+  },
+  {
+   "w": "aren't.",
+   "s": 185.38,
+   "e": 186.22
+  },
+  {
+   "w": "Today,",
+   "s": 186.74,
+   "e": 187.04
+  },
+  {
+   "w": "you",
+   "s": 187.34,
+   "e": 187.52
+  },
+  {
+   "w": "start",
+   "s": 187.52,
+   "e": 187.8
+  },
+  {
+   "w": "work",
+   "s": 187.8,
+   "e": 188.02
+  },
+  {
+   "w": "at",
+   "s": 188.02,
+   "e": 188.2
+  },
+  {
+   "w": "20,",
+   "s": 188.2,
+   "e": 188.54
+  },
+  {
+   "w": "stop",
+   "s": 188.82,
+   "e": 189.04
+  },
+  {
+   "w": "at",
+   "s": 189.04,
+   "e": 189.2
+  },
+  {
+   "w": "65,",
+   "s": 189.2,
+   "e": 189.62
+  },
+  {
+   "w": "and",
+   "s": 190.08,
+   "e": 190.26
+  },
+  {
+   "w": "have",
+   "s": 190.26,
+   "e": 190.46
+  },
+  {
+   "w": "about",
+   "s": 190.46,
+   "e": 190.7
+  },
+  {
+   "w": "15",
+   "s": 190.7,
+   "e": 191.12
+  },
+  {
+   "w": "years",
+   "s": 191.12,
+   "e": 191.34
+  },
+  {
+   "w": "left.",
+   "s": 191.34,
+   "e": 191.7
+  },
+  {
+   "w": "Here,",
+   "s": 192.54,
+   "e": 192.86
+  },
+  {
+   "w": "stopping",
+   "s": 193.04,
+   "e": 193.32
+  },
+  {
+   "w": "at",
+   "s": 193.32,
+   "e": 193.54
+  },
+  {
+   "w": "65",
+   "s": 193.54,
+   "e": 194.04
+  },
+  {
+   "w": "would",
+   "s": 194.04,
+   "e": 194.32
+  },
+  {
+   "w": "leave",
+   "s": 194.32,
+   "e": 194.5
+  },
+  {
+   "w": "you",
+   "s": 194.5,
+   "e": 194.68
+  },
+  {
+   "w": "85",
+   "s": 194.68,
+   "e": 195.12
+  },
+  {
+   "w": "years",
+   "s": 195.12,
+   "e": 195.42
+  },
+  {
+   "w": "with",
+   "s": 195.42,
+   "e": 195.66
+  },
+  {
+   "w": "no",
+   "s": 195.66,
+   "e": 195.9
+  },
+  {
+   "w": "pay.",
+   "s": 195.9,
+   "e": 196.16
+  },
+  {
+   "w": "Nobody",
+   "s": 196.84,
+   "e": 197.06
+  },
+  {
+   "w": "can",
+   "s": 197.06,
+   "e": 197.38
+  },
+  {
+   "w": "save",
+   "s": 197.38,
+   "e": 197.58
+  },
+  {
+   "w": "for",
+   "s": 197.58,
+   "e": 197.78
+  },
+  {
+   "w": "that.",
+   "s": 197.78,
+   "e": 198.04
+  },
+  {
+   "w": "So",
+   "s": 198.66,
+   "e": 198.94
+  },
+  {
+   "w": "the",
+   "s": 198.94,
+   "e": 199.06
+  },
+  {
+   "w": "retirement",
+   "s": 199.06,
+   "e": 199.46
+  },
+  {
+   "w": "age",
+   "s": 199.46,
+   "e": 199.76
+  },
+  {
+   "w": "has",
+   "s": 199.76,
+   "e": 200.0
+  },
+  {
+   "w": "to",
+   "s": 200.0,
+   "e": 200.2
+  },
+  {
+   "w": "move.",
+   "s": 200.2,
+   "e": 200.48
+  },
+  {
+   "w": "And",
+   "s": 200.92,
+   "e": 201.2
+  },
+  {
+   "w": "once",
+   "s": 201.2,
+   "e": 201.38
+  },
+  {
+   "w": "you",
+   "s": 201.38,
+   "e": 201.56
+  },
+  {
+   "w": "do",
+   "s": 201.56,
+   "e": 201.66
+  },
+  {
+   "w": "the",
+   "s": 201.66,
+   "e": 201.82
+  },
+  {
+   "w": "sums,",
+   "s": 201.82,
+   "e": 202.04
+  },
+  {
+   "w": "it",
+   "s": 202.36,
+   "e": 202.36
+  },
+  {
+   "w": "lands",
+   "s": 202.36,
+   "e": 202.6
+  },
+  {
+   "w": "at",
+   "s": 202.6,
+   "e": 202.8
+  },
+  {
+   "w": "about",
+   "s": 202.8,
+   "e": 203.08
+  },
+  {
+   "w": "120.",
+   "s": 203.08,
+   "e": 203.66
+  },
+  {
+   "w": "Picture",
+   "s": 204.9,
+   "e": 205.02
+  },
+  {
+   "w": "your",
+   "s": 205.02,
+   "e": 205.34
+  },
+  {
+   "w": "first",
+   "s": 205.34,
+   "e": 205.7
+  },
+  {
+   "w": "pays",
+   "s": 205.7,
+   "e": 205.96
+  },
+  {
+   "w": "lip",
+   "s": 205.96,
+   "e": 206.2
+  },
+  {
+   "w": "at",
+   "s": 206.2,
+   "e": 206.38
+  },
+  {
+   "w": "20.",
+   "s": 206.38,
+   "e": 206.76
+  },
+  {
+   "w": "Near",
+   "s": 207.3,
+   "e": 207.48
+  },
+  {
+   "w": "the",
+   "s": 207.48,
+   "e": 207.66
+  },
+  {
+   "w": "bottom,",
+   "s": 207.66,
+   "e": 207.98
+  },
+  {
+   "w": "a",
+   "s": 208.12,
+   "e": 208.22
+  },
+  {
+   "w": "new",
+   "s": 208.22,
+   "e": 208.42
+  },
+  {
+   "w": "line.",
+   "s": 208.42,
+   "e": 208.7
+  },
+  {
+   "w": "Years",
+   "s": 209.5,
+   "e": 209.68
+  },
+  {
+   "w": "to",
+   "s": 209.68,
+   "e": 209.98
+  },
+  {
+   "w": "retirement,",
+   "s": 209.98,
+   "e": 210.48
+  },
+  {
+   "w": "94.",
+   "s": 210.94,
+   "e": 211.42
+  },
+  {
+   "w": "But",
+   "s": 212.3,
+   "e": 212.44
+  },
+  {
+   "w": "a",
+   "s": 212.44,
+   "e": 212.56
+  },
+  {
+   "w": "100",
+   "s": 212.56,
+   "e": 212.84
+  },
+  {
+   "w": "-year",
+   "s": 212.84,
+   "e": 213.02
+  },
+  {
+   "w": "career",
+   "s": 213.02,
+   "e": 213.46
+  },
+  {
+   "w": "has",
+   "s": 213.46,
+   "e": 213.8
+  },
+  {
+   "w": "a",
+   "s": 213.8,
+   "e": 213.96
+  },
+  {
+   "w": "problem.",
+   "s": 213.96,
+   "e": 214.32
+  },
+  {
+   "w": "Whatever",
+   "s": 215.0,
+   "e": 215.16
+  },
+  {
+   "w": "you",
+   "s": 215.16,
+   "e": 215.46
+  },
+  {
+   "w": "learned",
+   "s": 215.46,
+   "e": 215.68
+  },
+  {
+   "w": "at",
+   "s": 215.68,
+   "e": 215.86
+  },
+  {
+   "w": "20",
+   "s": 215.86,
+   "e": 216.2
+  },
+  {
+   "w": "is",
+   "s": 216.2,
+   "e": 216.54
+  },
+  {
+   "w": "useless",
+   "s": 216.54,
+   "e": 216.92
+  },
+  {
+   "w": "by",
+   "s": 216.92,
+   "e": 217.2
+  },
+  {
+   "w": "60.",
+   "s": 217.2,
+   "e": 217.62
+  },
+  {
+   "w": "So",
+   "s": 218.2,
+   "e": 218.38
+  },
+  {
+   "w": "people",
+   "s": 218.38,
+   "e": 218.6
+  },
+  {
+   "w": "go",
+   "s": 218.6,
+   "e": 218.8
+  },
+  {
+   "w": "back",
+   "s": 218.8,
+   "e": 218.98
+  },
+  {
+   "w": "to",
+   "s": 218.98,
+   "e": 219.16
+  },
+  {
+   "w": "school,",
+   "s": 219.16,
+   "e": 219.44
+  },
+  {
+   "w": "again",
+   "s": 219.72,
+   "e": 220.14
+  },
+  {
+   "w": "and",
+   "s": 220.14,
+   "e": 220.5
+  },
+  {
+   "w": "again.",
+   "s": 220.5,
+   "e": 220.78
+  },
+  {
+   "w": "In",
+   "s": 221.58,
+   "e": 221.78
+  },
+  {
+   "w": "a",
+   "s": 221.78,
+   "e": 221.9
+  },
+  {
+   "w": "lecture",
+   "s": 221.9,
+   "e": 222.12
+  },
+  {
+   "w": "hall,",
+   "s": 222.12,
+   "e": 222.5
+  },
+  {
+   "w": "a",
+   "s": 222.66,
+   "e": 222.76
+  },
+  {
+   "w": "70",
+   "s": 222.76,
+   "e": 223.1
+  },
+  {
+   "w": "-year",
+   "s": 223.1,
+   "e": 223.28
+  },
+  {
+   "w": "-old",
+   "s": 223.28,
+   "e": 223.48
+  },
+  {
+   "w": "sits",
+   "s": 223.48,
+   "e": 223.72
+  },
+  {
+   "w": "next",
+   "s": 223.72,
+   "e": 224.0
+  },
+  {
+   "w": "to",
+   "s": 224.0,
+   "e": 224.22
+  },
+  {
+   "w": "an",
+   "s": 224.22,
+   "e": 224.3
+  },
+  {
+   "w": "18",
+   "s": 224.3,
+   "e": 224.72
+  },
+  {
+   "w": "-year",
+   "s": 224.72,
+   "e": 224.88
+  },
+  {
+   "w": "-old.",
+   "s": 224.88,
+   "e": 225.16
+  },
+  {
+   "w": "Same",
+   "s": 225.72,
+   "e": 225.98
+  },
+  {
+   "w": "course,",
+   "s": 225.98,
+   "e": 226.34
+  },
+  {
+   "w": "same",
+   "s": 226.84,
+   "e": 226.98
+  },
+  {
+   "w": "exam.",
+   "s": 226.98,
+   "e": 227.38
+  },
+  {
+   "w": "The",
+   "s": 228.06,
+   "e": 228.32
+  },
+  {
+   "w": "70",
+   "s": 228.32,
+   "e": 228.76
+  },
+  {
+   "w": "-year",
+   "s": 228.76,
+   "e": 228.94
+  },
+  {
+   "w": "-old",
+   "s": 228.94,
+   "e": 229.14
+  },
+  {
+   "w": "has",
+   "s": 229.14,
+   "e": 229.36
+  },
+  {
+   "w": "50",
+   "s": 229.36,
+   "e": 229.78
+  },
+  {
+   "w": "more",
+   "s": 229.78,
+   "e": 230.04
+  },
+  {
+   "w": "years",
+   "s": 230.04,
+   "e": 230.34
+  },
+  {
+   "w": "of",
+   "s": 230.34,
+   "e": 230.54
+  },
+  {
+   "w": "work",
+   "s": 230.54,
+   "e": 230.74
+  },
+  {
+   "w": "ahead.",
+   "s": 230.74,
+   "e": 231.08
+  },
+  {
+   "w": "The",
+   "s": 231.68,
+   "e": 231.78
+  },
+  {
+   "w": "18",
+   "s": 231.78,
+   "e": 232.22
+  },
+  {
+   "w": "-year",
+   "s": 232.22,
+   "e": 232.42
+  },
+  {
+   "w": "-old",
+   "s": 232.42,
+   "e": 232.62
+  },
+  {
+   "w": "has",
+   "s": 232.62,
+   "e": 232.82
+  },
+  {
+   "w": "100.",
+   "s": 232.82,
+   "e": 233.24
+  },
+  {
+   "w": "The",
+   "s": 233.94,
+   "e": 234.34
+  },
+  {
+   "w": "70",
+   "s": 234.34,
+   "e": 234.7
+  },
+  {
+   "w": "-year",
+   "s": 234.7,
+   "e": 234.92
+  },
+  {
+   "w": "-old's",
+   "s": 234.92,
+   "e": 235.24
+  },
+  {
+   "w": "CV",
+   "s": 235.24,
+   "e": 235.42
+  },
+  {
+   "w": "is",
+   "s": 235.42,
+   "e": 235.82
+  },
+  {
+   "w": "11",
+   "s": 235.82,
+   "e": 236.24
+  },
+  {
+   "w": "pages",
+   "s": 236.24,
+   "e": 236.72
+  },
+  {
+   "w": "long.",
+   "s": 236.72,
+   "e": 237.14
+  },
+  {
+   "w": "And",
+   "s": 237.88,
+   "e": 237.98
+  },
+  {
+   "w": "100",
+   "s": 237.98,
+   "e": 238.34
+  },
+  {
+   "w": "years",
+   "s": 238.34,
+   "e": 238.58
+  },
+  {
+   "w": "of",
+   "s": 238.58,
+   "e": 238.8
+  },
+  {
+   "w": "work",
+   "s": 238.8,
+   "e": 239.04
+  },
+  {
+   "w": "means",
+   "s": 239.04,
+   "e": 239.3
+  },
+  {
+   "w": "100",
+   "s": 239.3,
+   "e": 239.74
+  },
+  {
+   "w": "years",
+   "s": 239.74,
+   "e": 240.06
+  },
+  {
+   "w": "of",
+   "s": 240.06,
+   "e": 240.28
+  },
+  {
+   "w": "paying",
+   "s": 240.28,
+   "e": 240.52
+  },
+  {
+   "w": "for",
+   "s": 240.52,
+   "e": 240.78
+  },
+  {
+   "w": "a",
+   "s": 240.78,
+   "e": 240.92
+  },
+  {
+   "w": "home.",
+   "s": 240.92,
+   "e": 241.18
+  },
+  {
+   "w": "You'd",
+   "s": 241.9,
+   "e": 242.1
+  },
+  {
+   "w": "think",
+   "s": 242.1,
+   "e": 242.24
+  },
+  {
+   "w": "time",
+   "s": 242.24,
+   "e": 242.54
+  },
+  {
+   "w": "would",
+   "s": 242.54,
+   "e": 242.78
+  },
+  {
+   "w": "make",
+   "s": 242.78,
+   "e": 243.0
+  },
+  {
+   "w": "everyone",
+   "s": 243.0,
+   "e": 243.44
+  },
+  {
+   "w": "rich.",
+   "s": 243.44,
+   "e": 243.76
+  },
+  {
+   "w": "Give",
+   "s": 244.56,
+   "e": 244.66
+  },
+  {
+   "w": "your",
+   "s": 244.66,
+   "e": 244.86
+  },
+  {
+   "w": "savings",
+   "s": 244.86,
+   "e": 245.24
+  },
+  {
+   "w": "a",
+   "s": 245.24,
+   "e": 245.56
+  },
+  {
+   "w": "century",
+   "s": 245.56,
+   "e": 245.86
+  },
+  {
+   "w": "and",
+   "s": 245.86,
+   "e": 246.12
+  },
+  {
+   "w": "a",
+   "s": 246.12,
+   "e": 246.22
+  },
+  {
+   "w": "half",
+   "s": 246.22,
+   "e": 246.4
+  },
+  {
+   "w": "to",
+   "s": 246.4,
+   "e": 246.62
+  },
+  {
+   "w": "grow",
+   "s": 246.62,
+   "e": 246.9
+  },
+  {
+   "w": "and",
+   "s": 246.9,
+   "e": 247.18
+  },
+  {
+   "w": "a",
+   "s": 247.18,
+   "e": 247.32
+  },
+  {
+   "w": "small",
+   "s": 247.32,
+   "e": 247.56
+  },
+  {
+   "w": "pot",
+   "s": 247.56,
+   "e": 247.88
+  },
+  {
+   "w": "becomes",
+   "s": 247.88,
+   "e": 248.26
+  },
+  {
+   "w": "a",
+   "s": 248.26,
+   "e": 248.44
+  },
+  {
+   "w": "fortune.",
+   "s": 248.44,
+   "e": 248.74
+  },
+  {
+   "w": "But",
+   "s": 249.48,
+   "e": 249.72
+  },
+  {
+   "w": "everyone",
+   "s": 249.72,
+   "e": 250.08
+  },
+  {
+   "w": "has",
+   "s": 250.08,
+   "e": 250.34
+  },
+  {
+   "w": "the",
+   "s": 250.34,
+   "e": 250.56
+  },
+  {
+   "w": "same",
+   "s": 250.56,
+   "e": 250.74
+  },
+  {
+   "w": "idea",
+   "s": 250.74,
+   "e": 251.18
+  },
+  {
+   "w": "all",
+   "s": 251.18,
+   "e": 251.5
+  },
+  {
+   "w": "at",
+   "s": 251.5,
+   "e": 251.64
+  },
+  {
+   "w": "once.",
+   "s": 251.64,
+   "e": 251.98
+  },
+  {
+   "w": "Open",
+   "s": 252.6,
+   "e": 252.8
+  },
+  {
+   "w": "a",
+   "s": 252.8,
+   "e": 253.0
+  },
+  {
+   "w": "savings",
+   "s": 253.0,
+   "e": 253.22
+  },
+  {
+   "w": "book",
+   "s": 253.22,
+   "e": 253.56
+  },
+  {
+   "w": "in",
+   "s": 253.56,
+   "e": 253.72
+  },
+  {
+   "w": "this",
+   "s": 253.72,
+   "e": 253.88
+  },
+  {
+   "w": "world",
+   "s": 253.88,
+   "e": 254.2
+  },
+  {
+   "w": "and",
+   "s": 254.2,
+   "e": 254.44
+  },
+  {
+   "w": "watch",
+   "s": 254.44,
+   "e": 254.66
+  },
+  {
+   "w": "the",
+   "s": 254.66,
+   "e": 254.9
+  },
+  {
+   "w": "rate",
+   "s": 254.9,
+   "e": 255.08
+  },
+  {
+   "w": "on",
+   "s": 255.08,
+   "e": 255.3
+  },
+  {
+   "w": "each",
+   "s": 255.3,
+   "e": 255.5
+  },
+  {
+   "w": "new",
+   "s": 255.5,
+   "e": 255.76
+  },
+  {
+   "w": "page.",
+   "s": 255.76,
+   "e": 256.04
+  },
+  {
+   "w": "It",
+   "s": 256.04,
+   "e": 256.6
+  },
+  {
+   "w": "keeps",
+   "s": 256.6,
+   "e": 256.82
+  },
+  {
+   "w": "getting",
+   "s": 256.82,
+   "e": 257.1
+  },
+  {
+   "w": "smaller.",
+   "s": 257.1,
+   "e": 257.58
+  },
+  {
+   "w": "So",
+   "s": 258.36,
+   "e": 258.38
+  },
+  {
+   "w": "people",
+   "s": 258.38,
+   "e": 258.64
+  },
+  {
+   "w": "borrow",
+   "s": 258.64,
+   "e": 258.94
+  },
+  {
+   "w": "instead",
+   "s": 258.94,
+   "e": 259.42
+  },
+  {
+   "w": "and",
+   "s": 259.42,
+   "e": 259.92
+  },
+  {
+   "w": "the",
+   "s": 259.92,
+   "e": 260.04
+  },
+  {
+   "w": "banks",
+   "s": 260.04,
+   "e": 260.26
+  },
+  {
+   "w": "invent",
+   "s": 260.26,
+   "e": 260.64
+  },
+  {
+   "w": "the",
+   "s": 260.64,
+   "e": 260.84
+  },
+  {
+   "w": "100",
+   "s": 260.84,
+   "e": 261.18
+  },
+  {
+   "w": "-year",
+   "s": 261.18,
+   "e": 261.4
+  },
+  {
+   "w": "mortgage.",
+   "s": 261.4,
+   "e": 261.88
+  },
+  {
+   "w": "It",
+   "s": 262.3,
+   "e": 262.48
+  },
+  {
+   "w": "sounds",
+   "s": 262.48,
+   "e": 262.76
+  },
+  {
+   "w": "cheap,",
+   "s": 262.76,
+   "e": 263.1
+  },
+  {
+   "w": "it",
+   "s": 263.38,
+   "e": 263.74
+  },
+  {
+   "w": "isn't.",
+   "s": 263.74,
+   "e": 264.34
+  },
+  {
+   "w": "On",
+   "s": 264.82,
+   "e": 264.9
+  },
+  {
+   "w": "a",
+   "s": 264.9,
+   "e": 265.02
+  },
+  {
+   "w": "$300",
+   "s": 265.02,
+   "e": 265.46
+  },
+  {
+   "w": ",000",
+   "s": 265.46,
+   "e": 265.94
+  },
+  {
+   "w": "house,",
+   "s": 265.94,
+   "e": 266.44
+  },
+  {
+   "w": "the",
+   "s": 266.78,
+   "e": 266.84
+  },
+  {
+   "w": "monthly",
+   "s": 266.84,
+   "e": 267.16
+  },
+  {
+   "w": "payment",
+   "s": 267.16,
+   "e": 267.5
+  },
+  {
+   "w": "drops",
+   "s": 267.5,
+   "e": 267.78
+  },
+  {
+   "w": "by",
+   "s": 267.78,
+   "e": 268.08
+  },
+  {
+   "w": "less",
+   "s": 268.08,
+   "e": 268.26
+  },
+  {
+   "w": "than",
+   "s": 268.26,
+   "e": 268.52
+  },
+  {
+   "w": "$300.",
+   "s": 268.52,
+   "e": 269.06
+  },
+  {
+   "w": "But",
+   "s": 269.68,
+   "e": 270.14
+  },
+  {
+   "w": "you",
+   "s": 270.14,
+   "e": 270.26
+  },
+  {
+   "w": "pay",
+   "s": 270.26,
+   "e": 270.44
+  },
+  {
+   "w": "three",
+   "s": 270.44,
+   "e": 270.72
+  },
+  {
+   "w": "and",
+   "s": 270.72,
+   "e": 270.88
+  },
+  {
+   "w": "a",
+   "s": 270.88,
+   "e": 270.92
+  },
+  {
+   "w": "half",
+   "s": 270.92,
+   "e": 271.14
+  },
+  {
+   "w": "times",
+   "s": 271.14,
+   "e": 271.46
+  },
+  {
+   "w": "as",
+   "s": 271.46,
+   "e": 271.66
+  },
+  {
+   "w": "much",
+   "s": 271.66,
+   "e": 271.86
+  },
+  {
+   "w": "interest.",
+   "s": 271.86,
+   "e": 272.32
+  },
+  {
+   "w": "You're",
+   "s": 272.9,
+   "e": 273.1
+  },
+  {
+   "w": "not",
+   "s": 273.1,
+   "e": 273.26
+  },
+  {
+   "w": "really",
+   "s": 273.26,
+   "e": 273.6
+  },
+  {
+   "w": "paying",
+   "s": 273.6,
+   "e": 273.88
+  },
+  {
+   "w": "off",
+   "s": 273.88,
+   "e": 274.1
+  },
+  {
+   "w": "the",
+   "s": 274.1,
+   "e": 274.24
+  },
+  {
+   "w": "house.",
+   "s": 274.24,
+   "e": 274.54
+  },
+  {
+   "w": "You're",
+   "s": 274.96,
+   "e": 275.16
+  },
+  {
+   "w": "renting",
+   "s": 275.16,
+   "e": 275.38
+  },
+  {
+   "w": "it",
+   "s": 275.38,
+   "e": 275.6
+  },
+  {
+   "w": "from",
+   "s": 275.6,
+   "e": 275.74
+  },
+  {
+   "w": "the",
+   "s": 275.74,
+   "e": 275.88
+  },
+  {
+   "w": "bank",
+   "s": 275.88,
+   "e": 276.14
+  },
+  {
+   "w": "for",
+   "s": 276.44,
+   "e": 276.72
+  },
+  {
+   "w": "the",
+   "s": 276.72,
+   "e": 276.82
+  },
+  {
+   "w": "rest",
+   "s": 276.82,
+   "e": 276.98
+  },
+  {
+   "w": "of",
+   "s": 276.98,
+   "e": 277.2
+  },
+  {
+   "w": "your",
+   "s": 277.2,
+   "e": 277.34
+  },
+  {
+   "w": "very",
+   "s": 277.34,
+   "e": 277.62
+  },
+  {
+   "w": "long",
+   "s": 277.62,
+   "e": 277.86
+  },
+  {
+   "w": "life.",
+   "s": 277.86,
+   "e": 278.2
+  },
+  {
+   "w": "A",
+   "s": 278.8,
+   "e": 278.92
+  },
+  {
+   "w": "letter",
+   "s": 278.92,
+   "e": 279.08
+  },
+  {
+   "w": "arrives.",
+   "s": 279.08,
+   "e": 279.7
+  },
+  {
+   "w": "Payment",
+   "s": 280.66,
+   "e": 280.66
+  },
+  {
+   "w": "847",
+   "s": 280.66,
+   "e": 281.92
+  },
+  {
+   "w": "of",
+   "s": 281.92,
+   "e": 282.34
+  },
+  {
+   "w": "1",
+   "s": 282.34,
+   "e": 282.62
+  },
+  {
+   "w": ",200,",
+   "s": 282.62,
+   "e": 283.3
+  },
+  {
+   "w": "which",
+   "s": 284.06,
+   "e": 284.26
+  },
+  {
+   "w": "is",
+   "s": 284.26,
+   "e": 284.42
+  },
+  {
+   "w": "why",
+   "s": 284.42,
+   "e": 284.66
+  },
+  {
+   "w": "everyone",
+   "s": 284.66,
+   "e": 285.1
+  },
+  {
+   "w": "is",
+   "s": 285.1,
+   "e": 285.4
+  },
+  {
+   "w": "waiting",
+   "s": 285.4,
+   "e": 285.68
+  },
+  {
+   "w": "for",
+   "s": 285.68,
+   "e": 285.94
+  },
+  {
+   "w": "the",
+   "s": 285.94,
+   "e": 286.08
+  },
+  {
+   "w": "other",
+   "s": 286.08,
+   "e": 286.32
+  },
+  {
+   "w": "way",
+   "s": 286.32,
+   "e": 286.6
+  },
+  {
+   "w": "to",
+   "s": 286.6,
+   "e": 286.86
+  },
+  {
+   "w": "get",
+   "s": 286.86,
+   "e": 287.0
+  },
+  {
+   "w": "a",
+   "s": 287.0,
+   "e": 287.14
+  },
+  {
+   "w": "house,",
+   "s": 287.14,
+   "e": 287.46
+  },
+  {
+   "w": "the",
+   "s": 287.98,
+   "e": 288.08
+  },
+  {
+   "w": "one",
+   "s": 288.08,
+   "e": 288.28
+  },
+  {
+   "w": "you",
+   "s": 288.28,
+   "e": 288.46
+  },
+  {
+   "w": "inherit.",
+   "s": 288.46,
+   "e": 288.84
+  },
+  {
+   "w": "Today,",
+   "s": 289.78,
+   "e": 290.06
+  },
+  {
+   "w": "you",
+   "s": 290.32,
+   "e": 290.42
+  },
+  {
+   "w": "get",
+   "s": 290.42,
+   "e": 290.56
+  },
+  {
+   "w": "your",
+   "s": 290.56,
+   "e": 290.74
+  },
+  {
+   "w": "parents",
+   "s": 290.74,
+   "e": 291.06
+  },
+  {
+   "w": "home",
+   "s": 291.06,
+   "e": 291.36
+  },
+  {
+   "w": "in",
+   "s": 291.36,
+   "e": 291.62
+  },
+  {
+   "w": "your",
+   "s": 291.62,
+   "e": 291.8
+  },
+  {
+   "w": "50s.",
+   "s": 291.8,
+   "e": 292.46
+  },
+  {
+   "w": "Here,",
+   "s": 292.94,
+   "e": 293.24
+  },
+  {
+   "w": "your",
+   "s": 293.56,
+   "e": 293.66
+  },
+  {
+   "w": "parents",
+   "s": 293.66,
+   "e": 294.0
+  },
+  {
+   "w": "live",
+   "s": 294.0,
+   "e": 294.28
+  },
+  {
+   "w": "to",
+   "s": 294.28,
+   "e": 294.62
+  },
+  {
+   "w": "150.",
+   "s": 294.62,
+   "e": 295.58
+  },
+  {
+   "w": "They're",
+   "s": 296.56,
+   "e": 296.88
+  },
+  {
+   "w": "30",
+   "s": 296.88,
+   "e": 297.2
+  },
+  {
+   "w": "years",
+   "s": 297.2,
+   "e": 297.46
+  },
+  {
+   "w": "older",
+   "s": 297.46,
+   "e": 297.82
+  },
+  {
+   "w": "than",
+   "s": 297.82,
+   "e": 298.04
+  },
+  {
+   "w": "you,",
+   "s": 298.04,
+   "e": 298.3
+  },
+  {
+   "w": "so",
+   "s": 298.5,
+   "e": 298.74
+  },
+  {
+   "w": "you",
+   "s": 298.74,
+   "e": 298.94
+  },
+  {
+   "w": "get",
+   "s": 298.94,
+   "e": 299.08
+  },
+  {
+   "w": "the",
+   "s": 299.08,
+   "e": 299.26
+  },
+  {
+   "w": "house",
+   "s": 299.26,
+   "e": 299.54
+  },
+  {
+   "w": "at",
+   "s": 299.54,
+   "e": 299.88
+  },
+  {
+   "w": "120.",
+   "s": 299.88,
+   "e": 300.5
+  },
+  {
+   "w": "Picture",
+   "s": 301.9,
+   "e": 302.08
+  },
+  {
+   "w": "the",
+   "s": 302.08,
+   "e": 302.38
+  },
+  {
+   "w": "queue",
+   "s": 302.38,
+   "e": 302.62
+  },
+  {
+   "w": "for",
+   "s": 302.62,
+   "e": 302.92
+  },
+  {
+   "w": "one",
+   "s": 302.92,
+   "e": 303.18
+  },
+  {
+   "w": "house.",
+   "s": 303.18,
+   "e": 303.6
+  },
+  {
+   "w": "Every",
+   "s": 304.24,
+   "e": 304.54
+  },
+  {
+   "w": "air",
+   "s": 304.54,
+   "e": 304.9
+  },
+  {
+   "w": "waiting",
+   "s": 304.9,
+   "e": 305.34
+  },
+  {
+   "w": "for",
+   "s": 305.34,
+   "e": 305.66
+  },
+  {
+   "w": "someone",
+   "s": 305.66,
+   "e": 305.96
+  },
+  {
+   "w": "to",
+   "s": 305.96,
+   "e": 306.16
+  },
+  {
+   "w": "die.",
+   "s": 306.16,
+   "e": 306.48
+  },
+  {
+   "w": "Stretching",
+   "s": 307.26,
+   "e": 307.66
+  },
+  {
+   "w": "down",
+   "s": 307.66,
+   "e": 307.9
+  },
+  {
+   "w": "the",
+   "s": 307.9,
+   "e": 308.08
+  },
+  {
+   "w": "street",
+   "s": 308.08,
+   "e": 308.4
+  },
+  {
+   "w": "and",
+   "s": 308.4,
+   "e": 308.72
+  },
+  {
+   "w": "round",
+   "s": 308.72,
+   "e": 308.94
+  },
+  {
+   "w": "the",
+   "s": 308.94,
+   "e": 309.14
+  },
+  {
+   "w": "block.",
+   "s": 309.14,
+   "e": 309.48
+  },
+  {
+   "w": "Walk",
+   "s": 310.12,
+   "e": 310.32
+  },
+  {
+   "w": "down",
+   "s": 310.32,
+   "e": 310.62
+  },
+  {
+   "w": "Marrow",
+   "s": 310.62,
+   "e": 311.0
+  },
+  {
+   "w": "Street,",
+   "s": 311.0,
+   "e": 311.36
+  },
+  {
+   "w": "40",
+   "s": 312.06,
+   "e": 312.24
+  },
+  {
+   "w": "houses.",
+   "s": 312.24,
+   "e": 312.6
+  },
+  {
+   "w": "Each",
+   "s": 313.14,
+   "e": 313.42
+  },
+  {
+   "w": "front",
+   "s": 313.42,
+   "e": 313.8
+  },
+  {
+   "w": "door",
+   "s": 313.8,
+   "e": 314.04
+  },
+  {
+   "w": "is",
+   "s": 314.04,
+   "e": 314.3
+  },
+  {
+   "w": "painted",
+   "s": 314.3,
+   "e": 314.56
+  },
+  {
+   "w": "with",
+   "s": 314.56,
+   "e": 314.84
+  },
+  {
+   "w": "the",
+   "s": 314.84,
+   "e": 315.0
+  },
+  {
+   "w": "year",
+   "s": 315.0,
+   "e": 315.22
+  },
+  {
+   "w": "it",
+   "s": 315.22,
+   "e": 315.38
+  },
+  {
+   "w": "was",
+   "s": 315.38,
+   "e": 315.52
+  },
+  {
+   "w": "bought.",
+   "s": 315.52,
+   "e": 315.84
+  },
+  {
+   "w": "Not",
+   "s": 316.44,
+   "e": 316.54
+  },
+  {
+   "w": "one",
+   "s": 316.54,
+   "e": 316.74
+  },
+  {
+   "w": "of",
+   "s": 316.74,
+   "e": 316.88
+  },
+  {
+   "w": "them",
+   "s": 316.88,
+   "e": 317.04
+  },
+  {
+   "w": "has",
+   "s": 317.04,
+   "e": 317.24
+  },
+  {
+   "w": "changed",
+   "s": 317.24,
+   "e": 317.54
+  },
+  {
+   "w": "hands",
+   "s": 317.54,
+   "e": 317.94
+  },
+  {
+   "w": "in",
+   "s": 317.94,
+   "e": 318.22
+  },
+  {
+   "w": "90",
+   "s": 318.22,
+   "e": 318.5
+  },
+  {
+   "w": "years.",
+   "s": 318.5,
+   "e": 319.0
+  },
+  {
+   "w": "Today,",
+   "s": 319.72,
+   "e": 319.98
+  },
+  {
+   "w": "about",
+   "s": 320.2,
+   "e": 320.46
+  },
+  {
+   "w": "one",
+   "s": 320.46,
+   "e": 320.8
+  },
+  {
+   "w": "home",
+   "s": 320.8,
+   "e": 321.1
+  },
+  {
+   "w": "in",
+   "s": 321.1,
+   "e": 321.32
+  },
+  {
+   "w": "45",
+   "s": 321.32,
+   "e": 321.74
+  },
+  {
+   "w": "comes",
+   "s": 321.74,
+   "e": 322.22
+  },
+  {
+   "w": "free",
+   "s": 322.22,
+   "e": 322.54
+  },
+  {
+   "w": "each",
+   "s": 322.54,
+   "e": 322.76
+  },
+  {
+   "w": "year",
+   "s": 322.76,
+   "e": 323.02
+  },
+  {
+   "w": "when",
+   "s": 323.02,
+   "e": 323.26
+  },
+  {
+   "w": "somebody",
+   "s": 323.26,
+   "e": 323.56
+  },
+  {
+   "w": "dies.",
+   "s": 323.56,
+   "e": 323.92
+  },
+  {
+   "w": "Here,",
+   "s": 324.74,
+   "e": 325.06
+  },
+  {
+   "w": "it's",
+   "s": 325.38,
+   "e": 325.62
+  },
+  {
+   "w": "one",
+   "s": 325.62,
+   "e": 325.86
+  },
+  {
+   "w": "in",
+   "s": 325.86,
+   "e": 325.98
+  },
+  {
+   "w": "115.",
+   "s": 325.98,
+   "e": 326.64
+  },
+  {
+   "w": "And",
+   "s": 327.64,
+   "e": 327.92
+  },
+  {
+   "w": "there",
+   "s": 327.92,
+   "e": 328.1
+  },
+  {
+   "w": "are",
+   "s": 328.1,
+   "e": 328.32
+  },
+  {
+   "w": "twice",
+   "s": 328.32,
+   "e": 328.56
+  },
+  {
+   "w": "as",
+   "s": 328.56,
+   "e": 328.8
+  },
+  {
+   "w": "many",
+   "s": 328.8,
+   "e": 329.06
+  },
+  {
+   "w": "people",
+   "s": 329.06,
+   "e": 329.36
+  },
+  {
+   "w": "who",
+   "s": 329.36,
+   "e": 329.58
+  },
+  {
+   "w": "need",
+   "s": 329.58,
+   "e": 329.76
+  },
+  {
+   "w": "one.",
+   "s": 329.76,
+   "e": 330.02
+  },
+  {
+   "w": "A",
+   "s": 330.54,
+   "e": 330.76
+  },
+  {
+   "w": "brass",
+   "s": 330.76,
+   "e": 331.14
+  },
+  {
+   "w": "key",
+   "s": 331.14,
+   "e": 331.54
+  },
+  {
+   "w": "hangs",
+   "s": 331.54,
+   "e": 332.0
+  },
+  {
+   "w": "inside",
+   "s": 332.0,
+   "e": 332.44
+  },
+  {
+   "w": "one",
+   "s": 332.44,
+   "e": 332.66
+  },
+  {
+   "w": "of",
+   "s": 332.66,
+   "e": 332.82
+  },
+  {
+   "w": "those",
+   "s": 332.82,
+   "e": 332.98
+  },
+  {
+   "w": "doors.",
+   "s": 332.98,
+   "e": 333.3
+  },
+  {
+   "w": "It",
+   "s": 333.9,
+   "e": 334.12
+  },
+  {
+   "w": "has",
+   "s": 334.12,
+   "e": 334.28
+  },
+  {
+   "w": "a",
+   "s": 334.28,
+   "e": 334.44
+  },
+  {
+   "w": "paper",
+   "s": 334.44,
+   "e": 334.74
+  },
+  {
+   "w": "tag",
+   "s": 334.74,
+   "e": 335.18
+  },
+  {
+   "w": "for",
+   "s": 335.18,
+   "e": 335.52
+  },
+  {
+   "w": "writing",
+   "s": 335.52,
+   "e": 335.86
+  },
+  {
+   "w": "each",
+   "s": 335.86,
+   "e": 336.2
+  },
+  {
+   "w": "owner's",
+   "s": 336.2,
+   "e": 336.72
+  },
+  {
+   "w": "name.",
+   "s": 336.72,
+   "e": 336.92
+  },
+  {
+   "w": "It's",
+   "s": 337.52,
+   "e": 337.86
+  },
+  {
+   "w": "had",
+   "s": 337.86,
+   "e": 338.02
+  },
+  {
+   "w": "one",
+   "s": 338.02,
+   "e": 338.36
+  },
+  {
+   "w": "name",
+   "s": 338.36,
+   "e": 338.6
+  },
+  {
+   "w": "on",
+   "s": 338.6,
+   "e": 338.8
+  },
+  {
+   "w": "it",
+   "s": 338.8,
+   "e": 338.96
+  },
+  {
+   "w": "for",
+   "s": 338.96,
+   "e": 339.22
+  },
+  {
+   "w": "a",
+   "s": 339.22,
+   "e": 339.4
+  },
+  {
+   "w": "very",
+   "s": 339.4,
+   "e": 339.68
+  },
+  {
+   "w": "long",
+   "s": 339.68,
+   "e": 339.98
+  },
+  {
+   "w": "time.",
+   "s": 339.98,
+   "e": 340.36
+  },
+  {
+   "w": "So",
+   "s": 340.78,
+   "e": 341.08
+  },
+  {
+   "w": "the",
+   "s": 341.08,
+   "e": 341.22
+  },
+  {
+   "w": "young",
+   "s": 341.22,
+   "e": 341.46
+  },
+  {
+   "w": "do",
+   "s": 341.46,
+   "e": 341.72
+  },
+  {
+   "w": "something",
+   "s": 341.72,
+   "e": 342.1
+  },
+  {
+   "w": "clever",
+   "s": 342.1,
+   "e": 342.46
+  },
+  {
+   "w": "and",
+   "s": 342.46,
+   "e": 342.94
+  },
+  {
+   "w": "a",
+   "s": 342.94,
+   "e": 343.08
+  },
+  {
+   "w": "little",
+   "s": 343.08,
+   "e": 343.28
+  },
+  {
+   "w": "bit",
+   "s": 343.28,
+   "e": 343.48
+  },
+  {
+   "w": "dark.",
+   "s": 343.48,
+   "e": 343.82
+  },
+  {
+   "w": "At",
+   "s": 344.64,
+   "e": 344.74
+  },
+  {
+   "w": "25,",
+   "s": 344.74,
+   "e": 345.24
+  },
+  {
+   "w": "they",
+   "s": 345.66,
+   "e": 345.72
+  },
+  {
+   "w": "sell",
+   "s": 345.72,
+   "e": 346.02
+  },
+  {
+   "w": "their",
+   "s": 346.02,
+   "e": 346.22
+  },
+  {
+   "w": "future",
+   "s": 346.22,
+   "e": 346.54
+  },
+  {
+   "w": "inheritance",
+   "s": 346.54,
+   "e": 347.08
+  },
+  {
+   "w": "to",
+   "s": 347.08,
+   "e": 347.44
+  },
+  {
+   "w": "a",
+   "s": 347.44,
+   "e": 347.56
+  },
+  {
+   "w": "bank",
+   "s": 347.56,
+   "e": 347.82
+  },
+  {
+   "w": "for",
+   "s": 347.82,
+   "e": 348.26
+  },
+  {
+   "w": "cash",
+   "s": 348.26,
+   "e": 348.68
+  },
+  {
+   "w": "today.",
+   "s": 348.68,
+   "e": 349.1
+  },
+  {
+   "w": "The",
+   "s": 349.9,
+   "e": 350.0
+  },
+  {
+   "w": "bank",
+   "s": 350.0,
+   "e": 350.22
+  },
+  {
+   "w": "now",
+   "s": 350.22,
+   "e": 350.52
+  },
+  {
+   "w": "owns",
+   "s": 350.52,
+   "e": 350.92
+  },
+  {
+   "w": "the",
+   "s": 350.92,
+   "e": 351.14
+  },
+  {
+   "w": "right",
+   "s": 351.14,
+   "e": 351.32
+  },
+  {
+   "w": "to",
+   "s": 351.32,
+   "e": 351.64
+  },
+  {
+   "w": "Mom's",
+   "s": 351.64,
+   "e": 351.94
+  },
+  {
+   "w": "house.",
+   "s": 351.94,
+   "e": 352.22
+  },
+  {
+   "w": "And",
+   "s": 352.96,
+   "e": 353.12
+  },
+  {
+   "w": "every",
+   "s": 353.12,
+   "e": 353.44
+  },
+  {
+   "w": "year",
+   "s": 353.44,
+   "e": 353.76
+  },
+  {
+   "w": "on",
+   "s": 353.76,
+   "e": 354.06
+  },
+  {
+   "w": "Mom's",
+   "s": 354.06,
+   "e": 354.42
+  },
+  {
+   "w": "birthday,",
+   "s": 354.42,
+   "e": 354.84
+  },
+  {
+   "w": "the",
+   "s": 355.28,
+   "e": 355.42
+  },
+  {
+   "w": "bank",
+   "s": 355.42,
+   "e": 355.6
+  },
+  {
+   "w": "sends",
+   "s": 355.6,
+   "e": 355.88
+  },
+  {
+   "w": "her",
+   "s": 355.88,
+   "e": 356.14
+  },
+  {
+   "w": "a",
+   "s": 356.14,
+   "e": 356.28
+  },
+  {
+   "w": "card.",
+   "s": 356.28,
+   "e": 356.56
+  },
+  {
+   "w": "It",
+   "s": 357.14,
+   "e": 357.34
+  },
+  {
+   "w": "asks",
+   "s": 357.34,
+   "e": 357.66
+  },
+  {
+   "w": "how",
+   "s": 357.66,
+   "e": 357.94
+  },
+  {
+   "w": "she's",
+   "s": 357.94,
+   "e": 358.24
+  },
+  {
+   "w": "feeling.",
+   "s": 358.24,
+   "e": 358.5
+  },
+  {
+   "w": "The",
+   "s": 359.18,
+   "e": 359.32
+  },
+  {
+   "w": "same",
+   "s": 359.32,
+   "e": 359.58
+  },
+  {
+   "w": "queue",
+   "s": 359.58,
+   "e": 359.82
+  },
+  {
+   "w": "that",
+   "s": 359.82,
+   "e": 360.06
+  },
+  {
+   "w": "blocks",
+   "s": 360.06,
+   "e": 360.3
+  },
+  {
+   "w": "the",
+   "s": 360.3,
+   "e": 360.54
+  },
+  {
+   "w": "front",
+   "s": 360.54,
+   "e": 360.74
+  },
+  {
+   "w": "door",
+   "s": 360.74,
+   "e": 361.08
+  },
+  {
+   "w": "blocks",
+   "s": 361.08,
+   "e": 361.42
+  },
+  {
+   "w": "the",
+   "s": 361.42,
+   "e": 361.68
+  },
+  {
+   "w": "top",
+   "s": 361.68,
+   "e": 361.88
+  },
+  {
+   "w": "floor.",
+   "s": 361.88,
+   "e": 362.18
+  },
+  {
+   "w": "On",
+   "s": 362.76,
+   "e": 362.96
+  },
+  {
+   "w": "the",
+   "s": 362.96,
+   "e": 363.1
+  },
+  {
+   "w": "40th",
+   "s": 363.1,
+   "e": 363.62
+  },
+  {
+   "w": "floor",
+   "s": 363.62,
+   "e": 363.74
+  },
+  {
+   "w": "of",
+   "s": 363.74,
+   "e": 363.92
+  },
+  {
+   "w": "the",
+   "s": 363.92,
+   "e": 364.02
+  },
+  {
+   "w": "Greyfield",
+   "s": 364.02,
+   "e": 364.42
+  },
+  {
+   "w": "Exchange,",
+   "s": 364.42,
+   "e": 364.84
+  },
+  {
+   "w": "the",
+   "s": 365.3,
+   "e": 365.42
+  },
+  {
+   "w": "desk",
+   "s": 365.42,
+   "e": 365.72
+  },
+  {
+   "w": "nameplates",
+   "s": 365.72,
+   "e": 366.32
+  },
+  {
+   "w": "are",
+   "s": 366.32,
+   "e": 366.58
+  },
+  {
+   "w": "engraved",
+   "s": 366.58,
+   "e": 366.98
+  },
+  {
+   "w": "in",
+   "s": 366.98,
+   "e": 367.22
+  },
+  {
+   "w": "brass.",
+   "s": 367.22,
+   "e": 367.52
+  },
+  {
+   "w": "Nobody",
+   "s": 368.22,
+   "e": 368.44
+  },
+  {
+   "w": "prints",
+   "s": 368.44,
+   "e": 368.78
+  },
+  {
+   "w": "them",
+   "s": 368.78,
+   "e": 369.0
+  },
+  {
+   "w": "anymore.",
+   "s": 369.0,
+   "e": 369.32
+  },
+  {
+   "w": "Nobody",
+   "s": 369.76,
+   "e": 370.02
+  },
+  {
+   "w": "has",
+   "s": 370.02,
+   "e": 370.34
+  },
+  {
+   "w": "moved",
+   "s": 370.34,
+   "e": 370.6
+  },
+  {
+   "w": "desks",
+   "s": 370.6,
+   "e": 371.0
+  },
+  {
+   "w": "in",
+   "s": 371.0,
+   "e": 371.3
+  },
+  {
+   "w": "80",
+   "s": 371.3,
+   "e": 371.6
+  },
+  {
+   "w": "years.",
+   "s": 371.6,
+   "e": 372.04
+  },
+  {
+   "w": "Today,",
+   "s": 372.94,
+   "e": 372.94
+  },
+  {
+   "w": "a",
+   "s": 373.14,
+   "e": 373.22
+  },
+  {
+   "w": "top",
+   "s": 373.22,
+   "e": 373.46
+  },
+  {
+   "w": "boss",
+   "s": 373.46,
+   "e": 373.76
+  },
+  {
+   "w": "keeps",
+   "s": 373.76,
+   "e": 374.08
+  },
+  {
+   "w": "the",
+   "s": 374.08,
+   "e": 374.32
+  },
+  {
+   "w": "job",
+   "s": 374.32,
+   "e": 374.58
+  },
+  {
+   "w": "for",
+   "s": 374.58,
+   "e": 374.82
+  },
+  {
+   "w": "about",
+   "s": 374.82,
+   "e": 375.1
+  },
+  {
+   "w": "seven",
+   "s": 375.1,
+   "e": 375.38
+  },
+  {
+   "w": "years.",
+   "s": 375.38,
+   "e": 375.78
+  },
+  {
+   "w": "Here,",
+   "s": 376.22,
+   "e": 376.5
+  },
+  {
+   "w": "the",
+   "s": 376.68,
+   "e": 376.8
+  },
+  {
+   "w": "same",
+   "s": 376.8,
+   "e": 377.04
+  },
+  {
+   "w": "boss",
+   "s": 377.04,
+   "e": 377.28
+  },
+  {
+   "w": "can",
+   "s": 377.28,
+   "e": 377.52
+  },
+  {
+   "w": "stay",
+   "s": 377.52,
+   "e": 377.74
+  },
+  {
+   "w": "for",
+   "s": 377.74,
+   "e": 377.94
+  },
+  {
+   "w": "40.",
+   "s": 377.94,
+   "e": 378.26
+  },
+  {
+   "w": "Take",
+   "s": 378.86,
+   "e": 379.02
+  },
+  {
+   "w": "500",
+   "s": 379.02,
+   "e": 379.5
+  },
+  {
+   "w": "of",
+   "s": 379.5,
+   "e": 379.82
+  },
+  {
+   "w": "the",
+   "s": 379.82,
+   "e": 379.94
+  },
+  {
+   "w": "biggest",
+   "s": 379.94,
+   "e": 380.18
+  },
+  {
+   "w": "jobs",
+   "s": 380.18,
+   "e": 380.5
+  },
+  {
+   "w": "in",
+   "s": 380.5,
+   "e": 380.68
+  },
+  {
+   "w": "a",
+   "s": 380.68,
+   "e": 380.8
+  },
+  {
+   "w": "country.",
+   "s": 380.8,
+   "e": 381.1
+  },
+  {
+   "w": "Today,",
+   "s": 381.6,
+   "e": 381.86
+  },
+  {
+   "w": "about",
+   "s": 382.1,
+   "e": 382.26
+  },
+  {
+   "w": "70",
+   "s": 382.26,
+   "e": 382.56
+  },
+  {
+   "w": "of",
+   "s": 382.56,
+   "e": 382.84
+  },
+  {
+   "w": "them",
+   "s": 382.84,
+   "e": 383.0
+  },
+  {
+   "w": "open",
+   "s": 383.0,
+   "e": 383.28
+  },
+  {
+   "w": "up",
+   "s": 383.28,
+   "e": 383.44
+  },
+  {
+   "w": "every",
+   "s": 383.44,
+   "e": 383.7
+  },
+  {
+   "w": "year.",
+   "s": 383.7,
+   "e": 384.02
+  },
+  {
+   "w": "Here,",
+   "s": 384.42,
+   "e": 384.64
+  },
+  {
+   "w": "it's",
+   "s": 384.8,
+   "e": 384.94
+  },
+  {
+   "w": "about",
+   "s": 384.94,
+   "e": 385.16
+  },
+  {
+   "w": "12.",
+   "s": 385.16,
+   "e": 385.46
+  },
+  {
+   "w": "Outside",
+   "s": 386.36,
+   "e": 386.7
+  },
+  {
+   "w": "one",
+   "s": 386.7,
+   "e": 387.04
+  },
+  {
+   "w": "corner",
+   "s": 387.04,
+   "e": 387.36
+  },
+  {
+   "w": "office,",
+   "s": 387.36,
+   "e": 387.8
+  },
+  {
+   "w": "a",
+   "s": 388.2,
+   "e": 388.34
+  },
+  {
+   "w": "man",
+   "s": 388.34,
+   "e": 388.56
+  },
+  {
+   "w": "in",
+   "s": 388.56,
+   "e": 388.8
+  },
+  {
+   "w": "a",
+   "s": 388.8,
+   "e": 388.94
+  },
+  {
+   "w": "sharp",
+   "s": 388.94,
+   "e": 389.16
+  },
+  {
+   "w": "suit",
+   "s": 389.16,
+   "e": 389.54
+  },
+  {
+   "w": "sits",
+   "s": 389.54,
+   "e": 389.8
+  },
+  {
+   "w": "on",
+   "s": 389.8,
+   "e": 390.02
+  },
+  {
+   "w": "a",
+   "s": 390.02,
+   "e": 390.14
+  },
+  {
+   "w": "bench.",
+   "s": 390.14,
+   "e": 390.42
+  },
+  {
+   "w": "He's",
+   "s": 390.92,
+   "e": 391.14
+  },
+  {
+   "w": "91.",
+   "s": 391.14,
+   "e": 391.58
+  },
+  {
+   "w": "He's",
+   "s": 392.52,
+   "e": 392.74
+  },
+  {
+   "w": "been",
+   "s": 392.74,
+   "e": 392.88
+  },
+  {
+   "w": "waiting",
+   "s": 392.88,
+   "e": 393.1
+  },
+  {
+   "w": "for",
+   "s": 393.1,
+   "e": 393.36
+  },
+  {
+   "w": "this",
+   "s": 393.36,
+   "e": 393.54
+  },
+  {
+   "w": "job",
+   "s": 393.54,
+   "e": 393.84
+  },
+  {
+   "w": "since",
+   "s": 393.84,
+   "e": 394.06
+  },
+  {
+   "w": "he",
+   "s": 394.06,
+   "e": 394.24
+  },
+  {
+   "w": "was",
+   "s": 394.24,
+   "e": 394.4
+  },
+  {
+   "w": "50.",
+   "s": 394.4,
+   "e": 394.78
+  },
+  {
+   "w": "Every",
+   "s": 395.6,
+   "e": 395.9
+  },
+  {
+   "w": "10",
+   "s": 395.9,
+   "e": 396.1
+  },
+  {
+   "w": "years,",
+   "s": 396.1,
+   "e": 396.46
+  },
+  {
+   "w": "he",
+   "s": 396.56,
+   "e": 396.8
+  },
+  {
+   "w": "asks",
+   "s": 396.8,
+   "e": 397.1
+  },
+  {
+   "w": "the",
+   "s": 397.1,
+   "e": 397.38
+  },
+  {
+   "w": "same",
+   "s": 397.38,
+   "e": 397.58
+  },
+  {
+   "w": "thing.",
+   "s": 397.58,
+   "e": 397.98
+  },
+  {
+   "w": "Is",
+   "s": 398.44,
+   "e": 398.72
+  },
+  {
+   "w": "he",
+   "s": 398.72,
+   "e": 398.92
+  },
+  {
+   "w": "in?",
+   "s": 398.92,
+   "e": 399.18
+  },
+  {
+   "w": "He's",
+   "s": 399.78,
+   "e": 400.12
+  },
+  {
+   "w": "in.",
+   "s": 400.12,
+   "e": 400.36
+  },
+  {
+   "w": "The",
+   "s": 400.9,
+   "e": 400.98
+  },
+  {
+   "w": "same",
+   "s": 400.98,
+   "e": 401.18
+  },
+  {
+   "w": "goes",
+   "s": 401.18,
+   "e": 401.36
+  },
+  {
+   "w": "for",
+   "s": 401.36,
+   "e": 401.62
+  },
+  {
+   "w": "judges,",
+   "s": 401.62,
+   "e": 401.96
+  },
+  {
+   "w": "for",
+   "s": 402.42,
+   "e": 402.52
+  },
+  {
+   "w": "professors,",
+   "s": 402.52,
+   "e": 402.98
+  },
+  {
+   "w": "for",
+   "s": 403.48,
+   "e": 403.72
+  },
+  {
+   "w": "anyone",
+   "s": 403.72,
+   "e": 404.06
+  },
+  {
+   "w": "who",
+   "s": 404.06,
+   "e": 404.42
+  },
+  {
+   "w": "holds",
+   "s": 404.42,
+   "e": 404.66
+  },
+  {
+   "w": "a",
+   "s": 404.66,
+   "e": 404.86
+  },
+  {
+   "w": "seat",
+   "s": 404.86,
+   "e": 405.1
+  },
+  {
+   "w": "until",
+   "s": 405.1,
+   "e": 405.46
+  },
+  {
+   "w": "they",
+   "s": 405.46,
+   "e": 405.7
+  },
+  {
+   "w": "choose",
+   "s": 405.7,
+   "e": 405.9
+  },
+  {
+   "w": "to",
+   "s": 405.9,
+   "e": 406.18
+  },
+  {
+   "w": "leave.",
+   "s": 406.18,
+   "e": 406.46
+  },
+  {
+   "w": "In",
+   "s": 407.34,
+   "e": 407.42
+  },
+  {
+   "w": "a",
+   "s": 407.42,
+   "e": 407.56
+  },
+  {
+   "w": "courthouse",
+   "s": 407.56,
+   "e": 407.9
+  },
+  {
+   "w": "hallway,",
+   "s": 407.9,
+   "e": 408.4
+  },
+  {
+   "w": "six",
+   "s": 408.76,
+   "e": 408.9
+  },
+  {
+   "w": "portraits",
+   "s": 408.9,
+   "e": 409.42
+  },
+  {
+   "w": "hang",
+   "s": 409.42,
+   "e": 409.76
+  },
+  {
+   "w": "side",
+   "s": 409.76,
+   "e": 410.16
+  },
+  {
+   "w": "by",
+   "s": 410.16,
+   "e": 410.36
+  },
+  {
+   "w": "side.",
+   "s": 410.36,
+   "e": 410.78
+  },
+  {
+   "w": "It's",
+   "s": 411.12,
+   "e": 411.28
+  },
+  {
+   "w": "the",
+   "s": 411.28,
+   "e": 411.44
+  },
+  {
+   "w": "same",
+   "s": 411.44,
+   "e": 411.72
+  },
+  {
+   "w": "judge.",
+   "s": 411.72,
+   "e": 412.02
+  },
+  {
+   "w": "Each",
+   "s": 412.7,
+   "e": 412.84
+  },
+  {
+   "w": "one",
+   "s": 412.84,
+   "e": 413.14
+  },
+  {
+   "w": "is",
+   "s": 413.14,
+   "e": 413.4
+  },
+  {
+   "w": "a",
+   "s": 413.4,
+   "e": 413.52
+  },
+  {
+   "w": "little",
+   "s": 413.52,
+   "e": 413.72
+  },
+  {
+   "w": "grayer.",
+   "s": 413.72,
+   "e": 414.06
+  },
+  {
+   "w": "So,",
+   "s": 414.84,
+   "e": 415.0
+  },
+  {
+   "w": "ambition",
+   "s": 415.26,
+   "e": 415.62
+  },
+  {
+   "w": "leaves.",
+   "s": 415.62,
+   "e": 416.12
+  },
+  {
+   "w": "If",
+   "s": 416.94,
+   "e": 417.08
+  },
+  {
+   "w": "you",
+   "s": 417.08,
+   "e": 417.24
+  },
+  {
+   "w": "can't",
+   "s": 417.24,
+   "e": 417.56
+  },
+  {
+   "w": "climb",
+   "s": 417.56,
+   "e": 417.76
+  },
+  {
+   "w": "the",
+   "s": 417.76,
+   "e": 417.92
+  },
+  {
+   "w": "old",
+   "s": 417.92,
+   "e": 418.18
+  },
+  {
+   "w": "ladder,",
+   "s": 418.18,
+   "e": 418.5
+  },
+  {
+   "w": "you",
+   "s": 418.96,
+   "e": 419.14
+  },
+  {
+   "w": "build",
+   "s": 419.14,
+   "e": 419.32
+  },
+  {
+   "w": "a",
+   "s": 419.32,
+   "e": 419.48
+  },
+  {
+   "w": "new",
+   "s": 419.48,
+   "e": 419.62
+  },
+  {
+   "w": "one.",
+   "s": 419.62,
+   "e": 419.86
+  },
+  {
+   "w": "Every",
+   "s": 420.68,
+   "e": 420.96
+  },
+  {
+   "w": "founder",
+   "s": 420.96,
+   "e": 421.28
+  },
+  {
+   "w": "is",
+   "s": 421.28,
+   "e": 421.56
+  },
+  {
+   "w": "under",
+   "s": 421.56,
+   "e": 421.86
+  },
+  {
+   "w": "40",
+   "s": 421.86,
+   "e": 422.22
+  },
+  {
+   "w": "because",
+   "s": 422.72,
+   "e": 423.0
+  },
+  {
+   "w": "only",
+   "s": 423.0,
+   "e": 423.36
+  },
+  {
+   "w": "a",
+   "s": 423.36,
+   "e": 423.54
+  },
+  {
+   "w": "brand",
+   "s": 423.54,
+   "e": 423.76
+  },
+  {
+   "w": "new",
+   "s": 423.76,
+   "e": 424.0
+  },
+  {
+   "w": "company",
+   "s": 424.0,
+   "e": 424.4
+  },
+  {
+   "w": "has",
+   "s": 424.4,
+   "e": 424.8
+  },
+  {
+   "w": "no",
+   "s": 424.8,
+   "e": 425.06
+  },
+  {
+   "w": "queue.",
+   "s": 425.06,
+   "e": 425.3
+  },
+  {
+   "w": "And",
+   "s": 426.08,
+   "e": 426.4
+  },
+  {
+   "w": "the",
+   "s": 426.4,
+   "e": 426.54
+  },
+  {
+   "w": "one",
+   "s": 426.54,
+   "e": 426.76
+  },
+  {
+   "w": "thing",
+   "s": 426.76,
+   "e": 426.98
+  },
+  {
+   "w": "young",
+   "s": 426.98,
+   "e": 427.2
+  },
+  {
+   "w": "people",
+   "s": 427.2,
+   "e": 427.52
+  },
+  {
+   "w": "vote",
+   "s": 427.52,
+   "e": 427.82
+  },
+  {
+   "w": "for",
+   "s": 427.82,
+   "e": 428.22
+  },
+  {
+   "w": "over",
+   "s": 428.22,
+   "e": 428.78
+  },
+  {
+   "w": "and",
+   "s": 428.78,
+   "e": 429.04
+  },
+  {
+   "w": "over",
+   "s": 429.04,
+   "e": 429.4
+  },
+  {
+   "w": "is",
+   "s": 429.4,
+   "e": 429.9
+  },
+  {
+   "w": "term",
+   "s": 429.9,
+   "e": 430.2
+  },
+  {
+   "w": "limits",
+   "s": 430.2,
+   "e": 430.62
+  },
+  {
+   "w": "on",
+   "s": 430.62,
+   "e": 431.4
+  },
+  {
+   "w": "everything.",
+   "s": 431.4,
+   "e": 431.94
+  },
+  {
+   "w": "Now,",
+   "s": 432.46,
+   "e": 432.82
+  },
+  {
+   "w": "to",
+   "s": 432.98,
+   "e": 433.18
+  },
+  {
+   "w": "be",
+   "s": 433.18,
+   "e": 433.3
+  },
+  {
+   "w": "fair,",
+   "s": 433.3,
+   "e": 433.72
+  },
+  {
+   "w": "some",
+   "s": 434.22,
+   "e": 434.54
+  },
+  {
+   "w": "of",
+   "s": 434.54,
+   "e": 434.7
+  },
+  {
+   "w": "this",
+   "s": 434.7,
+   "e": 434.86
+  },
+  {
+   "w": "is",
+   "s": 434.86,
+   "e": 435.12
+  },
+  {
+   "w": "wonderful.",
+   "s": 435.12,
+   "e": 435.64
+  },
+  {
+   "w": "A",
+   "s": 436.42,
+   "e": 436.74
+  },
+  {
+   "w": "surgeon",
+   "s": 436.74,
+   "e": 437.06
+  },
+  {
+   "w": "with",
+   "s": 437.06,
+   "e": 437.48
+  },
+  {
+   "w": "90",
+   "s": 437.48,
+   "e": 437.94
+  },
+  {
+   "w": "years",
+   "s": 437.94,
+   "e": 438.3
+  },
+  {
+   "w": "of",
+   "s": 438.3,
+   "e": 438.54
+  },
+  {
+   "w": "practice,",
+   "s": 438.54,
+   "e": 439.0
+  },
+  {
+   "w": "a",
+   "s": 439.74,
+   "e": 439.9
+  },
+  {
+   "w": "teacher",
+   "s": 439.9,
+   "e": 440.18
+  },
+  {
+   "w": "who",
+   "s": 440.18,
+   "e": 440.48
+  },
+  {
+   "w": "taught",
+   "s": 440.48,
+   "e": 440.7
+  },
+  {
+   "w": "your",
+   "s": 440.7,
+   "e": 440.9
+  },
+  {
+   "w": "grandmother",
+   "s": 440.9,
+   "e": 441.3
+  },
+  {
+   "w": "and",
+   "s": 441.3,
+   "e": 442.08
+  },
+  {
+   "w": "now",
+   "s": 442.08,
+   "e": 442.3
+  },
+  {
+   "w": "teaches",
+   "s": 442.3,
+   "e": 442.62
+  },
+  {
+   "w": "you",
+   "s": 442.62,
+   "e": 443.02
+  },
+  {
+   "w": "and",
+   "s": 443.46,
+   "e": 443.78
+  },
+  {
+   "w": "still",
+   "s": 443.78,
+   "e": 444.06
+  },
+  {
+   "w": "remembers",
+   "s": 444.06,
+   "e": 444.52
+  },
+  {
+   "w": "what",
+   "s": 444.52,
+   "e": 444.8
+  },
+  {
+   "w": "your",
+   "s": 444.8,
+   "e": 444.94
+  },
+  {
+   "w": "grandmother",
+   "s": 444.94,
+   "e": 445.34
+  },
+  {
+   "w": "was",
+   "s": 445.34,
+   "e": 445.64
+  },
+  {
+   "w": "like",
+   "s": 445.64,
+   "e": 445.86
+  },
+  {
+   "w": "at",
+   "s": 445.86,
+   "e": 446.02
+  },
+  {
+   "w": "your",
+   "s": 446.02,
+   "e": 446.16
+  },
+  {
+   "w": "age.",
+   "s": 446.16,
+   "e": 446.58
+  },
+  {
+   "w": "Longer",
+   "s": 447.64,
+   "e": 447.88
+  },
+  {
+   "w": "lives",
+   "s": 447.88,
+   "e": 448.22
+  },
+  {
+   "w": "have",
+   "s": 448.22,
+   "e": 448.44
+  },
+  {
+   "w": "always",
+   "s": 448.44,
+   "e": 448.84
+  },
+  {
+   "w": "made",
+   "s": 448.84,
+   "e": 449.08
+  },
+  {
+   "w": "the",
+   "s": 449.08,
+   "e": 449.24
+  },
+  {
+   "w": "world",
+   "s": 449.24,
+   "e": 449.5
+  },
+  {
+   "w": "richer.",
+   "s": 449.5,
+   "e": 449.88
+  },
+  {
+   "w": "That",
+   "s": 450.66,
+   "e": 450.96
+  },
+  {
+   "w": "part",
+   "s": 450.96,
+   "e": 451.18
+  },
+  {
+   "w": "is",
+   "s": 451.18,
+   "e": 451.36
+  },
+  {
+   "w": "true.",
+   "s": 451.36,
+   "e": 451.66
+  },
+  {
+   "w": "But",
+   "s": 452.2,
+   "e": 452.52
+  },
+  {
+   "w": "only",
+   "s": 452.52,
+   "e": 453.14
+  },
+  {
+   "w": "if",
+   "s": 453.14,
+   "e": 453.48
+  },
+  {
+   "w": "the",
+   "s": 453.48,
+   "e": 453.64
+  },
+  {
+   "w": "old",
+   "s": 453.64,
+   "e": 453.94
+  },
+  {
+   "w": "let",
+   "s": 453.94,
+   "e": 454.18
+  },
+  {
+   "w": "go,",
+   "s": 454.18,
+   "e": 454.54
+  },
+  {
+   "w": "and",
+   "s": 455.1,
+   "e": 455.48
+  },
+  {
+   "w": "that's",
+   "s": 455.48,
+   "e": 455.88
+  },
+  {
+   "w": "where",
+   "s": 455.88,
+   "e": 456.02
+  },
+  {
+   "w": "it",
+   "s": 456.02,
+   "e": 456.18
+  },
+  {
+   "w": "turns",
+   "s": 456.18,
+   "e": 456.56
+  },
+  {
+   "w": "upside",
+   "s": 456.56,
+   "e": 456.98
+  },
+  {
+   "w": "down.",
+   "s": 456.98,
+   "e": 457.4
+  },
+  {
+   "w": "Remember",
+   "s": 457.92,
+   "e": 458.22
+  },
+  {
+   "w": "the",
+   "s": 458.22,
+   "e": 458.44
+  },
+  {
+   "w": "bank's",
+   "s": 458.44,
+   "e": 458.82
+  },
+  {
+   "w": "birthday",
+   "s": 458.82,
+   "e": 459.08
+  },
+  {
+   "w": "card?",
+   "s": 459.08,
+   "e": 459.48
+  },
+  {
+   "w": "Every",
+   "s": 460.08,
+   "e": 460.4
+  },
+  {
+   "w": "year",
+   "s": 460.4,
+   "e": 460.64
+  },
+  {
+   "w": "it",
+   "s": 460.64,
+   "e": 460.82
+  },
+  {
+   "w": "asks",
+   "s": 460.82,
+   "e": 461.14
+  },
+  {
+   "w": "mom",
+   "s": 461.14,
+   "e": 461.4
+  },
+  {
+   "w": "how",
+   "s": 461.4,
+   "e": 461.68
+  },
+  {
+   "w": "she's",
+   "s": 461.68,
+   "e": 461.98
+  },
+  {
+   "w": "feeling",
+   "s": 461.98,
+   "e": 462.3
+  },
+  {
+   "w": "and",
+   "s": 462.3,
+   "e": 462.8
+  },
+  {
+   "w": "every",
+   "s": 462.8,
+   "e": 463.12
+  },
+  {
+   "w": "year",
+   "s": 463.12,
+   "e": 463.36
+  },
+  {
+   "w": "she",
+   "s": 463.36,
+   "e": 463.58
+  },
+  {
+   "w": "writes",
+   "s": 463.58,
+   "e": 463.82
+  },
+  {
+   "w": "back,",
+   "s": 463.82,
+   "e": 464.24
+  },
+  {
+   "w": "never",
+   "s": 464.7,
+   "e": 465.0
+  },
+  {
+   "w": "better.",
+   "s": 465.0,
+   "e": 465.3
+  },
+  {
+   "w": "Every",
+   "s": 467.0,
+   "e": 467.3
+  },
+  {
+   "w": "one",
+   "s": 467.3,
+   "e": 467.52
+  },
+  {
+   "w": "of",
+   "s": 467.52,
+   "e": 467.66
+  },
+  {
+   "w": "those",
+   "s": 467.66,
+   "e": 467.86
+  },
+  {
+   "w": "cards",
+   "s": 467.86,
+   "e": 468.3
+  },
+  {
+   "w": "is",
+   "s": 468.3,
+   "e": 468.7
+  },
+  {
+   "w": "another",
+   "s": 468.7,
+   "e": 469.04
+  },
+  {
+   "w": "year",
+   "s": 469.04,
+   "e": 469.5
+  },
+  {
+   "w": "her",
+   "s": 469.5,
+   "e": 469.74
+  },
+  {
+   "w": "children",
+   "s": 469.74,
+   "e": 470.08
+  },
+  {
+   "w": "rent.",
+   "s": 470.08,
+   "e": 470.42
+  },
+  {
+   "w": "In",
+   "s": 471.44,
+   "e": 471.66
+  },
+  {
+   "w": "this",
+   "s": 471.66,
+   "e": 471.84
+  },
+  {
+   "w": "world,",
+   "s": 471.84,
+   "e": 472.32
+  },
+  {
+   "w": "your",
+   "s": 472.62,
+   "e": 472.8
+  },
+  {
+   "w": "parents'",
+   "s": 472.8,
+   "e": 473.18
+  },
+  {
+   "w": "long,",
+   "s": 473.3,
+   "e": 473.66
+  },
+  {
+   "w": "happy,",
+   "s": 473.8,
+   "e": 474.26
+  },
+  {
+   "w": "healthy",
+   "s": 474.64,
+   "e": 474.76
+  },
+  {
+   "w": "life",
+   "s": 474.76,
+   "e": 475.22
+  },
+  {
+   "w": "is",
+   "s": 475.22,
+   "e": 475.56
+  },
+  {
+   "w": "your",
+   "s": 475.56,
+   "e": 475.72
+  },
+  {
+   "w": "single",
+   "s": 475.72,
+   "e": 476.1
+  },
+  {
+   "w": "biggest",
+   "s": 476.1,
+   "e": 476.42
+  },
+  {
+   "w": "bill.",
+   "s": 476.42,
+   "e": 476.82
+  },
+  {
+   "w": "It's",
+   "s": 477.74,
+   "e": 478.06
+  },
+  {
+   "w": "the",
+   "s": 478.06,
+   "e": 478.22
+  },
+  {
+   "w": "one",
+   "s": 478.22,
+   "e": 478.46
+  },
+  {
+   "w": "thing",
+   "s": 478.46,
+   "e": 478.78
+  },
+  {
+   "w": "nobody",
+   "s": 478.78,
+   "e": 479.12
+  },
+  {
+   "w": "says",
+   "s": 479.12,
+   "e": 479.58
+  },
+  {
+   "w": "out",
+   "s": 479.58,
+   "e": 479.96
+  },
+  {
+   "w": "loud",
+   "s": 479.96,
+   "e": 480.22
+  },
+  {
+   "w": "at",
+   "s": 480.22,
+   "e": 480.56
+  },
+  {
+   "w": "the",
+   "s": 480.56,
+   "e": 480.7
+  },
+  {
+   "w": "birthday",
+   "s": 480.7,
+   "e": 481.02
+  },
+  {
+   "w": "party.",
+   "s": 481.02,
+   "e": 481.52
+  },
+  {
+   "w": "And",
+   "s": 482.04,
+   "e": 482.14
+  },
+  {
+   "w": "then",
+   "s": 482.14,
+   "e": 482.4
+  },
+  {
+   "w": "there's",
+   "s": 482.4,
+   "e": 483.0
+  },
+  {
+   "w": "death",
+   "s": 483.0,
+   "e": 483.26
+  },
+  {
+   "w": "itself.",
+   "s": 483.26,
+   "e": 483.82
+  },
+  {
+   "w": "It",
+   "s": 484.52,
+   "e": 484.64
+  },
+  {
+   "w": "doesn't",
+   "s": 484.64,
+   "e": 484.98
+  },
+  {
+   "w": "vanish,",
+   "s": 484.98,
+   "e": 485.34
+  },
+  {
+   "w": "it",
+   "s": 485.64,
+   "e": 485.88
+  },
+  {
+   "w": "changes",
+   "s": 485.88,
+   "e": 486.48
+  },
+  {
+   "w": "shape.",
+   "s": 486.48,
+   "e": 486.86
+  },
+  {
+   "w": "You",
+   "s": 487.5,
+   "e": 487.64
+  },
+  {
+   "w": "still",
+   "s": 487.64,
+   "e": 487.86
+  },
+  {
+   "w": "get",
+   "s": 487.86,
+   "e": 488.04
+  },
+  {
+   "w": "old,",
+   "s": 488.04,
+   "e": 488.34
+  },
+  {
+   "w": "it",
+   "s": 488.72,
+   "e": 488.84
+  },
+  {
+   "w": "just",
+   "s": 488.84,
+   "e": 488.98
+  },
+  {
+   "w": "starts",
+   "s": 488.98,
+   "e": 489.3
+  },
+  {
+   "w": "around",
+   "s": 489.3,
+   "e": 489.56
+  },
+  {
+   "w": "113.",
+   "s": 489.56,
+   "e": 490.08
+  },
+  {
+   "w": "Your",
+   "s": 491.4,
+   "e": 491.6
+  },
+  {
+   "w": "knees",
+   "s": 491.6,
+   "e": 491.86
+  },
+  {
+   "w": "hand",
+   "s": 491.86,
+   "e": 492.16
+  },
+  {
+   "w": "in",
+   "s": 492.16,
+   "e": 492.36
+  },
+  {
+   "w": "their",
+   "s": 492.36,
+   "e": 492.5
+  },
+  {
+   "w": "notice.",
+   "s": 492.5,
+   "e": 492.82
+  },
+  {
+   "w": "You",
+   "s": 493.44,
+   "e": 493.64
+  },
+  {
+   "w": "slow",
+   "s": 493.64,
+   "e": 493.9
+  },
+  {
+   "w": "down",
+   "s": 493.9,
+   "e": 494.16
+  },
+  {
+   "w": "for",
+   "s": 494.16,
+   "e": 494.4
+  },
+  {
+   "w": "your",
+   "s": 494.4,
+   "e": 494.54
+  },
+  {
+   "w": "last",
+   "s": 494.54,
+   "e": 494.82
+  },
+  {
+   "w": "30",
+   "s": 494.82,
+   "e": 495.16
+  },
+  {
+   "w": "-odd",
+   "s": 495.16,
+   "e": 495.32
+  },
+  {
+   "w": "years",
+   "s": 495.32,
+   "e": 495.72
+  },
+  {
+   "w": "instead",
+   "s": 495.72,
+   "e": 496.16
+  },
+  {
+   "w": "of",
+   "s": 496.16,
+   "e": 496.34
+  },
+  {
+   "w": "your",
+   "s": 496.34,
+   "e": 496.46
+  },
+  {
+   "w": "last",
+   "s": 496.46,
+   "e": 496.72
+  },
+  {
+   "w": "15.",
+   "s": 496.72,
+   "e": 497.2
+  },
+  {
+   "w": "But",
+   "s": 497.72,
+   "e": 497.94
+  },
+  {
+   "w": "the",
+   "s": 497.94,
+   "e": 498.08
+  },
+  {
+   "w": "biggest",
+   "s": 498.08,
+   "e": 498.36
+  },
+  {
+   "w": "killer",
+   "s": 498.36,
+   "e": 498.66
+  },
+  {
+   "w": "isn't",
+   "s": 498.66,
+   "e": 499.1
+  },
+  {
+   "w": "age",
+   "s": 499.1,
+   "e": 499.34
+  },
+  {
+   "w": "anymore.",
+   "s": 499.34,
+   "e": 499.78
+  },
+  {
+   "w": "It's",
+   "s": 500.32,
+   "e": 500.56
+  },
+  {
+   "w": "the",
+   "s": 500.56,
+   "e": 500.68
+  },
+  {
+   "w": "road.",
+   "s": 500.68,
+   "e": 500.94
+  },
+  {
+   "w": "A",
+   "s": 501.88,
+   "e": 502.0
+  },
+  {
+   "w": "car",
+   "s": 502.0,
+   "e": 502.24
+  },
+  {
+   "w": "crash",
+   "s": 502.24,
+   "e": 502.52
+  },
+  {
+   "w": "at",
+   "s": 502.52,
+   "e": 502.76
+  },
+  {
+   "w": "40",
+   "s": 502.76,
+   "e": 503.16
+  },
+  {
+   "w": "used",
+   "s": 503.16,
+   "e": 503.58
+  },
+  {
+   "w": "to",
+   "s": 503.58,
+   "e": 503.78
+  },
+  {
+   "w": "cost",
+   "s": 503.78,
+   "e": 504.04
+  },
+  {
+   "w": "40",
+   "s": 504.04,
+   "e": 504.44
+  },
+  {
+   "w": "years.",
+   "s": 504.44,
+   "e": 504.82
+  },
+  {
+   "w": "Now",
+   "s": 505.44,
+   "e": 505.66
+  },
+  {
+   "w": "it",
+   "s": 505.66,
+   "e": 505.84
+  },
+  {
+   "w": "costs",
+   "s": 505.84,
+   "e": 506.2
+  },
+  {
+   "w": "110.",
+   "s": 506.2,
+   "e": 506.94
+  },
+  {
+   "w": "People",
+   "s": 507.78,
+   "e": 508.38
+  },
+  {
+   "w": "start",
+   "s": 508.38,
+   "e": 508.82
+  },
+  {
+   "w": "driving",
+   "s": 508.82,
+   "e": 509.26
+  },
+  {
+   "w": "like",
+   "s": 509.26,
+   "e": 509.5
+  },
+  {
+   "w": "they",
+   "s": 509.5,
+   "e": 509.68
+  },
+  {
+   "w": "have",
+   "s": 509.68,
+   "e": 509.84
+  },
+  {
+   "w": "a",
+   "s": 509.84,
+   "e": 509.98
+  },
+  {
+   "w": "lot",
+   "s": 509.98,
+   "e": 510.16
+  },
+  {
+   "w": "to",
+   "s": 510.16,
+   "e": 510.38
+  },
+  {
+   "w": "lose",
+   "s": 510.38,
+   "e": 510.74
+  },
+  {
+   "w": "because",
+   "s": 510.74,
+   "e": 511.8
+  },
+  {
+   "w": "they",
+   "s": 511.8,
+   "e": 512.0
+  },
+  {
+   "w": "do.",
+   "s": 512.0,
+   "e": 512.56
+  },
+  {
+   "w": "St.",
+   "s": 513.32,
+   "e": 513.34
+  },
+  {
+   "w": "Aldric's",
+   "s": 513.56,
+   "e": 513.92
+  },
+  {
+   "w": "Crematorium",
+   "s": 513.92,
+   "e": 514.4
+  },
+  {
+   "w": "only",
+   "s": 514.4,
+   "e": 514.86
+  },
+  {
+   "w": "needs",
+   "s": 514.86,
+   "e": 515.24
+  },
+  {
+   "w": "half",
+   "s": 515.24,
+   "e": 515.52
+  },
+  {
+   "w": "its",
+   "s": 515.52,
+   "e": 515.74
+  },
+  {
+   "w": "building",
+   "s": 515.74,
+   "e": 516.04
+  },
+  {
+   "w": "now.",
+   "s": 516.04,
+   "e": 516.4
+  },
+  {
+   "w": "The",
+   "s": 517.0,
+   "e": 517.02
+  },
+  {
+   "w": "other",
+   "s": 517.02,
+   "e": 517.18
+  },
+  {
+   "w": "half",
+   "s": 517.18,
+   "e": 517.5
+  },
+  {
+   "w": "becomes",
+   "s": 517.5,
+   "e": 517.84
+  },
+  {
+   "w": "a",
+   "s": 517.84,
+   "e": 518.08
+  },
+  {
+   "w": "nursery.",
+   "s": 518.08,
+   "e": 518.38
+  },
+  {
+   "w": "One",
+   "s": 519.32,
+   "e": 519.46
+  },
+  {
+   "w": "chimney,",
+   "s": 519.46,
+   "e": 519.92
+  },
+  {
+   "w": "one",
+   "s": 520.28,
+   "e": 520.44
+  },
+  {
+   "w": "playground,",
+   "s": 520.44,
+   "e": 520.88
+  },
+  {
+   "w": "one",
+   "s": 521.36,
+   "e": 521.56
+  },
+  {
+   "w": "car",
+   "s": 521.56,
+   "e": 521.84
+  },
+  {
+   "w": "park.",
+   "s": 521.84,
+   "e": 522.16
+  },
+  {
+   "w": "And",
+   "s": 522.84,
+   "e": 523.16
+  },
+  {
+   "w": "the",
+   "s": 523.16,
+   "e": 523.38
+  },
+  {
+   "w": "undertaker's",
+   "s": 523.38,
+   "e": 524.02
+  },
+  {
+   "w": "apprentice",
+   "s": 524.02,
+   "e": 524.28
+  },
+  {
+   "w": "has",
+   "s": 524.28,
+   "e": 524.68
+  },
+  {
+   "w": "been",
+   "s": 524.68,
+   "e": 524.82
+  },
+  {
+   "w": "training",
+   "s": 524.82,
+   "e": 525.12
+  },
+  {
+   "w": "for",
+   "s": 525.12,
+   "e": 525.4
+  },
+  {
+   "w": "60",
+   "s": 525.4,
+   "e": 525.7
+  },
+  {
+   "w": "years.",
+   "s": 525.7,
+   "e": 526.1
+  },
+  {
+   "w": "He's",
+   "s": 526.64,
+   "e": 526.86
+  },
+  {
+   "w": "never",
+   "s": 526.86,
+   "e": 527.1
+  },
+  {
+   "w": "actually",
+   "s": 527.1,
+   "e": 527.54
+  },
+  {
+   "w": "seen",
+   "s": 527.54,
+   "e": 527.84
+  },
+  {
+   "w": "a",
+   "s": 527.84,
+   "e": 528.0
+  },
+  {
+   "w": "body.",
+   "s": 528.0,
+   "e": 528.26
+  },
+  {
+   "w": "Remember",
+   "s": 529.0,
+   "e": 529.24
+  },
+  {
+   "w": "the",
+   "s": 529.24,
+   "e": 529.48
+  },
+  {
+   "w": "girl",
+   "s": 529.48,
+   "e": 529.68
+  },
+  {
+   "w": "at",
+   "s": 529.68,
+   "e": 529.9
+  },
+  {
+   "w": "the",
+   "s": 529.9,
+   "e": 530.0
+  },
+  {
+   "w": "birthday",
+   "s": 530.0,
+   "e": 530.28
+  },
+  {
+   "w": "party?",
+   "s": 530.28,
+   "e": 530.66
+  },
+  {
+   "w": "She's",
+   "s": 531.32,
+   "e": 531.64
+  },
+  {
+   "w": "120",
+   "s": 531.64,
+   "e": 532.22
+  },
+  {
+   "w": "now.",
+   "s": 532.22,
+   "e": 533.0
+  },
+  {
+   "w": "She",
+   "s": 533.44,
+   "e": 533.72
+  },
+  {
+   "w": "has",
+   "s": 533.72,
+   "e": 533.88
+  },
+  {
+   "w": "a",
+   "s": 533.88,
+   "e": 534.08
+  },
+  {
+   "w": "job,",
+   "s": 534.08,
+   "e": 534.44
+  },
+  {
+   "w": "a",
+   "s": 534.82,
+   "e": 534.9
+  },
+  {
+   "w": "mortgage,",
+   "s": 534.9,
+   "e": 535.34
+  },
+  {
+   "w": "and",
+   "s": 535.68,
+   "e": 535.9
+  },
+  {
+   "w": "a",
+   "s": 535.9,
+   "e": 536.04
+  },
+  {
+   "w": "son",
+   "s": 536.04,
+   "e": 536.28
+  },
+  {
+   "w": "who's",
+   "s": 536.28,
+   "e": 536.64
+  },
+  {
+   "w": "90.",
+   "s": 536.64,
+   "e": 536.86
+  },
+  {
+   "w": "This",
+   "s": 537.86,
+   "e": 538.08
+  },
+  {
+   "w": "morning,",
+   "s": 538.08,
+   "e": 538.42
+  },
+  {
+   "w": "her",
+   "s": 538.6,
+   "e": 538.7
+  },
+  {
+   "w": "mother",
+   "s": 538.7,
+   "e": 538.94
+  },
+  {
+   "w": "died",
+   "s": 538.94,
+   "e": 539.38
+  },
+  {
+   "w": "peacefully",
+   "s": 539.38,
+   "e": 540.36
+  },
+  {
+   "w": "in",
+   "s": 540.36,
+   "e": 540.96
+  },
+  {
+   "w": "the",
+   "s": 540.96,
+   "e": 541.1
+  },
+  {
+   "w": "garden",
+   "s": 541.1,
+   "e": 541.48
+  },
+  {
+   "w": "at",
+   "s": 541.96,
+   "e": 542.24
+  },
+  {
+   "w": "150.",
+   "s": 542.24,
+   "e": 542.94
+  },
+  {
+   "w": "She",
+   "s": 544.2,
+   "e": 544.42
+  },
+  {
+   "w": "walks",
+   "s": 544.42,
+   "e": 544.66
+  },
+  {
+   "w": "up",
+   "s": 544.66,
+   "e": 544.92
+  },
+  {
+   "w": "to",
+   "s": 544.92,
+   "e": 545.12
+  },
+  {
+   "w": "a",
+   "s": 545.12,
+   "e": 545.28
+  },
+  {
+   "w": "door",
+   "s": 545.28,
+   "e": 545.52
+  },
+  {
+   "w": "on",
+   "s": 545.52,
+   "e": 545.82
+  },
+  {
+   "w": "Marrow",
+   "s": 545.82,
+   "e": 546.22
+  },
+  {
+   "w": "Street.",
+   "s": 546.22,
+   "e": 546.52
+  },
+  {
+   "w": "The",
+   "s": 547.34,
+   "e": 547.6
+  },
+  {
+   "w": "brass",
+   "s": 547.6,
+   "e": 547.88
+  },
+  {
+   "w": "key",
+   "s": 547.88,
+   "e": 548.24
+  },
+  {
+   "w": "is",
+   "s": 548.24,
+   "e": 548.56
+  },
+  {
+   "w": "still",
+   "s": 548.56,
+   "e": 548.82
+  },
+  {
+   "w": "hanging",
+   "s": 548.82,
+   "e": 549.16
+  },
+  {
+   "w": "inside.",
+   "s": 549.16,
+   "e": 549.66
+  },
+  {
+   "w": "Under",
+   "s": 550.72,
+   "e": 551.02
+  },
+  {
+   "w": "her",
+   "s": 551.02,
+   "e": 551.2
+  },
+  {
+   "w": "mother's",
+   "s": 551.2,
+   "e": 551.64
+  },
+  {
+   "w": "name,",
+   "s": 551.64,
+   "e": 551.94
+  },
+  {
+   "w": "on",
+   "s": 551.94,
+   "e": 552.36
+  },
+  {
+   "w": "a",
+   "s": 552.36,
+   "e": 552.5
+  },
+  {
+   "w": "tag",
+   "s": 552.5,
+   "e": 552.76
+  },
+  {
+   "w": "that",
+   "s": 552.76,
+   "e": 552.96
+  },
+  {
+   "w": "has",
+   "s": 552.96,
+   "e": 553.14
+  },
+  {
+   "w": "waited",
+   "s": 553.14,
+   "e": 553.46
+  },
+  {
+   "w": "115",
+   "s": 553.46,
+   "e": 554.36
+  },
+  {
+   "w": "years,",
+   "s": 554.36,
+   "e": 555.08
+  },
+  {
+   "w": "she",
+   "s": 555.58,
+   "e": 555.84
+  },
+  {
+   "w": "writes",
+   "s": 555.84,
+   "e": 556.06
+  },
+  {
+   "w": "a",
+   "s": 556.06,
+   "e": 556.28
+  },
+  {
+   "w": "second",
+   "s": 556.28,
+   "e": 556.54
+  },
+  {
+   "w": "one,",
+   "s": 556.54,
+   "e": 557.06
+  },
+  {
+   "w": "her",
+   "s": 557.44,
+   "e": 557.76
+  },
+  {
+   "w": "own.",
+   "s": 557.76,
+   "e": 558.06
+  },
+  {
+   "w": "We",
+   "s": 558.68,
+   "e": 558.82
+  },
+  {
+   "w": "like",
+   "s": 558.82,
+   "e": 559.0
+  },
+  {
+   "w": "to",
+   "s": 559.0,
+   "e": 559.14
+  },
+  {
+   "w": "think",
+   "s": 559.14,
+   "e": 559.36
+  },
+  {
+   "w": "a",
+   "s": 559.36,
+   "e": 559.56
+  },
+  {
+   "w": "life",
+   "s": 559.56,
+   "e": 559.78
+  },
+  {
+   "w": "is",
+   "s": 559.78,
+   "e": 559.98
+  },
+  {
+   "w": "a",
+   "s": 559.98,
+   "e": 560.12
+  },
+  {
+   "w": "ladder.",
+   "s": 560.12,
+   "e": 560.38
+  },
+  {
+   "w": "You",
+   "s": 560.82,
+   "e": 561.06
+  },
+  {
+   "w": "start",
+   "s": 561.06,
+   "e": 561.3
+  },
+  {
+   "w": "at",
+   "s": 561.3,
+   "e": 561.44
+  },
+  {
+   "w": "the",
+   "s": 561.44,
+   "e": 561.56
+  },
+  {
+   "w": "bottom,",
+   "s": 561.56,
+   "e": 561.88
+  },
+  {
+   "w": "you",
+   "s": 562.28,
+   "e": 562.32
+  },
+  {
+   "w": "climb,",
+   "s": 562.32,
+   "e": 562.62
+  },
+  {
+   "w": "you",
+   "s": 563.3,
+   "e": 563.44
+  },
+  {
+   "w": "reach",
+   "s": 563.44,
+   "e": 563.6
+  },
+  {
+   "w": "the",
+   "s": 563.6,
+   "e": 563.84
+  },
+  {
+   "w": "top.",
+   "s": 563.84,
+   "e": 564.08
+  },
+  {
+   "w": "It",
+   "s": 564.72,
+   "e": 564.82
+  },
+  {
+   "w": "was",
+   "s": 564.82,
+   "e": 564.98
+  },
+  {
+   "w": "always",
+   "s": 564.98,
+   "e": 565.38
+  },
+  {
+   "w": "a",
+   "s": 565.38,
+   "e": 565.58
+  },
+  {
+   "w": "cue,",
+   "s": 565.58,
+   "e": 565.8
+  },
+  {
+   "w": "and",
+   "s": 566.3,
+   "e": 566.4
+  },
+  {
+   "w": "the",
+   "s": 566.4,
+   "e": 566.52
+  },
+  {
+   "w": "only",
+   "s": 566.52,
+   "e": 566.74
+  },
+  {
+   "w": "thing",
+   "s": 566.74,
+   "e": 567.1
+  },
+  {
+   "w": "that",
+   "s": 567.1,
+   "e": 567.34
+  },
+  {
+   "w": "ever",
+   "s": 567.34,
+   "e": 567.62
+  },
+  {
+   "w": "moved",
+   "s": 567.62,
+   "e": 567.92
+  },
+  {
+   "w": "it",
+   "s": 567.92,
+   "e": 568.28
+  },
+  {
+   "w": "was",
+   "s": 568.28,
+   "e": 568.72
+  },
+  {
+   "w": "death.",
+   "s": 568.72,
+   "e": 568.98
+  }
+ ]
+}
