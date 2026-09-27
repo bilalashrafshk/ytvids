@@ -16,6 +16,8 @@ export const TOKENS = {
     amber: '#F59E0B', // warning, threshold
     navy: '#1E293B',
     accentLine: '#0284C7',
+    lavender: '#8E7CC3', // "The Hypothetical" sub-series accent only (bible/02 §10)
+    lavenderMuted: '#EEEAF7',
   },
   typography: {
     fontFamilySans: "system-ui, -apple-system, 'Inter', Roboto, sans-serif",
