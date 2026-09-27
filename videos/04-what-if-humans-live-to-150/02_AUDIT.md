@@ -1,0 +1,37 @@
+# Episode 04 — Script Audit (GATE γ, by eye + gate_check.py)
+
+## Mechanical (gate_check.py)
+| | Draft A (A12, `-a 12`) | Draft B (A5, `-a 5`) |
+|---|---|---|
+| Words / runtime | 1,462 / ~9.4 min | 1,008 / ~6.5 min |
+| All gates (bands, JARGON 0, CITES 0, CLOSE, reframes) | PASS | PASS (after one fix: first reframe moved into the opening) |
+
+## Promise check
+**Title promise:** the whole world changed by 150-year lives.
+- **A:** family & children ~15% · work & school ~15% · money & mortgages ~15% · homes & inheritance ~20% · power ~15% · health & death ~12% · long run & close ~8%. Money is one lens of seven. **PASS.**
+- **B:** same domains visited through one life (party, payslip, Marrow Street, inheritance sale, school, the bench, old age, roads, St Aldric's). The meter is the clock, not the topic — but money runs through every block, ~35% of runtime. **PASS, with the known A5 risk.**
+
+## Opening contract (B, A5) — 80 words
+"You were born into a world where everyone lives to one hundred and fifty. It isn't a longer old age. It's a longer everything. Here are the rules. You don't get old for about a century. Nobody retires early. And nobody above you is leaving. There's one catch. It's a meter. Being alive costs about forty thousand dollars a year. For one hundred and fifty years. That's six million dollars. Run out early, and you live the rest on nothing."
+Premise ✓ · clock ✓ · penalty ✓ · rules ✓ · adversary (the meter) ✓
+
+## Ledger arithmetic (B) — 6,000,000 − 40,000 × age
+20 → 5,200,000 ✓ · 70 → 3,200,000 ✓ · 90 → 2,400,000 ✓ · 120 → 1,200,000 ✓ · 150 → 0 ✓ · saving 12,000 × 100 years = 1,200,000 ✓
+
+## Numbers used on screen (both drafts), re-checked
+- $10,000 at 5% for 130 years ≈ $5.68M ✓ (flagged as not a sure thing on screen)
+- $300K mortgage at 6%: $1,799 vs $1,504 a month; interest ≈ $347K vs ≈ $1.2M → 3.5× ✓ (**brief said $1.5M — corrected**)
+- Max living ancestors at a 6-year-old's party with 30-year generations = 30, oldest 126 ✓ (**brief said 62 — impossible, corrected**)
+- Retire at 65 → 85 unpaid years; retire at 120 → 30 ✓
+- Homes freed by a death each year: 1 in 45 → 1 in 115 ✓; ~2× homes needed ✓
+- Top-job openings (500 seats): 71 → 12 a year ✓
+- Old age ~15 → ~37 years; body-age at 70 ≈ 45 ✓ (**draft said "feel 29" — corrected**)
+- 70-year-old student: 50 working years left; 18-year-old: 100 ✓ (**brief and first draft said both ~50/80 — corrected**)
+- Population ~9.5 → ~19.5 billion, then flat; children 1 in 4 → 1 in 8 ✓
+
+## Retell line per segment (A)
+bouncy-castle great-great-grandfather · the spreadsheet cell turning red · "years to retirement: 94" · the 11-page CV · the bank's birthday card · "Is he in?" · six portraits of one judge · good health is bad news · the apprentice who's never seen a body · one name on the key tag
+
+## Other
+- No real companies, people or history used as proof ✓ · invented names only ✓ · `[WATERMARK]` every ~2–3 min ✓ · one signature Remotion sequence each ✓ · ends on the ladder/queue reframe, not a moral ✓
+- **Runtime is under the 12–15 min default** (A 9.4, B 6.5). Not padded on purpose; see handoff.

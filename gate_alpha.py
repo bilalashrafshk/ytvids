@@ -70,6 +70,12 @@ SKELETON_FIELDS = {
          "Company response": [r"company response", r"responded", r"denied|blamed"],
          "Precedent": [r"\bprecedent\b", r"parallel"],
          "Viewer stake": [r"viewer stake", r"your (pension|portfolio|money)"]},
+    12: {"The constraint removed": [r"constraint", r"built (on|around)"],
+         "Day one": [r"day one", r"first day"],
+         "Domains (5+)": [r"\bdomains?\b"],
+         "Upside-down domain": [r"upside.down", r"obvious good"],
+         "The long run": [r"long run", r"100\+? years"],
+         "Mirror line": [r"mirror line", r"says about (us|how we)"]},
     10: {"Absolute claim": [r"absolute claim", r"the claim"],
          "Carried unit": [r"carried unit", r"\bunit\b"],
          "Escalation ladder (4+ rungs)": [r"ladder", r"rungs?"],
@@ -118,6 +124,12 @@ def sections(text, spec):
                     continue
                 # count content in the ~40 lines after the match
                 idx = low[:m.start()].count("\n")
+                # an inline answer on the label's own line counts too
+                # ("**Mirror line:** We think a life is a ladder...")
+                same = lines[idx][m.end() - (low.rfind("\n", 0, m.start()) + 1):].strip(" *:")
+                if not re.match(r"^#{1,6}\s", lines[idx].strip()) and len(same.split()) >= 8:
+                    non_empty = True
+                    break
                 chunk = [l.strip() for l in lines[idx + 1: idx + 40] if l.strip()]
                 body = [l for l in chunk if not re.match(r"^#{1,6}\s", l)]
                 if sum(len(l.split()) for l in body) > 25:
