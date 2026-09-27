@@ -60,7 +60,7 @@ Archetypes 8-11 and the skeleton-selection logic around all eleven are documente
 
 These are the ones that held across every archetype, and they are the ones the engine actually fails:
 
-**JARGON ≤ 4.0 per 1,000 words.** Measured maximum across all seven benchmarks: **2.2**. Minimum: 0.0. Two of the seven contain literally none. The failing in-house draft measured **22.1** — ten times the worst benchmark. This single metric explains most of what "too technical" means.
+**JARGON: zero.** No technical, academic or evidence words at all (the list below plus research talk and paperwork — `gate_check.py` holds the full list). Benchmarks measured a maximum of 2.2 per 1,000 and two contain literally none; zero is the target, not a stretch. The failing in-house draft measured **22.1** — ten times the worst benchmark. This single metric explains most of what "too technical" means.
 
 **12+ character words ≤ 14 per 1,000.** Benchmark range 4.1 – 12.8. Failing draft: **28.5**.
 

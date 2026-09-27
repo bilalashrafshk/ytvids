@@ -1,4 +1,6 @@
-# FinanceCraft — Skeleton Library (v1)
+# Skeleton Library (v1)
+
+> **Write naturally — skeletons are a starting shape, not a mold.** Use a skeleton's beat map only where it helps the story; percentages are rough, beats can be merged, skipped or reordered, and if no skeleton genuinely fits, write freeform (`gate_check.py -a 0`). A script that reads like a template being filled in has failed, whatever its gates say.
 
 *Read at STEP 2 (skeleton ranking) and STEP 5 (drafting). A skeleton is the story model a script is built on. It is chosen by the **shape of the thesis**, never by the niche the reference came from. Voice is then calibrated to that skeleton's measured band (`gate_check.py -a <n>`), and FinanceCraft's channel constants sit on top of both.*
 
@@ -313,7 +315,7 @@ Section markers are bare noun phrases ("The pity phase.").
 | ~65 | **The fixed-cost danger.** The long-term commitment given physical weight (a 20-year lease as an immovable object). |
 | 95–100 | **Structural close:** a list of concrete revenue *objects*, not abstractions. |
 
-**Track 1 use:** strong for corporate autopsies. The walked transaction and cost table come from the 10-K (`[SHOWABLE]`). The "real product" is often the Angle Statement.
+**Track 1 use:** strong for corporate autopsies. The walked transaction and cost table come from the company's own numbers. The "real product" is often the Angle Statement.
 
 **Verified excerpts:**
 - "Here's the problem." (three words carry the thesis pivot)

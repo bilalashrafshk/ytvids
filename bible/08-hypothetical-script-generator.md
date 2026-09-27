@@ -84,6 +84,10 @@ Same techniques as the main show — a specific number, a direct address, an unr
 
 ## Step 3 — Write the full narration
 
+**Write naturally — skeletons are a starting shape, not a mold.** Use a skeleton's beat map only where it helps the story; percentages are rough, beats can be merged, skipped or reordered, and if no skeleton genuinely fits, write freeform (`gate_check.py -a 0`). A script that reads like a template being filled in has failed, whatever its gates say.
+
+**Plain words only — zero technical, academic or evidence language.** Every word should be one a 12-year-old uses. No jargon (actuaries, receivership, externalities), no research talk (studies show, researchers, scientists say, experts, economists, the data, evidence), no paperwork (SEC, filings, 10-K, regulators). If an idea needs a technical word, say what the thing *does* instead. This is not a style preference: it is the single biggest reason drafts come out wordy and boring.
+
 **Two passes (Two-Pass Rule, `bible/05-cp-verify-phase-gates.md`).** *Pass 1:* write the whole draft from the Concept Brief, the invented world and the skeleton's beat map — the only rules in view are invented names, an honest mechanic, and reading as fiction. Push the premise; follow the strangest consequence. *Pass 2:* on the finished draft, run CP-0, the opening-contract check for the skeleton and `gate_check.py`, then make the smallest edits that clear them.
 
 

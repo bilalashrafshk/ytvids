@@ -5,7 +5,7 @@ FinanceCraft — CP-0 / GATE gamma / GATE epsilon external verifier.
 Self-audit is unreliable at counting. This is not. Run it on any delivered
 script before accepting the engine's own audit block.
 
-    python3 gate_check.py script.md -a <archetype 1-12>
+    python3 gate_check.py script.md -a <archetype 1-12, or 0 for freeform>
 
 Exit code 0 = all gates pass, 1 = one or more fail.
 """
@@ -27,6 +27,14 @@ circulatory conversion impressions sovereignty mandates reclassifying
 decentralized multi-carrier substitution cognitive equilibrium indices
 psychotherapy stimulation cortex telemetry prefixes amortization
 capitalization utilization systemic
+study studies researcher researchers research academic academics scholars
+scientists economists experts analysts actuaries actuarial statisticians
+evidence evidentiary empirical empirically data dataset statistically statistics
+methodology hypothesis correlation causation paradigm framework frameworks
+mechanism mechanisms incentive incentives externalities stakeholders institutional
+filing filings sec 10-k 10-q regulatory regulator regulators compliance fiduciary
+receivership annuity annuities defined-benefit demographic demographics
+per-capita projections projected quantitative qualitative
 """.split()
 
 # Validated across all 7 benchmarks. Range 36–108 per 1,000 sentences;
@@ -156,6 +164,11 @@ ARCHETYPE_PROFILES = {
         # reframe lands at 27%. The 12% universal would reject the benchmark.
         "turn1": 30
     },
+    "0": {
+        "label": "Freeform (no skeleton) — universal gates only",
+        "med": 0, "mean": 0, "short": 0, "lng": 0, "you": 0,
+        "freeform": True,
+    },
     "10": {
         "label": "Scale Wall (Kurzgesagt 'Leave the Solar System', 0.38x)",
         "med": 12,
@@ -234,8 +247,8 @@ def check(label, observed, ok, evidence=""):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("path")
-    ap.add_argument("--archetype", "-a", type=int, required=True, choices=range(1, 13),
-                    help="1 First-Principles | 2 ELI5 Origin / Bet Chain | 3 Causal Chain | "
+    ap.add_argument("--archetype", "-a", type=int, required=True, choices=range(0, 13),
+                    help="0 Freeform (no skeleton) | 1 First-Principles | 2 ELI5 Origin / Bet Chain | 3 Causal Chain | "
                          "4 P&L Breakdown | 5 POV Constrained Hypothetical | "
                          "6 Dual-Character | 7 Compounded Playbook | "
                          "8 Reversal Explainer | 9 Second-Person Parable | "
@@ -269,12 +282,13 @@ def main():
     print(f"\nFinanceCraft gate check — {args.path}")
     print(f"Archetype {args.archetype}: {p['label']}")
     print(f"{n_w} words | {n_s} sentences | ~{n_w/155:.1f} min at 155 wpm")
-    print(f"Benchmark for this archetype: med {p['med']} | mean {p['mean']} | "
-          f"short {p['short']}% | long {p['lng']}% | you {p['you']}/1k\n")
+    if not p.get("freeform"):
+        print(f"Benchmark for this archetype: med {p['med']} | mean {p['mean']} | "
+              f"short {p['short']}% | long {p['lng']}% | you {p['you']}/1k\n")
     if p.get("provisional"):
         print(f"  [PROVISIONAL] {p['provisional']}\n")
 
-    results = [
+    band = [] if p.get("freeform") else [
         check(f"MED    median sentence <= {p['med'] + BAND['med']} (benchmark {p['med']})",
               f"{med:.0f} words", med <= p["med"] + BAND["med"]),
         check(f"MEAN   mean sentence <= {p['mean'] + BAND['mean']:.1f} (benchmark {p['mean']})",
@@ -283,8 +297,10 @@ def main():
               f"{short:.1f}%", short >= p["short"] - BAND["short"]),
         check(f"LONG   sentences >=25w <= {p['lng'] + BAND['lng']:.1f}% (benchmark {p['lng']}%)",
               f"{longs:.1f}%", longs <= p["lng"] + BAND["lng"]),
-        check("JARGON per 1,000 <= 4.0  [UNIVERSAL — max across all 7 benchmarks was 2.2]",
-              f"{jrate:.1f}", jrate <= 4.0,
+    ]
+    results = band + [
+        check("JARGON zero technical / academic / evidence words  [UNIVERSAL — plain words only]",
+              f"{len(jhits)} distinct ({jrate:.1f}/1k)", not jhits,
               ("offending: " + ", ".join(jhits)) if jhits else "none found"),
         check(f"BIGWD  12+ char words per 1,000 <= {p.get('bigwd', 14)}  "
               + ("[UNIVERSAL — benchmark max 12.8]" if "bigwd" not in p else "[ARCHETYPE OVERRIDE]"),
@@ -359,8 +375,8 @@ def main():
               "by design; keep each one a dramatic reveal, not a footnote")
     else:
         results.append(check(
-            "CITES  narrated-source lines <= 2  [UNIVERSAL — research is invisible, bible/01]",
-            f"{len(cites)}", len(cites) <= 2,
+            "CITES  zero narrated-source lines  [UNIVERSAL — research is invisible, bible/01]",
+            f"{len(cites)}", not cites,
             " | ".join(f'"{c[:90]}"' for c in cites[:5])))
 
     tail = " ".join(words[-150:])

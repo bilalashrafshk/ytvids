@@ -23,7 +23,7 @@ Before writing a single word, classify the topic into one of three tracks:
 * **Track 1: Documented Case Autopsy (Real Corporate History, Scandal, or Collapse):**
   - *Topics:* Peloton, WeWork, MoviePass, Theranos, Wirecard, Boeing, BYD.
   - *Skeletons available:* A2 (Bet Chain), A3 (Causal-Chain), A4 (P&L Breakdown, provisional), A8 (Reversal Explainer), **A11 (Expose Autopsy -- default first choice for "celebrated success, documents say otherwise" theses)**. Rank two per `SKELETON_LIBRARY.md`'s Selection Matrix rather than defaulting to whichever was used last.
-  - *Format:* Investigative narrative with real named figures as caricatures (`[CARICATURE: <name>]`), primary filings/records as tactile insets (`[SHOWABLE: <filing>]`), and forensic financial waterfalls (`[DATA]`).
+  - *Format:* A true story told like a thriller — real people as caricatures (`[CARICATURE: <name>]`), the occasional real artifact when one line in it is the drama (`[SHOWABLE: <what>]`), and money made visible (`[DATA]`).
   - *Tone:* Witty, investigative, grounded in real corporate absurdity.
   - *Execution:* Proceed with Step 1 through Step 5 below.
 
@@ -74,10 +74,13 @@ Draft this step last, not first. It's easier to write a genuinely sharp opening 
 
 ## **Step 3 — Write the full narration**
 
+**Write naturally — skeletons are a starting shape, not a mold.** Use a skeleton's beat map only where it helps the story; percentages are rough, beats can be merged, skipped or reordered, and if no skeleton genuinely fits, write freeform (`gate_check.py -a 0`). A script that reads like a template being filled in has failed, whatever its gates say.
+
 **Two passes (see the Two-Pass Rule in `bible/05-cp-verify-phase-gates.md`).** *Pass 1:* write the whole draft from the brief and the skeleton's beat map, treating the craft notes below as instincts, not a checklist — don't count sentences, check bands or consult the jargon list while writing. *Pass 2:* once the full draft exists, run CP-0 and `gate_check.py` and revise the smallest failing units.
 
 
 * Use the Verified Facts as the factual spine. Don't introduce anything not in the Research Brief or clearly conventional public knowledge.
+* **Plain words only — zero technical, academic or evidence language.** Every word should be one a 12-year-old uses. No jargon (actuaries, receivership, externalities), no research talk (studies show, researchers, scientists say, experts, economists, the data, evidence), no paperwork (SEC, filings, 10-K, regulators). If an idea needs a technical word, say what the thing *does* instead. This is not a style preference: it is the single biggest reason drafts come out wordy and boring.
 * **Research is invisible.** Never narrate the sourcing — no "according to its 10-K", "filings show", "a report found". Say what happened, to whom, and what it looked like. The only exception is when discovering the document *is* the scene. Sources go in the description, not the voiceover.  
 * **Engagement technique is never a license to invent.** Rhetorical questions, direct address, and emphasis all work on real verified facts — none of them require a composite character, an invented scene, or a fabricated inner monologue for a real person. If a technique only works by imagining what someone was thinking or inventing a illustrative stand-in, that's fiction-writing craft, not documentary craft, and it doesn't belong here regardless of how effective it reads.  
 * Weave in Narrative-mining highlights as texture, not as a list — don't let narration run dry for more than \~30 seconds without a human or dramatic detail surfacing.  
@@ -86,7 +89,7 @@ Draft this step last, not first. It's easier to write a genuinely sharp opening 
 * If the story involves loss of life or victims, not just financial harm, narrate that portion with appropriate gravity regardless of the channel's usual tone.  
 * Vary pacing deliberately — include at least one genuine near-stillness beat (a quiet pause after a gut-punch fact). Don't run one uniform energy for the whole runtime.  
 * Surface Open Questions honestly where they bear on the story's core claim — don't quietly resolve real ambiguity for a cleaner narrative.  
-* Seed open loops continuously, not just at the top — a forward reference ("what happened next made the SEC's job much harder") gives viewers a reason to stay past every internal drop-off point, not only the first 30 seconds.  
+* Seed open loops continuously, not just at the top — a forward reference ("what happened next, nobody at that company saw coming") gives viewers a reason to stay past every internal drop-off point, not only the first 30 seconds.  
 * Treat every segment transition as a micro-hook, not a natural pause. The gap between two sections is where viewers are most likely to leave — end each segment on a line that pulls forward, not one that trails off.  
 * Once a full draft exists, cut anything that doesn't add a fact, create curiosity, or advance the story. Over-scripting is a common failure mode — if a line doesn't earn its place, remove it even if it's well-written.  
 * Write for spoken delivery, not for reading. Read it aloud during revision — anything that sounds like an essay instead of a person talking gets rewritten.  
@@ -178,7 +181,7 @@ CP-0 Retention Physics, CP-2 audit block, tagging, decimal normalisation — bot
    **2a. RETENTION PHYSICS GATES (CP-0 — report these FIRST; any fail blocks handoff):**
    - **Archetype declared**, then `gate_check.py -a <n>` output pasted verbatim
    - Median / mean / short / long / second-person — against this archetype's measured band (see CP-0 table in `bible/06-retention-physics-cp0.md`)
-   - Jargon per 1,000 ≤ 4.0 (universal) — **list every offending term found**
+   - Jargon: zero (universal) — **list every offending term found**
    - Words of 12+ characters per 1,000 ≤ 14 (universal)
    - Concrete grounding — read by eye and quote any passage running long with nothing photographable in it. Not mechanically checkable; do not report a number for this.
    - Rhetorical-device ledger: list each device used and its count. Any device used more than once is a FAIL under R5.

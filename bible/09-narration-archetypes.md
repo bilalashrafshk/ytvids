@@ -5,7 +5,7 @@
 > **⚠ EXCERPT INTEGRITY NOTE (resolved 2026-09-19):** An audit against the actual uploaded transcripts found that 25 of the 28 "Verbatim Transcript Reference Excerpts" previously in this library were fabricated or heavily paraphrased — written in a more formal, Latinate register than the real videos. Because these excerpts are the engine's calibration layer for *voice*, the engine was learning the wrong register from them, which is the root cause of scripts reading academic despite instructions to the contrary. All excerpts below have been replaced with verified verbatim text and annotated with register notes. **Never add an excerpt to this library that has not been verified against a real transcript.** A paraphrase in this section is worse than no excerpt at all.
 
 > **Architectural Purpose & Core Protocol**  
-> Great financial storytelling is not one-size-fits-all. A forensic SEC autopsy requires a different rhetorical grammar than a deep-tech semiconductor breakdown, an absurdist trillion-dollar thought experiment, or a personal financial simulation.  
+> Great financial storytelling is not one-size-fits-all. A corporate collapse story requires a different rhetorical grammar than a deep-tech semiconductor breakdown, an absurdist trillion-dollar thought experiment, or a personal financial simulation.  
 >  
 > This master section codifies **7 proven, high-retention YouTube scripting archetypes** extracted directly from real-world top-performing videos across finance and economics. Each archetype provides:
 > 1. **Core Aesthetic & Voice Profile** (Pacing, WPM, rhetorical registers)
@@ -147,7 +147,7 @@ INPUTS:
 
 ---
 
-## **Archetype 3: The Forensic Geopolitical Chessboard**
+## **Archetype 3: The Geopolitical Chessboard**
 ### *(The Hidden System Hook & Sovereign Realism)*
 
 * **Benchmark Video:** *If You Don't Understand the Petrodollar, You Don't Understand Geopolitics* — **Lock Stock Finance**
@@ -182,7 +182,7 @@ INPUTS:
 ### 3. Dedicated Script Generator Prompt
 
 ```markdown
-SYSTEM PROMPT: THE FORENSIC GEOPOLITICAL CHESSBOARD
+SYSTEM PROMPT: THE GEOPOLITICAL CHESSBOARD
 You are the lead scriptwriter for FinanceCraft, writing an episode in the "Geopolitical Chessboard" style benchmarked against Lock Stock Finance ("If You Don't Understand the Petrodollar").
 
 CORE RULES:
@@ -212,7 +212,7 @@ INPUTS:
 ### 1. Voice & Rhetorical Anatomy
 - **Locked Voice Persona Anchor (VoxCPM2):** `"Conversational business explainer, clear and engaging."`
 - **The Voice:** The cynical, seasoned corporate insider. Dismantles the romantic daydream of entrepreneurship with brutal ledger mathematics.
-- **Pacing:** 150–160 WPM. Methodical, conversational, and forensic. Walks line-by-line down an income statement.
+- **Pacing:** 150–160 WPM. Methodical and conversational. Follows one sale from the customer's pocket to what's left at the end.
 - **The "Real Product" Revelation:** Shows that what the customer thinks they are buying is completely different from how the business actually survives (e.g., *a theater is a popcorn stand; an airline is a credit card loyalty program; an exercise bike is a recurring SaaS utility*).
 - **Visual Sync Integration:** Highly dependent on Remotion financial waterfalls, gross margin comparison cards (`newsroom-chart-animations`), and real cost breakdowns shown per unit a viewer recognises (per ticket, per bike, per cup).
 
@@ -243,7 +243,7 @@ You are the lead scriptwriter for FinanceCraft, writing an episode in the "Insid
 CORE RULES:
 1. THE NAIVE DREAM HOOK: Open with the common, romantic fantasy of owning or entering this business ("So you want to start an airline / buy a gym / open a coffee shop..."). Shatter that illusion in sentence three by revealing the single hidden cost that destroys naive operators.
 2. THE "REAL PRODUCT" PARADOX: Explicitly expose what the business is *actually* selling versus what the customer thinks they are buying (e.g., selling real estate vs burgers; selling credit card miles vs flights; selling soda syrup vs entertainment).
-3. FORENSIC UNIT ECONOMICS BREAKDOWN: Walk through a single transaction in vivid dollar terms ($X gross sale -> $Y studio/distributor split -> $Z fixed overhead -> pennies or negative margin left over).
+3. FOLLOW ONE SALE: Walk through a single transaction in vivid dollar terms ($X gross sale -> $Y studio/distributor split -> $Z fixed overhead -> pennies or negative margin left over).
 4. THE 80%+ MARGIN LIFELINE: Reveal the high-margin secondary engine that actually keeps the doors open (concessions, subscription add-ons, financing fees).
 5. VISUAL & DATA SYNC: Tag cuts every 3.0–4.0s with [REMOTION: Waterfall P&L Breakdown], [DATA: Cost per Ticket Stack], and [DATA: Margin Inversion Card].
 
@@ -314,7 +314,7 @@ CORE RULES:
 4b. THE STAKES CONTRACT: State the premise, the clock, the penalty, the working rules, and the adversary within the first 80 words. No scene-setting before the contract. The benchmark does this in 70 words.
 4c. LEDGER BEATS: Close every time block with the same repeated ledger shape — time elapsed, amount spent, amount remaining, what the adversary did while you acted. Identical format each time.
 4d. THE TINY OBSERVATION RULE: Make psychological points through one small concrete detail, never through explanation. "Everyone answers on the first ring... Not the number, the ring count." — not a paragraph about habituation. If you catch yourself explaining a mental state, delete it and find the object instead.
-4e. JARGON CEILING: 5 terms per 1,000 words maximum against the CP-0 Jargon List. This archetype fails here more than any other because macro topics invite macro vocabulary. Resist it — the benchmark video covers sovereign debt, market microstructure and circuit breakers using almost none of it.
+4e. JARGON: zero terms from the CP-0 Jargon List. This archetype fails here more than any other because macro topics invite macro vocabulary. Resist it — the benchmark video covers sovereign debt, market microstructure and circuit breakers using almost none of it.
 4f. SCOPE ESCALATION. Each act must operate on a larger system than the last. The benchmark runs properties → jets → farmland → world hunger → a sovereign state → the entire equity market → regulators on six continents. Severity rising within one fixed scale is not escalation: once the viewer knows the outcome, a story that stays the same size has nothing left to reveal. State the scope ladder in the Concept Brief before drafting, one line per act.
 5. THE SYSTEMIC REVELATION: Conclude with a profound macroeconomic truth about the physical limits of capital vs resources.
 
@@ -372,7 +372,7 @@ CORE RULES:
    - Milestone 1: Year 1 to 5 (The early friction & amortization reality)
    - Milestone 2: Year 15 (The mid-point inflection & compounding crossover)
    - Milestone 3: Year 30 (The final net worth ledger verdict)
-4. RIGOROUS SPREADSHEET NEUTRALITY: Do not caricature either protagonist. Give each path its best possible empirical defense, letting the terminal math make the argument.
+4. RIGOROUS SPREADSHEET NEUTRALITY: Do not caricature either protagonist. Give each path its best honest case, and let the final numbers make the argument.
 5. SPLIT-SCREEN VISUAL SYNC: Tag visual beats every 3.0–3.8s with [REMOTION: Split-Screen Dual Ledger], [REMOTION: 30-Year Compounding Curves], and [DATA: Amortization Breakdown].
 
 INPUTS:

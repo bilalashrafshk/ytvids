@@ -97,7 +97,7 @@ Select **ONE** persona anchor at the start of script production based on the vid
    * **When to Select:** Semiconductor hardware wars, deep-tech infrastructure, AI computing, Silicon Valley founder origin sagas.
    * **Example Chunk:** `"Engaging video essay storyteller, curious and articulate. Speaks with steady narrative momentum, tracing the founder's early gamble."`
 
-4. **The Forensic Geopolitical Analyst (*Lock Stock Finance* Benchmark)**
+4. **The Geopolitical Storyteller (*Lock Stock Finance* Benchmark)**
    * **Exact Anchor:** `"Restrained geopolitical analyst, cold, authoritative, and measured."`
    * **Vocal Persona:** A cold, analytical game-theorist. Deconstructs conspiratorial myths and replaces them with sovereign incentives and national security realism. Weighty, measured downbeats and deep chest resonance.
    * **When to Select:** Sovereign finance, petrodollar recycling, sanctions architecture, central bank reserve freezes, maritime trade chokepoints, currency wars.
@@ -137,10 +137,10 @@ The second clause always opens with `"Speaks with..."` and modulates **only paci
 
 Compose the second clause (`"Speaks with..."`) from these delivery modulations. Every instruction combines the Locked Persona Anchor with one restrained register shift:
 
-**The Forensic Discovery** — primary-source filings, opening the financial trail
+**The Discovery** — the moment the hidden thing is found
 * *"...Speaks with calm curiosity, unhurried and articulate."*
 * *"...Speaks with deliberate focus, as the significance of the numbers becomes clear."*
-* *"...Speaks with quiet forensic clarity, letting the evidence land."*
+* *"...Speaks quietly and clearly, letting the discovery land."*
 
 **The Mechanical Breakdown** — unit economics, margins, cash flow autopsy
 * *"...Speaks with steady, objective precision, explaining the math step by step."*

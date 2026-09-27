@@ -29,7 +29,7 @@ Every phase runs the same four steps:
 
 Rules and gates narrow ideas before the ideas exist. A model drafting with 3,000 lines of constraints in view writes toward the average of the benchmarks, spends its attention on compliance instead of story, and produces work that passes every gate and still feels flat. So every creative phase — idea pivots, titles, hooks, thumbnails, scripts, beat-sheet visual ideas, character concepts — runs in two separate passes:
 
-**Pass 1 — Create.** Work from only: the inputs that define the job (thesis/premise, the brief's facts or invented world, the confirmed skeleton's beat map, target runtime) and the **hard constraints** — the few rules whose violation can't be fixed by editing:
+**Pass 1 — Create.** Work from only: the inputs that define the job (thesis/premise, the brief's facts or invented world, the confirmed skeleton's beat map as a loose guide — or none, if freeform — target runtime) and the **hard constraints** — the few rules whose violation can't be fixed by editing:
 - Track 1: no invented facts, no invented dialogue for real people, real people illustrated never photoreal.
 - Track 2: invented names only, the underlying mechanic stays accurate, the episode must read as fiction.
 - Everything: the audience is a stranger with zero context.
@@ -120,7 +120,7 @@ Two failures on the same gate almost never means the engine needs another try. I
 Then run every CP-0 Retention Physics gate with observed values and evidence:
 - **Run `gate_check.py -a <archetype>` and paste its output.** Do not restate the numbers from memory — the bands are archetype-relative and the script is the authority.
 - Median, mean, short-sentence share, long-sentence share, second-person: against **this archetype's band**, not a universal number
-- Jargon per 1,000 ≤ 4.0 (universal) — **list every offending term by name**
+- Jargon: **zero** technical, academic or evidence words (universal) — **list every offending term by name**
 - 12+ char words per 1,000 ≤ 14 (universal)
 - **Retell test (the dryness gate).** Split the draft into ~60–90 second segments. For each, quote the one line a viewer would repeat to a friend — an absurd true detail, a turn, a number made physical. A segment with nothing to quote is dry: rewrite that segment. **Quote the line per segment** — a verdict without the quote is not a check.
 - **Research is invisible.** `gate_check.py`'s CITES gate lists every narrated-source line ("according to", "filings show"); more than two fails (A11 exempt — it names sources by design, as reveals). Each surviving one must be a discovery scene, not a footnote.

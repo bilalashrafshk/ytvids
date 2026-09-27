@@ -120,8 +120,8 @@ CLASSIFICATION: TRACK [n] — [name]
 TEST MATCHED:   [A / B / C] — [one sentence]
 CONSIDERED:     [the track it is NOT, and why not — one sentence]
 SHAPE:          [a–k] — [name]
-DRAFT A:        A[n] [skeleton] [(provisional)?] — [why it fits this thesis, one sentence]
-DRAFT B:        A[n] [skeleton] [(provisional)?] — [what could go wrong with it, one sentence]
+DRAFT A:        A[n] [skeleton] or FREEFORM — [why it fits this thesis, one sentence]
+DRAFT B:        A[n] [skeleton] or FREEFORM — [what could go wrong with it, one sentence]
 PROMPT:         [filename] + [skeleton addendum, if any]
 TOOL:           [which AI, and why]
 
@@ -173,6 +173,8 @@ Run `gate_alpha.py --skeleton <n>` on the returned brief for the mechanical chec
 ## STEP 5-7 — Scripting
 
 Proceed per the master document: CP-0 gates (`bible/06-retention-physics-cp0.md`), CP-3 twin drafts and CP-2 audit (`bible/07-script-generation-prompt.md`), CP-VERIFY checkpoints at each phase (`bible/05-cp-verify-phase-gates.md`), then `gate_check.py` externally on both drafts.
+
+**Write naturally.** Skeletons are loose starting shapes; if none fits, draft freeform and gate with `gate_check.py -a 0`. Plain words only — zero technical, academic or evidence language.
 
 **Create first, check after.** Each draft is written in a creative pass with only the brief, the skeleton's beat map, the runtime and the hard constraints in view. CP-0 bands, the jargon list, device ledgers and `gate_check.py` run only on the finished draft (Two-Pass Rule, `bible/05-cp-verify-phase-gates.md`). Gates decide what ships, not what gets imagined.
 
