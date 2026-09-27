@@ -27,6 +27,7 @@
 | **A6** | Two-Character Simulation | Logical Money (66.2×) | 2, 3 | Single example | Split screen with both net-worth counters at each checkpoint |
 | **A3** | Causal-Chain Explainer | Lock Stock Petrodollar (13.4×) | 1, 3 | Single example | Flywheel for the loop at the midpoint |
 | **A2** | Bet Chain | Crayon Capital NVIDIA (2.68×) | 1 | Weak ratio | Whip-zoom montage across the chain of bets |
+| **A12** | World Cascade (Kurzgesagt / What If style) | none yet — **needs 1–2 benchmark transcripts** | 2 only | **Provisional** | Before/after split of the same place, then a tour card per domain |
 | **A10** | Scale Wall (Kurzgesagt style) | Kurzgesagt Solar System (0.38×) | 2, 3 | **Provisional** | Infinite zoom or scale flyover up the ladder |
 | **A1** | First-Principles Explainer | Martik Finance, currencies (0.33×) | 3 | **Provisional** | One kinetic diagram per engine; the close returns to the opening image |
 | **A4** | Inside-the-P&L Breakdown | Mr. Finance, movie theaters (0.09×) | 1, 3 | **Provisional** | Waterfall chart for the walked transaction |
@@ -48,7 +49,9 @@ Classify the thesis into one shape (the Idea Gate's Q1 artifact usually decides 
 |---|---|---|---|---|
 | **a. Reversal** | "You believe X; it's actually Y" | A8 | A3 (T3) / A2 (T1) | A6 |
 | **b. Hidden system** | "X quietly runs Y" | A3 | A8 | A10 |
-| **c. Conditional** | "What if / you have / under this rule" | A5 | A10 (limit) or A6 (fork) | A9 |
+| **c1. World what-if** | "What if everyone / humans / the planet / X stopped existing" — the premise changes the world | A12 | A10 (if the surprise is a limit) | A5 |
+| **c2. Personal what-if** | "What if **you** had / were / could…" — it happens to one person | A5 | A9 | A12 |
+| **c3. Fork** | "What if you chose X instead of Y" — two paths compared | A6 | A5 | A9 |
 | **d. Choice** | "A vs B — which wins?" | A6 | A9 | A5 |
 | **e. Contrarian habit** | "The looked-down-on move wins over time" | A9 | A6 | A8 |
 | **f. Survival / fall** | "Bet after bet, until…" | A2 | A8 (reversal of the told version) | A3 |
@@ -222,6 +225,41 @@ Section markers are bare noun phrases ("The pity phase.").
 - The upgrade: one improvement that looks like it solves it.
 - Second barrier: an unrelated obstacle that appears after the upgrade.
 - Humility close: a real past prediction that turned out wrong.
+```
+
+---
+
+## A12 — World Cascade (provisional)
+
+**The most common what-if format** — Kurzgesagt's *What if…*, the What If channel. The premise changes the **world**, so the video tours the world. Use it whenever the premise applies to everyone ("what if humans lived to 150", "what if the Moon vanished"). Never shrink a world premise onto one or two characters.
+
+**Benchmark:** none in the idea bank yet. Add 1–2 world-scale what-if transcripts (e.g. a Kurzgesagt or What If outlier) to `references/idea_bank/`, then measure a band. Until then `gate_check.py -a 12` borrows A10's Kurzgesagt band and says so.
+
+**Beat map:**
+
+| % | Beat |
+|---|---|
+| 0–8 | **The switch, flipped.** State the premise flatly and show day one — one vivid image of the world the moment it changes. |
+| 8–20 | **The world we take for granted.** How things work *now* because of the constraint the premise removes (we die around 80, so careers, marriages, pensions and elections are all sized to that). This is what the rest of the video breaks. |
+| 20–80 | **The tour.** 4–6 domains, each a mini-story: the obvious first effect, then the **second-order** effect nobody thinks of. Order by surprise, not by category. Typical domains: body, family and relationships, work and money, society and politics, the planet, meaning. |
+| ~60–70 | **The consequence nobody expected** — the domain where the premise's "obvious good" turns out bad (or its obvious bad turns out good). The video's biggest turn. |
+| 80–95 | **Long run.** A century or more later: what the world settles into. |
+| 95–100 | **What it says about now.** One line turning back to the viewer's real world — a question or an image, not a lesson. |
+
+**Rules:**
+- Characters are allowed only as brief *illustrations inside a domain* (a 140-year-old intern), never as the spine.
+- One domain may go deep on money; money never becomes the whole video.
+- Real mechanics must be right (the mechanic check), but real history stays off screen unless it's a reveal.
+
+**Brief addendum:**
+```
+## PART 8 — Cascade kit (skeleton A12)
+- The constraint: what the world is built around today that this premise removes.
+- Day one: one concrete image of the moment it changes.
+- Domains: 5–7 candidates. For each: first-order effect, second-order effect, one concrete image.
+- The upside-down domain: where the obvious good becomes bad (or vice versa).
+- The long run: what the world looks like 100+ years later.
+- The mirror line: what this says about how we live now.
 ```
 
 ---

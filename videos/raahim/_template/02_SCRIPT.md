@@ -7,7 +7,7 @@
 ---
 
 ## Script Metadata
-- **Skeleton:** [A5 / A10 / A6 / A9 / A8]
+- **Skeleton:** [A12 / A5 / A6 / A9 / A10 / A8]
 - **Point of entry:** [one sentence on where it opens and why]
 - **Word count / runtime:** [e.g. 1,400 words / ~9 min at 155 wpm]
 

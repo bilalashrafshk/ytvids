@@ -110,7 +110,14 @@ Two failures on the same gate almost never means the engine needs another try. I
 - FAIL → re-pick structures. This gate is cheap to fail and enormously expensive to skip; a wrong structural choice cannot be edited out later.
 
 ### GATE γ — Narration Draft (after Step 3, per draft, independently)
-Run every CP-0 Retention Physics gate with observed values and evidence:
+**Promise check — run this first; a FAIL here means a rewrite, not an edit.**
+- Write the title's promise in one line (what a viewer who clicked expects to see).
+- List what the script actually spends its runtime on, by section, with rough %.
+- FAIL if the script **narrows the premise** — a world-changing premise told through one or two characters or reduced to one lesson (e.g. "what if humans lived to 150" delivered as two men's retirement accounts); if more than a third of the runtime is on something the title didn't promise; or if the skeleton doesn't match the premise's scale (world → A12, one person → A5, a fork → A6).
+- FAIL on a **moral close** ("notice what decided this", "the lesson is", "the difference was…"). `gate_check.py` flags common phrasings; read the last 150 words anyway.
+- FAIL on **real history used as proof** inside a hypothetical (a real company, law or person cited to back a point) unless it is itself a reveal — and then it must be verified.
+
+Then run every CP-0 Retention Physics gate with observed values and evidence:
 - **Run `gate_check.py -a <archetype>` and paste its output.** Do not restate the numbers from memory — the bands are archetype-relative and the script is the authority.
 - Median, mean, short-sentence share, long-sentence share, second-person: against **this archetype's band**, not a universal number
 - Jargon per 1,000 ≤ 4.0 (universal) — **list every offending term by name**
@@ -121,7 +128,7 @@ Run every CP-0 Retention Physics gate with observed values and evidence:
 - **Mechanism repetition.** List every distinct failure mode in the script. If the same one recurs — a blocked login, a frozen account — it is one beat told repeatedly, not escalation. The benchmarks never reuse a failure mode; each stage breaks for a new reason. Not mechanically checkable, since the mechanism is topic-specific.
 - R3 explainer-paragraph ban — quote any passage of 3+ mechanism sentences with no person, object, consequence or joke
 - R5 device ledger — list each rhetorical device and its count; any count >1 is a FAIL
-- Opening contract, by skeleton (never by track): **A5** — Stakes Contract complete within 80 words, **quote the 80 words**; **A9** — Cost Contract (contrarian choice, its social cost, the named foil) complete by word 150, **quote the 150 words**; **A10** — no contract, opens on a flat absolute claim, **quote the claim**. Applying the A5 contract to A9 or A10 is itself a FAIL of this gate.
+- Opening contract, by skeleton (never by track): **A5** — Stakes Contract complete within 80 words, **quote the 80 words**; **A9** — Cost Contract (contrarian choice, its social cost, the named foil) complete by word 150, **quote the 150 words**; **A10** — no contract, opens on a flat absolute claim, **quote the claim**; **A12** — the switch flipped and day one shown within the first ~8%, **quote it**. Applying the A5 contract to A9 or A10 is itself a FAIL of this gate.
 - A5: ledger beats present and identically shaped at every time block -- **do not eyeball this.** List every checkpoint's field names side by side. If the field set changes between checkpoints (e.g. checkpoint 1 tracks "dispatches / storage revenue / trapped pallets", checkpoint 2 tracks "bank clearance / trapped deposits / failed wire fees"), that is a FAIL even if each individual checkpoint reads well -- it is flavor text updating, not one running instrument the viewer can track. This exact failure has shipped before undetected.
 - **Ledger arithmetic.** For A5 and A11 specifically: take the rate or figure established in the Stakes Contract / Anomaly beat and recompute at least one later checkpoint from it by hand. State the computed number next to the scripted number. A mismatch is a FAIL regardless of how the surrounding prose reads -- this is exactly the kind of error self-audit misses, since it requires arithmetic, not judgement, and CP-VERIFY's "Honest limitation" section already says self-verification is weakest at mechanical counting. This exact failure (a stated demurrage rate that didn't reconcile with a later checkpoint by roughly 10x) has shipped before undetected.
 

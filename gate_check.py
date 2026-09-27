@@ -5,7 +5,7 @@ FinanceCraft — CP-0 / GATE gamma / GATE epsilon external verifier.
 Self-audit is unreliable at counting. This is not. Run it on any delivered
 script before accepting the engine's own audit block.
 
-    python3 gate_check.py script.md -a <archetype 1-11>
+    python3 gate_check.py script.md -a <archetype 1-12>
 
 Exit code 0 = all gates pass, 1 = one or more fail.
 """
@@ -52,6 +52,12 @@ CITATION = re.compile(
     r"\b(filings?|documents?|records?|reports?|data|studies|research|a study|analysts?|surveys?)\s+"
     r"(show|shows|showed|reveal|reveals|revealed|suggest|suggests|suggested|indicate|indicates|"
     r"found|finds|confirm|confirms|confirmed)\b", re.I)
+
+# A script should end on an image or a question, never a lecture.
+MORAL_CLOSE = re.compile(
+    r"\b(the (real )?lesson|the moral|notice what|what decided (this|the)|"
+    r"the difference was(n'?t| not)?|remember this|the takeaway|"
+    r"it was not (luck|about)|what will you (actually )?do)\b", re.I)
 
 # Things a camera could photograph. Extend freely per episode.
 CONCRETE = """
@@ -160,6 +166,16 @@ ARCHETYPE_PROFILES = {
         "provisional": "benchmark is BELOW the 1x outlier bar; bands are format "
                        "calibration only, not evidence the format performs"
     },
+    "12": {
+        "label": "World Cascade (NO benchmark yet — borrowing A10's Kurzgesagt band)",
+        "med": 12,
+        "mean": 14.7,
+        "short": 22.1,
+        "lng": 16.6,
+        "you": 15.5,
+        "provisional": "no A12 benchmark in the idea bank; bands borrowed from A10 "
+                       "(Kurzgesagt). Add a world-scale what-if transcript and re-measure"
+    },
     "11": {
         "label": "Exposé Autopsy (Low Volume Capital 'BYD', 31.5x)",
         "med": 13,
@@ -218,12 +234,13 @@ def check(label, observed, ok, evidence=""):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("path")
-    ap.add_argument("--archetype", "-a", type=int, required=True, choices=range(1, 12),
+    ap.add_argument("--archetype", "-a", type=int, required=True, choices=range(1, 13),
                     help="1 First-Principles | 2 ELI5 Origin / Bet Chain | 3 Causal Chain | "
                          "4 P&L Breakdown | 5 POV Constrained Hypothetical | "
                          "6 Dual-Character | 7 Compounded Playbook | "
                          "8 Reversal Explainer | 9 Second-Person Parable | "
-                         "10 Scale Wall (provisional) | 11 Exposé Autopsy")
+                         "10 Scale Wall (provisional) | 11 Exposé Autopsy | "
+                         "12 World Cascade (provisional)")
     args = ap.parse_args()
 
     p = ARCHETYPE_PROFILES[str(args.archetype)]
@@ -346,10 +363,19 @@ def main():
             f"{len(cites)}", len(cites) <= 2,
             " | ".join(f'"{c[:90]}"' for c in cites[:5])))
 
+    tail = " ".join(words[-150:])
+    morals = [m.group(0) for m in MORAL_CLOSE.finditer(tail)]
+    results.append(check(
+        "CLOSE  no moral / lesson in the last 150 words  [UNIVERSAL]",
+        f"{len(morals)} lecture phrase(s)", not morals,
+        ", ".join(f'"{m}"' for m in morals[:5])))
+
     print("\n  NOT MECHANICALLY CHECKED — apply by eye (see CP-VERIFY):")
     print("    - concrete-noun runs: no reliable automated test exists; read for")
     print("      passages with nothing a camera could photograph")
     print("    - R3 explainer-paragraph ban, R5 device repetition")
+    print("    - PROMISE check first: title promise vs what the runtime is spent on;")
+    print("      a world premise shrunk onto 1-2 characters or one lesson FAILS")
     print("    - RETELL test: each ~60-90s segment has one thing a viewer would repeat")
     print("      to a friend; a segment with none gets rewritten (CP-VERIFY GATE gamma)")
     if args.archetype == 9:

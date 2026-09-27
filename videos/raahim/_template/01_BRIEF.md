@@ -9,7 +9,7 @@
 ## Episode
 - **Type:** [What-if (Track 2) | Strange-but-true (Track 3)]
 - **Premise / question (one line):** [What if everyone on Earth jumped at once?]
-- **Skeleton (confirmed at HARD STOP 1):** [A5 / A10 / A6 / A9 | A8]
+- **Skeleton (confirmed at HARD STOP 1):** [A12 / A5 / A6 / A9 / A10 | A8]
 - **Target runtime:** [e.g. 8–10 min (~1,250–1,550 words at ~155 wpm)]
 - **The belief we break / the thing that makes it absurd:** [one sentence]
 

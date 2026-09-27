@@ -76,7 +76,7 @@ Before committing to the Concept Brief, answer honestly: **what is the single be
 
 ## Step 1 — Pick a structure, and say which one
 
-The chronological personal-journey structure is the strongest default for this format — following one invented person or household through a multi-year arc tends to make abstract math feel concrete. But the same menu from the main Script Generator is available if a different shape genuinely fits better (thematic, parallel-characters comparing two invented paths, reverse chronology from the end state backward). State the choice and one sentence of reasoning.
+**The structure follows the premise's scale — there is no default.** If the premise changes the world ("what if humans lived to 150"), the video tours the world: A12 World Cascade. If it happens to one person ("what if you had $1 trillion"), follow that person: A5. Only a genuine fork between two choices gets two characters: A6. **Never shrink a world premise onto one or two characters, and never narrow it to a single lesson** — a viewer who clicked "what if humans lived to 150" wants the whole changed world, not one retirement plan. State the skeleton and one sentence of reasoning.
 
 ## Step 2 — Build the hook
 
@@ -89,7 +89,7 @@ Same techniques as the main show — a specific number, a direct address, an unr
 
 - **Invented names only — people, companies, banks, everything.** Never a real entity, never a near-miss that could be mistaken for one.
 - **The underlying mechanic must be accurate.** Every number in the scenario should be internally consistent and true to how the real mechanic works — the story is invented, the math is not.
-- Build one or two invented characters with enough specific, sensory detail to feel real — a recurring visual motif (a whiteboard, a specific object) gives the Guided Production Document something concrete to anchor beats to.
+- Characters are optional. When the skeleton is personal (A5, A6, A9), build one or two invented characters with enough specific, sensory detail to feel real — a recurring visual motif (a whiteboard, a specific object) gives the Guided Production Document something concrete to anchor beats to.
 - Direct address to the viewer ("you") can carry the whole narration if the personal-journey structure is used — this is the one structural choice that flips from the main show's rule, where a documentary voice narrates about someone else, not as someone else.
 - Reuse the engagement craft from the main Script Generator: genuine rhetorical questions posed and then answered, and emphasis-through-isolation for a key number rather than relying on intensifying adjectives.
 - Vary pacing deliberately, same as the main show — near-stillness beats, segment transitions that pull forward rather than trail off, a cutting pass once a full draft exists, and a read-aloud check for spoken delivery.
@@ -103,7 +103,7 @@ Also tag where the recurring `[WATERMARK]` reminder falls — roughly every 2-3 
 
 ## Step 5 — Close and hand off
 
-End on the takeaway from the Concept Brief, stated through the story rather than tacked on as a lesson. Don't write the subscribe/sign-off CTA — same standardized block as the main show, though note the Guided Production Document uses this sub-series' own lavender watermark badge, not the main show's standing assets.
+End on an image or a question that turns the premise back on the viewer's real world — never a moral, a lesson or "notice what decided this". Don't write the subscribe/sign-off CTA — same standardized block as the main show, though note the Guided Production Document uses this sub-series' own lavender watermark badge, not the main show's standing assets.
 
 ## Output format
 

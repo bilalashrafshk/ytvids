@@ -33,7 +33,7 @@ Before writing a single word, classify the topic into one of three tracks:
   - *Format:* Second-person POV immersion ("You"), ticking countdown clocks, composite characters (`[COMPOSITE: <role>]`), telemetry HUDs, and recurring `[WATERMARK: HYPOTHETICAL SCENARIO]` overlays.
   - **CREATIVE MANDATE:** Track 2 is a fiction format with an honest mechanic at its centre. Invent people, places, objects, dialogue and escalation freely and specifically — the Invention Protocol governs this. The only locked layer is the mechanic and its anchoring figures. Over-applying documentary caution here is a failure mode, not a safety measure: it produces careful, generic scenarios nobody finishes watching.
   - **STRICT PROHIBITION:** **NEVER force SEC Form 10-K filings, court dockets, PACER records, or corporate fraud litigation framing onto a thought experiment.** Doing so creates a dry, formal, nonsensical video and constitutes an automatic engine failure.
-  - *Execution:* **Route immediately to `bible/08-hypothetical-script-generator.md`, with the skeleton (A5, A9 or A10) confirmed at HARD STOP 1 — A5 voice anatomy is in `bible/09-narration-archetypes.md`, A9/A10 in `SKELETON_LIBRARY.md`.**
+  - *Execution:* **Route immediately to `bible/08-hypothetical-script-generator.md`, with the skeleton (A12, A5, A6, A9 or A10) confirmed at HARD STOP 1 — A5 voice anatomy is in `bible/09-narration-archetypes.md`, the rest in `SKELETON_LIBRARY.md`.**
 
 * **Track 3: Mechanism / Explainer Episode (How something works, not what went wrong or what if):**
   - *Topics:* how currencies actually work, the unit economics of an industry, why a market behaves the way it does -- no villain, no collapse, no hypothetical premise.

@@ -43,7 +43,7 @@ Direct signal processing and spectral measurement (`ffmpeg astats`, `ebur128`, a
 
 ## **2. The 5 Core Music Beds, M1–M5 (Selection & Usage Engine)**
 
-Every FinanceCraft episode must map its narrative acts to one or more of the following 5 core music beds (M1–M5 — never confused with narration archetypes A1–A11 or thumbnail styles T1–T7):
+Every FinanceCraft episode must map its narrative acts to one or more of the following 5 core music beds (M1–M5 — never confused with narration archetypes A1–A12 or thumbnail styles T1–T7):
 
 ### **M1: Inquisitive Neo-Classical & Playful Tech (Crayon Capital Style)**
 * **Sonic Profile:** Snappy, bright, intellectual, and curious. Plucked staccato violins, marimbas, woodblocks, light glockenspiel accents, and dry acoustic percussion. Zero heavy sub-bass drone.

@@ -2,7 +2,7 @@
 
 # **FinanceCraft — Thumbnail Style Reference**
 
-*A menu of distinct, proven thumbnail styles, numbered **T1–T7** (never confused with narration archetypes A1–A11 or music beds M1–M5), described as reusable patterns — not templates to copy directly. Pick whichever fits a given episode's actual content, per the guidance under each one. Referenced by the Guided Production Document's Thumbnail Concepts phase.*
+*A menu of distinct, proven thumbnail styles, numbered **T1–T7** (never confused with narration archetypes A1–A12 or music beds M1–M5), described as reusable patterns — not templates to copy directly. Pick whichever fits a given episode's actual content, per the guidance under each one. Referenced by the Guided Production Document's Thumbnail Concepts phase.*
 
 ---
 

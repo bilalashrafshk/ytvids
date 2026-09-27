@@ -105,7 +105,7 @@ Some topics are Track 1 with a hypothetical act ("could MoviePass have worked?")
 
 ### Skeleton ranking (same step, after the track is set)
 
-Take the SHAPE from the Idea Gate and read the Selection Matrix in `SKELETON_LIBRARY.md`. Rank 1 is Draft A's skeleton; Rank 2 is Draft B's. Skip any rank that is incompatible with the track (A5 and A9 are Track 2 only; A2 and A11 are Track 1 only; A1 and A7 are Track 3). Provisional skeletons (A1, A4, A7, A10) rank normally but are labelled `(provisional)` at HARD STOP 1.
+Take the SHAPE from the Idea Gate and read the Selection Matrix in `SKELETON_LIBRARY.md`. Rank 1 is Draft A's skeleton; Rank 2 is Draft B's. Skip any rank that is incompatible with the track (A5, A9 and A12 are Track 2 only; A2 and A11 are Track 1 only; A1 and A7 are Track 3). Provisional skeletons (A1, A4, A7, A10) rank normally but are labelled `(provisional)` at HARD STOP 1.
 
 ---
 

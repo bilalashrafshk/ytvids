@@ -123,7 +123,7 @@ Append the relevant block to every generation:
 
 ## 10. "The Hypothetical" — Illustrative Scenario Sub-Series
 
-A distinct sub-series for content that teaches a real financial or business mechanic through an invented, illustrative scenario — not a documented case. This covers both a relatable everyday-money scenario (a mortgage, a loan) and a deliberately absurd premise (stranded on an island with $10M of luxury goods) explored with real economic reasoning — the premise can be absurd; the reasoning under it can't be. It must never be mistaken for a documented episode.
+A distinct sub-series for invented scenarios followed with real reasoning — not a documented case. The premise sets the scope: a world-changing premise explores the whole changed world (with money as one lens among several); a personal premise follows one person. It is never a disguised lesson in one financial mechanic. This covers both a relatable everyday-money scenario (a mortgage, a loan) and a deliberately absurd premise (stranded on an island with $10M of luxury goods) explored with real economic reasoning — the premise can be absurd; the reasoning under it can't be. It must never be mistaken for a documented episode.
 
 **The inversion, stated plainly:** everywhere the main Style Bible says real names, real sourcing, real caricatures — this sub-series does the opposite. Invented people, invented companies, a verified-accurate underlying mechanic instead of a primary-source trail. Nothing here overrides the parent rules for documented episodes; it's a separate, clearly-marked lane.
 

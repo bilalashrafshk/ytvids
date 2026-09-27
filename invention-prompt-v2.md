@@ -1,10 +1,10 @@
 # FinanceCraft — Invention Prompt (v3, Track 2 / "The Hypothetical")
 
-*The counterpart to the Research Prompt. Use this for POV scenarios, thought experiments, and any invented-scenario episode. Replace `[PREMISE]` and `[MECHANIC]`. Fill `[SKELETON]` if you know it — Part 8 only fires if you do. Do not use the Track 1 research prompt for these.*
+*The counterpart to the Research Prompt. Use this for POV scenarios, thought experiments, and any invented-scenario episode. Replace `[PREMISE]` and `[MECHANICS]`. Fill `[SKELETON]` if you know it — Part 8 only fires if you do. Do not use the Track 1 research prompt for these.*
 
 ---
 
-I'm building a fictional scenario episode for **[CHANNEL — the one-line description from the channel profile; FinanceCraft: "a financial documentary channel"]**. Rough premise: **[PREMISE]**. The real mechanic (financial, physical, biological or social) I want it to get right: **[MECHANIC]**. Skeleton this is for (see `SKELETON_LIBRARY.md`, e.g. A5, A6, A9, A10): **[SKELETON]**.
+I'm building a fictional scenario episode for **[CHANNEL — the one-line description from the channel profile; FinanceCraft: "a financial documentary channel"]**. Rough premise: **[PREMISE]**. The real mechanics (financial, physical, biological, social) that must be right: **[MECHANICS]**. These are constraints on accuracy, not the topic — **the premise is the topic.** If it changes the whole world, explore the whole world; don't narrow it to one lesson or one or two characters. Skeleton this is for (see `SKELETON_LIBRARY.md`, e.g. A5, A6, A9, A10): **[SKELETON]**.
 
 This is invented, not reported. Do not search for real events to cite. Do not give me studies, statistics, or academic sources. The only thing that must be factually correct is the mechanic itself.
 
@@ -31,7 +31,9 @@ Use these angles:
 
 Then: which is strongest, and one sentence on why each of the other four is weaker.
 
-## PART 2 — The contract
+## PART 2 — The contract (A5 only)
+
+*Skip this part for A12 (World Cascade) — a world what-if has no protagonist or adversary; use the Cascade kit in Part 8 instead. A9 replaces it (see Part 8).*
 
 The scenario's rules, stated the way a legal notice would state them:
 - What just happened (one sentence)
