@@ -21,7 +21,7 @@ const DRAFT_ROOT = process.env.DRAFT_ROOT_OVERRIDE
   || "/Users/bilalashraf/Movies/CapCut/User Data/Projects/com.lveditor.draft";
 const EP = "/Users/bilalashraf/YT Videos/videos/04-what-if-humans-live-to-150";
 const READY = `${EP}/assets/capcut_ready`;
-const BADGE = "/Users/bilalashraf/YT Videos/remotion/out/ep04/badge_hypothetical.mov";
+const BADGE = `${READY}/remotion/badge_hypothetical.mov`;
 
 const plan = JSON.parse(fs.readFileSync(`${READY}/timeline_plan.json`, "utf8"));
 const draftFolder = path.join(DRAFT_ROOT, DRAFT_NAME);
