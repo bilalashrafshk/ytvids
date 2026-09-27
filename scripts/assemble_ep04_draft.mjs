@@ -23,6 +23,14 @@ const EP = "/Users/bilalashraf/YT Videos/videos/04-what-if-humans-live-to-150";
 const READY = `${EP}/assets/capcut_ready`;
 const BADGE = `${READY}/remotion/badge_hypothetical.mov`;
 
+import { execSync } from 'node:child_process';
+// Rebuilding a draft while CapCut is open leaves it half-migrated and unopenable. Refuse.
+try {
+  execSync('pgrep -x CapCut', { stdio: 'ignore' });
+  console.error('CapCut is running. Quit CapCut completely, then rerun this script.');
+  process.exit(1);
+} catch { /* not running — safe to build */ }
+
 const plan = JSON.parse(fs.readFileSync(`${READY}/timeline_plan.json`, "utf8"));
 const draftFolder = path.join(DRAFT_ROOT, DRAFT_NAME);
 if (fs.existsSync(draftFolder)) fs.rmSync(draftFolder, { recursive: true, force: true });
