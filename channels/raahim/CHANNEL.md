@@ -124,9 +124,9 @@ Replaces `bible/10`'s M1–M5.
 
 ## 8. Voice
 
-VoxCPM2 process from `bible/12` unchanged; persona replaced:
+VoxCPM2 process from `bible/12` unchanged (dynamic instruction per chunk, no fixed prefix). Raahim's narrator feel:
 
-- **Persona anchor:** *"A warm, articulate mid-century educational-film narrator, crisp and cheerful, with perfect diction and unshakeable calm."*
+- **Narrator feel:** *"A warm, articulate mid-century educational-film narrator, crisp and cheerful, with perfect diction and unshakeable calm."*
 - **Dynamic register:** delivery never rises to match the chaos. Catastrophes are delivered *slightly slower and more pleased*, not louder. Deadpan turns get a half-beat pause before the understatement.
 
 ---

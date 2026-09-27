@@ -2,7 +2,7 @@
 
 # **FinanceCraft — Voice Direction Prompt (VoxCPM2)**
 
-*The auditory spine of the pipeline. Feed this a finished narration script from the Script Generator. It turns the script into a chunked, VoxCPM2-ready voiceover generation script (`06_VOICE_DIRECTION.json` / `VOICE_DIRECTION_VOXCPM2.json` and `06_VOICE_DIRECTION.md`). Enforces the **Two-Part Control Instruction Protocol**: locking one unchanging Persona Anchor across all chunks (mapped from the episode's core archetype) and modulating only delivery registers (cadence, pacing, quiet weight) without shouting. Generating the master VO audio and its timestamped alignment JSON here provides the ground-truth timing for 07_BEAT_SHEET.md, ensuring visual cuts snap to spoken cadence with zero drift.*
+*The auditory spine of the pipeline. Feed this a finished narration script from the Script Generator. It turns the script into a chunked, VoxCPM2-ready voiceover generation script (`06_VOICE_DIRECTION.json` / `VOICE_DIRECTION_VOXCPM2.json` and `06_VOICE_DIRECTION.md`). Each chunk gets its own vivid delivery instruction, written for that line — no fixed persona prefix, since the cloned reference voice already carries the narrator's identity. Generating the master VO audio and its timestamped alignment JSON here provides the ground-truth timing for 07_BEAT_SHEET.md, ensuring visual cuts snap to spoken cadence with zero drift.*
 
 ---
 
@@ -54,113 +54,80 @@ VoxCPM2 has no memory between chunks beyond the cloned reference audio — it do
 
 ---
 
-## **Two-Part Control Instruction: Locked Persona Anchor + Delivery Register Modulation**
+## **One layer, every chunk — delivery only, written fresh for that line**
 
-Neural voice cloning models (VoxCPM2, ElevenLabs, Kokoro) require an immutable persona anchor across chunks. Because the model is stateless across independent inference calls, varying the prompt's persona vocabulary from chunk to chunk causes the text embedding to overpower the reference audio embedding, fracturing clone fidelity and making the narrator sound like different actors across the video.
+Every chunk generates via Controllable Cloning against the channel's saved reference clip. The reference audio already carries who the narrator is — gender, age, texture, accent. So the Control Instruction carries **only delivery**: never restate identity, and **never prepend a persona string** ("Engaging video essay storyteller…"). A fixed persona phrase repeated on every chunk flattens the read into one register for the whole video; that is the failure this rule exists to prevent.
 
-To guarantee 100% vocal consistency, **every Control Instruction in a script MUST follow this strict two-part architecture**:
+**Write each instruction for the line it sits on.** Read the chunk, ask what a great human narrator would *do* with it — lean in, hold back, smile, let it land, speed up through a list, slow down for the turn — and describe that, vividly and specifically. A menu phrase reused across the script is a failure even if it's accurate.
 
-> **Format:** `"<Locked Persona Anchor>. Speaks with <Delivery Register Modulation>."`
+Compare:
+* *Weak (persona stack, generic):* "Engaging video essay storyteller, curious and articulate. Speaks with calm curiosity, unhurried and articulate."
+* *Weak (states identity):* "Panic-stricken female voice, rapid breathless delivery, cracking under strain."
+* *Right:* "Speaks with a faintly amused arch, as if sharing a joke the subject never got to hear."
+* *Right:* "Speaks with grave weight, each word placed like a verdict being read."
 
----
-
-### **Part 1: The Master Delivery Style Registry (Locked Persona Anchors)**
-Select **ONE** persona anchor at the start of script production based on the video's format archetype. **This exact phrase must be prepended to every single chunk across the entire video without variation**:
-
-| Archetype / Format | Benchmark Channel | Locked Persona Anchor String | Acoustic Profile & WPM | Best Suited For |
-| :--- | :--- | :--- | :--- | :--- |
-| **1. First-Principles Explainer** | *Martik Finance* (`pzInrqRFU5M`) | `"Approachable finance educator, warm, articulate, and conversational."` | Calm, clear, accessible educator. 145–155 WPM. Deliberate downbeats; strips away jargon. | Macroeconomics, currency systems, inflation mechanics, central banks, trade deficits. |
-| **2. ELI5 Mythic Hardware** | *Crayon Capital* (`1GowFTjbUnk`) | `"Engaging video essay storyteller, curious and articulate."` | High-energy, punchy, intellectually curious. 155–165 WPM. Crisp staccato, tactile analogies. | Semiconductor hardware wars, AI computing infrastructure, founder turnaround epics. |
-| **3. Geopolitical Chessboard** | *Lock Stock Finance* (`1kFV1Td2BQs`) | `"Restrained geopolitical analyst, cold, authoritative, and measured."` | Cold, analytical game-theorist. 140–150 WPM. Deep, resonant chest tone, dignified pauses. | Sovereign debt, petrodollar recycling, sanctions architecture, energy chokepoints. |
-| **4. Inside-the-P&L Breakdown** | *Mr. Finance* (`-hBYfmfgBbg`) | `"Conversational business explainer, clear and engaging."` | Pragmatic, intelligent insider. 150–160 WPM. Close-mic studio warmth, relaxed chest register. | Corporate autopsies, unit economics, declining retail models, balance sheet forensics. |
-| **5. POV Thought Experiment** | *My Chaotic Stories* (`dwSfdH1K7Zk`) | `"Sharp, fast-paced scenario guide, engaging, articulate, and vivid."` | Immersive second-person guide. 160–170 WPM. Ticking-clock momentum, deadpan realism. | "The Hypothetical" sub-series, trillion-dollar thought experiments, economic disasters. |
-| **6. Dual-Character Simulation** | *Logical Money* (`nkT_K8l1rEw`) | `"Relatable financial breakdown guide, clear, objective, and conversational."` | Neutral, rigorous financial auditor. 145–155 WPM. Friendly, impartial, dry common sense. | Rent vs. buy, mortgage payoff math, leasing vs buying, index funds vs real estate. |
-| **7. Compounded Efficiency** | *LITTLE BIT BETTER* (`Pd3HYjpmks4`) | `"Clear, empowering finance mentor, calm, confident, and direct."` | Quietly confident mentor. 150–160 WPM. Crisp, purposeful, empowering mathematical clarity. | Financial independence (FIRE), savings rate curves, asymmetric wealth accumulation. |
-
-#### Detailed Style Profiles & Chunk Examples
-
-1. **The Inside-the-P&L Business Analyst (*Mr. Finance* Benchmark)**
-   * **Exact Anchor:** `"Conversational business explainer, clear and engaging."`
-   * **Vocal Persona:** A pragmatic, intelligent insider sitting across a desk explaining how a company really makes its money. Close-mic studio intimacy, relaxed chest register, unhurried downbeats. Walks line-by-line down an income statement with cool authority.
-   * **When to Select:** Corporate autopsies, franchise breakdowns, unit economics, retail crashes (e.g. Peloton, movie theaters, McDonald's, Boeing).
-   * **Example Chunk:** `"Conversational business explainer, clear and engaging. Speaks with cool, unhurried clarity, walking through the unit economics step by step."`
-
-2. **The First-Principles Macro Educator (*Martik Finance* Benchmark)**
-   * **Exact Anchor:** `"Approachable finance educator, warm, articulate, and conversational."`
-   * **Vocal Persona:** An empathetic, patient educator who treats the viewer as an intelligent peer. Strips away banking pretension and Wall Street vocabulary with crystal-clear, steady pacing.
-   * **When to Select:** Macroeconomics, currency systems, inflation mechanics, interest rates, central banking, global trade deficits.
-   * **Example Chunk:** `"Approachable finance educator, warm, articulate, and conversational. Speaks with calm, unhurried curiosity, unpacking the system from first principles."`
-
-3. **The ELI5 Deep-Tech Storyteller (*Crayon Capital* Benchmark)**
-   * **Exact Anchor:** `"Engaging video essay storyteller, curious and articulate."`
-   * **Vocal Persona:** A dynamic, intellectually curious tech storyteller. Energetic and punchy without shouting; uses vivid tactile metaphors (professors vs kindergarteners) and rapid momentum.
-   * **When to Select:** Semiconductor hardware wars, deep-tech infrastructure, AI computing, Silicon Valley founder origin sagas.
-   * **Example Chunk:** `"Engaging video essay storyteller, curious and articulate. Speaks with steady narrative momentum, tracing the founder's early gamble."`
-
-4. **The Geopolitical Storyteller (*Lock Stock Finance* Benchmark)**
-   * **Exact Anchor:** `"Restrained geopolitical analyst, cold, authoritative, and measured."`
-   * **Vocal Persona:** A cold, analytical game-theorist. Deconstructs conspiratorial myths and replaces them with sovereign incentives and national security realism. Weighty, measured downbeats and deep chest resonance.
-   * **When to Select:** Sovereign finance, petrodollar recycling, sanctions architecture, central bank reserve freezes, maritime trade chokepoints, currency wars.
-   * **Example Chunk:** `"Restrained geopolitical analyst, cold, authoritative, and measured. Speaks with steady, unhurried gravity, tracing the strategic leverage point."`
-
-5. **The POV Absurdist Guide (*My Chaotic Stories* Benchmark)**
-   * **Exact Anchor:** `"Sharp, fast-paced scenario guide, engaging, articulate, and vivid."`
-   * **Vocal Persona:** An immersive second-person ("you") guide. Quick-witted, highly visual, guiding the viewer through high-stakes logistical puzzles with ticking-clock momentum and deadpan reactions.
-   * **When to Select:** "The Hypothetical" sub-series, trillion-dollar thought experiments, hyper-inflation simulations, logistical chaos.
-   * **Example Chunk:** `"Sharp, fast-paced scenario guide, engaging, articulate, and vivid. Speaks with brisk, ticking-clock momentum, laying out the strict rules of the game."`
-
-6. **The Dual-Character Spreadsheet Auditor (*Logical Money* Benchmark)**
-   * **Exact Anchor:** `"Relatable financial breakdown guide, clear, objective, and conversational."`
-   * **Vocal Persona:** A neutral, rigorous financial auditor. Friendly, impartial, and completely indifferent to societal cliches. Lets the spreadsheet deliver the verdict with dry, relatable humor.
-   * **When to Select:** Personal finance sacred cows, renting vs buying, active trading vs index investing, leasing vs owning, 30-year net worth simulations.
-   * **Example Chunk:** `"Relatable financial breakdown guide, clear, objective, and conversational. Speaks with relaxed, friendly clarity, setting up the two parallel paths."`
-
-7. **The Compounded Efficiency Mentor (*LITTLE BIT BETTER* Benchmark)**
-   * **Exact Anchor:** `"Clear, empowering finance mentor, calm, confident, and direct."`
-   * **Vocal Persona:** A quietly confident mentor. Grounded, empowering, and pragmatic. Delivers mathematical truths with inspiring clarity, crisp declarative sentences, and zero fluff.
-   * **When to Select:** Financial independence (FIRE), savings rate mechanics, wealth roadmaps, high-conviction accumulation playbooks.
-   * **Example Chunk:** `"Clear, empowering finance mentor, calm, confident, and direct. Speaks with crisp, purposeful clarity, isolating the single mathematical lever."`
-
-Keeping this 70% persona foundation identical across all chunks locks the model's text encoder into a stable, articulate YouTube video essayist register.
+**Volume words only are off-limits** — "loud", "shouting", "booming", "raised voice". TTS fakes loudness by crushing dynamics and it clips. Intensity comes from tension, pace and weight, not volume. Everything else — amusement, charm, astonishment, dread, tenderness — is fair game when the line earns it.
 
 ---
 
-### **Part 2: The Delivery Register Modulation (Chunk Nuance)**
-The second clause always opens with `"Speaks with..."` and modulates **only pacing, cadence, and delivery focus**—never character identity or volume.
+## **Archetype library**
 
-* **Strict Ban on Shouting / High Volume:** Never use words like `loud`, `raised voice`, `shouting`, `screaming`, `booming`, or `explosive`. Neural TTS models simulate loudness by heavily compressing dynamic range and distorting high frequencies, producing abrasive digital clipping and tinny audio. Emotional intensity in documentary narration comes from **sub-surface tension, cadence, and restraint**, never volume.
-* **Discourage Theatrical Character Acting:** Avoid roleplaying keywords like `charm`, `smirk`, `exasperated`, `panic`, or `suffocating tension`. The narrator is an intelligent insider talking across a desk, not a cartoon actor playing corporate executives or panicked victims.
+Compose fresh from these — never copy an example verbatim, and never repeat identical wording across consecutive chunks even within the same archetype. The list isn't exhaustive: invent a sibling archetype whenever a story calls for something none of these cover.
 
----
+**The Unraveling** — mounting crisis, escalating discovery
+* Speaks with a tense, clipped tone, as the first cracks appear.
+* Speaks with building urgency, stark and rapid, as the scale becomes clear.
+* Speaks with dread returning, heavier now, the pattern impossible to ignore.
+* Speaks with tightening restraint, watching it happen in real time, inexorable.
 
-## **Archetype Library (Delivery Register Modulations)**
+**The Confident Villain** — hubris before the fall
+* Speaks with easy, self-assured charm, faintly amused by his own cleverness.
+* Speaks with a trace of condescension, certain no one is watching closely enough.
+* Speaks with cooling composure, the first flicker of unease beneath it.
+* Speaks with flat, controlled calculation, the charm gone.
 
-Compose the second clause (`"Speaks with..."`) from these delivery modulations. Every instruction combines the Locked Persona Anchor with one restrained register shift:
+**The Reckoning** — consequence landing
+* Speaks with grave weight, each word placed like a verdict being read.
+* Speaks with steady, unhurried resolve, the weight of consequence finally landing.
+* Speaks with quiet finality, resolute, offering no comfort.
 
-**The Discovery** — the moment the hidden thing is found
-* *"...Speaks with calm curiosity, unhurried and articulate."*
-* *"...Speaks with deliberate focus, as the significance of the numbers becomes clear."*
-* *"...Speaks quietly and clearly, letting the discovery land."*
+**The Reveal** — the moment the hidden thing is found
+* Speaks with quiet, absorbed curiosity, like something has just come into focus.
+* Speaks with sharpening attention, as the significance becomes impossible to miss.
+* Speaks with the quiet satisfaction of a puzzle piece finally fitting.
 
-**The Mechanical Breakdown** — unit economics, margins, cash flow autopsy
-* *"...Speaks with steady, objective precision, explaining the math step by step."*
-* *"...Speaks with unhurried analytical clarity, stripping away corporate spin."*
-* *"...Speaks with cool, measured certainty, walking through the balance sheet."*
+**The Wry Aftermath** — irony, dark comedy, an absurd detail
+* Speaks with dry, knowing restraint, the irony doing the work the words don't have to.
+* Speaks with a faintly amused arch, as if sharing a joke the subject never got to hear.
+* Speaks with rueful understatement, the punchline already obvious.
 
-**The Understated Irony** — absurd corporate waste, hubris, reality checks
-* *"...Speaks with dry, understated delivery, letting the facts do the work."*
-* *"...Speaks with matter-of-fact observation, highlighting the absurdity without melodrama."*
-* *"...Speaks with calm, deadpan restraint, the punchline already clear."*
+**The Human Cost** — real ruin, people hurt
+* Speaks with gentle care, mindful of the weight of what's being said.
+* Speaks with restrained warmth, like someone choosing words that won't do further harm.
+* Speaks with soft, unhurried patience, letting the silence after the sentence do some of the work.
 
-**The Mounting Tension / The Bleed** — cash burn, structural cracks, slow collapse
-* *"...Speaks with taut, low-register tension, deliberate and steady."*
-* *"...Speaks with measured seriousness, watching the deficit widen in real time."*
-* *"...Speaks with tight, unhurried restraint, the pattern now impossible to ignore."*
+**The Slow Bleed** — death by a thousand cuts
+* Speaks with tired, matter-of-fact resignation, like reciting something long expected.
+* Speaks with a further-flattening tone, as decline becomes routine, almost administrative.
+* Speaks with the restrained tone of a eulogy for something that stopped being alive long before it ended.
 
-**The Reckoning & Legacy** — bankruptcy, aftermath, philosophical conclusion
-* *"...Speaks with quiet, low-register weight, each word placed with care."*
-* *"...Speaks with calm, unhurried perspective, letting the numbers land with matter-of-fact weight."*
-* *"...Speaks with resolute, quiet finality, closing the analysis without melodrama."*
+**Historical Grandeur** — scale, wonder
+* Speaks with a touch of astonishment, as if the scale is only now sinking in.
+* Speaks with gently widening reverence, describing something larger than expected.
+* Speaks with unhurried awe, giving the fact room to land.
+
+**The Playful What-If** — hypotheticals, inviting the viewer in
+* Speaks with a conspiratorial grin, pulling the listener into the game.
+* Speaks with delighted curiosity, like turning over a strange object for the first time.
+* Speaks with brisk, sparkling momentum, one ridiculous consequence tumbling into the next.
+
+**The Quiet Turn** — when the fun idea shows its dark side
+* Speaks with the smile slowly fading, the joke turning out not to be one.
+* Speaks with a gentle drop in pace, as if noticing something nobody wanted to say.
+
+**The Cliffhanger** — unresolved, trailing endings
+* Speaks with a trailing, quiet uncertainty, the sentence left deliberately unfinished in tone.
+* Speaks with fading composure toward stillness, like a door being left open on purpose.
 
 ---
 
@@ -185,12 +152,12 @@ VoxCPM2 automation engines ingest a clean, structured top-level JSON array of ch
 [
   {
     "chunk_id": 0,
-    "control_instruction": "Conversational business explainer, clear and engaging. Speaks with calm curiosity, unhurried and articulate.",
+    "control_instruction": "Speaks with quiet, absorbed curiosity, like something has just come into focus.",
     "target_text": "In January 2024, a solar panel manufacturer named First Solar quietly finalized a real estate purchase in Wood County, Ohio. The purchase price was thirty-three million dollars."
   },
   {
     "chunk_id": 1,
-    "control_instruction": "Conversational business explainer, clear and engaging. Speaks with deliberate focus, as the physical scale becomes clear.",
+    "control_instruction": "Speaks with sharpening attention, as the significance of the physical scale becomes impossible to miss.",
     "target_text": "For that money, they didn't just get two hundred acres of prime industrial farmland. They got a 1 point 2 million square foot unfinished monolith of structural steel, poured concrete, and vacant assembly bays. Thirty-three million sounds like real money. Until you look at the company that poured the concrete."
   }
 ]
@@ -199,7 +166,7 @@ VoxCPM2 automation engines ingest a clean, structured top-level JSON array of ch
 ### JSON Generation Requirements:
 1. **Top-Level Structure:** A pure JSON array `[...]` containing all sequential chunks in chronological order.
 2. **`chunk_id`:** 0-indexed integer (`0`, `1`, `2`, ...).
-3. **`control_instruction`:** Strict Two-Part Format: `"<Locked Persona Anchor>. Speaks with <Delivery Register Modulation>."` The Persona Anchor must remain 100% identical across all chunks of that video. Register modulations must focus on pacing, cadence, and quiet weight—never shouting or theatrical roleplay.
+3. **`control_instruction`:** One vivid delivery sentence written fresh for that chunk — delivery only, no persona prefix, no identity, no volume words. No two consecutive chunks share wording. "Speaks with…" is a fine opening but not required.
 4. **`target_text`:** Clean spoken narration text containing approved inline vocal tags (`[sigh]`, `[laughing]`, `[Dissatisfaction]`, `[Uhm]`, etc.), written-out numbers where needed for natural vocal cadence, and **zero underscores** to prevent mispronunciation.
 5. **Strict Decimal Normalization ("point", NEVER "dot"):** All decimal figures in `target_text` MUST explicitly use the phonetic word "point" (e.g. `1 point 2 million square foot`, `1 point 5 million`, `3 point 5 billion dollars`), never raw period decimals like `1.2` or `3.5`. TTS models will literally speak "one dot two" if given `1.2`. Any raw period decimal in `target_text` is an automatic failure and corrupt deliverable.
 

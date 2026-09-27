@@ -4,11 +4,11 @@
 >
 > **Instructions:** VoxCPM2 process from `bible/12`, with Raahim's persona. Accompanies `06_VOICE_DIRECTION.json`.
 >
-> **Rules:** phonetic decimals ("point"); two-part control instruction on every chunk (fixed persona + dynamic register); zero bracket tags in spoken text.
+> **Rules:** phonetic decimals ("point"); a vivid delivery instruction written fresh for every chunk, no fixed persona prefix; zero bracket tags in spoken text.
 
 ---
 
-## Persona anchor (fixed, every chunk)
+## Narrator feel (guides every instruction; never pasted in)
 "A warm, articulate mid-century educational-film narrator, crisp and cheerful, with perfect diction and unshakeable calm."
 
 ## Dynamic register rules

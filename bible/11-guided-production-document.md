@@ -92,7 +92,7 @@ PHASE-BY-PHASE AUDIT CHECKLIST:
 [ ] PHASE 06: 06_VOICE_DIRECTION.json & 06_VOICE_DIRECTION.md
     - Dedicated standalone .json and .md files in videos/<episode-slug>/.
     - Valid JSON schema conforming to VoxCPM2 specifications.
-    - Two-Part Control Instructions: Persona Anchor locked to Track + Dynamic Register per chunk.
+    - Control instructions: a vivid delivery instruction written fresh for each chunk (no fixed persona prefix).
     - Phonetic decimal normalization verified ("point") in target_text.
     - ZERO bracket tag leaks into target_text.
 
@@ -206,7 +206,7 @@ PHASE-BY-PHASE AUDIT CHECKLIST:
 | **03** | **`03_TITLES_AND_HOOKS.md`** | Packaging — runs after the Idea Gate, **before 02**; built from title, thesis and premise only | 5 distinct CTR title angles, mobile search hooks, provisional core thesis. Standalone file. |
 | **04** | **`04_THUMBNAILS.md`** | Packaging — runs right after 03, **before 02**; never built from the script | 3–4 visual thumbnail concepts, each with a named anchor + wrong-thing pair, cap-height-tested text, and Nano Banana 2 prompts. Standalone file. |
 | **05** | **`05_CHARACTER_SETUP.md`** | Visual Direction | Caricature (Track 1) or composite archetype (Track 2) prompts with single static reference portraits. Standalone file. |
-| **06** | **`06_VOICE_DIRECTION.json`<br>`06_VOICE_DIRECTION.md`** | Audio Production | Chunked VoxCPM2 JSON with Two-Part Control Instructions (Persona Anchor + Dynamic Register), phonetic decimals (`point`), and API copy-blocks. Standalone files. |
+| **06** | **`06_VOICE_DIRECTION.json`<br>`06_VOICE_DIRECTION.md`** | Audio Production | Chunked VoxCPM2 JSON with a vivid delivery instruction written fresh for each chunk (no fixed persona prefix), phonetic decimals (`point`), and API copy-blocks. Standalone files. |
 | **GATE** | **Master VO Audio & Alignment JSON** | **Audio Synthesis** | **MANDATORY TIMING GATEKEEPER:** Synthesize master voiceover audio stems and output sentence/word timestamp alignment JSON. **Stop here until audio exists.** |
 | **07** | **`07_BEAT_SHEET.md`** | Visual Direction | **Generated STRICTLY AFTER VO Audio & Timestamps exist.** Chronological beat sheet with exact millisecond downbeats (`00:00.0 - 00:03.4`), sentence-bound visual cuts, framing, motion. Standalone file. |
 | **08** | **`08_STILLS_PROMPTS.md`** | Asset Generation | Consolidated Batch 1: All Nano Banana 2 4K stills (3840×2160) generation prompts. Standalone file. |
@@ -584,7 +584,7 @@ For each of the 3–4 standalone Shorts, `shorts.md` must provide:
 1. **Metadata & Technical Specs:** Target video filename (e.g., `01_short_ghost_factory.mp4`), Target Voiceover Audio File (e.g., `voiceover/short_01_ghost_factory_vo.wav` at 24-bit 48kHz WAV, normalized to -16 LUFS), Duration (45–60 seconds), Format (Vertical 9:16, 1080×1920, 30fps).
 2. **Reused Asset Inventory:** Exact filenames of long-form 4K stills, video clips, and Remotion comps reused from Phase 5 batches. Because long-form stills are generated at 4K (3840×2160), they crop into 9:16 with zero resolution loss.
 3. **Voiceover Audio & Master VO Chunk References:** Target standalone `.wav` audio file path AND exact mapping to the master long-form audio `.wav` chunks (`assets/voiceover_package_.../chunks/chunk_XXX.wav`) that cover the core story, enabling either fresh standalone neural synthesis or direct audio splicing from the master stem.
-4. **Full Spoken Narration Script & Cadence:** A fast, punchy 45–60s script (~110–140 words). Includes the Two-Part Control Instruction (`<Locked Persona Anchor>. Speaks with <Delivery Register>`) for standalone VO generation or extraction from the master VO.
+4. **Full Spoken Narration Script & Cadence:** A fast, punchy 45–60s script (~110–140 words). Includes a dynamic, per-line delivery instruction for standalone VO generation or extraction from the master VO.
 5. **Dedicated NotebookLM Video Overview Generation Prompt:** The full structured prompt (visual-world definition, 1.5–2.5s pacing, and scene-by-scene sequence) for one-shot generation via NotebookLM.
 6. **CapCut Vertical Timeline Blueprint & Audio Mix:** Slicing timecodes, vertical 9:16 framing/crop coordinates, on-screen text/caption placement (center-weighted for mobile viewports), and multi-track audio layout:
    - **Track A1 (Dialogue VO):** Dedicated `short_XX_..._vo.wav` at 0.0 dB gain (-16 LUFS).

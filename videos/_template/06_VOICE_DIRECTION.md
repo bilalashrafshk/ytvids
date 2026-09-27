@@ -1,18 +1,18 @@
 # Phase 06: Voice Direction & Audio Stems (VoxCPM2)
 
-> **Instructions**: Standalone audio production deliverable. Provides human-readable overview of voice chunking, persona anchors, dynamic registers, and decimal normalization checks. Accompanies [`06_VOICE_DIRECTION.json`](./06_VOICE_DIRECTION.json).
+> **Instructions**: Standalone audio production deliverable. Provides human-readable overview of voice chunking, dynamic per-chunk delivery instructions, and decimal normalization checks. Accompanies [`06_VOICE_DIRECTION.json`](./06_VOICE_DIRECTION.json).
 >
 > **MANDATORY RULES:**
 > 1. **Phonetic Decimal Normalization:** 100% of spoken decimal numbers MUST be written with the word "point" (e.g. `2 point 5 billion`), NEVER raw numeric decimals (`2.5`).
-> 2. **Two-Part Control Instructions:** Every chunk combines a fixed Track Persona Anchor with a scene-specific Dynamic Register.
+> 2. **Dynamic Control Instructions:** Every chunk gets its own vivid delivery instruction for that line. No fixed persona prefix — the cloned voice carries identity.
 > 3. **Clean Spoken Text:** ZERO bracket tags (`[DATA]`, `[TENSE]`) may leak into spoken narration.
 
 ---
 
-## 1. Master Voice Profile & Persona Anchor
+## 1. Master Voice Profile
 
 - **Track Selection**: [Track 1 Corporate Investigation / Track 2 Hypothetical Simulation]
-- **Fixed Persona Anchor**: [e.g., "Sharp, fast-paced scenario guide, engaging, articulate, and vivid."]
+- **Narrator feel** (guides instructions, never pasted in): [e.g., sharp, fast-paced scenario guide]
 - **Target Overall Cadence**: ~155 WPM
 
 ---

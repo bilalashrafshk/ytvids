@@ -46,7 +46,7 @@
 * **Best Suited For:** Explaining intimidating macroeconomic concepts (floating exchange rates, inflation mechanics, central bank balance sheets, trade deficits, purchasing power parity).
 
 ### 1. Voice & Rhetorical Anatomy
-- **Locked Voice Persona Anchor (VoxCPM2):** `"Approachable finance educator, warm, articulate, and conversational."`
+- **Narrator feel (guides the delivery; never prepended to chunks):** `"Approachable finance educator, warm, articulate, and conversational."`
 - **The Voice:** Empathetic, calm, accessible educator. Treats the viewer as an intelligent friend who has simply been fed bad jargon. Never talks down; strips away Wall Street vocabulary.
 - **Pacing:** 145–155 WPM. Deliberate, clear downbeats. Allows complex ideas to land before introducing the next mechanical step.
 - **The "Numbered Engine" Architecture:** Rather than a dry chronological history, the script structures the explanation into clear, interconnected functional units (e.g., *Engine 1: Trade Balance*, *Engine 2: Interest Rate Differentials*, *Engine 3: Inflation & Purchasing Power*, *Engine 4: Speculation*).
@@ -100,7 +100,7 @@ INPUTS:
 * **Best Suited For:** Deep-tech breakdowns, semiconductor hardware wars, AI computing infrastructure, corporate turnaround epics, visionary founder profiles.
 
 ### 1. Voice & Rhetorical Anatomy
-- **Locked Voice Persona Anchor (VoxCPM2):** `"Engaging video essay storyteller, curious and articulate."`
+- **Narrator feel (guides the delivery; never prepended to chunks):** `"Engaging video essay storyteller, curious and articulate."`
 - **The Voice:** High-energy, punchy, unpretentious tech storyteller. Bridges the gap between silicon-level engineering and breathtaking capitalist scale.
 - **Pacing:** 155–165 WPM. Short, razor-sharp declarative sentences. Uses rhythm and sudden status contrasts to keep viewers hooked.
 - **Tactile ELI5 Hardware Metaphors:** Instead of abstract technical jargon (ALUs, FP32 floating point, parallel throughput), the script invents visceral, tangible mental pictures (e.g., *a math professor vs 10,000 kindergarteners*; *expensive sand without software*).
@@ -155,7 +155,7 @@ INPUTS:
 * **Best Suited For:** Sovereign finance, petrodollar mechanics, sanctions architecture, central bank reserve freezes, global maritime trade choke-points, foreign exchange dominance.
 
 ### 1. Voice & Rhetorical Anatomy
-- **Locked Voice Persona Anchor (VoxCPM2):** `"Restrained geopolitical analyst, cold, authoritative, and measured."`
+- **Narrator feel (guides the delivery; never prepended to chunks):** `"Restrained geopolitical analyst, cold, authoritative, and measured."`
 - **The Voice:** Serious, investigative geopolitical analyst. Speaks with the urgency of a declassified briefing. Deconstructs conspiratorial myths and replaces them with cold, mechanical sovereign incentives.
 - **Pacing:** 140–150 WPM. Weighty, measured, dramatic downbeats. Emphasizes power, sovereignty, and realpolitik.
 - **Sovereign Roleplay POV:** Puts the viewer in the shoes of a specific nation state (e.g., *"Imagine you're Japan...", "Imagine you're an oil exporter in the Persian Gulf..."*), demonstrating why countries have no choice but to participate in the global financial system.
@@ -210,7 +210,7 @@ INPUTS:
 * **Best Suited For:** Corporate autopsies, franchise breakdowns, declining retail models, hidden industry monopolies, unexpected profit centers (e.g., McDonald's real estate, airline credit card programs).
 
 ### 1. Voice & Rhetorical Anatomy
-- **Locked Voice Persona Anchor (VoxCPM2):** `"Conversational business explainer, clear and engaging."`
+- **Narrator feel (guides the delivery; never prepended to chunks):** `"Conversational business explainer, clear and engaging."`
 - **The Voice:** The cynical, seasoned corporate insider. Dismantles the romantic daydream of entrepreneurship with brutal ledger mathematics.
 - **Pacing:** 150–160 WPM. Methodical and conversational. Follows one sale from the customer's pocket to what's left at the end.
 - **The "Real Product" Revelation:** Shows that what the customer thinks they are buying is completely different from how the business actually survives (e.g., *a theater is a popcorn stand; an airline is a credit card loyalty program; an exercise bike is a recurring SaaS utility*).
@@ -265,7 +265,7 @@ INPUTS:
 * **Best Suited For:** "The Hypothetical" sub-series, extreme wealth limits, market liquidity collapses, supply constraints, economic satire, hyper-inflation thought experiments.
 
 ### 1. Voice & Rhetorical Anatomy
-- **Locked Voice Persona Anchor (VoxCPM2):** `"Sharp, fast-paced scenario guide, engaging, articulate, and vivid."`
+- **Narrator feel (guides the delivery; never prepended to chunks):** `"Sharp, fast-paced scenario guide, engaging, articulate, and vivid."`
 - **The Voice:** Urgent, cinematic, second-person narrator ("You"). Thrusts the viewer into an impossible economic simulation with high stakes and strict constraints.
 - **Pacing:** 160–170 WPM. Kinetic, escalating momentum. Organized around an aggressive countdown clock (Day 1, Day 3, Hour 100).
 - **The Macro Shock Absorption Failure:** Starts with lavish consumer purchases that fail to make a dent, and escalates to systemic attempts to deploy capital (buying public markets, solving world problems) that run into hard physical and regulatory limits.
@@ -335,7 +335,7 @@ INPUTS:
 * **Best Suited For:** Personal finance debates, renting vs buying, active trading vs passive index investing, leasing vs purchasing a car, real net worth simulations over decades.
 
 ### 1. Voice & Rhetorical Anatomy
-- **Locked Voice Persona Anchor (VoxCPM2):** `"Relatable financial breakdown guide, clear, objective, and conversational."`
+- **Narrator feel (guides the delivery; never prepended to chunks):** `"Relatable financial breakdown guide, clear, objective, and conversational."`
 - **The Voice:** The calm, rigorous financial auditor. Neutral, anti-dogmatic, and completely indifferent to societal cliches. Let's the spreadsheet deliver the verdict.
 - **Pacing:** 145–155 WPM. Clear, step-by-step comparative pacing. Gives equal, fair weight to both sides before revealing long-term compounding effects.
 - **The Two-Protagonist Simulation:** Creates two identical characters (same age, same income, same savings, same geography) who make opposite financial decisions, tracking their net worth year by year.
@@ -392,7 +392,7 @@ INPUTS:
 * **Best Suited For:** Financial independence, early retirement (FIRE), savings rate mechanics, high-conviction wealth accumulation rules, escaping the wage treadmill.
 
 ### 1. Voice & Rhetorical Anatomy
-- **Locked Voice Persona Anchor (VoxCPM2):** `"Clear, empowering finance mentor, calm, confident, and direct."`
+- **Narrator feel (guides the delivery; never prepended to chunks):** `"Clear, empowering finance mentor, calm, confident, and direct."`
 - **The Voice:** High-conviction, urgent, empowering coach. Strips away consumer vanity and replaces it with mathematical clarity.
 - **Pacing:** 150–160 WPM. Crisp declarative sentences. Uses micro-pauses after bold quantitative truths.
 - **The Asymmetric Lever:** Shows that the single biggest variable in wealth creation is not income, market timing, or stock picking—it is the percentage of cash flow diverted into productive assets before lifestyle creep occurs.

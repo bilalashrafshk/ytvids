@@ -4,7 +4,7 @@
     "section": "Cold open",
     "voice_id": "vox_cpm2_raahim_host",
     "target_text": "Opening narration with phonetic numbers like 8 point 1 billion people.",
-    "control_instruction": "A warm, articulate mid-century educational-film narrator, crisp and cheerful, with perfect diction and unshakeable calm. Speaks with polite, bright curiosity, as if introducing a perfectly ordinary topic.",
+    "control_instruction": "Bright and polite, as if introducing a perfectly ordinary topic, with the faintest twinkle that it is not.",
     "output_filename": "voiceover/chunk_001.wav"
   }
 ]
