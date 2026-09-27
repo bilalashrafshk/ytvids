@@ -9,13 +9,13 @@
 
 ```text
 Audio                    : voiceover/live up to 150 years?.wav — 569.4s (09:29.4)
-Total beats              : 144   (Σ D = 569.4s, drift vs audio 0.0s)
-Average beat             : 3.95s   (target 2.5–4.0s)
-  Static stills          : 89
-  AI video clips         : 19   (cap 25; cold open = beats 001, 002, 005)
-  Remotion graphics      : 36   (incl. infinite queue tunnel + whip-zoom montage)
+Total beats              : 145   (Σ D = 569.4s, drift vs audio 0.0s)
+Average beat             : 3.93s   (target 2.5–4.0s)
+  Static stills          : 90
+  AI video clips         : 20   (cap 25; cold open = beats 001, 002, 005)
+  Remotion graphics      : 35   (incl. infinite queue tunnel + whip-zoom montage)
 Stills held > 6.0s       : none
-Watermark                : 00:16.5, 02:40.6, 05:10.1, 07:37.9, 08:49.0
+Watermark                : 00:16.5, 02:31.7, 05:10.1, 07:37.9, 08:49.0
 ```
 
 ---
@@ -31,11 +31,11 @@ Watermark                : 00:16.5, 02:40.6, 05:10.1, 07:37.9, 08:49.0
 | **003** | `00:09.9 - 00:12.7` | 2.8s | Static Image | Great-great-grandfather (ref_char_03_ggf), party hat, lavender '126' badge, grinning. On-screen label: AGE 126. [COMPOSITE: great-great-grandfather] | Medium shot, slow push-in (1.0x→1.08x) | "The oldest guest is a hundred and twenty-six." |
 | **004** | `00:12.7 - 00:14.5` | 1.8s | Static Image | An empty wheelchair parked in the hallway with a gift bow on it. Nobody needs it. | Static, faint lateral drift | "He is not the one in the wheelchair." |
 | **005** | `00:14.5 - 00:16.5` | 2.0s | AI Video Clip | Great-great-grandfather mid-bounce on the bouncy castle, arms up; two kids below, unimpressed. | Low angle, bouncing rhythm | "He's the one on the bouncy castle." |
-| **006** | `00:16.5 - 00:20.7` | 4.2s | Remotion Graphic | [WATERMARK: HYPOTHETICAL SCENARIO] Freeze-frame of the party; the lavender badge slides in top-right. | Freeze, badge slide-in | "This is what the world looks like when humans live to one hundred and fifty." |
+| **006** | `00:16.5 - 00:20.7` | 4.2s | AI Video Clip | [WATERMARK: HYPOTHETICAL SCENARIO] Pull back out through the party window to the whole street: a party balloon tied to every front door. | Continuous pull-back and rise; lavender badge slides in top-right | "This is what the world looks like when humans live to one hundred and fifty." |
 | **007** | `00:20.7 - 00:23.9` | 3.2s | Static Image | A care-home lounge at dusk: rows of empty armchairs, lights off, a 'CLOSED' sign on the door. | Wide, static | "And no, it isn't a world of very old people." |
 | **008** | `00:23.9 - 00:26.3` | 2.3s | Static Image | A family hallway coat rack buckling under five generations of coats; nobody's coat ever leaves. | Slow push-in on the coat rack | "It's a world where nobody leaves." |
-| **009** | `00:26.3 - 00:28.7` | 2.5s | Static Image | A glowing, healthy mother (looks ~70) jogging past a row of houses while her grown children watch from a rented flat's window. [COMPOSITE: Mum] | Wide, slow lateral drift | "By the end, you'll see why, in this world…" |
-| **010** | `00:28.7 - 00:33.0` | 4.3s | Static Image | Punch-in: Mum's radiant, rested face. | Snap punch-in | "…the healthiest mother on the street is her children's biggest problem." |
+| **009** | `00:26.3 - 00:28.7` | 2.5s | Static Image | A glowing, healthy mother (looks ~70) jogging past, beaming. [COMPOSITE: Mum] | Wide, slow lateral drift | "By the end, you'll see why, in this world…" |
+| **010** | `00:28.7 - 00:33.0` | 4.3s | Static Image | Her grown children (look ~45) watching her from a rented flat's window, a rent envelope in hand. | Medium through the window, slow push-in | "…the healthiest mother on the street is her children's biggest problem." |
 | **011** | `00:33.0 - 00:34.8` | 1.7s | Static Image | Dawn over an ordinary suburban town. Nothing looks different. | Wide establishing, slow push-in | "It starts quietly." |
 | **012** | `00:34.8 - 00:40.5` | 5.7s | Remotion Graphic | [DATA: ageing slows] A row of silhouettes of every age, each with a small hourglass; all the sand slows to a trickle at once. | Kinetic, smooth ease-out | "One morning, ageing slows down, for everyone, from wherever their body already is." |
 | **013** | `00:40.5 - 00:44.4` | 4.0s | Static Image | A man (40) blows out forty candles in a kitchen, family clapping, completely ordinary. [COMPOSITE: the 40-year-old] | Medium, slow push-in | "A man blows out forty candles, same as last year." |
@@ -73,12 +73,12 @@ Watermark                : 00:16.5, 02:40.6, 05:10.1, 07:37.9, 08:49.0
 | **040** | `02:22.0 - 02:25.1` | 3.1s | Remotion Graphic | [DATA: under-20s 1 in 4 → 1 in 8] Pictogram of eight figures; the child figures fade from two to one. | Pictogram swap | "Children go from one in every four people to one in eight." |
 | **041** | `02:25.1 - 02:27.2` | 2.1s | Static Image | [CUTAWAY: a playground] One child on a swing; every bench around it full of adults. | Wide, still | "A kid in this world is rare." |
 | **042** | `02:27.2 - 02:31.7` | 4.5s | Static Image | Back at the party: the girl, tiny, ringed by thirty smiling ancestors. | High angle looking down, slow push | "She is outnumbered by her own ancestors at her own birthday party." |
-| **043** | `02:31.7 - 02:36.8` | 5.1s | Static Image | A young-looking couple at a wedding altar. | Medium, slow push-in | "And if the family photo gets longer, so does the marriage in the middle of it." |
+| **043** | `02:31.7 - 02:36.8` | 5.1s | Static Image | [WATERMARK: HYPOTHETICAL SCENARIO] A young-looking couple at a wedding altar. | Medium, slow push-in | "And if the family photo gets longer, so does the marriage in the middle of it." |
 | **044** | `02:36.8 - 02:40.6` | 3.8s | Static Image | A golden-anniversary cake with a big '50' on the grandparents' table. | Close-up, still | "Today, "till death do us part" means about fifty years." |
-| **045** | `02:40.6 - 02:45.1` | 4.6s | Remotion Graphic | [WATERMARK: HYPOTHETICAL SCENARIO] [DATA: marriage bar — 30 to 150, 120 years] The bar stretches far past the old 50-year mark. | Bar stretch with badge overlay | "Here, marry at thirty, and death is a hundred and twenty years away." |
+| **045** | `02:40.6 - 02:45.1` | 4.6s | Remotion Graphic | [DATA: marriage bar — 30 to 150, 120 years] The bar stretches far past the old 50-year mark. | Bar stretch with badge overlay | "Here, marry at thirty, and death is a hundred and twenty years away." |
 | **046** | `02:45.1 - 02:48.4` | 3.2s | AI Video Clip | A couple who both look about forty fighting over the thermostat — one nudges it up, the other down. | Medium two-shot, comic timing | "That's a very long time to agree on a thermostat." |
 | **047** | `02:48.4 - 02:52.2` | 3.8s | Static Image | The couple at a desk rewriting their vows; 'till death' crossed out, an end date written in. | Top-down on the page, slow push | "So the vows change. Couples start writing an end date into them." |
-| **048** | `02:52.2 - 02:55.4` | 3.2s | Static Image | Split frame: a wedding ring engraved with an end date | a milk carton's 'best before' date. | Split-screen, both halves push in | "At the jeweller's, wedding rings come engraved with a year…" |
+| **048** | `02:52.2 - 02:55.4` | 3.2s | Static Image | Split frame: a wedding ring engraved with an end date, beside a milk carton's 'best before' date. | Split-screen, both halves push in | "At the jeweller's, wedding rings come engraved with a year…" |
 | **049** | `02:55.4 - 02:57.7` | 2.4s | Static Image | Punch-in on the milk carton's date beside the ring. | Punch-in | "…the way milk comes with a date." |
 | **050** | `02:57.7 - 03:00.6` | 2.9s | Static Image | Grandma's third wedding: a bright garden party, bunting, cake. [COMPOSITE: Grandma] | Wide, gentle drift | "And Grandma's third wedding is a lovely day." |
 | **051** | `03:00.6 - 03:03.0` | 2.3s | Static Image | Her first husband, glass raised, giving the speech; the new groom applauding. [COMPOSITE: Grandma's first husband] | Medium, slow push-in | "Her first husband gives a speech." |
@@ -174,22 +174,23 @@ Watermark                : 00:16.5, 02:40.6, 05:10.1, 07:37.9, 08:49.0
 | :---: | :---: | :---: | :--- | :--- | :--- | :--- |
 | **127** | `08:02.0 - 08:07.5` | 5.5s | Static Image | An hourglass whose sand has slowed to a trickle — but hasn't stopped. | Macro, very slow push | "And then there's death itself. It doesn't vanish. It changes shape." |
 | **128** | `08:07.5 - 08:11.4` | 3.9s | Static Image | A man (looks ~65) blowing out candles on a cake that says '113'. | Medium, still | "You still get old. It just starts around one hundred and thirteen." |
-| **129** | `08:11.4 - 08:17.7` | 6.3s | Remotion Graphic | [DATA: old age — ~15 years today vs ~37 years] Two short 'old age' segments at the end of two life bars; a small knee icon wobbles. | Bars draw, icon wobble | "Your knees hand in their notice. You slow down for your last thirty-odd years, instead of your last fifteen." |
-| **130** | `08:17.7 - 08:21.9` | 4.2s | Static Image | A busy road at night, headlight streaks. | Wide, long-exposure look | "But the biggest killer isn't age anymore. It's the road." |
-| **131** | `08:21.9 - 08:27.8` | 5.9s | Remotion Graphic | [DATA: a crash at 40 — 40 years lost then, 110 years lost now] | Two bars, second extends | "A car crash at forty used to cost forty years. Now it costs one hundred and ten." |
-| **132** | `08:27.8 - 08:33.3` | 5.5s | AI Video Clip | [CUTAWAY: school-run traffic] Cars crawling at walking pace, drivers in helmets and gloves, extremely careful. | Wide, slow tracking | "People start driving like they have a lot to lose. Because they do." |
-| **133** | `08:33.3 - 08:37.0` | 3.7s | Static Image | St Aldric's: half crematorium, half nursery — one chimney beside a bright playground. | Wide, still | "St Aldric's crematorium only needs half its building now." |
-| **134** | `08:37.0 - 08:42.8` | 5.8s | AI Video Clip | Pan across St Aldric's: the chimney, the playground full of toddlers, the car park. | Slow lateral pan | "The other half becomes a nursery. One chimney. One playground. One car park." |
-| **135** | `08:42.8 - 08:46.6` | 3.8s | Static Image | The undertaker's apprentice (ref_char_06_apprentice) polishing spotless, unused tools. [COMPOSITE: undertaker's apprentice] | Medium, slow push | "And the undertaker's apprentice has been training for sixty years." |
-| **136** | `08:46.6 - 08:49.0` | 2.4s | Static Image | An empty, immaculate viewing room behind him. | Wide, still | "He's never actually seen a body." |
-| **137** | `08:49.0 - 08:53.4` | 4.4s | Static Image | [WATERMARK: HYPOTHETICAL SCENARIO] Match cut: the six-year-old from the party dissolves into the same girl at 120 (ref_char_02_girl120), same lavender hair clip. | Match-cut dissolve | "Remember the girl at the birthday party? She's one hundred and twenty now." |
-| **138** | `08:53.4 - 08:57.9` | 4.4s | Static Image | Her at a kitchen table: a mortgage letter, and her son (looks ~55) dropping by. | Medium, still | "She has a job, a mortgage, and a son who's ninety." |
-| **139** | `08:57.9 - 09:04.2` | 6.3s | AI Video Clip | A quiet garden in afternoon light: an empty garden chair, a cardigan over the back, flowers moving gently. | Slow push-in | "This morning, her mother died, peacefully, in the garden, at one hundred and fifty." |
-| **140** | `09:04.2 - 09:07.3` | 3.1s | AI Video Clip | She walks up Marrow Street to a painted front door. | Following shot | "She walks up to a door on Marrow Street." |
-| **141** | `09:07.3 - 09:10.7` | 3.4s | Static Image | The brass key still hanging inside the door. | Medium, slow push-in | "The brass key is still hanging inside." |
-| **142** | `09:10.7 - 09:18.7` | 8.0s | AI Video Clip | Macro: a pen writes a second name under her mother's on the paper tag. | Macro, slow push, hold on the finished tag | "Under her mother's name, on a tag that has waited a hundred and fifteen years, she writes a second one. Her own." |
-| **143** | `09:18.7 - 09:24.7` | 6.0s | Remotion Graphic | A ladder illustration; a small figure climbs rung by rung toward the top. | Figure climbs | "We like to think a life is a ladder. You start at the bottom, you climb, you reach the top." |
-| **144** | `09:24.7 - 09:29.4` | 4.6s | Remotion Graphic | The ladder tips over and becomes a queue of people. At the front, one door opens. | Slow tip, then stillness | "It was always a queue. And the only thing that ever moved it was death." |
+| **129** | `08:11.4 - 08:13.4` | 2.0s | Static Image | A knee in a knee brace with a tiny, neatly folded resignation letter pinned to it. | Macro, still | "Your knees hand in their notice." |
+| **130** | `08:13.4 - 08:17.7` | 4.3s | Remotion Graphic | [DATA: old age — ~15 years today vs ~37 years] Two short 'old age' segments at the end of two life bars. | Bars draw | "You slow down for your last thirty-odd years, instead of your last fifteen." |
+| **131** | `08:17.7 - 08:21.9` | 4.2s | Static Image | A busy road at night, headlight streaks. | Wide, long-exposure look | "But the biggest killer isn't age anymore. It's the road." |
+| **132** | `08:21.9 - 08:27.8` | 5.9s | Remotion Graphic | [DATA: a crash at 40 — 40 years lost then, 110 years lost now] | Two bars, second extends | "A car crash at forty used to cost forty years. Now it costs one hundred and ten." |
+| **133** | `08:27.8 - 08:33.3` | 5.5s | AI Video Clip | [CUTAWAY: school-run traffic] Cars crawling at walking pace, drivers in helmets and gloves, extremely careful. | Wide, slow tracking | "People start driving like they have a lot to lose. Because they do." |
+| **134** | `08:33.3 - 08:37.0` | 3.7s | Static Image | St Aldric's: half crematorium, half nursery — one chimney beside a bright playground. | Wide, still | "St Aldric's crematorium only needs half its building now." |
+| **135** | `08:37.0 - 08:42.8` | 5.8s | AI Video Clip | Pan across St Aldric's: the chimney, the playground full of toddlers, the car park. | Slow lateral pan | "The other half becomes a nursery. One chimney. One playground. One car park." |
+| **136** | `08:42.8 - 08:46.6` | 3.8s | Static Image | The undertaker's apprentice (ref_char_06_apprentice) polishing spotless, unused tools. [COMPOSITE: undertaker's apprentice] | Medium, slow push | "And the undertaker's apprentice has been training for sixty years." |
+| **137** | `08:46.6 - 08:49.0` | 2.4s | Static Image | An empty, immaculate viewing room behind him. | Wide, still | "He's never actually seen a body." |
+| **138** | `08:49.0 - 08:53.4` | 4.4s | Static Image | [WATERMARK: HYPOTHETICAL SCENARIO] Match cut: the six-year-old from the party dissolves into the same girl at 120 (ref_char_02_girl120), same lavender hair clip. | Match-cut dissolve | "Remember the girl at the birthday party? She's one hundred and twenty now." |
+| **139** | `08:53.4 - 08:57.9` | 4.4s | Static Image | Her at a kitchen table: a mortgage letter, and her son (looks ~55) dropping by. | Medium, still | "She has a job, a mortgage, and a son who's ninety." |
+| **140** | `08:57.9 - 09:04.2` | 6.3s | AI Video Clip | A quiet garden in afternoon light: an empty garden chair, a cardigan over the back, flowers moving gently. | Slow push-in | "This morning, her mother died, peacefully, in the garden, at one hundred and fifty." |
+| **141** | `09:04.2 - 09:07.3` | 3.1s | AI Video Clip | She walks up Marrow Street to a painted front door. | Following shot | "She walks up to a door on Marrow Street." |
+| **142** | `09:07.3 - 09:10.7` | 3.4s | Static Image | The brass key still hanging inside the door. | Medium, slow push-in | "The brass key is still hanging inside." |
+| **143** | `09:10.7 - 09:18.7` | 8.0s | AI Video Clip | Macro: a pen writes a second name under her mother's on the paper tag. | Macro, slow push, hold on the finished tag | "Under her mother's name, on a tag that has waited a hundred and fifteen years, she writes a second one. Her own." |
+| **144** | `09:18.7 - 09:24.7` | 6.0s | Remotion Graphic | A ladder illustration; a small figure climbs rung by rung toward the top. | Figure climbs | "We like to think a life is a ladder. You start at the bottom, you climb, you reach the top." |
+| **145** | `09:24.7 - 09:29.4` | 4.6s | Remotion Graphic | The ladder tips over and becomes a queue of people. At the front, one door opens. | Slow tip, then stillness | "It was always a queue. And the only thing that ever moved it was death." |
 
 ---
 
