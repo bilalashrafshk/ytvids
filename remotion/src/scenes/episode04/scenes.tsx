@@ -76,7 +76,8 @@ export const FamilyPhotoStack: React.FC<BgProps & { phase: 'grow' | 'final'; yea
   const base = phase === 'grow' ? 3 : 4;
   const per = d / years.length;
   const ticks = Math.min(years.length, Math.floor(f / per) + 1);
-  const rows = Math.min(5, base + (phase === 'grow' ? ticks - 1 : ticks));
+  // grow: 3, 3, 4 rows at +20/+40/+60 · final: 4 → 5 rows at +80/+100 (five rows only at the end)
+  const rows = phase === 'grow' ? 3 + Math.floor((ticks - 1) / 2) : Math.min(5, base + (ticks >= 2 ? 1 : 0));
   const width = 600 + rows * 180;
   return (
     <Stage bg={bg}>

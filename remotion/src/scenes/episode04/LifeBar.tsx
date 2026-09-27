@@ -20,7 +20,7 @@ const P: Record<string, Preset> = {
   'old-age': { max: 150, rows: [{ name: 'Today', segs: [{ from: 0, to: 65, color: C.textSecondary }, { from: 65, to: 80, color: C.amber, label: '15 years' }] }, { name: 'At 150', segs: [{ from: 0, to: 113, color: C.textSecondary }, { from: 113, to: 150, color: C.amber, grow: true, label: '37 years' }] }] },
 };
 
-const X0 = 400, W = 1340, BAR = 88;
+const X0 = 470, W = 1290, BAR = 88;
 
 export const LifeBar: React.FC<BgProps & { preset: string }> = ({ preset, bg }) => {
   const f = useCurrentFrame();
@@ -34,7 +34,7 @@ export const LifeBar: React.FC<BgProps & { preset: string }> = ({ preset, bg }) 
         return (
           <div key={ri}>
             {row.name ? (
-              <Label size={50} weight={700} color={C.textSecondary} style={{ position: 'absolute', left: 90, top: y + 16, width: 270, opacity: ease(f, 0, 12) }}>
+              <Label size={50} weight={700} color={C.textSecondary} style={{ position: 'absolute', left: 80, top: y + 16, width: 370, whiteSpace: 'nowrap', opacity: ease(f, 0, 12) }}>
                 {row.name}
               </Label>
             ) : null}
