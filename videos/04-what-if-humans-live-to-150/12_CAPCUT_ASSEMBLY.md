@@ -11,7 +11,7 @@
 - **Track 2 — Foley:** per `11_AUDIO_DESIGN.md` §3.
 - **Track 3 — Music:** bed + variation per `11_AUDIO_DESIGN.md` §1–2.
 - **Track 4 — Overlays:** the lavender HYPOTHETICAL SCENARIO badge, top-right, 4s each, at `00:16.5`, `02:31.7`, `05:10.1`, `07:37.9`, `08:49.0`.
-- **Track 5 — Captions:** CapCut auto-captions from the voice track, then fix any misheard words against `02_SCRIPT_A.md`. Big, few words per line, bottom-centre, never over a chart label.
+- **Captions:** none in the edit — upload `13_CAPTIONS_EN.srt` to YouTube separately.
 
 ---
 

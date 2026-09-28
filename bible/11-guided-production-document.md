@@ -651,6 +651,7 @@ Confirm a template draft exists to clone project structure from. Confirm CapCut 
 > **POST-PRODUCTION TIMING RULE:**
 > This deliverable is generated **strictly at the very end of production**, after the CapCut project is fully assembled, voiceover is placed, and subtitles/captions (`.srt` / `.json`) are locked.
 > **Never pre-generate chapter timestamps in Phase 1.** Frame-accurate downbeats can only be calculated from the final shape of the captions and video timeline.
+> **Captions ship as a separate `.srt`,** generated from `voiceover/alignment.json` in the script's exact wording and uploaded to YouTube (Subtitles → Upload file → With timing). They are not burned into the video, and no text is written into the CapCut draft.
 
 ### Deliverable Format:
 1. **Selected Title:** The chosen high-CTR title from Phase 1.

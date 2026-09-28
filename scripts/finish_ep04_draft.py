@@ -55,11 +55,11 @@ for name in ("draft_content.json", "draft_info.json"):
     for s, m in zip(segs, pieces):
         f = {"id": nid(), "type": "audio_fade", "fade_type": 0, "fade_in_duration": us(m["fade_in"]), "fade_out_duration": us(m["fade_out"])}
         mats["audio_fades"].append(f); s["extra_material_refs"].append(f["id"])
-    # captions (bottom) and age labels (top)
-    d["tracks"] = [t for t in d["tracks"] if t["type"] != "text"]
-    mats["texts"] = []
-    for items, y, size, kind, base in ((X["captions"], -0.72, 7.85, "subtitle", 14000), (X["labels"], 0.70, 11.0, "text", 15000)):
-        trk, tm = text_track(items, y, size, kind, base)
-        d["tracks"].append(trk); mats["texts"].extend(tm)
+    # No text in the draft: CapCut did not render cloned captions, and captions ship as a separate
+    # .srt (13_CAPTIONS_EN.srt) uploaded to YouTube. text_track() is kept only for reference.
+    if os.environ.get("ADD_TEXT") == "1":
+        for items, y, size, kind, base in ((X["captions"], -0.72, 7.85, "subtitle", 14000), (X["labels"], 0.70, 11.0, "text", 15000)):
+            trk, tm = text_track(items, y, size, kind, base)
+            d["tracks"].append(trk); mats.setdefault("texts", []).extend(tm)
     json.dump(d, open(p, "w"), ensure_ascii=False)
-    print(f"{name}: {len(segs)} music fades | {len(X['captions'])} captions | {len(X['labels'])} labels")
+    print(f"{name}: {len(segs)} music fades")

@@ -31,6 +31,9 @@ THE REAL NUMBERS (how we worked them out):
 This is a hypothetical. The premise is invented; the maths isn't.
 ```
 
+## Subtitles
+Upload `13_CAPTIONS_EN.srt` in YouTube Studio → Subtitles → Add → Upload file → *With timing*. Script wording, timed to the voice; not burned into the video.
+
 ## Tags
 ```
 what if humans lived to 150, living to 150, what if we lived forever, longevity, living longer, what if, hypothetical, future, retirement age, inheritance, housing, population, what if nobody died, thought experiment, life expectancy, ageing, economy explained, finance, financecraft, family, generations
