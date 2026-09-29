@@ -146,14 +146,36 @@ def check_file(path, token_hex, token_hex_to_key):
 def main():
     args = sys.argv[1:]
     tokens_path = TOKENS_PATH
+    explicit_tokens = False
     if len(args) == 3 and args[0] == "--tokens":
         tokens_path, args = args[1], args[2:]
+        explicit_tokens = True
     if len(args) != 1:
         print(f"usage: {sys.argv[0]} [--tokens <channel theme .ts>] <file.tsx | directory>")
         print("       default tokens: FinanceCraft (remotion/src/tokens.ts); "
-              "Raahim: remotion/src/themes/raahim.ts")
+              "other channels: remotion/src/themes/<channel>.ts (picked automatically "
+              "for code under remotion/src/channels/<channel>/)")
         return 1
     target = args[0]
+
+    # Channel isolation: the palette checked must be the palette of the channel that
+    # owns the code. Never let a forgotten --tokens silently apply FinanceCraft's.
+    m = re.search(r"remotion/src/channels/([^/]+)/", os.path.abspath(target).replace(os.sep, "/") + "/")
+    if m:
+        owner_theme = f"remotion/src/themes/{m.group(1)}.ts"
+        if not explicit_tokens and os.path.exists(owner_theme):
+            tokens_path = owner_theme
+            print(f"[info] channel '{m.group(1)}' detected from path — using {owner_theme}")
+        elif tokens_path != owner_theme:
+            print(f"[FAIL] {target} belongs to channel '{m.group(1)}' but tokens are "
+                  f"{tokens_path}; expected {owner_theme}"
+                  + ("" if os.path.exists(owner_theme) else " (create the theme file first)"))
+            return 1
+    elif "/remotion/src/scenes/" in os.path.abspath(target).replace(os.sep, "/") + "/" \
+            and explicit_tokens and tokens_path != TOKENS_PATH:
+        print(f"[FAIL] {target} is FinanceCraft scene code but tokens are {tokens_path}; "
+              f"expected {TOKENS_PATH}")
+        return 1
 
     tokens = load_tokens(tokens_path)
     token_hex = set(tokens.values())
