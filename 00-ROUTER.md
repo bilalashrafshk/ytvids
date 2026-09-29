@@ -40,14 +40,16 @@ If the user hasn't named the channel, the engine's **first output is this questi
 Which channel is this for?
   1. FinanceCraft — finance documentaries (case autopsies, hypotheticals, explainers)
   2. Raahim — absurd what-ifs and strange-but-true questions, 1950s deadpan educational-film style
+  3. It's Probably Nothing — medical explainers told through Dennis Fine, who ignores the symptom (Track 3 only)
 ```
 
 Then load `channels/<name>/CHANNEL.md` and state in one line which profile is active. Every later step reads it:
 
 - **Precedence:** the channel profile wins where it speaks; **every general production rule in the engine applies to every channel automatically** (text discipline, composition, technique menu, audio mixing, thumbnail legibility, all gates); only FinanceCraft's *identity* (palette, register, characters, thumbnail styles, music beds, persona, research) is never inherited. See `channels/README.md`.
 - **The profile can restrict STEP 2:** e.g. Raahim takes Track 2 (what-ifs) and Track 3 (strange-but-true questions), never Track 1. A topic that needs a track the channel doesn't allow is flagged at HARD STOP 0, not quietly reshaped.
-- **Episode folder** comes from the profile (`videos/` for FinanceCraft, `videos/raahim/` for Raahim).
+- **Episode folder** comes from the profile (`videos/` for FinanceCraft, `videos/raahim/` for Raahim, `videos/its-probably-nothing/` for It's Probably Nothing).
 - **Never cross channels.** No reusing another channel's characters, palette, thumbnails or episode files. If a topic fits the other channel better, say so at HARD STOP 0.
+- **Isolation is mechanical, not just a rule.** Run `python3 check_channel_isolation.py` at STEP 0 (before loading the profile) and again at STEP 7 (handoff). It fails on another channel's names/characters in your files, wrong-channel Remotion imports, shared accent colours between themes, unowned folders, and unregistered channels. A failure blocks the handoff. `check_remotion_theme.py` picks the channel's own theme from the file path and refuses a mismatched `--tokens`.
 
 Every HARD STOP block starts with a `CHANNEL:` line so the active profile is always visible.
 
