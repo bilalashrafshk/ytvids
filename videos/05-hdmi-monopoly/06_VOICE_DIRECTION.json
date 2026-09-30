@@ -1,0 +1,302 @@
+[
+  {
+    "chunk_id": 0,
+    "section": "Everyday hook",
+    "control_instruction": "Easy and conversational, inviting the listener to actually turn round and look, with a small smile on 'a dozen times without a thought'.",
+    "target_text": "Tilt your head and look at the back of your TV. There's a row of ports. One of them is an H D M I port, a small flat plug with two clipped corners. You've pushed a cable into it a dozen times without a thought."
+  },
+  {
+    "chunk_id": 1,
+    "section": "Everyday hook",
+    "control_instruction": "A light, arch beat, letting 'Not much' land dry before the four cents arrives.",
+    "target_text": "Before that TV left the factory, somebody paid to put that plug there. Not much. About four cents."
+  },
+  {
+    "chunk_id": 2,
+    "section": "Everyday hook",
+    "control_instruction": "Warm and amused, the salt-in-bread line shared like a private joke, the final number left plain.",
+    "target_text": "You never saw it on the receipt. It's folded into the price, like salt in bread. On a four hundred dollar TV, it's one dollar in every ten thousand."
+  },
+  {
+    "chunk_id": 3,
+    "section": "The turn",
+    "control_instruction": "Leaning in, a touch more serious as the ordinary plug becomes a contract, the company named matter-of-factly.",
+    "target_text": "Now here's the part nobody mentions. That plug isn't a standard that belongs to everyone. It's a private contract, and it has been collecting money for twenty-three years. The money goes to a company called H D M I Licensing Administrator, which collects for the companies that built the plug."
+  },
+  {
+    "chunk_id": 4,
+    "section": "The promise",
+    "control_instruction": "Steady and promising, laying out the road ahead, then a brisk hand-off into the story.",
+    "target_text": "This video follows one chain of cause and effect. Each link forces the next. By the end, you'll know who gets paid, and why the four cents is the smallest thing about it. Start in two thousand two, with a mess."
+  },
+  {
+    "chunk_id": 5,
+    "section": "The mess",
+    "control_instruction": "Playful and visual, ticking through the leads with a tumbling rhythm, the switchboard line a wry aside.",
+    "target_text": "Behind a TV of that year, you'd find a knot of leads. One for the picture. Two for the sound. Another if you wanted the picture sharper. Every one was a different plug, made by a different company, and they never quite fit. The back of a TV looked like a telephone switchboard."
+  },
+  {
+    "chunk_id": 6,
+    "section": "The founders",
+    "control_instruction": "A brisk roll-call of the seven names, each given its own small beat, then knowing on 'still sat down together'.",
+    "target_text": "Seven electronics companies were tired of it. Hitachi. Panasonic. Philips. Silicon Image. Sony. Thomson. Toshiba. They sold rival TVs, and they still sat down together. In April two thousand two, they started building one plug that carried picture and sound in a single cable. It even worked with the old computer plug, called D V I."
+  },
+  {
+    "chunk_id": 7,
+    "section": "The founders",
+    "control_instruction": "A quiet pay-off, unhurried, the name landing as the answer to a long-standing problem.",
+    "target_text": "Eight months later, on the ninth of December, it was done. They called it H D M I."
+  },
+  {
+    "chunk_id": 8,
+    "section": "The studios",
+    "control_instruction": "A short, tightening turn, the single word 'Films' held for a beat as the story shifts.",
+    "target_text": "But a plug needed one more thing. Films."
+  },
+  {
+    "chunk_id": 9,
+    "section": "The studios",
+    "control_instruction": "Explaining with growing intrigue, laying out the backers like cards being stacked.",
+    "target_text": "Movies had gone digital, and a digital picture can be copied perfectly, again and again. The plan was to win over the film studios. So the plug carried a lock, supplied by Intel. Fox, Universal, Warner Brothers and Disney all backed it. So did the big satellite and cable companies."
+  },
+  {
+    "chunk_id": 10,
+    "section": "The lock",
+    "control_instruction": "Slow and concrete, an easy show-and-tell, the simplest words given room.",
+    "target_text": "Here's how the lock works. Think of a badge. Every device that has the lock carries a set of secret keys. When your streaming box meets your TV, they check each other's badges. If the TV has no badge, the box won't send the film."
+  },
+  {
+    "chunk_id": 11,
+    "section": "The lock",
+    "control_instruction": "Dry and precise on the bouncer line, then a matter-of-fact settling into what the badges cost.",
+    "target_text": "That is the whole trick. Not a fence around the plug, but a bouncer at the door. And the badges cost money. Making a device with the lock means paying a fee every year, fifteen thousand dollars, plus a price for each set of keys, which gets cheaper the more you buy."
+  },
+  {
+    "chunk_id": 12,
+    "section": "The lock picked",
+    "control_instruction": "Sharpening into a mock-ominous question, the answer flat and short.",
+    "target_text": "Can a lock like that be picked? Yes. And it was."
+  },
+  {
+    "chunk_id": 13,
+    "section": "The lock picked",
+    "control_instruction": "Tense and clipped, the pace tightening as the key turns up, holding steady through the warning.",
+    "target_text": "In September twenty ten, a master key turned up online. With it, anyone could make keys that looked real. Intel said it seemed to have been worked out from scratch, not leaked. Either way, it warned it would take legal action against anyone who built devices to get around the lock."
+  },
+  {
+    "chunk_id": 14,
+    "section": "The lock picked",
+    "control_instruction": "A drier storytelling energy, unwinding the sequel with a touch of amusement at the legal argument.",
+    "target_text": "Five years on, a small box called the H D Fury could strip the lock off a picture. Warner Brothers sued on the last day of twenty fifteen. The box's maker argued it only lowered the quality, which the law allows. They settled five months later."
+  },
+  {
+    "chunk_id": 15,
+    "section": "The chain",
+    "control_instruction": "Grounded and reflective, the two short lines carrying weight, the question after them lighter as the story turns.",
+    "target_text": "The lock got picked. The chain didn't break. Why not? Because by then, the chain had already moved."
+  },
+  {
+    "chunk_id": 16,
+    "section": "The loop",
+    "control_instruction": "Measured and clear, ticking off four steps at an even pace so each one lands, the last line a small aside.",
+    "target_text": "Here is the whole loop, in four steps. One: studios and cable companies back the plug. Two: so the boxes people buy all use it. Three: so every TV has to have it. Four: so every TV maker signs the contract, and pays. More than two thousand one hundred companies have."
+  },
+  {
+    "chunk_id": 17,
+    "section": "The loop",
+    "control_instruction": "Grave weight on 'Nobody voted', slowing a little as the market's single door comes into view.",
+    "target_text": "Nobody voted for that. No law says every TV needs this plug. The market simply arrived at a place with one door."
+  },
+  {
+    "chunk_id": 18,
+    "section": "The loop",
+    "control_instruction": "Plain and wry, the thought experiment offered with a half-smile.",
+    "target_text": "Try building a TV without it. It would work. It just wouldn't plug into most of what you own."
+  },
+  {
+    "chunk_id": 19,
+    "section": "The price",
+    "control_instruction": "Warm and picture-painting, the club drawn with easy relish and a sly close on 'the bouncer's badge'.",
+    "target_text": "Picture a club with one entrance and a bouncer. Anyone can build a nicer door around the back. But the party is inside, and the party has the bouncer's badge."
+  },
+  {
+    "chunk_id": 20,
+    "section": "The price",
+    "control_instruction": "Curious on the question, then the details laid out crisply, a slight lift when the headline number arrives.",
+    "target_text": "So what does the club charge? The contract is short on glamour. Every maker pays a yearly fee, ten thousand dollars for a big one. Small ones pay five thousand, plus a dollar a unit. On top comes the fee for each device, and this is the number in the title. As widely reported, it starts at fifteen cents."
+  },
+  {
+    "chunk_id": 21,
+    "section": "The price",
+    "control_instruction": "Rising amusement as the discount unspools, then a pointed 'Read that again' with an arched eyebrow.",
+    "target_text": "Put the H D M I logo on your product and the fee drops to five cents. Add the lock as well and it drops to four. Read that again. The toll gets cheaper if you advertise the toll company. The group's own logo rules say so, in writing: use the logo, get a discount."
+  },
+  {
+    "chunk_id": 22,
+    "section": "The price",
+    "control_instruction": "A beat of deadpan stillness on 'Four cents', then a brisk, conversational shift into the small maker's story.",
+    "target_text": "Four cents. Less than a gumball. But that's the price for the giants. Let's run it for a small maker. Say you build ten thousand TVs a year, in a garage that's turned into a factory."
+  },
+  {
+    "chunk_id": 23,
+    "section": "The small maker",
+    "control_instruction": "Counting along with the small maker, each cost stacked up steadily, the final figure given a wince.",
+    "target_text": "Your yearly fee is five thousand dollars. Then you pay a dollar on every TV, just to be in the system. Then the per-device fee, at five cents, comes to five hundred dollars. All told, about fifteen thousand five hundred dollars. That's a dollar fifty-five on every TV."
+  },
+  {
+    "chunk_id": 24,
+    "section": "The small maker",
+    "control_instruction": "Cooler and lighter, the giant's sums dispatched quickly, the answer almost a shrug.",
+    "target_text": "Now run it for a giant selling ten million TVs. The yearly fee is ten thousand dollars, and the per-device fee is four cents each. It comes to about four cents a TV."
+  },
+  {
+    "chunk_id": 25,
+    "section": "The small maker",
+    "control_instruction": "A knowing turn, the comparison put plainly, the last line carrying quiet weight.",
+    "target_text": "So it isn't one price. The small maker pays nearly forty times what the giant pays. That's our own math on the reported fees. A cheap contract weighs the most on the people with the least."
+  },
+  {
+    "chunk_id": 26,
+    "section": "The patents",
+    "control_instruction": "Light, a quick throwaway detail, amused.",
+    "target_text": "And it's per device. A TV with five ports on the back pays once, not five times."
+  },
+  {
+    "chunk_id": 27,
+    "section": "The patents",
+    "control_instruction": "Confiding, as if sharing something most people miss, unhurried on 'without being sued'.",
+    "target_text": "The fee comes with something else. A licence to the patents behind the plug. That's the part most people never notice. The contract doesn't just let you use the name. It lets you build the thing without being sued."
+  },
+  {
+    "chunk_id": 28,
+    "section": "The patents",
+    "control_instruction": "Firm, tightening the boundaries one phrase at a time, then a bright turn to the next question.",
+    "target_text": "But only for a real H D M I product. Not a copy. Not a look-alike. The licence stops where the product stops. So how much does a few cents add up to?"
+  },
+  {
+    "chunk_id": 29,
+    "section": "The money",
+    "control_instruction": "Brisk and numeric, keeping the figures crisp and separate, letting the growth build.",
+    "target_text": "In twenty seventeen alone, the plug shipped in nearly nine hundred million devices. At four to fifteen cents each, that's tens of millions of dollars, in a single year. See how fast it grew. Six hundred million devices by early two thousand nine. Two billion by late twenty eleven. Nearly ten billion by twenty twenty-one."
+  },
+  {
+    "chunk_id": 30,
+    "section": "The money",
+    "control_instruction": "Steady and reasoned, the total offered as a careful estimate, a small deflation on 'near the bottom'.",
+    "target_text": "Today, close to fourteen billion. That's about two for every person on Earth. Multiply it out, and our own rough math says somewhere between six hundred million and two billion dollars, over twenty-three years. Most likely near the bottom of that."
+  },
+  {
+    "chunk_id": 31,
+    "section": "The money",
+    "control_instruction": "Level and understated, brushing off the Big Tech comparison with a shrug.",
+    "target_text": "That's real money. But it isn't Big Tech money. It doesn't need to be."
+  },
+  {
+    "chunk_id": 32,
+    "section": "The money",
+    "control_instruction": "Quiet conviction, the point placed gently but firmly.",
+    "target_text": "Because the money was never the point. The point is that nobody could say no."
+  },
+  {
+    "chunk_id": 33,
+    "section": "The rival",
+    "control_instruction": "Narrating a small failed rebellion, wry and even, a tilt on 'sold as free'.",
+    "target_text": "Some tried. In two thousand six, a rival plug called DisplayPort arrived, built for computer screens. It came from a standards group, and it was sold as free. It never took over the living room. The TVs were already taken."
+  },
+  {
+    "chunk_id": 34,
+    "section": "The rival",
+    "control_instruction": "A sly reveal, the twist delivered with restraint, the shared names given a raised-eyebrow pause.",
+    "target_text": "And it isn't quite free. A group of patent owners asks twenty cents a product. That's more than the lowest fee on the H D M I side. Some of the names on that list are the same ones that built H D M I."
+  },
+  {
+    "chunk_id": 35,
+    "section": "The rival",
+    "control_instruction": "Rueful and dry, the short line landing first, then more guarded and watchful on the trade-show detail.",
+    "target_text": "So the escape route has a toll too. The group guards its name, too. It has taken makers to court for stamping the H D M I mark on products they hadn't signed for. Some were accused of doing it at a big electronics show, right in front of the buyers."
+  },
+  {
+    "chunk_id": 36,
+    "section": "The Forum",
+    "control_instruction": "Even and explanatory, keeping the two bodies clearly apart, a small nod on 'same founders'.",
+    "target_text": "Then in twenty eleven, the founders set up a second body, called the H D M I Forum. It writes the new versions of the plug. H D M I Licensing Administrator writes the contract. The Forum writes the rules. In June twenty twenty-five, it released version two point two, and the same licensing company sells that one too."
+  },
+  {
+    "chunk_id": 37,
+    "section": "The Forum",
+    "control_instruction": "Faintly wry, closing the section on the names changing and the group staying put.",
+    "target_text": "Both trace back to the same founders. The names on the door change. Thomson is called Vantiva now. The group doesn't change."
+  },
+  {
+    "chunk_id": 38,
+    "section": "The court",
+    "control_instruction": "Setting the scene with a touch more drama, promising the story that follows.",
+    "target_text": "Which brings us to a chip company called Availink."
+  },
+  {
+    "chunk_id": 39,
+    "section": "The court",
+    "control_instruction": "Storytelling, easy and clear, the fee question posed openly and answered flat.",
+    "target_text": "Availink made the little chips that go inside TVs. It sold them to other companies, who built the sets. So who owed the fee, the chip maker or the TV maker? The contract said the chip maker. Availink signed it, and it was licensed for about three years. Then the deal ended, and the group behind H D M I took it to court over unpaid fees."
+  },
+  {
+    "chunk_id": 40,
+    "section": "The court",
+    "control_instruction": "Tense and courtroom-quiet, the ruling delivered plainly, a dry lift on 'Call it a monopoly or don't'.",
+    "target_text": "Availink hit back. It argued that the group was breaking competition law, and that the contract kept rivals out. On the last day of twenty twenty-five, a federal judge ruled for the group, and threw out every one of Availink's claims. Call it a monopoly or don't. The judge found the contract had not hurt competition. And the contract really did require the chip company to pay fees on its chips."
+  },
+  {
+    "chunk_id": 41,
+    "section": "The court",
+    "control_instruction": "Dead level on the payment, a beat of silence, then reflective and slow through the wall line.",
+    "target_text": "A week before the trial, Availink agreed to pay fourteen million dollars. Then it signed the contract again. Think about what that means. A company whose whole business was the chips inside TVs couldn't beat a contract that costs cents. The cheap fee was never the wall. The wall was everything around it: the patents, the name, the lock, and a court that upheld the contract."
+  },
+  {
+    "chunk_id": 42,
+    "section": "The fair case",
+    "control_instruction": "Even-handed and warm, making the fair case sincerely, ending on a soft, human note.",
+    "target_text": "Let's be fair. There's a real case for all this. One plug is why your console works with any TV, in any country. That takes testing, and it takes someone keeping fakes off the shelf. That's the best argument for it. And when a plug does its job, nobody thinks about it at all."
+  },
+  {
+    "chunk_id": 43,
+    "section": "The gate",
+    "control_instruction": "The turn: a small pause, 'But hold on' with a sense of something coming, then measured.",
+    "target_text": "And a judge looked at the contract and found no harm. But hold on. The contract is about money. The Forum is about who gets to see the plans."
+  },
+  {
+    "chunk_id": 44,
+    "section": "The gate",
+    "control_instruction": "Explanatory and curious, the closing of the rulebook told with mild alarm, the open-source explanation kindly put.",
+    "target_text": "In twenty twenty-one, the Forum closed the newest version of the plug's rulebook to the public. Then A M D, one of the biggest makers of graphics chips, tried to build an open-source driver for it on Linux. That's free code that anyone can read."
+  },
+  {
+    "chunk_id": 45,
+    "section": "The gate",
+    "control_instruction": "Reading the engineer's words with plain, careful precision, stepping through the sentence without drama.",
+    "target_text": "They worked on it for months. In early twenty twenty-four, an A M D engineer wrote: \"The H D M I Forum has rejected our proposal unfortunately. At this time an open source H D M I two point one implementation is not possible without running afoul of the H D M I Forum requirements.\""
+  },
+  {
+    "chunk_id": 46,
+    "section": "The gate",
+    "control_instruction": "Matter-of-fact about what is lost, the gaming advice delivered with a wry half-smile.",
+    "target_text": "So on Linux, with an A M D card, the best picture over H D M I is off the table. No four-K at a hundred and twenty frames a second. A M D's advice to gamers? Use DisplayPort."
+  },
+  {
+    "chunk_id": 47,
+    "section": "The joke",
+    "control_instruction": "Playful and incredulous, the label joke turning on the small print, a mock-solemn close.",
+    "target_text": "And here's a small joke on top. Since twenty twenty-three, a port can be sold as \"H D M I two point one\" and only do what the old one did. The group's answer, as reported: the old version no longer exists. The only way to tell is the small print on the spec sheet."
+  },
+  {
+    "chunk_id": 48,
+    "section": "The close",
+    "control_instruction": "Slow and reflective, returning to the opening image, each short sentence given room.",
+    "target_text": "Go back to that TV. The plug with two clipped corners. It looked like a piece of the world, like a wall socket. It was a piece of a contract."
+  },
+  {
+    "chunk_id": 49,
+    "section": "The close",
+    "control_instruction": "Quiet and clean, the two statements set down evenly, the last question slower and left open.",
+    "target_text": "Nobody ever voted on the plug behind your TV. Nobody has ever seen the bill. The question isn't what it costs. It's who else has a lock on something you never noticed you were using."
+  }
+]

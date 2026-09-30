@@ -1,0 +1,1696 @@
+{
+ "audio": "voiceover/master_narration.wav",
+ "warnings": [],
+ "duration": 693.46,
+ "method": "faster-whisper small.en word timestamps (cpu, int8, beam 1), matched to 06_VOICE_DIRECTION.json text (93.1% of words matched, all 211 sentences placed)",
+ "sentences": [
+  {
+   "i": 0,
+   "chunk_id": 0,
+   "text": "Tilt your head and look at the back of your TV.",
+   "start": 0.0,
+   "end": 2.2,
+   "match": 1.0
+  },
+  {
+   "i": 1,
+   "chunk_id": 0,
+   "text": "There's a row of ports.",
+   "start": 2.92,
+   "end": 4.06,
+   "match": 1.0
+  },
+  {
+   "i": 2,
+   "chunk_id": 0,
+   "text": "One of them is an H D M I port, a small flat plug with two clipped corners.",
+   "start": 4.9,
+   "end": 10.5,
+   "match": 1.0
+  },
+  {
+   "i": 3,
+   "chunk_id": 0,
+   "text": "You've pushed a cable into it a dozen times without a thought.",
+   "start": 11.34,
+   "end": 14.52,
+   "match": 1.0
+  },
+  {
+   "i": 4,
+   "chunk_id": 1,
+   "text": "Before that TV left the factory, somebody paid to put that plug there.",
+   "start": 15.28,
+   "end": 19.5,
+   "match": 1.0
+  },
+  {
+   "i": 5,
+   "chunk_id": 1,
+   "text": "Not much.",
+   "start": 19.96,
+   "end": 20.5,
+   "match": 1.0
+  },
+  {
+   "i": 6,
+   "chunk_id": 1,
+   "text": "About four cents.",
+   "start": 20.98,
+   "end": 21.78,
+   "match": 1.0
+  },
+  {
+   "i": 7,
+   "chunk_id": 2,
+   "text": "You never saw it on the receipt.",
+   "start": 22.42,
+   "end": 23.78,
+   "match": 1.0
+  },
+  {
+   "i": 8,
+   "chunk_id": 2,
+   "text": "It's folded into the price, like salt in bread.",
+   "start": 24.32,
+   "end": 26.82,
+   "match": 0.89
+  },
+  {
+   "i": 9,
+   "chunk_id": 2,
+   "text": "On a four hundred dollar TV, it's one dollar in every ten thousand.",
+   "start": 26.82,
+   "end": 31.3,
+   "match": 0.46
+  },
+  {
+   "i": 10,
+   "chunk_id": 3,
+   "text": "Now here's the part nobody mentions.",
+   "start": 31.74,
+   "end": 33.6,
+   "match": 1.0
+  },
+  {
+   "i": 11,
+   "chunk_id": 3,
+   "text": "That plug isn't a standard that belongs to everyone.",
+   "start": 34.48,
+   "end": 37.48,
+   "match": 1.0
+  },
+  {
+   "i": 12,
+   "chunk_id": 3,
+   "text": "It's a private contract, and it has been collecting money for twenty-three years.",
+   "start": 38.14,
+   "end": 42.78,
+   "match": 0.86
+  },
+  {
+   "i": 13,
+   "chunk_id": 3,
+   "text": "The money goes to a company called H D M I Licensing Administrator, which collects for the companies that built the plug.",
+   "start": 43.64,
+   "end": 50.52,
+   "match": 1.0
+  },
+  {
+   "i": 14,
+   "chunk_id": 4,
+   "text": "This video follows one chain of cause and effect.",
+   "start": 51.18,
+   "end": 54.12,
+   "match": 1.0
+  },
+  {
+   "i": 15,
+   "chunk_id": 4,
+   "text": "Each link forces the next.",
+   "start": 54.12,
+   "end": 56.18,
+   "match": 1.0
+  },
+  {
+   "i": 16,
+   "chunk_id": 4,
+   "text": "By the end, you'll know who gets paid, and why the four cents is the smallest thing about it.",
+   "start": 56.72,
+   "end": 61.86,
+   "match": 1.0
+  },
+  {
+   "i": 17,
+   "chunk_id": 4,
+   "text": "Start in two thousand two, with a mess.",
+   "start": 62.5,
+   "end": 64.74,
+   "match": 0.62
+  },
+  {
+   "i": 18,
+   "chunk_id": 5,
+   "text": "Behind a TV of that year, you'd find a knot of leads.",
+   "start": 65.58,
+   "end": 68.28,
+   "match": 1.0
+  },
+  {
+   "i": 19,
+   "chunk_id": 5,
+   "text": "One for the picture.",
+   "start": 69.06,
+   "end": 69.86,
+   "match": 1.0
+  },
+  {
+   "i": 20,
+   "chunk_id": 5,
+   "text": "Two for the sound.",
+   "start": 70.18,
+   "end": 71.16,
+   "match": 1.0
+  },
+  {
+   "i": 21,
+   "chunk_id": 5,
+   "text": "Another if you wanted the picture sharper.",
+   "start": 71.64,
+   "end": 73.66,
+   "match": 1.0
+  },
+  {
+   "i": 22,
+   "chunk_id": 5,
+   "text": "Every one was a different plug, made by a different company, and they never quite fit.",
+   "start": 74.32,
+   "end": 79.08,
+   "match": 1.0
+  },
+  {
+   "i": 23,
+   "chunk_id": 5,
+   "text": "The back of a TV looked like a telephone switchboard.",
+   "start": 79.68,
+   "end": 82.4,
+   "match": 1.0
+  },
+  {
+   "i": 24,
+   "chunk_id": 6,
+   "text": "Seven electronics companies were tired of it.",
+   "start": 83.06,
+   "end": 85.28,
+   "match": 1.0
+  },
+  {
+   "i": 25,
+   "chunk_id": 6,
+   "text": "Hitachi.",
+   "start": 85.58,
+   "end": 86.0,
+   "match": 1.0
+  },
+  {
+   "i": 26,
+   "chunk_id": 6,
+   "text": "Panasonic.",
+   "start": 86.46,
+   "end": 86.86,
+   "match": 1.0
+  },
+  {
+   "i": 27,
+   "chunk_id": 6,
+   "text": "Philips.",
+   "start": 87.32,
+   "end": 87.56,
+   "match": 1.0
+  },
+  {
+   "i": 28,
+   "chunk_id": 6,
+   "text": "Silicon Image.",
+   "start": 88.42,
+   "end": 88.76,
+   "match": 1.0
+  },
+  {
+   "i": 29,
+   "chunk_id": 6,
+   "text": "Sony.",
+   "start": 89.3,
+   "end": 89.38,
+   "match": 1.0
+  },
+  {
+   "i": 30,
+   "chunk_id": 6,
+   "text": "Thomson.",
+   "start": 89.78,
+   "end": 90.1,
+   "match": 1.0
+  },
+  {
+   "i": 31,
+   "chunk_id": 6,
+   "text": "Toshiba.",
+   "start": 90.4,
+   "end": 90.68,
+   "match": 1.0
+  },
+  {
+   "i": 32,
+   "chunk_id": 6,
+   "text": "They sold rival TVs, and they still sat down together.",
+   "start": 91.32,
+   "end": 94.0,
+   "match": 1.0
+  },
+  {
+   "i": 33,
+   "chunk_id": 6,
+   "text": "In April two thousand two, they started building one plug that carried picture and sound in a single cable.",
+   "start": 94.6,
+   "end": 99.9,
+   "match": 0.84
+  },
+  {
+   "i": 34,
+   "chunk_id": 6,
+   "text": "It even worked with the old computer plug, called D V I.",
+   "start": 100.52,
+   "end": 103.12,
+   "match": 1.0
+  },
+  {
+   "i": 35,
+   "chunk_id": 7,
+   "text": "Eight months later, on the ninth of December, it was done.",
+   "start": 103.76,
+   "end": 106.8,
+   "match": 0.91
+  },
+  {
+   "i": 36,
+   "chunk_id": 7,
+   "text": "They called it H D M I.",
+   "start": 107.48,
+   "end": 108.92,
+   "match": 1.0
+  },
+  {
+   "i": 37,
+   "chunk_id": 8,
+   "text": "But a plug needed one more thing.",
+   "start": 109.94,
+   "end": 111.86,
+   "match": 1.0
+  },
+  {
+   "i": 38,
+   "chunk_id": 8,
+   "text": "Films.",
+   "start": 112.46,
+   "end": 112.74,
+   "match": 1.0
+  },
+  {
+   "i": 39,
+   "chunk_id": 9,
+   "text": "Movies had gone digital, and a digital picture can be copied perfectly, again and again.",
+   "start": 113.82,
+   "end": 118.82,
+   "match": 1.0
+  },
+  {
+   "i": 40,
+   "chunk_id": 9,
+   "text": "The plan was to win over the film studios.",
+   "start": 119.88,
+   "end": 122.06,
+   "match": 1.0
+  },
+  {
+   "i": 41,
+   "chunk_id": 9,
+   "text": "So the plug carried a lock, supplied by Intel.",
+   "start": 122.68,
+   "end": 125.4,
+   "match": 1.0
+  },
+  {
+   "i": 42,
+   "chunk_id": 9,
+   "text": "Fox, Universal, Warner Brothers and Disney all backed it.",
+   "start": 126.9,
+   "end": 130.7,
+   "match": 1.0
+  },
+  {
+   "i": 43,
+   "chunk_id": 9,
+   "text": "So did the big satellite and cable companies.",
+   "start": 131.44,
+   "end": 133.7,
+   "match": 1.0
+  },
+  {
+   "i": 44,
+   "chunk_id": 10,
+   "text": "Here's how the lock works.",
+   "start": 134.72,
+   "end": 135.98,
+   "match": 1.0
+  },
+  {
+   "i": 45,
+   "chunk_id": 10,
+   "text": "Think of a badge.",
+   "start": 136.96,
+   "end": 138.0,
+   "match": 1.0
+  },
+  {
+   "i": 46,
+   "chunk_id": 10,
+   "text": "Every device that has the lock carries a set of secret keys.",
+   "start": 138.7,
+   "end": 142.6,
+   "match": 1.0
+  },
+  {
+   "i": 47,
+   "chunk_id": 10,
+   "text": "When your streaming box meets your TV, they check each other's badges.",
+   "start": 143.24,
+   "end": 147.26,
+   "match": 1.0
+  },
+  {
+   "i": 48,
+   "chunk_id": 10,
+   "text": "If the TV has no badge, the box won't send the film.",
+   "start": 147.98,
+   "end": 151.72,
+   "match": 1.0
+  },
+  {
+   "i": 49,
+   "chunk_id": 11,
+   "text": "That is the whole trick.",
+   "start": 152.48,
+   "end": 153.6,
+   "match": 1.0
+  },
+  {
+   "i": 50,
+   "chunk_id": 11,
+   "text": "Not a fence around the plug, but a bouncer at the door.",
+   "start": 154.18,
+   "end": 156.7,
+   "match": 1.0
+  },
+  {
+   "i": 51,
+   "chunk_id": 11,
+   "text": "And the badges cost money.",
+   "start": 157.44,
+   "end": 158.58,
+   "match": 1.0
+  },
+  {
+   "i": 52,
+   "chunk_id": 11,
+   "text": "Making a device with the lock means paying a fee every year, fifteen thousand dollars, plus a price for each set of keys, which gets cheaper the more you buy.",
+   "start": 159.32,
+   "end": 167.44,
+   "match": 0.87
+  },
+  {
+   "i": 53,
+   "chunk_id": 12,
+   "text": "Can a lock like that be picked?",
+   "start": 168.12,
+   "end": 169.58,
+   "match": 1.0
+  },
+  {
+   "i": 54,
+   "chunk_id": 12,
+   "text": "Yes.",
+   "start": 170.28,
+   "end": 170.54,
+   "match": 1.0
+  },
+  {
+   "i": 55,
+   "chunk_id": 12,
+   "text": "And it was.",
+   "start": 171.2,
+   "end": 171.64,
+   "match": 1.0
+  },
+  {
+   "i": 56,
+   "chunk_id": 13,
+   "text": "In September twenty ten, a master key turned up online.",
+   "start": 172.34,
+   "end": 175.54,
+   "match": 0.8
+  },
+  {
+   "i": 57,
+   "chunk_id": 13,
+   "text": "With it, anyone could make keys that looked real.",
+   "start": 176.28,
+   "end": 178.92,
+   "match": 1.0
+  },
+  {
+   "i": 58,
+   "chunk_id": 13,
+   "text": "Intel said it seemed to have been worked out from scratch, not leaked.",
+   "start": 180.02,
+   "end": 183.84,
+   "match": 1.0
+  },
+  {
+   "i": 59,
+   "chunk_id": 13,
+   "text": "Either way, it warned it would take legal action against anyone who built devices to get around the lock.",
+   "start": 184.74,
+   "end": 190.38,
+   "match": 1.0
+  },
+  {
+   "i": 60,
+   "chunk_id": 14,
+   "text": "Five years on, a small box called the H D Fury could strip the lock off a picture.",
+   "start": 190.96,
+   "end": 196.14,
+   "match": 1.0
+  },
+  {
+   "i": 61,
+   "chunk_id": 14,
+   "text": "Warner Brothers sued on the last day of twenty fifteen.",
+   "start": 197.12,
+   "end": 199.91,
+   "match": 0.8
+  },
+  {
+   "i": 62,
+   "chunk_id": 14,
+   "text": "The box's maker argued it only lowered the quality, which the law allows.",
+   "start": 200.42,
+   "end": 204.22,
+   "match": 1.0
+  },
+  {
+   "i": 63,
+   "chunk_id": 14,
+   "text": "They settled five months later.",
+   "start": 204.9,
+   "end": 206.3,
+   "match": 1.0
+  },
+  {
+   "i": 64,
+   "chunk_id": 15,
+   "text": "The lock got picked.",
+   "start": 206.9,
+   "end": 208.0,
+   "match": 1.0
+  },
+  {
+   "i": 65,
+   "chunk_id": 15,
+   "text": "The chain didn't break.",
+   "start": 208.64,
+   "end": 209.62,
+   "match": 1.0
+  },
+  {
+   "i": 66,
+   "chunk_id": 15,
+   "text": "Why not?",
+   "start": 210.36,
+   "end": 210.8,
+   "match": 1.0
+  },
+  {
+   "i": 67,
+   "chunk_id": 15,
+   "text": "Because by then, the chain had already moved.",
+   "start": 211.6,
+   "end": 213.64,
+   "match": 1.0
+  },
+  {
+   "i": 68,
+   "chunk_id": 16,
+   "text": "Here is the whole loop, in four steps.",
+   "start": 213.64,
+   "end": 216.92,
+   "match": 1.0
+  },
+  {
+   "i": 69,
+   "chunk_id": 16,
+   "text": "One: studios and cable companies back the plug.",
+   "start": 217.58,
+   "end": 220.6,
+   "match": 1.0
+  },
+  {
+   "i": 70,
+   "chunk_id": 16,
+   "text": "Two: so the boxes people buy all use it.",
+   "start": 220.86,
+   "end": 223.9,
+   "match": 1.0
+  },
+  {
+   "i": 71,
+   "chunk_id": 16,
+   "text": "Three: so every TV has to have it.",
+   "start": 224.1,
+   "end": 226.6,
+   "match": 1.0
+  },
+  {
+   "i": 72,
+   "chunk_id": 16,
+   "text": "Four: so every TV maker signs the contract, and pays.",
+   "start": 226.76,
+   "end": 230.32,
+   "match": 1.0
+  },
+  {
+   "i": 73,
+   "chunk_id": 16,
+   "text": "More than two thousand one hundred companies have.",
+   "start": 230.84,
+   "end": 233.06,
+   "match": 0.5
+  },
+  {
+   "i": 74,
+   "chunk_id": 17,
+   "text": "Nobody voted for that.",
+   "start": 233.62,
+   "end": 234.84,
+   "match": 1.0
+  },
+  {
+   "i": 75,
+   "chunk_id": 17,
+   "text": "No law says every TV needs this plug.",
+   "start": 235.36,
+   "end": 238.1,
+   "match": 1.0
+  },
+  {
+   "i": 76,
+   "chunk_id": 17,
+   "text": "The market simply arrived at a place with one door.",
+   "start": 238.62,
+   "end": 241.42,
+   "match": 1.0
+  },
+  {
+   "i": 77,
+   "chunk_id": 18,
+   "text": "Try building a TV without it.",
+   "start": 241.42,
+   "end": 243.96,
+   "match": 1.0
+  },
+  {
+   "i": 78,
+   "chunk_id": 18,
+   "text": "It would work.",
+   "start": 244.2,
+   "end": 244.84,
+   "match": 1.0
+  },
+  {
+   "i": 79,
+   "chunk_id": 18,
+   "text": "It just wouldn't plug into most of what you own.",
+   "start": 245.14,
+   "end": 247.38,
+   "match": 1.0
+  },
+  {
+   "i": 80,
+   "chunk_id": 19,
+   "text": "Picture a club with one entrance and a bouncer.",
+   "start": 248.42,
+   "end": 250.52,
+   "match": 1.0
+  },
+  {
+   "i": 81,
+   "chunk_id": 19,
+   "text": "Anyone can build a nicer door around the back.",
+   "start": 251.42,
+   "end": 253.44,
+   "match": 1.0
+  },
+  {
+   "i": 82,
+   "chunk_id": 19,
+   "text": "But the party is inside, and the party has the bouncer's badge.",
+   "start": 254.16,
+   "end": 257.78,
+   "match": 1.0
+  },
+  {
+   "i": 83,
+   "chunk_id": 20,
+   "text": "So what does the club charge?",
+   "start": 258.44,
+   "end": 259.64,
+   "match": 1.0
+  },
+  {
+   "i": 84,
+   "chunk_id": 20,
+   "text": "The contract is short on glamour.",
+   "start": 260.18,
+   "end": 261.72,
+   "match": 1.0
+  },
+  {
+   "i": 85,
+   "chunk_id": 20,
+   "text": "Every maker pays a yearly fee, ten thousand dollars for a big one.",
+   "start": 262.14,
+   "end": 265.64,
+   "match": 0.77
+  },
+  {
+   "i": 86,
+   "chunk_id": 20,
+   "text": "Small ones pay five thousand, plus a dollar a unit.",
+   "start": 266.16,
+   "end": 268.6,
+   "match": 0.8
+  },
+  {
+   "i": 87,
+   "chunk_id": 20,
+   "text": "On top comes the fee for each device, and this is the number in the title.",
+   "start": 269.16,
+   "end": 272.84,
+   "match": 1.0
+  },
+  {
+   "i": 88,
+   "chunk_id": 20,
+   "text": "As widely reported, it starts at fifteen cents.",
+   "start": 273.46,
+   "end": 276.1,
+   "match": 0.75
+  },
+  {
+   "i": 89,
+   "chunk_id": 21,
+   "text": "Put the H D M I logo on your product and the fee drops to five cents.",
+   "start": 276.5,
+   "end": 281.16,
+   "match": 0.86
+  },
+  {
+   "i": 90,
+   "chunk_id": 21,
+   "text": "Add the lock as well and it drops to four.",
+   "start": 281.52,
+   "end": 284.13,
+   "match": 0.9
+  },
+  {
+   "i": 91,
+   "chunk_id": 21,
+   "text": "Read that again.",
+   "start": 284.62,
+   "end": 285.36,
+   "match": 1.0
+  },
+  {
+   "i": 92,
+   "chunk_id": 21,
+   "text": "The toll gets cheaper if you advertise the toll company.",
+   "start": 285.9,
+   "end": 288.56,
+   "match": 1.0
+  },
+  {
+   "i": 93,
+   "chunk_id": 21,
+   "text": "The group's own logo rules say so, in writing: use the logo, get a discount.",
+   "start": 289.34,
+   "end": 294.22,
+   "match": 1.0
+  },
+  {
+   "i": 94,
+   "chunk_id": 22,
+   "text": "Four cents.",
+   "start": 294.75,
+   "end": 295.27,
+   "match": 0.0
+  },
+  {
+   "i": 95,
+   "chunk_id": 22,
+   "text": "Less than a gumball.",
+   "start": 295.8,
+   "end": 296.74,
+   "match": 1.0
+  },
+  {
+   "i": 96,
+   "chunk_id": 22,
+   "text": "But that's the price for the giants.",
+   "start": 297.36,
+   "end": 298.68,
+   "match": 1.0
+  },
+  {
+   "i": 97,
+   "chunk_id": 22,
+   "text": "Let's run it for a small maker.",
+   "start": 299.28,
+   "end": 300.52,
+   "match": 1.0
+  },
+  {
+   "i": 98,
+   "chunk_id": 22,
+   "text": "Say you build ten thousand TVs a year, in a garage that's turned into a factory.",
+   "start": 301.28,
+   "end": 305.18,
+   "match": 0.88
+  },
+  {
+   "i": 99,
+   "chunk_id": 23,
+   "text": "Your yearly fee is five thousand dollars.",
+   "start": 305.88,
+   "end": 308.32,
+   "match": 0.57
+  },
+  {
+   "i": 100,
+   "chunk_id": 23,
+   "text": "Then you pay a dollar on every TV, just to be in the system.",
+   "start": 308.76,
+   "end": 312.36,
+   "match": 1.0
+  },
+  {
+   "i": 101,
+   "chunk_id": 23,
+   "text": "Then the per-device fee, at five cents, comes to five hundred dollars.",
+   "start": 313.18,
+   "end": 317.41,
+   "match": 0.62
+  },
+  {
+   "i": 102,
+   "chunk_id": 23,
+   "text": "All told, about fifteen thousand five hundred dollars.",
+   "start": 317.8,
+   "end": 321.09,
+   "match": 0.38
+  },
+  {
+   "i": 103,
+   "chunk_id": 23,
+   "text": "That's a dollar fifty-five on every TV.",
+   "start": 321.5,
+   "end": 323.98,
+   "match": 0.5
+  },
+  {
+   "i": 104,
+   "chunk_id": 24,
+   "text": "Now run it for a giant selling ten million TVs.",
+   "start": 324.62,
+   "end": 327.42,
+   "match": 0.9
+  },
+  {
+   "i": 105,
+   "chunk_id": 24,
+   "text": "The yearly fee is ten thousand dollars, and the per-device fee is four cents each.",
+   "start": 328.24,
+   "end": 333.06,
+   "match": 0.69
+  },
+  {
+   "i": 106,
+   "chunk_id": 24,
+   "text": "It comes to about four cents a TV.",
+   "start": 333.76,
+   "end": 335.74,
+   "match": 0.75
+  },
+  {
+   "i": 107,
+   "chunk_id": 25,
+   "text": "So it isn't one price.",
+   "start": 336.26,
+   "end": 337.48,
+   "match": 1.0
+  },
+  {
+   "i": 108,
+   "chunk_id": 25,
+   "text": "The small maker pays nearly forty times what the giant pays.",
+   "start": 338.3,
+   "end": 341.58,
+   "match": 0.91
+  },
+  {
+   "i": 109,
+   "chunk_id": 25,
+   "text": "That's our own math on the reported fees.",
+   "start": 342.28,
+   "end": 344.16,
+   "match": 1.0
+  },
+  {
+   "i": 110,
+   "chunk_id": 25,
+   "text": "A cheap contract weighs the most on the people with the least.",
+   "start": 344.8,
+   "end": 347.8,
+   "match": 1.0
+  },
+  {
+   "i": 111,
+   "chunk_id": 26,
+   "text": "And it's per device.",
+   "start": 348.48,
+   "end": 349.6,
+   "match": 1.0
+  },
+  {
+   "i": 112,
+   "chunk_id": 26,
+   "text": "A TV with five ports on the back pays once, not five times.",
+   "start": 349.6,
+   "end": 353.34,
+   "match": 1.0
+  },
+  {
+   "i": 113,
+   "chunk_id": 27,
+   "text": "The fee comes with something else.",
+   "start": 354.12,
+   "end": 355.28,
+   "match": 1.0
+  },
+  {
+   "i": 114,
+   "chunk_id": 27,
+   "text": "A licence to the patents behind the plug.",
+   "start": 356.02,
+   "end": 358.04,
+   "match": 1.0
+  },
+  {
+   "i": 115,
+   "chunk_id": 27,
+   "text": "That's the part most people never notice.",
+   "start": 358.7,
+   "end": 360.46,
+   "match": 1.0
+  },
+  {
+   "i": 116,
+   "chunk_id": 27,
+   "text": "The contract doesn't just let you use the name.",
+   "start": 361.1,
+   "end": 363.18,
+   "match": 1.0
+  },
+  {
+   "i": 117,
+   "chunk_id": 27,
+   "text": "It lets you build the thing without being sued.",
+   "start": 363.64,
+   "end": 365.82,
+   "match": 1.0
+  },
+  {
+   "i": 118,
+   "chunk_id": 28,
+   "text": "But only for a real H D M I product.",
+   "start": 366.56,
+   "end": 368.98,
+   "match": 1.0
+  },
+  {
+   "i": 119,
+   "chunk_id": 28,
+   "text": "Not a copy.",
+   "start": 369.44,
+   "end": 370.12,
+   "match": 1.0
+  },
+  {
+   "i": 120,
+   "chunk_id": 28,
+   "text": "Not a look-alike.",
+   "start": 370.54,
+   "end": 371.26,
+   "match": 1.0
+  },
+  {
+   "i": 121,
+   "chunk_id": 28,
+   "text": "The licence stops where the product stops.",
+   "start": 371.66,
+   "end": 374.08,
+   "match": 1.0
+  },
+  {
+   "i": 122,
+   "chunk_id": 28,
+   "text": "So how much does a few cents add up to?",
+   "start": 374.94,
+   "end": 377.84,
+   "match": 1.0
+  },
+  {
+   "i": 123,
+   "chunk_id": 29,
+   "text": "In twenty seventeen alone, the plug shipped in nearly nine hundred million devices.",
+   "start": 377.84,
+   "end": 382.44,
+   "match": 0.69
+  },
+  {
+   "i": 124,
+   "chunk_id": 29,
+   "text": "At four to fifteen cents each, that's tens of millions of dollars, in a single year.",
+   "start": 382.96,
+   "end": 387.5,
+   "match": 0.88
+  },
+  {
+   "i": 125,
+   "chunk_id": 29,
+   "text": "See how fast it grew.",
+   "start": 388.04,
+   "end": 388.92,
+   "match": 1.0
+  },
+  {
+   "i": 126,
+   "chunk_id": 29,
+   "text": "Six hundred million devices by early two thousand nine.",
+   "start": 389.27,
+   "end": 392.33,
+   "match": 0.44
+  },
+  {
+   "i": 127,
+   "chunk_id": 29,
+   "text": "Two billion by late twenty eleven.",
+   "start": 392.64,
+   "end": 394.59,
+   "match": 0.5
+  },
+  {
+   "i": 128,
+   "chunk_id": 29,
+   "text": "Nearly ten billion by twenty twenty-one.",
+   "start": 394.98,
+   "end": 397.13,
+   "match": 0.43
+  },
+  {
+   "i": 129,
+   "chunk_id": 30,
+   "text": "Today, close to fourteen billion.",
+   "start": 397.48,
+   "end": 399.26,
+   "match": 0.8
+  },
+  {
+   "i": 130,
+   "chunk_id": 30,
+   "text": "That's about two for every person on Earth.",
+   "start": 399.62,
+   "end": 401.6,
+   "match": 0.88
+  },
+  {
+   "i": 131,
+   "chunk_id": 30,
+   "text": "Multiply it out, and our own rough math says somewhere between six hundred million and two billion dollars, over twenty-three years.",
+   "start": 402.34,
+   "end": 409.48,
+   "match": 0.77
+  },
+  {
+   "i": 132,
+   "chunk_id": 30,
+   "text": "Most likely near the bottom of that.",
+   "start": 410.02,
+   "end": 411.62,
+   "match": 1.0
+  },
+  {
+   "i": 133,
+   "chunk_id": 31,
+   "text": "That's real money.",
+   "start": 412.12,
+   "end": 412.86,
+   "match": 1.0
+  },
+  {
+   "i": 134,
+   "chunk_id": 31,
+   "text": "But it isn't Big Tech money.",
+   "start": 413.58,
+   "end": 415.0,
+   "match": 1.0
+  },
+  {
+   "i": 135,
+   "chunk_id": 31,
+   "text": "It doesn't need to be.",
+   "start": 415.5,
+   "end": 416.44,
+   "match": 1.0
+  },
+  {
+   "i": 136,
+   "chunk_id": 32,
+   "text": "Because the money was never the point.",
+   "start": 416.84,
+   "end": 418.68,
+   "match": 1.0
+  },
+  {
+   "i": 137,
+   "chunk_id": 32,
+   "text": "The point is that nobody could say no.",
+   "start": 419.5,
+   "end": 421.92,
+   "match": 1.0
+  },
+  {
+   "i": 138,
+   "chunk_id": 33,
+   "text": "Some tried.",
+   "start": 422.72,
+   "end": 423.38,
+   "match": 1.0
+  },
+  {
+   "i": 139,
+   "chunk_id": 33,
+   "text": "In two thousand six, a rival plug called DisplayPort arrived, built for computer screens.",
+   "start": 424.02,
+   "end": 429.22,
+   "match": 0.79
+  },
+  {
+   "i": 140,
+   "chunk_id": 33,
+   "text": "It came from a standards group, and it was sold as free.",
+   "start": 429.72,
+   "end": 432.24,
+   "match": 1.0
+  },
+  {
+   "i": 141,
+   "chunk_id": 33,
+   "text": "It never took over the living room.",
+   "start": 432.88,
+   "end": 434.34,
+   "match": 1.0
+  },
+  {
+   "i": 142,
+   "chunk_id": 33,
+   "text": "The TVs were already taken.",
+   "start": 434.9,
+   "end": 436.28,
+   "match": 1.0
+  },
+  {
+   "i": 143,
+   "chunk_id": 34,
+   "text": "And it isn't quite free.",
+   "start": 437.02,
+   "end": 438.54,
+   "match": 1.0
+  },
+  {
+   "i": 144,
+   "chunk_id": 34,
+   "text": "A group of patent owners asks twenty cents a product.",
+   "start": 439.28,
+   "end": 442.38,
+   "match": 0.9
+  },
+  {
+   "i": 145,
+   "chunk_id": 34,
+   "text": "That's more than the lowest fee on the H D M I side.",
+   "start": 442.96,
+   "end": 445.86,
+   "match": 1.0
+  },
+  {
+   "i": 146,
+   "chunk_id": 34,
+   "text": "Some of the names on that list are the same ones that built H D M I.",
+   "start": 446.48,
+   "end": 449.92,
+   "match": 1.0
+  },
+  {
+   "i": 147,
+   "chunk_id": 35,
+   "text": "So the escape route has a toll too.",
+   "start": 450.68,
+   "end": 452.66,
+   "match": 1.0
+  },
+  {
+   "i": 148,
+   "chunk_id": 35,
+   "text": "The group guards its name, too.",
+   "start": 453.34,
+   "end": 454.8,
+   "match": 1.0
+  },
+  {
+   "i": 149,
+   "chunk_id": 35,
+   "text": "It has taken makers to court for stamping the H D M I mark on products they hadn't signed for.",
+   "start": 455.28,
+   "end": 460.22,
+   "match": 1.0
+  },
+  {
+   "i": 150,
+   "chunk_id": 35,
+   "text": "Some were accused of doing it at a big electronics show, right in front of the buyers.",
+   "start": 460.8,
+   "end": 464.78,
+   "match": 1.0
+  },
+  {
+   "i": 151,
+   "chunk_id": 36,
+   "text": "Then in twenty eleven, the founders set up a second body, called the H D M I Forum.",
+   "start": 465.8,
+   "end": 470.84,
+   "match": 0.87
+  },
+  {
+   "i": 152,
+   "chunk_id": 36,
+   "text": "It writes the new versions of the plug.",
+   "start": 471.62,
+   "end": 473.5,
+   "match": 1.0
+  },
+  {
+   "i": 153,
+   "chunk_id": 36,
+   "text": "H D M I Licensing Administrator writes the contract.",
+   "start": 474.36,
+   "end": 477.36,
+   "match": 1.0
+  },
+  {
+   "i": 154,
+   "chunk_id": 36,
+   "text": "The Forum writes the rules.",
+   "start": 477.94,
+   "end": 479.34,
+   "match": 1.0
+  },
+  {
+   "i": 155,
+   "chunk_id": 36,
+   "text": "In June twenty twenty-five, it released version two point two, and the same licensing company sells that one too.",
+   "start": 480.4,
+   "end": 487.44,
+   "match": 0.7
+  },
+  {
+   "i": 156,
+   "chunk_id": 37,
+   "text": "Both trace back to the same founders.",
+   "start": 488.04,
+   "end": 489.92,
+   "match": 1.0
+  },
+  {
+   "i": 157,
+   "chunk_id": 37,
+   "text": "The names on the door change.",
+   "start": 491.12,
+   "end": 492.54,
+   "match": 1.0
+  },
+  {
+   "i": 158,
+   "chunk_id": 37,
+   "text": "Thomson is called Vantiva now.",
+   "start": 493.34,
+   "end": 495.32,
+   "match": 1.0
+  },
+  {
+   "i": 159,
+   "chunk_id": 37,
+   "text": "The group doesn't change.",
+   "start": 496.4,
+   "end": 497.62,
+   "match": 1.0
+  },
+  {
+   "i": 160,
+   "chunk_id": 38,
+   "text": "Which brings us to a chip company called Availink.",
+   "start": 498.22,
+   "end": 501.34,
+   "match": 1.0
+  },
+  {
+   "i": 161,
+   "chunk_id": 39,
+   "text": "Availink made the little chips that go inside TVs.",
+   "start": 500.7,
+   "end": 504.76,
+   "match": 1.0
+  },
+  {
+   "i": 162,
+   "chunk_id": 39,
+   "text": "It sold them to other companies, who built the sets.",
+   "start": 505.5,
+   "end": 507.94,
+   "match": 1.0
+  },
+  {
+   "i": 163,
+   "chunk_id": 39,
+   "text": "So who owed the fee, the chip maker or the TV maker?",
+   "start": 508.5,
+   "end": 511.86,
+   "match": 1.0
+  },
+  {
+   "i": 164,
+   "chunk_id": 39,
+   "text": "The contract said the chip maker.",
+   "start": 512.2,
+   "end": 513.86,
+   "match": 1.0
+  },
+  {
+   "i": 165,
+   "chunk_id": 39,
+   "text": "Availink signed it, and it was licensed for about three years.",
+   "start": 514.64,
+   "end": 517.62,
+   "match": 1.0
+  },
+  {
+   "i": 166,
+   "chunk_id": 39,
+   "text": "Then the deal ended, and the group behind H D M I took it to court over unpaid fees.",
+   "start": 518.2,
+   "end": 523.16,
+   "match": 1.0
+  },
+  {
+   "i": 167,
+   "chunk_id": 40,
+   "text": "Availink hit back.",
+   "start": 523.82,
+   "end": 524.8,
+   "match": 1.0
+  },
+  {
+   "i": 168,
+   "chunk_id": 40,
+   "text": "It argued that the group was breaking competition law, and that the contract kept rivals out.",
+   "start": 525.28,
+   "end": 529.94,
+   "match": 1.0
+  },
+  {
+   "i": 169,
+   "chunk_id": 40,
+   "text": "On the last day of twenty twenty-five, a federal judge ruled for the group, and threw out every one of Availink's claims.",
+   "start": 530.72,
+   "end": 537.78,
+   "match": 0.87
+  },
+  {
+   "i": 170,
+   "chunk_id": 40,
+   "text": "Call it a monopoly or don't.",
+   "start": 538.36,
+   "end": 540.0,
+   "match": 1.0
+  },
+  {
+   "i": 171,
+   "chunk_id": 40,
+   "text": "The judge found the contract had not hurt competition.",
+   "start": 540.18,
+   "end": 542.88,
+   "match": 1.0
+  },
+  {
+   "i": 172,
+   "chunk_id": 40,
+   "text": "And the contract really did require the chip company to pay fees on its chips.",
+   "start": 543.68,
+   "end": 547.7,
+   "match": 1.0
+  },
+  {
+   "i": 173,
+   "chunk_id": 41,
+   "text": "A week before the trial, Availink agreed to pay fourteen million dollars.",
+   "start": 548.34,
+   "end": 552.86,
+   "match": 0.83
+  },
+  {
+   "i": 174,
+   "chunk_id": 41,
+   "text": "Then it signed the contract again.",
+   "start": 553.36,
+   "end": 555.3,
+   "match": 1.0
+  },
+  {
+   "i": 175,
+   "chunk_id": 41,
+   "text": "Think about what that means.",
+   "start": 556.02,
+   "end": 557.12,
+   "match": 1.0
+  },
+  {
+   "i": 176,
+   "chunk_id": 41,
+   "text": "A company whose whole business was the chips inside TVs couldn't beat a contract that costs cents.",
+   "start": 557.76,
+   "end": 563.94,
+   "match": 1.0
+  },
+  {
+   "i": 177,
+   "chunk_id": 41,
+   "text": "The cheap fee was never the wall.",
+   "start": 564.66,
+   "end": 566.52,
+   "match": 1.0
+  },
+  {
+   "i": 178,
+   "chunk_id": 41,
+   "text": "The wall was everything around it: the patents, the name, the lock, and a court that upheld the contract.",
+   "start": 567.06,
+   "end": 573.82,
+   "match": 1.0
+  },
+  {
+   "i": 179,
+   "chunk_id": 42,
+   "text": "Let's be fair.",
+   "start": 574.4,
+   "end": 575.16,
+   "match": 1.0
+  },
+  {
+   "i": 180,
+   "chunk_id": 42,
+   "text": "There's a real case for all this.",
+   "start": 575.76,
+   "end": 577.32,
+   "match": 1.0
+  },
+  {
+   "i": 181,
+   "chunk_id": 42,
+   "text": "One plug is why your console works with any TV, in any country.",
+   "start": 577.9,
+   "end": 581.8,
+   "match": 1.0
+  },
+  {
+   "i": 182,
+   "chunk_id": 42,
+   "text": "That takes testing, and it takes someone keeping fakes off the shelf.",
+   "start": 582.5,
+   "end": 586.06,
+   "match": 1.0
+  },
+  {
+   "i": 183,
+   "chunk_id": 42,
+   "text": "That's the best argument for it.",
+   "start": 586.72,
+   "end": 588.32,
+   "match": 1.0
+  },
+  {
+   "i": 184,
+   "chunk_id": 42,
+   "text": "And when a plug does its job, nobody thinks about it at all.",
+   "start": 588.72,
+   "end": 591.9,
+   "match": 1.0
+  },
+  {
+   "i": 185,
+   "chunk_id": 43,
+   "text": "And a judge looked at the contract and found no harm.",
+   "start": 592.38,
+   "end": 595.88,
+   "match": 1.0
+  },
+  {
+   "i": 186,
+   "chunk_id": 43,
+   "text": "But hold on.",
+   "start": 596.7,
+   "end": 597.32,
+   "match": 1.0
+  },
+  {
+   "i": 187,
+   "chunk_id": 43,
+   "text": "The contract is about money.",
+   "start": 597.9,
+   "end": 599.34,
+   "match": 1.0
+  },
+  {
+   "i": 188,
+   "chunk_id": 43,
+   "text": "The Forum is about who gets to see the plans.",
+   "start": 599.84,
+   "end": 602.46,
+   "match": 1.0
+  },
+  {
+   "i": 189,
+   "chunk_id": 44,
+   "text": "In twenty twenty-one, the Forum closed the newest version of the plug's rulebook to the public.",
+   "start": 603.24,
+   "end": 608.16,
+   "match": 0.76
+  },
+  {
+   "i": 190,
+   "chunk_id": 44,
+   "text": "Then A M D, one of the biggest makers of graphics chips, tried to build an open-source driver for it on Linux.",
+   "start": 609.16,
+   "end": 615.48,
+   "match": 1.0
+  },
+  {
+   "i": 191,
+   "chunk_id": 44,
+   "text": "That's free code that anyone can read.",
+   "start": 616.16,
+   "end": 618.34,
+   "match": 1.0
+  },
+  {
+   "i": 192,
+   "chunk_id": 45,
+   "text": "They worked on it for months.",
+   "start": 618.96,
+   "end": 620.26,
+   "match": 1.0
+  },
+  {
+   "i": 193,
+   "chunk_id": 45,
+   "text": "In early twenty twenty-four, an A M D engineer wrote: \"The H D M I Forum has rejected our proposal unfortunately.",
+   "start": 620.26,
+   "end": 627.92,
+   "match": 0.82
+  },
+  {
+   "i": 194,
+   "chunk_id": 45,
+   "text": "At this time an open source H D M I two point one implementation is not possible without running afoul of the H D M I Forum requirements.\"",
+   "start": 628.76,
+   "end": 636.82,
+   "match": 0.86
+  },
+  {
+   "i": 195,
+   "chunk_id": 46,
+   "text": "So on Linux, with an A M D card, the best picture over H D M I is off the table.",
+   "start": 637.62,
+   "end": 643.42,
+   "match": 1.0
+  },
+  {
+   "i": 196,
+   "chunk_id": 46,
+   "text": "No four-K at a hundred and twenty frames a second.",
+   "start": 644.02,
+   "end": 646.9,
+   "match": 0.45
+  },
+  {
+   "i": 197,
+   "chunk_id": 46,
+   "text": "A M D's advice to gamers?",
+   "start": 647.84,
+   "end": 649.26,
+   "match": 1.0
+  },
+  {
+   "i": 198,
+   "chunk_id": 46,
+   "text": "Use DisplayPort.",
+   "start": 649.8,
+   "end": 650.68,
+   "match": 1.0
+  },
+  {
+   "i": 199,
+   "chunk_id": 47,
+   "text": "And here's a small joke on top.",
+   "start": 651.54,
+   "end": 652.96,
+   "match": 1.0
+  },
+  {
+   "i": 200,
+   "chunk_id": 47,
+   "text": "Since twenty twenty-three, a port can be sold as \"H D M I two point one\" and only do what the old one did.",
+   "start": 653.58,
+   "end": 661.56,
+   "match": 0.73
+  },
+  {
+   "i": 201,
+   "chunk_id": 47,
+   "text": "The group's answer, as reported: the old version no longer exists.",
+   "start": 662.3,
+   "end": 666.6,
+   "match": 1.0
+  },
+  {
+   "i": 202,
+   "chunk_id": 47,
+   "text": "The only way to tell is the small print on the spec sheet.",
+   "start": 667.22,
+   "end": 670.1,
+   "match": 1.0
+  },
+  {
+   "i": 203,
+   "chunk_id": 48,
+   "text": "Go back to that TV.",
+   "start": 670.58,
+   "end": 671.72,
+   "match": 1.0
+  },
+  {
+   "i": 204,
+   "chunk_id": 48,
+   "text": "The plug with two clipped corners.",
+   "start": 672.9,
+   "end": 675.06,
+   "match": 1.0
+  },
+  {
+   "i": 205,
+   "chunk_id": 48,
+   "text": "It looked like a piece of the world, like a wall socket.",
+   "start": 675.86,
+   "end": 678.46,
+   "match": 1.0
+  },
+  {
+   "i": 206,
+   "chunk_id": 48,
+   "text": "It was a piece of a contract.",
+   "start": 679.24,
+   "end": 680.64,
+   "match": 1.0
+  },
+  {
+   "i": 207,
+   "chunk_id": 49,
+   "text": "Nobody ever voted on the plug behind your TV.",
+   "start": 681.4,
+   "end": 683.8,
+   "match": 1.0
+  },
+  {
+   "i": 208,
+   "chunk_id": 49,
+   "text": "Nobody has ever seen the bill.",
+   "start": 684.76,
+   "end": 686.14,
+   "match": 1.0
+  },
+  {
+   "i": 209,
+   "chunk_id": 49,
+   "text": "The question isn't what it costs.",
+   "start": 686.92,
+   "end": 688.72,
+   "match": 1.0
+  },
+  {
+   "i": 210,
+   "chunk_id": 49,
+   "text": "It's who else has a lock on something you never noticed you were using.",
+   "start": 689.4,
+   "end": 692.86,
+   "match": 1.0
+  }
+ ]
+}

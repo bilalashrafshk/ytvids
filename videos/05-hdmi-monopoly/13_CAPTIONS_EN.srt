@@ -1,0 +1,1046 @@
+1
+00:00:00,000 --> 00:00:02,400
+Tilt your head and look at
+the back of your TV.
+
+2
+00:00:02,920 --> 00:00:04,260
+There's a row of ports.
+
+3
+00:00:04,900 --> 00:00:10,700
+One of them is an HDMI port, a small flat
+plug with two clipped corners.
+
+4
+00:00:11,340 --> 00:00:14,720
+You've pushed a cable into it a dozen
+times without a thought.
+
+5
+00:00:15,280 --> 00:00:19,700
+Before that TV left the factory, somebody
+paid to put that plug there.
+
+6
+00:00:19,960 --> 00:00:20,700
+Not much.
+
+7
+00:00:20,980 --> 00:00:21,980
+About four cents.
+
+8
+00:00:22,420 --> 00:00:23,980
+You never saw it on the receipt.
+
+9
+00:00:24,320 --> 00:00:26,790
+It's folded into the price,
+like salt in bread.
+
+10
+00:00:26,820 --> 00:00:31,500
+On a four hundred dollar TV, it's one
+dollar in every ten thousand.
+
+11
+00:00:31,740 --> 00:00:33,800
+Now here's the part nobody mentions.
+
+12
+00:00:34,480 --> 00:00:37,680
+That plug isn't a standard that
+belongs to everyone.
+
+13
+00:00:38,140 --> 00:00:42,980
+It's a private contract, and it has been
+collecting money for twenty-three years.
+
+14
+00:00:43,640 --> 00:00:47,493
+The money goes to a company called
+HDMI Licensing Administrator,
+
+15
+00:00:47,513 --> 00:00:50,720
+which collects for the companies
+that built the plug.
+
+16
+00:00:51,180 --> 00:00:54,090
+This video follows one chain
+of cause and effect.
+
+17
+00:00:54,120 --> 00:00:56,380
+Each link forces the next.
+
+18
+00:00:56,720 --> 00:00:58,906
+By the end, you'll know who gets paid,
+
+19
+00:00:58,926 --> 00:01:02,060
+and why the four cents is the
+smallest thing about it.
+
+20
+00:01:02,500 --> 00:01:04,940
+Start in 2002, with a mess.
+
+21
+00:01:05,580 --> 00:01:08,480
+Behind a TV of that year, you'd
+find a knot of leads.
+
+22
+00:01:09,060 --> 00:01:10,060
+One for the picture.
+
+23
+00:01:10,180 --> 00:01:11,360
+Two for the sound.
+
+24
+00:01:11,640 --> 00:01:13,860
+Another if you wanted the picture sharper.
+
+25
+00:01:14,320 --> 00:01:16,109
+Every one was a different plug,
+
+26
+00:01:16,129 --> 00:01:19,280
+made by a different company, and
+they never quite fit.
+
+27
+00:01:19,680 --> 00:01:22,600
+The back of a TV looked like a
+telephone switchboard.
+
+28
+00:01:23,060 --> 00:01:25,480
+Seven electronics companies
+were tired of it.
+
+29
+00:01:25,580 --> 00:01:26,200
+Hitachi.
+
+30
+00:01:26,460 --> 00:01:27,060
+Panasonic.
+
+31
+00:01:27,320 --> 00:01:27,920
+Philips.
+
+32
+00:01:28,420 --> 00:01:29,020
+Silicon Image.
+
+33
+00:01:29,300 --> 00:01:29,750
+Sony.
+
+34
+00:01:29,780 --> 00:01:30,370
+Thomson.
+
+35
+00:01:30,400 --> 00:01:31,000
+Toshiba.
+
+36
+00:01:31,320 --> 00:01:34,200
+They sold rival TVs, and they
+still sat down together.
+
+37
+00:01:34,600 --> 00:01:37,506
+In April 2002, they started
+building one plug that
+
+38
+00:01:37,526 --> 00:01:40,100
+carried picture and sound in
+a single cable.
+
+39
+00:01:40,520 --> 00:01:43,320
+It even worked with the old
+computer plug, called DVI.
+
+40
+00:01:43,760 --> 00:01:47,000
+Eight months later, on the ninth of
+December, it was done.
+
+41
+00:01:47,480 --> 00:01:49,120
+They called it HDMI.
+
+42
+00:01:49,940 --> 00:01:52,060
+But a plug needed one more thing.
+
+43
+00:01:52,460 --> 00:01:53,060
+Films.
+
+44
+00:01:53,820 --> 00:01:55,234
+Movies had gone digital,
+
+45
+00:01:55,254 --> 00:01:59,020
+and a digital picture can be copied
+perfectly, again and again.
+
+46
+00:01:59,880 --> 00:02:02,260
+The plan was to win over the film studios.
+
+47
+00:02:02,680 --> 00:02:05,600
+So the plug carried a lock,
+supplied by Intel.
+
+48
+00:02:06,900 --> 00:02:10,900
+Fox, Universal, Warner Bros. and
+Disney all backed it.
+
+49
+00:02:11,440 --> 00:02:13,900
+So did the big satellite and
+cable companies.
+
+50
+00:02:14,720 --> 00:02:16,180
+Here's how the lock works.
+
+51
+00:02:16,960 --> 00:02:18,200
+Think of a badge.
+
+52
+00:02:18,700 --> 00:02:22,800
+Every device that has the lock
+carries a set of secret keys.
+
+53
+00:02:23,240 --> 00:02:27,460
+When your streaming box meets your TV,
+they check each other's badges.
+
+54
+00:02:27,980 --> 00:02:31,920
+If the TV has no badge, the box
+won't send the film.
+
+55
+00:02:32,480 --> 00:02:33,800
+That is the whole trick.
+
+56
+00:02:34,180 --> 00:02:36,900
+Not a fence around the plug, but
+a bouncer at the door.
+
+57
+00:02:37,440 --> 00:02:38,780
+And the badges cost money.
+
+58
+00:02:39,320 --> 00:02:42,500
+Making a device with the lock means
+paying a fee every year,
+
+59
+00:02:42,520 --> 00:02:43,833
+fifteen thousand dollars,
+
+60
+00:02:43,853 --> 00:02:47,640
+plus a price for each set of keys, which
+gets cheaper the more you buy.
+
+61
+00:02:48,120 --> 00:02:49,780
+Can a lock like that be picked?
+
+62
+00:02:50,280 --> 00:02:50,880
+Yes.
+
+63
+00:02:51,200 --> 00:02:51,840
+And it was.
+
+64
+00:02:52,340 --> 00:02:55,740
+In September 2010, a master
+key turned up online.
+
+65
+00:02:56,280 --> 00:02:59,120
+With it, anyone could make
+keys that looked real.
+
+66
+00:03:00,020 --> 00:03:04,040
+Intel said it seemed to have been worked
+out from scratch, not leaked.
+
+67
+00:03:04,740 --> 00:03:05,344
+Either way,
+
+68
+00:03:05,364 --> 00:03:07,838
+it warned it would take
+legal action against
+
+69
+00:03:07,858 --> 00:03:10,580
+anyone who built devices to
+get around the lock.
+
+70
+00:03:10,960 --> 00:03:16,340
+Five years on, a small box called the HDFury
+could strip the lock off a picture.
+
+71
+00:03:17,120 --> 00:03:20,110
+Warner Bros. sued on the last day of 2015.
+
+72
+00:03:20,420 --> 00:03:24,420
+The box's maker argued it only lowered the
+quality, which the law allows.
+
+73
+00:03:24,900 --> 00:03:26,500
+They settled five months later.
+
+74
+00:03:26,900 --> 00:03:28,200
+The lock got picked.
+
+75
+00:03:28,640 --> 00:03:29,820
+The chain didn't break.
+
+76
+00:03:30,360 --> 00:03:31,000
+Why not?
+
+77
+00:03:31,600 --> 00:03:33,610
+Because by then, the chain
+had already moved.
+
+78
+00:03:33,640 --> 00:03:37,120
+Here is the whole loop, in four steps.
+
+79
+00:03:37,580 --> 00:03:40,800
+One: studios and cable
+companies back the plug.
+
+80
+00:03:40,860 --> 00:03:44,070
+Two: so the boxes people buy all use it.
+
+81
+00:03:44,100 --> 00:03:46,730
+Three: so every TV has to have it.
+
+82
+00:03:46,760 --> 00:03:50,520
+Four: so every TV maker signs
+the contract, and pays.
+
+83
+00:03:50,840 --> 00:03:53,260
+More than two thousand one
+hundred companies have.
+
+84
+00:03:53,620 --> 00:03:55,040
+Nobody voted for that.
+
+85
+00:03:55,360 --> 00:03:58,300
+No law says every TV needs this plug.
+
+86
+00:03:58,620 --> 00:04:01,390
+The market simply arrived at a
+place with one door.
+
+87
+00:04:01,420 --> 00:04:04,160
+Try building a TV without it.
+
+88
+00:04:04,200 --> 00:04:05,040
+It would work.
+
+89
+00:04:05,140 --> 00:04:07,580
+It just wouldn't plug into
+most of what you own.
+
+90
+00:04:08,420 --> 00:04:10,720
+Picture a club with one
+entrance and a bouncer.
+
+91
+00:04:11,420 --> 00:04:13,640
+Anyone can build a nicer door
+around the back.
+
+92
+00:04:14,160 --> 00:04:17,980
+But the party is inside, and the
+party has the bouncer's badge.
+
+93
+00:04:18,440 --> 00:04:19,840
+So what does the club charge?
+
+94
+00:04:20,180 --> 00:04:21,920
+The contract is short on glamour.
+
+95
+00:04:22,140 --> 00:04:25,840
+Every maker pays a yearly fee, ten
+thousand dollars for a big one.
+
+96
+00:04:26,160 --> 00:04:28,800
+Small ones pay five thousand,
+plus a dollar a unit.
+
+97
+00:04:29,160 --> 00:04:33,040
+On top comes the fee for each device, and
+this is the number in the title.
+
+98
+00:04:33,460 --> 00:04:36,300
+As widely reported, it starts
+at fifteen cents.
+
+99
+00:04:36,500 --> 00:04:41,360
+Put the HDMI logo on your product and
+the fee drops to five cents.
+
+100
+00:04:41,520 --> 00:04:44,330
+Add the lock as well and it drops to four.
+
+101
+00:04:44,620 --> 00:04:45,560
+Read that again.
+
+102
+00:04:45,900 --> 00:04:48,760
+The toll gets cheaper if you
+advertise the toll company.
+
+103
+00:04:49,340 --> 00:04:54,420
+The group's own logo rules say so, in
+writing: use the logo, get a discount.
+
+104
+00:04:54,750 --> 00:04:55,470
+Four cents.
+
+105
+00:04:55,800 --> 00:04:56,940
+Less than a gumball.
+
+106
+00:04:57,360 --> 00:04:58,880
+But that's the price for the giants.
+
+107
+00:04:59,280 --> 00:05:00,720
+Let's run it for a small maker.
+
+108
+00:05:01,280 --> 00:05:05,380
+Say you build ten thousand TVs a year, in a
+garage that's turned into a factory.
+
+109
+00:05:05,880 --> 00:05:08,520
+Your yearly fee is five thousand dollars.
+
+110
+00:05:08,760 --> 00:05:12,560
+Then you pay a dollar on every TV,
+just to be in the system.
+
+111
+00:05:13,180 --> 00:05:17,610
+Then the per-device fee, at five cents,
+comes to five hundred dollars.
+
+112
+00:05:17,800 --> 00:05:21,290
+All told, about fifteen thousand
+five hundred dollars.
+
+113
+00:05:21,500 --> 00:05:24,180
+That's a dollar fifty-five on every TV.
+
+114
+00:05:24,620 --> 00:05:27,620
+Now run it for a giant
+selling ten million TVs.
+
+115
+00:05:28,240 --> 00:05:33,260
+The yearly fee is ten thousand dollars, and the
+per-device fee is four cents each.
+
+116
+00:05:33,760 --> 00:05:35,940
+It comes to about four cents a TV.
+
+117
+00:05:36,260 --> 00:05:37,680
+So it isn't one price.
+
+118
+00:05:38,300 --> 00:05:41,780
+The small maker pays nearly forty
+times what the giant pays.
+
+119
+00:05:42,280 --> 00:05:44,360
+That's our own math on the reported fees.
+
+120
+00:05:44,800 --> 00:05:48,000
+A cheap contract weighs the most on
+the people with the least.
+
+121
+00:05:48,480 --> 00:05:49,570
+And it's per device.
+
+122
+00:05:49,600 --> 00:05:53,540
+A TV with five ports on the back
+pays once, not five times.
+
+123
+00:05:54,120 --> 00:05:55,480
+The fee comes with something else.
+
+124
+00:05:56,020 --> 00:05:58,240
+A licence to the patents behind the plug.
+
+125
+00:05:58,700 --> 00:06:00,660
+That's the part most people never notice.
+
+126
+00:06:01,100 --> 00:06:03,380
+The contract doesn't just let
+you use the name.
+
+127
+00:06:03,640 --> 00:06:06,020
+It lets you build the thing
+without being sued.
+
+128
+00:06:06,560 --> 00:06:09,180
+But only for a real HDMI product.
+
+129
+00:06:09,440 --> 00:06:10,320
+Not a copy.
+
+130
+00:06:10,540 --> 00:06:11,460
+Not a look-alike.
+
+131
+00:06:11,660 --> 00:06:14,280
+The licence stops where the product stops.
+
+132
+00:06:14,940 --> 00:06:17,810
+So how much does a few cents add up to?
+
+133
+00:06:17,840 --> 00:06:22,640
+In 2017 alone, the plug shipped in nearly
+nine hundred million devices.
+
+134
+00:06:22,960 --> 00:06:27,700
+At four to fifteen cents each, that's tens of
+millions of dollars, in a single year.
+
+135
+00:06:28,040 --> 00:06:29,120
+See how fast it grew.
+
+136
+00:06:29,270 --> 00:06:32,530
+Six hundred million devices by early 2009.
+
+137
+00:06:32,640 --> 00:06:34,790
+Two billion by late 2011.
+
+138
+00:06:34,980 --> 00:06:37,330
+Nearly ten billion by 2021.
+
+139
+00:06:37,480 --> 00:06:39,460
+Today, close to fourteen billion.
+
+140
+00:06:39,620 --> 00:06:41,800
+That's about two for every
+person on Earth.
+
+141
+00:06:42,340 --> 00:06:43,223
+Multiply it out,
+
+142
+00:06:43,243 --> 00:06:47,119
+and our own rough math says somewhere
+between six hundred million and
+
+143
+00:06:47,139 --> 00:06:49,680
+two billion dollars, over
+twenty-three years.
+
+144
+00:06:50,020 --> 00:06:51,820
+Most likely near the bottom of that.
+
+145
+00:06:52,120 --> 00:06:53,060
+That's real money.
+
+146
+00:06:53,580 --> 00:06:55,200
+But it isn't Big Tech money.
+
+147
+00:06:55,500 --> 00:06:56,640
+It doesn't need to be.
+
+148
+00:06:56,840 --> 00:06:58,880
+Because the money was never the point.
+
+149
+00:06:59,500 --> 00:07:02,120
+The point is that nobody could say no.
+
+150
+00:07:02,720 --> 00:07:03,580
+Some tried.
+
+151
+00:07:04,020 --> 00:07:09,420
+In 2006, a rival plug called DisplayPort
+arrived, built for computer screens.
+
+152
+00:07:09,720 --> 00:07:12,440
+It came from a standards group,
+and it was sold as free.
+
+153
+00:07:12,880 --> 00:07:14,540
+It never took over the living room.
+
+154
+00:07:14,900 --> 00:07:16,480
+The TVs were already taken.
+
+155
+00:07:17,020 --> 00:07:18,740
+And it isn't quite free.
+
+156
+00:07:19,280 --> 00:07:22,580
+A group of patent owners asks
+twenty cents a product.
+
+157
+00:07:22,960 --> 00:07:26,060
+That's more than the lowest
+fee on the HDMI side.
+
+158
+00:07:26,480 --> 00:07:30,120
+Some of the names on that list are the
+same ones that built HDMI.
+
+159
+00:07:30,680 --> 00:07:32,860
+So the escape route has a toll too.
+
+160
+00:07:33,340 --> 00:07:35,000
+The group guards its name, too.
+
+161
+00:07:35,280 --> 00:07:37,830
+It has taken makers to court
+for stamping the
+
+162
+00:07:37,850 --> 00:07:40,420
+HDMI mark on products they
+hadn't signed for.
+
+163
+00:07:40,800 --> 00:07:43,534
+Some were accused of doing it at a
+big electronics show,
+
+164
+00:07:43,554 --> 00:07:44,980
+right in front of the buyers.
+
+165
+00:07:45,800 --> 00:07:51,040
+Then in 2011, the founders set up a
+second body, called the HDMI Forum.
+
+166
+00:07:51,620 --> 00:07:53,700
+It writes the new versions of the plug.
+
+167
+00:07:54,360 --> 00:07:57,560
+HDMI Licensing Administrator
+writes the contract.
+
+168
+00:07:57,940 --> 00:07:59,540
+The Forum writes the rules.
+
+169
+00:08:00,400 --> 00:08:03,506
+In June 2025, it released version 2.2,
+
+170
+00:08:03,526 --> 00:08:07,640
+and the same licensing company
+sells that one too.
+
+171
+00:08:08,040 --> 00:08:10,120
+Both trace back to the same founders.
+
+172
+00:08:11,120 --> 00:08:12,740
+The names on the door change.
+
+173
+00:08:13,340 --> 00:08:15,520
+Thomson is called Vantiva now.
+
+174
+00:08:16,400 --> 00:08:17,820
+The group doesn't change.
+
+175
+00:08:18,220 --> 00:08:20,670
+Which brings us to a chip
+company called Availink.
+
+176
+00:08:20,700 --> 00:08:24,960
+Availink made the little chips
+that go inside TVs.
+
+177
+00:08:25,500 --> 00:08:28,140
+It sold them to other companies,
+who built the sets.
+
+178
+00:08:28,500 --> 00:08:32,060
+So who owed the fee, the chip
+maker or the TV maker?
+
+179
+00:08:32,200 --> 00:08:34,060
+The contract said the chip maker.
+
+180
+00:08:34,640 --> 00:08:37,820
+Availink signed it, and it was
+licensed for about three years.
+
+181
+00:08:38,200 --> 00:08:43,360
+Then the deal ended, and the group behind HDMI
+took it to court over unpaid fees.
+
+182
+00:08:43,820 --> 00:08:45,000
+Availink hit back.
+
+183
+00:08:45,280 --> 00:08:48,113
+It argued that the group was
+breaking competition law,
+
+184
+00:08:48,133 --> 00:08:50,140
+and that the contract kept rivals out.
+
+185
+00:08:50,720 --> 00:08:54,878
+On the last day of 2025, a federal
+judge ruled for the group,
+
+186
+00:08:54,898 --> 00:08:57,980
+and threw out every one of
+Availink's claims.
+
+187
+00:08:58,360 --> 00:09:00,150
+Call it a monopoly or don't.
+
+188
+00:09:00,180 --> 00:09:03,080
+The judge found the contract had
+not hurt competition.
+
+189
+00:09:03,680 --> 00:09:07,900
+And the contract really did require the chip
+company to pay fees on its chips.
+
+190
+00:09:08,340 --> 00:09:13,060
+A week before the trial, Availink agreed
+to pay fourteen million dollars.
+
+191
+00:09:13,360 --> 00:09:15,500
+Then it signed the contract again.
+
+192
+00:09:16,020 --> 00:09:17,320
+Think about what that means.
+
+193
+00:09:17,760 --> 00:09:20,664
+A company whose whole
+business was the chips
+
+194
+00:09:20,684 --> 00:09:23,323
+inside TVs couldn't beat a contract that
+
+195
+00:09:23,343 --> 00:09:24,140
+costs cents.
+
+196
+00:09:24,660 --> 00:09:26,720
+The cheap fee was never the wall.
+
+197
+00:09:27,060 --> 00:09:30,185
+The wall was everything
+around it: the patents,
+
+198
+00:09:30,205 --> 00:09:34,020
+the name, the lock, and a court
+that upheld the contract.
+
+199
+00:09:34,400 --> 00:09:35,360
+Let's be fair.
+
+200
+00:09:35,760 --> 00:09:37,520
+There's a real case for all this.
+
+201
+00:09:37,900 --> 00:09:42,000
+One plug is why your console works
+with any TV, in any country.
+
+202
+00:09:42,500 --> 00:09:46,260
+That takes testing, and it takes someone
+keeping fakes off the shelf.
+
+203
+00:09:46,720 --> 00:09:48,520
+That's the best argument for it.
+
+204
+00:09:48,720 --> 00:09:52,100
+And when a plug does its job, nobody
+thinks about it at all.
+
+205
+00:09:52,380 --> 00:09:56,080
+And a judge looked at the
+contract and found no harm.
+
+206
+00:09:56,700 --> 00:09:57,520
+But hold on.
+
+207
+00:09:57,900 --> 00:09:59,540
+The contract is about money.
+
+208
+00:09:59,840 --> 00:10:02,660
+The Forum is about who gets
+to see the plans.
+
+209
+00:10:03,240 --> 00:10:08,360
+In 2021, the Forum closed the newest version of
+the plug's rulebook to the public.
+
+210
+00:10:09,160 --> 00:10:12,430
+Then AMD, one of the biggest
+makers of graphics chips,
+
+211
+00:10:12,450 --> 00:10:15,680
+tried to build an open-source
+driver for it on Linux.
+
+212
+00:10:16,160 --> 00:10:18,540
+That's free code that anyone can read.
+
+213
+00:10:18,960 --> 00:10:20,230
+They worked on it for months.
+
+214
+00:10:20,260 --> 00:10:23,367
+In early 2024, an AMD engineer wrote:
+
+215
+00:10:23,387 --> 00:10:28,120
+"The HDMI Forum has rejected our
+proposal unfortunately.
+
+216
+00:10:28,760 --> 00:10:32,699
+At this time an open source HDMI
+2.1 implementation is not
+
+217
+00:10:32,719 --> 00:10:37,020
+possible without running afoul of the
+HDMI Forum requirements."
+
+218
+00:10:37,620 --> 00:10:43,620
+So on Linux, with an AMD card, the best
+picture over HDMI is off the table.
+
+219
+00:10:44,020 --> 00:10:47,100
+No four-K at a hundred and
+twenty frames a second.
+
+220
+00:10:47,840 --> 00:10:49,460
+AMD's advice to gamers?
+
+221
+00:10:49,800 --> 00:10:50,880
+Use DisplayPort.
+
+222
+00:10:51,540 --> 00:10:53,160
+And here's a small joke on top.
+
+223
+00:10:53,580 --> 00:11:01,760
+Since 2023, a port can be sold as "HDMI 2.1"
+and only do what the old one did.
+
+224
+00:11:02,300 --> 00:11:06,800
+The group's answer, as reported: the
+old version no longer exists.
+
+225
+00:11:07,220 --> 00:11:10,300
+The only way to tell is the small
+print on the spec sheet.
+
+226
+00:11:10,580 --> 00:11:11,920
+Go back to that TV.
+
+227
+00:11:12,900 --> 00:11:15,260
+The plug with two clipped corners.
+
+228
+00:11:15,860 --> 00:11:18,660
+It looked like a piece of the
+world, like a wall socket.
+
+229
+00:11:19,240 --> 00:11:20,840
+It was a piece of a contract.
+
+230
+00:11:21,400 --> 00:11:24,000
+Nobody ever voted on the
+plug behind your TV.
+
+231
+00:11:24,760 --> 00:11:26,340
+Nobody has ever seen the bill.
+
+232
+00:11:26,920 --> 00:11:28,920
+The question isn't what it costs.
+
+233
+00:11:29,400 --> 00:11:33,160
+It's who else has a lock on something you
+never noticed you were using.

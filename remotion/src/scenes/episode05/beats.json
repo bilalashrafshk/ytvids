@@ -1,0 +1,501 @@
+[
+ {
+  "id": "Ep05ReceiptDots",
+  "comp": "Ep05ReceiptDots",
+  "scene": "",
+  "beat": 60,
+  "slug": "receipt_dots",
+  "frames": 148,
+  "cues": [
+   0
+  ],
+  "out": "out/ep05/060_receipt_dots.mp4"
+ },
+ {
+  "id": "Ep05FeeFlow-a",
+  "comp": "Ep05FeeFlow",
+  "scene": "a",
+  "beat": 100,
+  "slug": "fee_flow_a",
+  "frames": 137,
+  "cues": [
+   0
+  ],
+  "out": "out/ep05/100_fee_flow_a.mp4"
+ },
+ {
+  "id": "Ep05FeeFlow-b",
+  "comp": "Ep05FeeFlow",
+  "scene": "b",
+  "beat": 110,
+  "slug": "fee_flow_b",
+  "frames": 89,
+  "cues": [
+   0
+  ],
+  "out": "out/ep05/110_fee_flow_b.mp4"
+ },
+ {
+  "id": "Ep05WhipZoom",
+  "comp": "Ep05WhipZoom",
+  "scene": "",
+  "beat": 170,
+  "slug": "whipzoom_leads",
+  "frames": 319,
+  "cues": [
+   0,
+   34,
+   77,
+   158
+  ],
+  "out": "out/ep05/170_whipzoom_leads.mp4"
+ },
+ {
+  "id": "Ep05NameBadges",
+  "comp": "Ep05NameBadges",
+  "scene": "",
+  "beat": 200,
+  "slug": "seven_names",
+  "frames": 172,
+  "cues": [
+   0,
+   26,
+   52,
+   85,
+   112,
+   126,
+   145
+  ],
+  "out": "out/ep05/200_seven_names.mp4"
+ },
+ {
+  "id": "Ep05BackerStack-studios",
+  "comp": "Ep05BackerStack",
+  "scene": "studios",
+  "beat": 290,
+  "slug": "backers_studios",
+  "frames": 136,
+  "cues": [
+   0
+  ],
+  "out": "out/ep05/290_backers_studios.mp4"
+ },
+ {
+  "id": "Ep05BackerStack-cable",
+  "comp": "Ep05BackerStack",
+  "scene": "cable",
+  "beat": 300,
+  "slug": "backers_cable",
+  "frames": 98,
+  "cues": [
+   0
+  ],
+  "out": "out/ep05/300_backers_cable.mp4"
+ },
+ {
+  "id": "Ep05PriceCard-key-fee",
+  "comp": "Ep05PriceCard",
+  "scene": "key_fee",
+  "beat": 360,
+  "slug": "key_fee",
+  "frames": 143,
+  "cues": [
+   0
+  ],
+  "out": "out/ep05/360_key_fee.mp4"
+ },
+ {
+  "id": "Ep05PriceCard-key-prices",
+  "comp": "Ep05PriceCard",
+  "scene": "key_prices",
+  "beat": 370,
+  "slug": "key_prices",
+  "frames": 121,
+  "cues": [
+   0
+  ],
+  "out": "out/ep05/370_key_prices.mp4"
+ },
+ {
+  "id": "Ep05Flywheel",
+  "comp": "Ep05Flywheel",
+  "scene": "",
+  "beat": 520,
+  "slug": "loop_flywheel",
+  "frames": 398,
+  "cues": [
+   0,
+   98,
+   196,
+   275
+  ],
+  "out": "out/ep05/520_loop_flywheel.mp4"
+ },
+ {
+  "id": "Ep05PriceCard-annual-big",
+  "comp": "Ep05PriceCard",
+  "scene": "annual_big",
+  "beat": 600,
+  "slug": "annual_big",
+  "frames": 121,
+  "cues": [
+   0
+  ],
+  "out": "out/ep05/600_annual_big.mp4"
+ },
+ {
+  "id": "Ep05PriceCard-annual-small",
+  "comp": "Ep05PriceCard",
+  "scene": "annual_small",
+  "beat": 610,
+  "slug": "annual_small",
+  "frames": 90,
+  "cues": [
+   0
+  ],
+  "out": "out/ep05/610_annual_small.mp4"
+ },
+ {
+  "id": "Ep05PriceCard-per-device-15",
+  "comp": "Ep05PriceCard",
+  "scene": "per_device_15",
+  "beat": 620,
+  "slug": "per_device_15",
+  "frames": 220,
+  "cues": [
+   0,
+   129
+  ],
+  "out": "out/ep05/620_per_device_15.mp4"
+ },
+ {
+  "id": "Ep05PriceCard-per-device-tiers",
+  "comp": "Ep05PriceCard",
+  "scene": "per_device_tiers",
+  "beat": 630,
+  "slug": "per_device_tiers",
+  "frames": 244,
+  "cues": [
+   0,
+   151
+  ],
+  "out": "out/ep05/630_per_device_tiers.mp4"
+ },
+ {
+  "id": "Ep05Newsprint-logo-rules",
+  "comp": "Ep05Newsprint",
+  "scene": "logo_rules",
+  "beat": 650,
+  "slug": "logo_rules",
+  "frames": 162,
+  "cues": [
+   0
+  ],
+  "out": "out/ep05/650_logo_rules.mp4"
+ },
+ {
+  "id": "Ep05FeeWaterfall-small-yearly",
+  "comp": "Ep05FeeWaterfall",
+  "scene": "small_yearly",
+  "beat": 680,
+  "slug": "small_yearly",
+  "frames": 86,
+  "cues": [
+   0
+  ],
+  "out": "out/ep05/680_small_yearly.mp4"
+ },
+ {
+  "id": "Ep05FeeWaterfall-small-a",
+  "comp": "Ep05FeeWaterfall",
+  "scene": "small_a",
+  "beat": 690,
+  "slug": "small_per_tv",
+  "frames": 133,
+  "cues": [
+   0
+  ],
+  "out": "out/ep05/690_small_per_tv.mp4"
+ },
+ {
+  "id": "Ep05FeeWaterfall-small-b",
+  "comp": "Ep05FeeWaterfall",
+  "scene": "small_b",
+  "beat": 700,
+  "slug": "small_total",
+  "frames": 343,
+  "cues": [
+   0,
+   139,
+   250
+  ],
+  "out": "out/ep05/700_small_total.mp4"
+ },
+ {
+  "id": "Ep05FeeWaterfall-giant-setup",
+  "comp": "Ep05FeeWaterfall",
+  "scene": "giant_setup",
+  "beat": 710,
+  "slug": "giant_setup",
+  "frames": 109,
+  "cues": [
+   0
+  ],
+  "out": "out/ep05/710_giant_setup.mp4"
+ },
+ {
+  "id": "Ep05FeeWaterfall-giant",
+  "comp": "Ep05FeeWaterfall",
+  "scene": "giant",
+  "beat": 720,
+  "slug": "giant_total",
+  "frames": 241,
+  "cues": [
+   0,
+   166
+  ],
+  "out": "out/ep05/720_giant_total.mp4"
+ },
+ {
+  "id": "Ep05SplitCompare-forty-times",
+  "comp": "Ep05SplitCompare",
+  "scene": "forty_times",
+  "beat": 730,
+  "slug": "forty_times",
+  "frames": 181,
+  "cues": [
+   0,
+   61
+  ],
+  "out": "out/ep05/730_forty_times.mp4"
+ },
+ {
+  "id": "Ep05CounterCard-devices-2017",
+  "comp": "Ep05CounterCard",
+  "scene": "devices_2017",
+  "beat": 850,
+  "slug": "devices_2017",
+  "frames": 154,
+  "cues": [
+   0
+  ],
+  "out": "out/ep05/850_devices_2017.mp4"
+ },
+ {
+  "id": "Ep05CounterCard-devices-times",
+  "comp": "Ep05CounterCard",
+  "scene": "devices_times",
+  "beat": 860,
+  "slug": "devices_times",
+  "frames": 152,
+  "cues": [
+   0
+  ],
+  "out": "out/ep05/860_devices_times.mp4"
+ },
+ {
+  "id": "Ep05Staircase-a",
+  "comp": "Ep05Staircase",
+  "scene": "a",
+  "beat": 870,
+  "slug": "growth_a",
+  "frames": 138,
+  "cues": [
+   0,
+   37
+  ],
+  "out": "out/ep05/870_growth_a.mp4"
+ },
+ {
+  "id": "Ep05Staircase-b",
+  "comp": "Ep05Staircase",
+  "scene": "b",
+  "beat": 880,
+  "slug": "growth_b",
+  "frames": 145,
+  "cues": [
+   0,
+   70
+  ],
+  "out": "out/ep05/880_growth_b.mp4"
+ },
+ {
+  "id": "Ep05RangeBar",
+  "comp": "Ep05RangeBar",
+  "scene": "",
+  "beat": 910,
+  "slug": "range_total",
+  "frames": 293,
+  "cues": [
+   0,
+   230
+  ],
+  "out": "out/ep05/910_range_total.mp4"
+ },
+ {
+  "id": "Ep05SplitCompare-dp-vs-hdmi",
+  "comp": "Ep05SplitCompare",
+  "scene": "dp_vs_hdmi",
+  "beat": 980,
+  "slug": "dp_vs_hdmi",
+  "frames": 216,
+  "cues": [
+   0,
+   110
+  ],
+  "out": "out/ep05/980_dp_vs_hdmi.mp4"
+ },
+ {
+  "id": "Ep05OrgDiagram-org-a",
+  "comp": "Ep05OrgDiagram",
+  "scene": "org_a",
+  "beat": 1030,
+  "slug": "org_split",
+  "frames": 257,
+  "cues": [
+   0,
+   175
+  ],
+  "out": "out/ep05/1030_org_split.mp4"
+ },
+ {
+  "id": "Ep05OrgDiagram-org-b",
+  "comp": "Ep05OrgDiagram",
+  "scene": "org_b",
+  "beat": 1040,
+  "slug": "org_labels",
+  "frames": 181,
+  "cues": [
+   0,
+   107
+  ],
+  "out": "out/ep05/1040_org_labels.mp4"
+ },
+ {
+  "id": "Ep05FeeChain",
+  "comp": "Ep05FeeChain",
+  "scene": "",
+  "beat": 1110,
+  "slug": "who_owes",
+  "frames": 184,
+  "cues": [
+   0,
+   111
+  ],
+  "out": "out/ep05/1110_who_owes.mp4"
+ },
+ {
+  "id": "Ep05Newsprint-docket",
+  "comp": "Ep05Newsprint",
+  "scene": "docket",
+  "beat": 1130,
+  "slug": "docket",
+  "frames": 207,
+  "cues": [
+   0,
+   44
+  ],
+  "out": "out/ep05/1130_docket.mp4"
+ },
+ {
+  "id": "Ep05Newsprint-finding",
+  "comp": "Ep05Newsprint",
+  "scene": "finding",
+  "beat": 1150,
+  "slug": "court_finding",
+  "frames": 160,
+  "cues": [
+   0,
+   55
+  ],
+  "out": "out/ep05/1150_court_finding.mp4"
+ },
+ {
+  "id": "Ep05CounterCard-fourteen",
+  "comp": "Ep05CounterCard",
+  "scene": "fourteen",
+  "beat": 1170,
+  "slug": "fourteen_million",
+  "frames": 151,
+  "cues": [
+   0
+  ],
+  "out": "out/ep05/1170_fourteen_million.mp4"
+ },
+ {
+  "id": "Ep05WallBricks",
+  "comp": "Ep05WallBricks",
+  "scene": "",
+  "beat": 1210,
+  "slug": "wall_bricks",
+  "frames": 220,
+  "cues": [
+   0
+  ],
+  "out": "out/ep05/1210_wall_bricks.mp4"
+ },
+ {
+  "id": "Ep05QuoteCard-quote-a",
+  "comp": "Ep05QuoteCard",
+  "scene": "quote_a",
+  "beat": 1300,
+  "slug": "amd_quote_a",
+  "frames": 294,
+  "cues": [
+   0,
+   39
+  ],
+  "out": "out/ep05/1300_amd_quote_a.mp4"
+ },
+ {
+  "id": "Ep05QuoteCard-quote-b",
+  "comp": "Ep05QuoteCard",
+  "scene": "quote_b",
+  "beat": 1310,
+  "slug": "amd_quote_b",
+  "frames": 266,
+  "cues": [
+   0
+  ],
+  "out": "out/ep05/1310_amd_quote_b.mp4"
+ },
+ {
+  "id": "Ep05SplitCompare-four-k-lost",
+  "comp": "Ep05SplitCompare",
+  "scene": "four_k_lost",
+  "beat": 1320,
+  "slug": "four_k_lost",
+  "frames": 192,
+  "cues": [
+   0
+  ],
+  "out": "out/ep05/1320_four_k_lost.mp4"
+ },
+ {
+  "id": "Ep05SplitCompare-four-k",
+  "comp": "Ep05SplitCompare",
+  "scene": "four_k",
+  "beat": 1330,
+  "slug": "four_k_ratio",
+  "frames": 115,
+  "cues": [
+   0
+  ],
+  "out": "out/ep05/1330_four_k_ratio.mp4"
+ },
+ {
+  "id": "Ep05PortalTunnel",
+  "comp": "Ep05PortalTunnel",
+  "scene": "",
+  "beat": 1440,
+  "slug": "portal_tunnel",
+  "frames": 362,
+  "cues": [
+   0,
+   101,
+   166,
+   240
+  ],
+  "out": "out/ep05/1440_portal_tunnel.mp4"
+ }
+]
