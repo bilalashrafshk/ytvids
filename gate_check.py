@@ -189,6 +189,39 @@ ARCHETYPE_PROFILES = {
         "provisional": "no A12 benchmark in the idea bank; bands borrowed from A10 "
                        "(Kurzgesagt). Add a world-scale what-if transcript and re-measure"
     },
+    "13": {
+        "label": "Clinical Timeline (Mr. Death, 14 episodes, one channel; 'It's Probably Nothing')",
+        # Envelope band, not the pooled median (med 9.5 / mean 10.7 / short 31.4 /
+        # long 4.7 / you 46). The channel writes in two registers: clipped
+        # (cancer, syphilis: median 8) and crafted (heart attack: median 13, 16%
+        # long sentences). The median band rejected 5 of its own 14 benchmarks,
+        # including the best-written one, so the band is set to cover the whole
+        # observed range; every benchmark passes it (validated by rerunning them).
+        "med": 10,
+        "mean": 11.7,
+        "short": 26.0,
+        "lng": 12.0,
+        "you": 46.0,
+        "provisional": "single-channel evidence: bands pooled from 14 Mr. Death episodes "
+                       "(views 53k-1.2M, best ~3x that channel's median). Format calibration, "
+                       "not proof the format over-performs",
+        # Measured on the 14 benchmarks (calibrate_transcript.py):
+        # - 2/14 land the first reframe at 14-17% (scene-first cold open) -> turn1 18
+        # - 2/14 open 4 sentences in a row with 'You' (second-person anaphora) -> openrun 4
+        "turn1": 18,
+        "openrun": 4,
+        # Our protagonist is a NAMED third-person Dennis, so second-person density
+        # is reported, not gated (benchmark range 26-105/1k).
+        "you_gate": False,
+        # Medical writing legitimately says research / study / evidence / data.
+        # 8/14 benchmarks trip the finance jargon list on exactly these words.
+        # They are allowed here; the claims gate (gate_claims.py) requires every
+        # such claim to exist in the episode's claims ledger instead.
+        "jargon_exempt": ["study", "studies", "research", "researcher", "researchers",
+                          "evidence", "data", "experts", "exposure", "statistics",
+                          "statistically", "scientists", "mechanism", "mechanisms"],
+        "cites_note_only": True,
+    },
     "11": {
         "label": "Exposé Autopsy (Low Volume Capital 'BYD', 31.5x)",
         "med": 13,
@@ -247,13 +280,14 @@ def check(label, observed, ok, evidence=""):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("path")
-    ap.add_argument("--archetype", "-a", type=int, required=True, choices=range(0, 13),
+    ap.add_argument("--archetype", "-a", type=int, required=True, choices=range(0, 14),
                     help="0 Freeform (no skeleton) | 1 First-Principles | 2 ELI5 Origin / Bet Chain | 3 Causal Chain | "
                          "4 P&L Breakdown | 5 POV Constrained Hypothetical | "
                          "6 Dual-Character | 7 Compounded Playbook | "
                          "8 Reversal Explainer | 9 Second-Person Parable | "
                          "10 Scale Wall (provisional) | 11 Exposé Autopsy | "
-                         "12 World Cascade (provisional)")
+                         "12 World Cascade (provisional) | "
+                         "13 Clinical Timeline (provisional; It's Probably Nothing)")
     args = ap.parse_args()
 
     p = ARCHETYPE_PROFILES[str(args.archetype)]
@@ -269,7 +303,7 @@ def main():
     n_w, n_s = len(words), len(sents)
     lens = [len(s.split()) for s in sents]
 
-    jset = set(JARGON)
+    jset = set(JARGON) - set(p.get("jargon_exempt", []))
     jhits = sorted({w for w in lower if w in jset})
     jrate = sum(1 for w in lower if w in jset) / n_w * 1000
     longw = sum(1 for w in lower if len(w) >= 12) / n_w * 1000
@@ -373,6 +407,10 @@ def main():
     if args.archetype == 11:
         print(f"  [note] CITES: {len(cites)} narrated-source line(s) — A11 names sources "
               "by design; keep each one a dramatic reveal, not a footnote")
+    elif p.get("cites_note_only"):
+        print(f"  [note] CITES: {len(cites)} narrated-source line(s) — allowed for A13, but "
+              "every one must map to a row in the episode's claims ledger "
+              "(run gate_claims.py); benchmark channel narrates 0")
     else:
         results.append(check(
             "CITES  zero narrated-source lines  [UNIVERSAL — research is invisible, bible/01]",
@@ -394,6 +432,12 @@ def main():
     print("      a world premise shrunk onto 1-2 characters or one lesson FAILS")
     print("    - RETELL test: each ~60-90s segment has one thing a viewer would repeat")
     print("      to a friend; a segment with none gets rewritten (CP-VERIFY GATE gamma)")
+    if args.archetype == 13:
+        print("    - A13: the fork is present (Ignoring-Dennis vs Goes-on-Day-3 Dennis)")
+        print("    - A13: cold open ends on a hard beat; narrator enters with a myth/quiz game")
+        print("    - A13: ending points to a clinician, never to self-treatment")
+        print("    - A13: humour is Dennis's denial, never the patient's suffering")
+        print("    - run gate_claims.py: every medical claim/number needs a ledger row")
     if args.archetype == 9:
         print("    - A9 Cost Contract: by word 150 the viewer knows the contrarian")
         print("      choice, its social cost, and the named foil")
