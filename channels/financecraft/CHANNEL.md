@@ -10,7 +10,7 @@
 | Research | `bible/01-research-methodology.md` + `research-prompt-v2.md` / `research-prompt-track3-v2.md` / `invention-prompt-v2.md` |
 | Script generation | `bible/07` (Tracks 1/3), `bible/08` (Track 2) |
 | Visual style & palette | `bible/02-style-bible.md` |
-| Thumbnails | `bible/03-thumbnail-style.md` (T1–T7) |
+| Thumbnails | `bible/03-thumbnail-style.md` (T1–T7 gallery; layouts L1–L5). **Default layout L1 annotated hero** for Track 3 mechanism episodes (L3 for a person or brand story, L5 for atmospheric history). Palette: warm greige ground with one gold accent, the episode's own hue allowed as the broad background tone. Characters: roster only, generated before the thumbnails |
 | Music & sound | `bible/10-audio-architecture.md` (M1–M5) |
 | Voice | `bible/12-voice-direction-voxcpm2.md` |
 | Remotion theme | `remotion/src/tokens.ts` |

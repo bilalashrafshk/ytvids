@@ -5,7 +5,9 @@
 > **MANDATORY RULES:**
 > 1. **Zero Gap Frames:** Visual cuts snap seamlessly to spoken downbeats without black frames or frame overlaps.
 > 2. **Audio Drift Limit:** Master VO audio duration ($T_{audio}$) and total visual beat duration ($\sum D_i$) must match within $\pm 0.5$ seconds.
-> 3. **Muted Video Clips:** All AI video clips must have their internal audio muted (-inf dB).
+> 3. **Muted Video Clips:** All AI video clips must have their internal audio muted (-inf dB) unless the owner says to keep it (episode 05 kept it and muted in CapCut at the end).
+> 4. **Asset Containment:** every file the draft uses lives inside this episode's own folder (`assets/capcut_ready/`). Never reference `remotion/out`, `remotion/public`, another episode or a downloads folder. Run `python3 scripts/check_capcut_assets.py "<draft folder>" "<episode folder>"` after every build; a stray path fails the build.
+> 5. **Motion Smoothness:** never convert AI clips 24→30 fps by repeating frames (use motion interpolation); build Ken Burns from the upscaled still with `scripts/kenburns_render.py` (sub-pixel, eased; never ffmpeg `zoompan`), ~8% zoom per beat; encode with `-g 15`; run `python3 scripts/check_motion_smoothness.py videos/<episode>` before assembling; judge in an export, not CapCut's preview. See `bible/11` Checkpoint 3.
 
 ---
 

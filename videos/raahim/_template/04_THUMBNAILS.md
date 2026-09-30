@@ -4,6 +4,8 @@
 >
 > **Instructions:** Two passes. **Pass 1:** 8–10 one-line concepts from the locked title and premise only. **Pass 2:** check against the Anchor Rule, Legibility Rule (read at 168px), Instant-Recognition Object Rule and the channel's formats (R1 Host + catastrophe, R2 the object, R3 diagram gone wrong). Develop the best 3–4.
 >
+> **Order and originality (engine):** generate the character references first; a thumbnail character is a roster character or the standing Host, attached as a reference, never a thumbnail-only one. Palette follows the episode within the channel's cream/teal ground. Name the one reference the format leans on and write three things that differ from it.
+>
 > **Channel rules:** headline 1–3 words, mustard with charcoal outline; cream or teal ground — never white; one focal point; Raahim (the Host) uses `ref_raahim_master.png` as the reference image in R1.
 
 ---

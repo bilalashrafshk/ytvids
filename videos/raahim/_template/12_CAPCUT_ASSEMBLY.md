@@ -4,6 +4,9 @@
 >
 > **Rules:** zero gap frames; VO and total beat duration within ±0.5s; AI clips muted; transitions mostly hard cuts, no generic preset effects; a global film-grain layer only if `FilmLook` wasn't baked into renders.
 
+> **Asset Containment:** every file the draft uses lives inside this episode's own folder (`assets/capcut_ready/`); never reference `remotion/out`, `remotion/public`, another episode or a downloads folder. Run `python3 scripts/check_capcut_assets.py "<draft folder>" "<episode folder>"` after every build.
+> 5. **Motion Smoothness:** never convert AI clips 24→30 fps by repeating frames (use motion interpolation); build Ken Burns from the upscaled still with `scripts/kenburns_render.py` (sub-pixel, eased; never ffmpeg `zoompan`), ~8% zoom per beat; encode with `-g 15`; run `python3 scripts/check_motion_smoothness.py videos/<episode>` before assembling; judge in an export, not CapCut's preview. See `bible/11` Checkpoint 3.
+
 ---
 
 ## Tracks

@@ -2,6 +2,8 @@
 
 > **Instructions**: Standalone visual direction deliverable. Generate 2 to 4 distinct characters (illustrated caricatures for Track 1 accountability targets, or composite archetypes for Track 2 thought experiments).
 >
+> **Generate these first:** character references are generated and locked before the thumbnails and the beat stills. Any thumbnail character must come from this roster.
+>
 > **MANDATORY RULES:**
 > 1. **Single Static Reference Portrait Only:** Exactly ONE standalone 4K portrait prompt per character (3840×2160, 16:9). ZERO multi-shot turnarounds or character sheets.
 > 2. **Legal & Stylistic Guardrails:** Illustrated vector style only. Zero photoreal likenesses. Gesture-only, zero lip-sync.

@@ -8,7 +8,7 @@
 
 ## **Benchmark Gallery (the creative input — read this first)**
 
-Thumbnails from videos that performed well. This is what the creative pass looks at before generating anything: study what each one does, don't copy it. The source images live in `references/thumbnails/`.
+Thumbnails from videos that performed well. This is what the creative pass looks at before generating anything: study what each one does, don't copy it. The source images live in `references/competitors/thumbnails/` (15) and `references/idea_bank/thumbnails/` (9). Look at the actual images, not just this table, before designing a thumbnail.
 
 | Video | What's in the image | Anchor → wrong thing | Text | Known performance |
 | :--- | :--- | :--- | :--- | :--- |
@@ -172,3 +172,51 @@ During the check pass (Phase 2, Step 2), name the single closest thumbnail in th
 - **The `ink_explainer_no_jobs` entry is mislabelled.** The packaging cited "No Jobs, 17x Outlier, 5.4K VPH"; the actual file is "How Did Human Accidentally Invented Guns?", 35,069 views. A performance stat was attributed to a video that isn't in the set.
 
 Where view counts diverge by orders of magnitude (1.4M vs 4.7K), weight the high performers and mark the rest as stylistic reference only.
+
+---
+
+## **Composition Recipes, the Locked Template and the Prompt Skeleton (from the reference set)**
+
+Added after reviewing every image in `references/competitors/thumbnails/` and `references/idea_bank/thumbnails/`. The gallery says what worked; this section says how to build it the same way every time, so a channel's thumbnails look like one family and a topic change only changes the subject, not the look.
+
+### **Five layouts, L1–L5 (pick one per episode; the channel default wins when its profile names one)**
+
+| Layout | What is in the frame | Seen in | Use when |
+| :--- | :--- | :--- | :--- |
+| **L1 Annotated hero** | Headline across the top third with a thick accent underline; one big hero object filling about half the frame; 3 to 5 hand-drawn labels with curved arrows, each a plain-English number or fact; a light grid or soft scene behind; a small character in a lower corner | Tony Talks Costco, Business Vault hotels, Mr Finance theaters | "how does this thing really make money" and hidden-fee or mechanism stories (the default for Track 3) |
+| **L2 Big words on a scene** | Two or three huge words filling the width, a busy illustrated scene washed back behind them, one small sub-line in a box | Little Bit Better, ColdFusion | a number or a one-word shock is the whole hook |
+| **L3 Character plus object** | A character large on one side reacting to one recognisable object or brand, a short question headline on top | Ink Explainer, Crayon Capital NVIDIA, My Chaotic Stories | a person or a brand is the story |
+| **L4 Split** | Two halves, one word each, a "VS" disc in the middle | Logical Money | a comparison is the story |
+| **L5 One picture, almost no text** | One rich illustration, one to three words in a serif or none | Atlas Veil Origin of Oil | atmospheric, historical or scientific subjects |
+
+The dark "fire and collapse" look (Magnates Media, Low Volume Capital) is a mood, not a recipe. Use it only for a genuine collapse story.
+
+### **Which rules apply where**
+The characters-first, palette, Not-a-Copy and prompt-skeleton rules apply to every channel. A channel profile that defines its own thumbnail formats (Raahim's R1–R3) replaces only the layouts L1–L5, not those rules. A channel's standing assets (the Raahim host) count as roster characters.
+
+### **The Locked Template**
+Each channel uses one layout as its default and keeps its layout constant: headline position and weight, hero size, callout style, accent colour role. Episodes change the hero, the words and the palette, never the layout. Do not mix layouts inside one channel to avoid repeating. Repetition of the layout is the point.
+
+### **Characters: generate them first, and only use ones from the video**
+- Character reference images (Phase 3, `05_CHARACTER_SETUP.md`) are generated and locked **before** any thumbnail image. Thumbnails come second.
+- If a thumbnail has a character, it is one of the episode's roster characters. The prompt attaches that character's reference file and says "same face, outfit and style as the reference". **No thumbnail-only characters.** If the idea needs a character the video does not have, either add that character to the roster and use it in the video, or drop the character.
+- A thumbnail does not need a character. Objects and brands carry many of the best ones.
+
+### **Palette: follow the episode, broadly**
+Two hues and a neutral. Take the dominant hue from the episode's subject and tone, keep the channel's own accent role (for example one gold accent), and use a light or mid-tone background so the type stays readable at 168 px. Warm, cool or dark to match the mood of the story, never a random colour scheme, and never more than one loud accent.
+
+### **Not a copy (mandatory check before finalising)**
+Name the one reference the layout leans on. Borrow only layout conventions (headline position, underline, callout arrows, background type). Never copy that reference's character design, logo, headline wording or colour pairing. Write three things that differ from it. If a viewer could mistake it for that channel's thumbnail, change the hero, the palette and the type.
+
+### **Prompt skeleton (fill every slot; leave a slot out only on purpose)**
+```
+3840x2160, 16:9 thumbnail in the channel's illustration style.
+BACKGROUND: [grid / parchment / scene], [palette hues].
+HEADLINE: [exact text], top third, heavy condensed sans, all caps, [accent] underline.
+HERO (about half the frame): [one recognisable object, described exactly, with what it is NOT].
+CHARACTER (only if any, from the roster): [name], attach ref_char_NN.png, same face, outfit and style, [pose, expression], [corner].
+CALLOUTS: [2 to 5 short hand-lettered labels with arrows, exact text and what each points at].
+COLOURS: [hue 1], [hue 2], neutral; one accent for [role]. No other text, logos or watermarks.
+follow best industry-standard guidelines and quality and visualisations
+```
+After generating, check every word is spelled correctly. AI text often garbles; if any word is wrong, regenerate or lay the type over the picture in post.

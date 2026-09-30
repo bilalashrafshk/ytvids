@@ -2,7 +2,7 @@
 
 > **Channel:** Raahim — profile `channels/raahim/CHANNEL.md` (overrides anything below that conflicts). General engine rules apply automatically.
 >
-> **Rules:** 3840×2160 for crop/pan headroom; every prompt carries the style clause and the quality clause below; any beat with Raahim or a cast member uses its master reference image; in-image text only as big, few labels via `ON-IMAGE TEXT`.
+> **Rules:** 3840×2160 for crop/pan headroom; every prompt carries the style clause and the quality clause below; any beat with Raahim or a cast member uses its master reference image; in-image text only as big, few labels via `ON-IMAGE TEXT`. If the generator returns under 4K, run `python3 scripts/upscale_stills.py videos/raahim/<episode>` (setup once: `bash scripts/setup_upscaler.sh`); builders prefer `assets/upscaled/`. See `bible/11`.
 
 ---
 

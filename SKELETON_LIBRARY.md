@@ -34,6 +34,7 @@
 | **A1** | First-Principles Explainer | Martik Finance, currencies (0.33×) | 3 | **Provisional** | One kinetic diagram per engine; the close returns to the opening image |
 | **A4** | Inside-the-P&L Breakdown | Mr. Finance, movie theaters (0.09×) | 1, 3 | **Provisional** | Waterfall chart for the walked transaction |
 | **A7** | Compounded Playbook | LITTLE BIT BETTER, financial freedom (0.54×) | 3 | **Provisional** | Milestone counter card per rule |
+| **A13** | Clinical Timeline (It's Probably Nothing) | Mr. Death, 14 episodes (views 53k-1.2M; pooled from one channel) | 3 (medical explainer with a personal timeline) | **Provisional** (single channel) | The fork: split-screen of the two Dennises; colour drains on the ignoring side |
 
 **Provisional** means the benchmark video sits below the 1× outlier bar. The format is sound and the voice band is measured, but there's no evidence *this format* over-performs. Provisional skeletons are fully selectable, including as Rank 1. HARD STOP 1 simply labels them `(provisional)` so the choice is made with open eyes.
 
@@ -62,6 +63,7 @@ Classify the thesis into one shape (the Idea Gate's Q1 artifact usually decides 
 | **i. Business model** | "How does X actually make money?" | A4 | A8 (the real product *is* the reversal) | A2 (T1) |
 | **j. Roadmap** | "How to get to X faster" | A7 | A9 (the same rules lived as a story) | A6 |
 | **k. Exposé** | "X looks like a success; the documents say otherwise" | A11 | A8 (T1) / A4 (if the rot is unit economics) | A2 |
+| **l. Symptom story (medical)** | "Why that ache / tiredness / lump is probably nothing… until it isn't" — a named patient ignores a symptom | A13 | A8 (if a popular belief about the disease is the hook) | A6 |
 
 **Shape a vs h vs i.** A reversal (a) needs a wrong belief to break. "How it works" (h) only needs curiosity. If the Idea Gate's Q1 prior is strong, prefer (a) even for a mechanism topic. A business-model topic (i) is usually also a reversal, which is why A8 is its Swing. **Shape a vs k:** one wrong belief resolved by one mechanism is (a); a celebrated success contradicted by several independent lines of evidence is (k).
 
@@ -365,6 +367,42 @@ Section markers are bare noun phrases ("The pity phase.").
 - The skip consequence: what physically goes wrong if a step is skipped.
 - Honest complication: who this path doesn't work for.
 - The closing binary: one either/or sentence.
+```
+
+---
+
+---
+
+## A13 — Clinical Timeline (provisional)
+
+**Benchmark:** Mr. Death, 14 episodes of one channel (transcripts and metrics in `channels/its-probably-nothing/reference/`). Views 53k to 1.2M; best about 3x that channel's median. Single-channel evidence: format calibration, not proof the format over-performs.
+**Band (envelope of all 14, validated by rerunning them):** median 10 · mean 11.7 · ≤6w 26% · ≥25w 12% · you 46/1k reported, not gated · **TURN1 override 18%** (scene-first cold open) · **OPENRUN override 4** · jargon words *study, research, evidence, data, experts, exposure* allowed (every such claim must be in the claims ledger, `gate_claims.py`).
+**Measured on the benchmarks:** ~160-203 wpm (median ~190); reframes 57-118 per 1,000 sentences; zero narrated "according to" lines; 0 moral-close phrases; opener share ≤18%.
+
+**Beat map:**
+
+| % | Beat |
+|---|---|
+| 0–8 | **Day 1 cold open.** Dennis notices something small and explains it away in a chain of plausible steps. Ends on a hard beat. |
+| 8–16 | **Narrator enters.** Names what it actually is; opens a myth / quiz game that corrects the popular belief. |
+| 16–34 | **Mechanism, plainly.** "The 90-second version": what the organ does, what goes wrong. One analogy per idea. |
+| 34–40 | **The fork.** The story splits at the Day 1 decision: Ignoring-Dennis vs Goes-on-Day-3 Dennis. (Mandatory.) |
+| 40–78 | **Dated timeline.** Ignoring-Dennis's stages; the healthy path alongside at each stage; colour drains. |
+| 78–86 | **What it feels like.** Short, sober recap. |
+| 86–92 | **Reality check.** The real numbers, each with a ledger source. |
+| 92–100 | **The button.** "What Dennis should have noticed on Day 3", pointing to a clinician; ends on the running line. |
+
+**Channel rules for A13** (`channels/its-probably-nothing/CHANNEL.md`): every medical claim in the ledger; no conspiracy framing; no treatment advice; humour is Dennis's denial, never the suffering; illustrative-timeline caveat stated once.
+
+**Brief addendum** (extends the Track 3 research brief):
+```
+## PART 2 — The clinical kit (skeleton A13)
+- Day 1 symptom and the three excuses Dennis makes for it.
+- The 3 myths for the narrator's quiz (belief / truth / source).
+- One organ, one analogy, one thing that goes wrong.
+- Stage timeline (illustrative) for the ignoring path; what differs on the Day 3 path.
+- The Day 3 signs, in plain language.
+- Reality-check numbers, each with a ledger source.
 ```
 
 ---

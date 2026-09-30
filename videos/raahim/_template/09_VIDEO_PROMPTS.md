@@ -2,7 +2,7 @@
 
 > **Channel:** Raahim — profile `channels/raahim/CHANNEL.md` (overrides anything below that conflicts). General engine rules apply automatically.
 >
-> **Rules:** every prompt starts `1920x1080, 16:9, 30fps, no audio, mute, silent output`; declare technique and input frames; whole 4–10s clips spanning several sentences, generated at the length used (AI Video Clip Rule, `bible/11` CP-6; hard cap 30 clips); Raahim clips use Image-to-Video or Frames-to-Video from approved stills so he stays on-model; motion reads as a 1950s filmstrip — held poses, gentle camera, no slick CGI moves.
+> **Rules:** every prompt starts `1920x1080, 16:9, 30fps, no audio, mute, silent output`; declare technique and input frames; even-length clips (2, 4, 6, 8 or 10s) spanning several sentences, retimed to fit and never trimmed, generated at the length used (AI Video Clip Rule, `bible/11` CP-6; hard cap 30 clips); Raahim clips use Image-to-Video or Frames-to-Video from approved stills so he stays on-model; motion reads as a 1950s filmstrip — held poses, gentle camera, no slick CGI moves.
 
 ---
 

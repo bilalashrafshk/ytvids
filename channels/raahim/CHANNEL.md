@@ -159,7 +159,7 @@ Everything general in the engine applies here automatically (see `channels/READM
 - Anything involving real loss of life gets restraint, not jokes.
 
 **Motion & Remotion** (`bible/11`, `bible/15`, `SKELETON_LIBRARY.md`)
-- Cold open on motion, no logo; shot-duration bounds; AI Video Clip Rule (4–10s clips spanning sentences, ~40–60% video); Remotion render-and-view check (CP-14); Theme Lock via `check_remotion_theme.py --tokens remotion/src/themes/raahim.ts`.
+- Cold open on motion, no logo; shot-duration bounds; AI Video Clip Rule (even 2–10s clips spanning sentences, retimed not trimmed, ~40–60% video); Remotion render-and-view check (CP-14); Theme Lock via `check_remotion_theme.py --tokens remotion/src/themes/raahim.ts`.
 
 **Audio** (`bible/10` §1, §3, §5 — mixing only; music beds replaced by §7 above)
 - Golden mixing rules, Breathe & Swell ducking, speech EQ pocket, dead-silence drop, VO processing chain.

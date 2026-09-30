@@ -1,5 +1,7 @@
 # Phase 03: Titles & Core Narrative Hooks
 
+> **Method (mandatory):** generate and score titles with `bible/16-title-patterns.md`: Pass 1 wide, Pass 2 the Forge (at least four "Why + everyday subject + surprise" candidates), Pass 3 check + scorecard. Add three columns to the matrix: Pattern, Closest reference title, Score /10. The recommendation is the highest score (7+, no overclaim).
+>
 > **Instructions**: Standalone packaging deliverable. Generate 5 distinct CTR title angles, mobile-optimized search hooks, and the provisional core thesis for human review and A/B packaging tests.
 
 ---

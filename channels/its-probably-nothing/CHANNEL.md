@@ -37,7 +37,7 @@ This profile overrides the Bible wherever they overlap. Anything not covered her
 | STEP 3 prompt | `research-prompt-track3-v2.md`, **tightened**: every medical claim needs a sourced entry in the claims ledger (see §3, §11). Not the light "one number per claim" version. Never Deep Research. |
 | Idea Gate | Runs unchanged, plus a **safety screen** (topic-never list above) and the question *"what is the Day 3 sign a viewer could act on?"* No answer, no episode. |
 | Script generator | `bible/07-script-generation-prompt.md` or `bible/08` structure adapted to A13. Second-person cold open is the default. |
-| Gates | CP-0 bands for the chosen skeleton, `gate_check.py`, Retell test, Two-Pass Rule — unchanged. `gate_check.py`'s CITES gate applies to *every* medical claim. New **claims gate** (to build; see §12): a medical claim without a ledger source fails. |
+| Gates | CP-0 bands for the chosen skeleton, `gate_check.py`, Retell test, Two-Pass Rule — unchanged. `gate_check.py -a 13` (band calibrated on 14 Mr. Death episodes, see `SKELETON_LIBRARY.md` A13) plus **`gate_claims.py <script> 02_CLAIMS_LEDGER.md --metadata 13_FINAL_METADATA.md`**: a medical claim without a locatable source, an unhedged preclinical claim, an uncovered statistic, conspiracy framing, treatment advice, a missing clinician pointer, or a missing disclaimer all fail. Topic screen: `gate_claims.py --topic "..."`. For A13, `gate_check.py` allows the words *study, research, evidence, data* (the ledger polices them instead of the finance "research is invisible" rule). |
 | Episode folder | `videos/its-probably-nothing/<NN-slug>/`, built from `videos/_template/` with the overrides in this file. |
 | Captions | SRT for YouTube upload only. No captions or text labels written into the CapCut draft (standing rule). |
 
@@ -45,7 +45,7 @@ This profile overrides the Bible wherever they overlap. Anything not covered her
 
 ## 3. Episode shape — A13 Clinical Timeline (provisional)
 
-Channel-local until it is added to `SKELETON_LIBRARY.md` and calibrated against `gate_check.py` (see §12). Built from the structure measured in two reference episodes, plus our fork.
+Registered in `SKELETON_LIBRARY.md` (A13) and calibrated in `gate_check.py -a 13` on 14 Mr. Death episodes (transcripts and metrics: `reference/`). Structure measured in the reference episodes, plus our fork. Single-channel evidence, so provisional.
 
 | Beat | What happens | Notes |
 | --- | --- | --- |
@@ -72,7 +72,7 @@ Cheerful, overconfident, early 40s. **Catchphrase: "It's probably nothing."** Pa
 - **Supporting cast:** doctor, spouse, coworker, nurse — generic archetypes, invented, never real people. Always simpler and less saturated than Dennis so he stays the focal point.
 - **Never:** Dennis is not mocked *for being sick*. He is gently mocked for the denial only, and the narrator is on his side.
 
-**Voices:** Dennis's inner lines (optimistic, wrong) versus a dry, calm clinical narrator who says what is really happening. **Open decision:** two voices or one. With one voice, Dennis's lines are on-screen thought bubbles only.
+**Voices:** Dennis's inner lines (optimistic, wrong) versus a dry, calm clinical narrator who says what is really happening. **Open decision:** two voices or one (see §8). With one voice, Dennis's lines are on-screen thought bubbles only.
 
 ---
 
@@ -117,7 +117,9 @@ Two modes, chosen per beat. Full reasoning in `CONCEPT.md` §8.
 
 ## 6. Thumbnails
 
-*Deferred: not yet decided. Formats, titles and hooks will be added here once the visual style is locked.* Rules carried from the engine already apply: Anchor Rule, Legibility Rule (168px), Instant-Recognition Object Rule, two-pass generation.
+*Deferred: not yet decided. Until then the shared rules in `bible/03` (last section) apply: characters generated first, roster characters only, palette from the episode, Not-a-Copy check.*
+
+*Original note: not yet decided. Formats, titles and hooks will be added here once the visual style is locked.* Rules carried from the engine already apply: Anchor Rule, Legibility Rule (168px), Instant-Recognition Object Rule, two-pass generation.
 
 ---
 
@@ -135,7 +137,7 @@ Two modes, chosen per beat. Full reasoning in `CONCEPT.md` §8.
 
 ## 8. Voice
 
-TTS is **BreezeTTS2**. **Ask for its input format before writing any voice-direction file** (standing rule; do not assume VoxCPM2's format).
+TTS is **BreezeTTS2**. **Owner decision: the voice-direction file uses the same JSON chunk format as the FinanceCraft episodes** (`chunk_id`, `section`, `control_instruction`, `target_text`; see `videos/its-probably-nothing/_template/06_VOICE_DIRECTION.json`), chunked at paragraph turns, spoken-form text, no bracket tags. If BreezeTTS2 turns out to need different fields, convert at the last step rather than changing the episode files.
 
 - **Narrator feel:** dry, calm, warm — a clinician who has seen this before and is quietly on Dennis's side. Not gleeful, not solemn.
 - **Register:** delivery never rises to match the drama. Understatement carries the humour; the hardest beats are delivered slower and plainer.
@@ -168,7 +170,7 @@ Everything general in the engine applies here automatically (see `channels/READM
 - **Anything involving real loss of life gets restraint, not jokes** — this rule is central here and is why the humour is Dennis's denial, not the outcome.
 
 **Motion & Remotion** (`bible/11`, `bible/15`, `SKELETON_LIBRARY.md`)
-- Cold open on motion, no logo; shot-duration bounds; AI Video Clip Rule (4–10s clips spanning sentences, ~40–60% video); Remotion render-and-view check (CP-14); Theme Lock via `check_remotion_theme.py --tokens remotion/src/themes/its-probably-nothing.ts` (once the theme exists).
+- Cold open on motion, no logo; shot-duration bounds; AI Video Clip Rule (even 2–10s clips spanning sentences, retimed not trimmed, ~40–60% video); Remotion render-and-view check (CP-14); Theme Lock via `check_remotion_theme.py --tokens remotion/src/themes/its-probably-nothing.ts` (once the theme exists).
 
 **Audio** (`bible/10` §1, §3, §5 — mixing only; music direction replaced by §7 above)
 - Golden mixing rules, Breathe & Swell ducking, speech EQ pocket, dead-silence drop, VO processing chain.
@@ -180,7 +182,7 @@ Everything general in the engine applies here automatically (see `channels/READM
 - Two-Pass Rule, CP-0 bands, Retell test, CITES gate, phonetic decimals ("point"), open loops and micro-hooks at every transition.
 
 **Captions & assembly** (memory rules)
-- Captions ship as a separate SRT for YouTube; never written into the CapCut draft. Programmatic CapCut drafts need one manual folder import; every referenced file must live in that one folder.
+- Captions ship as a separate SRT for YouTube; never written into the CapCut draft. Programmatic CapCut drafts need one manual folder import; every referenced file must live in that one folder, and that folder is inside the episode's own folder (Asset Containment, `bible/11` CP-11; check with `scripts/check_capcut_assets.py`).
 
 **Not inherited:** FinanceCraft's cel-shaded register and palette, caricatures of real people, SEC/evidence inserts, T1–T7, M1–M5, its narrator persona, research methodology, the HYPOTHETICAL SCENARIO watermark. Raahim's mid-century look, Host, and its ban on white backgrounds do not apply to this channel.
 
@@ -214,13 +216,14 @@ Medicine is the one place this engine cannot rely on "invented and proud of it".
 - [x] Protagonist — Dennis Fine, the patient (owner decision)
 - [x] Visual approach — realistic story scenes + white/minimal explainer; no paper (owner decision)
 - [x] Reference study — two reference transcripts are enough (owner decision)
-- [ ] One voice or two — blocked on BreezeTTS2's input format
+- [x] Voice-direction format — same chunk JSON as the other channel (owner decision)
+- [ ] One voice or two (narrator + Dennis) and narrator voice/gender/pace choice
 - [ ] Dennis turnaround sheet, palette hex values, type tokens (style bible)
 - [ ] Test set: home + clinic scenes, and a two-frame colour-drain test
 - [ ] `remotion/src/themes/its-probably-nothing.ts` (theme tokens) and matching `check_remotion_theme.py` hook
-- [ ] Add **A13 Clinical Timeline** to `SKELETON_LIBRARY.md` and calibrate its CP-0 band in `gate_check.py`
-- [ ] Build the **claims gate** (a medical claim without a ledger source fails), modelled on the CITES gate
-- [ ] Episode template for the claims ledger in `videos/_template/`
+- [x] A13 Clinical Timeline added to `SKELETON_LIBRARY.md`; band calibrated in `gate_check.py -a 13` (14 benchmarks, all pass)
+- [x] Claims gate built: `gate_claims.py`
+- [x] Episode template with claims ledger: `videos/its-probably-nothing/_template/`
 - [ ] First topic through the Idea Gate
 - [ ] Channel handle, banner and description
 - [ ] Thumbnail formats and titles (deferred by owner)

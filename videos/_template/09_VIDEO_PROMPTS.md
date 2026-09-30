@@ -5,7 +5,7 @@
 > **MANDATORY RULES:**
 > 1. **Muted Output Mandate:** Every prompt MUST include: `"1920x1080, 16:9, 30fps, no audio, mute, silent output"`.
 > 2. **Technique Declaration:** Explicitly declare technique (`Text-to-Video`, `Image-to-Video`, `Frames-to-Video`) and input frames.
-> 3. **Clip Rule:** whole 4–10s clips spanning several sentences, generated at the length used (retime ≤10% or trim ≤0.5s). Hard cap: 30 clips per episode. AI video should carry ~40–60% of the runtime.
+> 3. **Clip Rule:** even-length clips (2, 4, 6, 8 or 10s, Omni's lengths) spanning several sentences, generated at the length used and retimed to the beat (speed up ≤25%, slow down ≤10%); never trim the end. Hard cap: 30 clips per episode. AI video should carry ~40–60% of the runtime.
 > 4. **Quality Clause:** Every single prompt MUST include verbatim: `"follow best industry-standard guidelines and quality and visualisations"`.
 
 ---

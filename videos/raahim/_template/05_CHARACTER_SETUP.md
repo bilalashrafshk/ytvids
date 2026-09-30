@@ -4,6 +4,8 @@
 >
 > **Instructions:** Raahim (the Host) is a standing asset — **do not regenerate him**; use `channels/raahim/assets/ref_raahim_master.png` and his pose references. This file covers only this episode's supporting cast: generic 1950s archetypes (the milkman, the scientist, the kid with a dog) and the episode's small victim. Invented names only; never real people.
 >
+> **Generate these first:** character references (and the Host's pose references) exist before any thumbnail is generated; thumbnails attach them.
+>
 > **Rules:** exactly ONE master portrait per character (engine rule); poses are generated from that master as a reference image, never as a turnaround sheet.
 
 ---

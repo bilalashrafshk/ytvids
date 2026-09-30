@@ -6,6 +6,7 @@
 > 1. **4K Headroom:** All stills generated at 3840×2160 to provide 2x crop/pan/zoom headroom in CapCut.
 > 2. **Quality Clause:** Every single prompt MUST include verbatim: `"follow best industry-standard guidelines and quality and visualisations"`.
 > 3. **Native Text:** Specify any in-image text via `ON-IMAGE TEXT: Direct in-generation text: "[exact text]"`. Do not negate text in negative prompts when text is requested.
+> 5. **Upscale:** if the generator returns under 4K, run `python3 scripts/upscale_stills.py videos/<episode>` after generation (setup once: `bash scripts/setup_upscaler.sh`). Builders use `assets/upscaled/` when it exists. See `bible/11`.
 
 ---
 

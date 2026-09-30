@@ -7,6 +7,10 @@
 > 2. **Callout Density by style:** isometric/infographic (T7) may carry many; character or object staging usually one big number or none; split comparison usually none. Every callout priceable with zero industry knowledge (`$65 A YEAR`, not `DEMURRAGE: $275/DAY`).
 > 3. **Prompt Quality Clause:** Every prompt MUST include verbatim: `"follow best industry-standard guidelines and quality and visualisations"`.
 > 4. **Text Specification:** Every prompt MUST declare: `ON-IMAGE TEXT: Direct in-generation text: "[exact text]"`.
+> 5. **Layout + Locked Template:** pick one of L1–L5 (`bible/03`, last section); the channel default unless the episode clearly needs another. Follow the Prompt Skeleton there.
+> 6. **Characters first:** thumbnail images are generated only after the Phase 05 character references exist. A thumbnail character is a roster character (attach its `ref_char_NN.png`); never a thumbnail-only character. No character is fine.
+> 7. **Palette:** follows the episode broadly (two hues plus a neutral, one accent, light enough for the type at 168 px).
+> 8. **Not a copy:** name the one reference the layout leans on and write three things that differ from it.
 
 ---
 
