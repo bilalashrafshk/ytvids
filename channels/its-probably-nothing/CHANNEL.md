@@ -22,7 +22,7 @@ This profile overrides the Bible wherever they overlap. Anything not covered her
 - Self-harm, suicide, or method-focused subjects (no hanging, overdose, self-injury episodes).
 - Anything that mocks a patient, a condition, or the dead. The joke is Dennis's denial, never the suffering.
 - Anything that gives treatment advice a viewer could act on instead of seeing a doctor.
-- Graphic gore, or sensationalising the moment of death.
+- Spectacle for its own sake. Hard detail is allowed, and encouraged, when it carries the medicine (the specific sign, the mechanism, what it is actually like). Owner decision 2026-10-02: no restriction on graphic detail; the one rule is that it teaches.
 
 **Reference, for structure only:** Mr. Death (*What Dying From Cancer Feels Like*, *What Dying From a Heart Attack Feels Like*). Transcripts: `channels/its-probably-nothing/reference/transcripts/`. Never copied for look, wording or characters (Clean-Room rule).
 
@@ -40,6 +40,8 @@ This profile overrides the Bible wherever they overlap. Anything not covered her
 | Gates | CP-0 bands for the chosen skeleton, `gate_check.py`, Retell test, Two-Pass Rule — unchanged. `gate_check.py -a 13` (band calibrated on 14 Mr. Death episodes, see `SKELETON_LIBRARY.md` A13) plus **`gate_claims.py <script> 02_CLAIMS_LEDGER.md --metadata 13_FINAL_METADATA.md`**: a medical claim without a locatable source, an unhedged preclinical claim, an uncovered statistic, conspiracy framing, treatment advice, a missing clinician pointer, or a missing disclaimer all fail. Topic screen: `gate_claims.py --topic "..."`. For A13, `gate_check.py` allows the words *study, research, evidence, data* (the ledger polices them instead of the finance "research is invisible" rule). |
 | Episode folder | `videos/its-probably-nothing/<NN-slug>/`, built from `videos/_template/` with the overrides in this file. |
 | Captions | SRT for YouTube upload only. No captions or text labels written into the CapCut draft (standing rule). |
+| Story method | **`STORY_PLAYBOOK.md` is mandatory**: reference teardown, primary-source research, a spine of wrong beliefs, real anonymised cases, the shape in the playbook, and the 20-point scorecard (minimum 16). Run **`python3 gate_story.py videos/its-probably-nothing/<NN-slug>`** alongside the other gates. |
+| Research standard | Read the actual page of every primary source (CDC/WHO/NIH, MMWR case reports, peer-reviewed papers); a search summary is not a source. Where two sources differ, the script states both. |
 
 ---
 
@@ -57,6 +59,8 @@ Registered in `SKELETON_LIBRARY.md` (A13) and calibrated in `gate_check.py -a 13
 | **6. What it feels like** | Short second-person recap of the experience. | Sober. No jokes at the patient's expense. |
 | **7. Reality check** | The real numbers, each with a ledger source. | Big and few. |
 | **8. The button** | "What Dennis should have noticed on Day 3": the early signs in plain language. Ends on the running line. | Actionable and sober. Not a lecture, not a sermon. |
+
+**Episode variant (default from Episode 01, owner decisions 2026-10-02):** open in the present at the first symptoms, then rewind to the decision; build the middle as three comforting beliefs, each taken apart in its own act with a sourced mechanism, a real anonymised case, a Dennis moment and a Day-3 cutaway. Full method and shape: `STORY_PLAYBOOK.md`. The beat table above remains the fallback when a topic has no natural "gap" between decision and symptoms.
 
 **Hard rules for the skeleton:** the fork is mandatory; every quantitative or medical claim exists in the claims ledger; simplifications are labelled as simplifications; the ending always points the viewer toward a doctor, never toward self-treatment.
 
@@ -76,42 +80,27 @@ Cheerful, overconfident, early 40s. **Catchphrase: "It's probably nothing."** Pa
 
 ---
 
-## 5. Visual style — Realistic scenes + minimal explainer
+## 5. Visual style — Public-Health Print
 
-Two modes, chosen per beat. Full reasoning in `CONCEPT.md` §8.
+*Locked after the Episode 01 style test (owner, 2026-10-02). Full assets, palette, prompts and devices: `STANDING_ASSETS.md`.*
 
-**Story mode: realistic rooms, designed Dennis**
-- Realistic (photoreal-style) recurring sets: home, workplace, clinic, waiting room, hospital corridor. Built once and reused (engine's recurring-settings rule).
-- Dennis composited into the scene with matched light and contact shadows. Thought bubbles carry his inner lines.
-- **Colour drain:** the scene grade desaturates as the illness advances and Dennis's colours fade to grey; the healthy fork stays at full saturation. Done as a grade in Remotion/CapCut, so it costs no extra generation.
+**Look:** a 1950s public-health education pamphlet, screen-printed: flat mid-century shapes, deep-navy ink outlines, limited palette, halftone dots, slightly misregistered colour layers, paper grain on pale sage. Dennis, every room and every explainer plate are drawn in one print style so nothing looks pasted on. It is calm and wholesome on the surface and sits uneasily next to what is happening. This replaces the earlier realistic-rooms-with-vector-Dennis look.
 
-**Explainer mode: minimal background, one illustration family**
-- White or very light neutral background, one to three objects on screen, generous empty space.
-- Organs, cells and diagrams in **one consistent illustration style** — no mixed stock icons, ever.
-- Stage labels as clean tags ("Month 2–3", "Reality Check"). Never floating text on empty space.
-- A white background cannot desaturate, so the drain in this mode is carried by Dennis, the organs and the accent colour.
+**Two progress devices (free in post):** the **colour plates drop away** as Dennis gets sicker, and the colour layers drift **out of register** as the illness advances. The healthy road stays in full colour and in register.
 
-**Palette (draft; tokens to be locked in `remotion/src/themes/its-probably-nothing.ts`)**
+**Semantic lock:** clinical red is the disease and only the disease; full colour in register means well; grey and out of register means ill.
 
-| Role | Colour | Note |
-| --- | --- | --- |
-| Dennis shirt | Mustard | Fixed |
-| Dennis trousers | Teal | Fixed |
-| The disease / clinical accent | Clinical red | Reserved for the disease and used nowhere else |
-| Drained state | Neutral grey | End of the colour drain |
-| Explainer ground | White / very light neutral | Explainer mode only |
+**Palette (draft, hexes to lock in `remotion/src/themes/its-probably-nothing.ts`):** pale sage paper, deep navy ink, mustard (Dennis shirt), teal (Dennis trousers), clinical red (disease only), neutral grey (drained).
 
-*Exact hex values to be set during the style bible pass.*
+**Modes per beat:** story scenes (mid-century rooms), explainer plates (pale sage ground, one to three objects, textbook-plate layout, stage tags), and splits (two roads in one frame).
 
-**Semantic lock:** clinical red = the disease only; full colour = still well; grey = drained. Dennis's mustard/teal never changes except by the drain.
+**Hard imagery:** allowed. The standing negative prompt carries no ban on gore or graphic detail; keep it purposeful.
 
-**Differentiation from the reference (which uses a white void and photoreal AI rooms):** a real, coloured, expressive Dennis instead of a grey faceless mannequin; the fork; the colour drain as a progress bar; one consistent illustration family; our own fixed room set; own palette, type and layout.
-
-**Standing negative prompt (every still and AI video, draft):** *gore, blood spatter, graphic wounds, exposed organs realism, morgue or corpse imagery, faceless grey mannequin, ghost mascot, mixed stock clip-art, clutter, cluttered text, misspelled words, extra fingers, distorted faces, uncanny valley skin, a different-looking Dennis.*
+**Differentiation:** no host or mascot, no shared accent hex with any other channel, no other channel's identity terms (checked by `check_channel_isolation.py`).
 
 **Text on screen:** clean sans-serif, big and few. Type tokens to be set with the palette.
 
-**Known risks:** illustrated character composited into realistic stills can look pasted-on (mitigation: matched grade, contact shadows, test batch first); overall look sits close to the reference (mitigation: the differentiators above); sensitivity of realistic clinical imagery (mitigation: non-graphic, loss-of-life restraint).
+**Known risks:** the look sits in the same family as other mid-century styles (mitigation: own paper, own palette, own devices, no host); halftone can read as noise at thumbnail size (mitigation: legibility test at 168px); very hard imagery may limit ads (owner has accepted this).
 
 ---
 
@@ -137,7 +126,7 @@ Two modes, chosen per beat. Full reasoning in `CONCEPT.md` §8.
 
 ## 8. Voice
 
-TTS is **BreezeTTS2**. **Owner decision: the voice-direction file uses the same JSON chunk format as the FinanceCraft episodes** (`chunk_id`, `section`, `control_instruction`, `target_text`; see `videos/its-probably-nothing/_template/06_VOICE_DIRECTION.json`), chunked at paragraph turns, spoken-form text, no bracket tags. If BreezeTTS2 turns out to need different fields, convert at the last step rather than changing the episode files.
+TTS is **BreezeTTS2**. **Owner decision: the voice-direction file uses the same JSON chunk format as the FinanceCraft episodes** (`chunk_id`, `control_instruction`, `target_text` only; **no `section` field**, owner decision 2026-10-02; see `videos/its-probably-nothing/_template/06_VOICE_DIRECTION.json`), chunked at paragraph turns, spoken-form text, no bracket tags. If BreezeTTS2 turns out to need different fields, convert at the last step rather than changing the episode files.
 
 - **Narrator feel:** dry, calm, warm — a clinician who has seen this before and is quietly on Dennis's side. Not gleeful, not solemn.
 - **Register:** delivery never rises to match the drama. Understatement carries the humour; the hardest beats are delivered slower and plainer.
@@ -184,7 +173,7 @@ Everything general in the engine applies here automatically (see `channels/READM
 **Captions & assembly** (memory rules)
 - Captions ship as a separate SRT for YouTube; never written into the CapCut draft. Programmatic CapCut drafts need one manual folder import; every referenced file must live in that one folder, and that folder is inside the episode's own folder (Asset Containment, `bible/11` CP-11; check with `scripts/check_capcut_assets.py`).
 
-**Not inherited:** FinanceCraft's cel-shaded register and palette, caricatures of real people, SEC/evidence inserts, T1–T7, M1–M5, its narrator persona, research methodology, the HYPOTHETICAL SCENARIO watermark. Raahim's mid-century look, Host, and its ban on white backgrounds do not apply to this channel.
+**Not inherited:** FinanceCraft's cel-shaded register and palette, caricatures of real people, SEC/evidence inserts, T1–T7, M1–M5, its narrator persona, research methodology, the HYPOTHETICAL SCENARIO watermark. The other channels' palettes, hosts and background rules do not apply to this channel.
 
 ---
 
@@ -204,9 +193,9 @@ Medicine is the one place this engine cannot rely on "invented and proud of it".
 
 **Disclaimer.** A short "educational, not medical advice" line in the description and, where the platform needs it, on screen once. Simplifications are labelled inside the video too.
 
-**Sensitivity.** Non-graphic imagery; no corpses or morgue shots; the moment of death is never dramatised for effect; real named people are not used as examples of suffering.
+**Sensitivity.** Hard imagery is allowed (owner decision 2026-10-02) when it carries the medicine. Real cases are anonymised (place and year, never names), and real named people are never used as examples of suffering. Still out: content whose only purpose is to shock.
 
-**Monetisation.** Graphic medical content risks limited ads or age restriction. Keep visuals and language within platform guidance for medical educational content.
+**Monetisation.** Graphic medical content risks limited ads or age restriction. The owner has accepted this trade-off for the sake of the storytelling; the descriptions, titles and thumbnails still lead with the story and the medicine, not the shock.
 
 ---
 
@@ -226,5 +215,9 @@ Medicine is the one place this engine cannot rely on "invented and proud of it".
 - [x] Episode template with claims ledger: `videos/its-probably-nothing/_template/`
 - [ ] First topic through the Idea Gate
 - [ ] Channel handle, banner and description
+- [x] Visual style — Public-Health Print (owner, 2026-10-02, "like this style more")
+- [x] Graphic detail allowed (owner, 2026-10-02)
+- [x] Story method — `STORY_PLAYBOOK.md`, `gate_story.py`
+- [ ] Style test images for Episode 01 reviewed; Dennis master locked
 - [ ] Thumbnail formats and titles (deferred by owner)
 - [ ] Music beds (audio pass)

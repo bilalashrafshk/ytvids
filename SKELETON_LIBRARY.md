@@ -392,6 +392,8 @@ Section markers are bare noun phrases ("The pity phase.").
 | 86–92 | **Reality check.** The real numbers, each with a ledger source. |
 | 92–100 | **The button.** "What Dennis should have noticed on Day 3", pointing to a clinician; ends on the running line. |
 
+**A13 variant used from Episode 01 (present-first, three-belief spine):** the 0–8% beat becomes a present-day cold open at the first symptom (about 12–15% of the runtime) ending on a hard beat, followed by a one-scene rewind to the decision; the 16–40% and 40–78% beats are rebuilt as three acts, one comforting belief each (belief → why it feels true → sourced mechanism → real anonymised case → Dennis moment → Day-3 cutaway → the belief fails), with the fork placed before Act 1. Method, scorecard and tags: `channels/its-probably-nothing/STORY_PLAYBOOK.md`; mechanical checks: `gate_story.py`. The band measured on the 14 benchmarks still applies unchanged.
+
 **Channel rules for A13** (`channels/its-probably-nothing/CHANNEL.md`): every medical claim in the ledger; no conspiracy framing; no treatment advice; humour is Dennis's denial, never the suffering; illustrative-timeline caveat stated once.
 
 **Brief addendum** (extends the Track 3 research brief):

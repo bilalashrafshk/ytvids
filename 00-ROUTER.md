@@ -24,7 +24,7 @@ STEP 4   ENGINE validates the returned brief (GATE α + gate_alpha.py --skeleton
 STEP 5   ENGINE writes Draft A (Rank-1 skeleton, Safe) + Draft B (Rank-2 skeleton, Swing)
          Draft C (Transplant) only when the user asks for it
 STEP 6   External: gate_check.py -a <each draft's own skeleton> on every draft
-         (channels with a claims ledger, e.g. It's Probably Nothing, also: gate_claims.py <draft> <ledger>)
+         (channels with a claims ledger, e.g. It's Probably Nothing, also: gate_claims.py <draft> <ledger>, and gate_story.py <episode folder>)
          fail → targeted regeneration, max 2 → then escalate to user
 STEP 7   Handoff: scripts, audit blocks, one recommendation
 ```

@@ -1,8 +1,7 @@
 [
   {
     "chunk_id": 0,
-    "section": "Day 1",
-    "control_instruction": "<how this line is delivered, no fixed persona prefix, no volume words>",
+    "control_instruction": "<how this line is delivered, written fresh for this line, no persona prefix, no volume words>",
     "target_text": "<narration for this chunk, spoken form>"
   }
 ]
