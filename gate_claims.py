@@ -197,7 +197,7 @@ def main():
     print("    - each source really supports its anchor (the gate only proves a source exists)")
     print("    - simplifications are true of the science, just less detailed")
     print("    - the timeline is labelled illustrative once, plainly")
-    print("    - humour is Dennis's denial, never the patient's suffering; no gore; death not dramatised")
+    print("    - humour is Dennis's denial, never a joke at the patient's suffering; hard detail is allowed when it carries the medicine")
     print(f"\n{'ALL CLAIMS GATES PASS' if ok_all else 'CLAIMS GATE FAILED — fix the script or the ledger'}\n")
     return 0 if ok_all else 1
 

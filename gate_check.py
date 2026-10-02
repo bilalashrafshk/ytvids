@@ -436,7 +436,8 @@ def main():
         print("    - A13: the fork is present (Ignoring-Dennis vs Goes-on-Day-3 Dennis)")
         print("    - A13: cold open ends on a hard beat; narrator enters with a myth/quiz game")
         print("    - A13: ending points to a clinician, never to self-treatment")
-        print("    - A13: humour is Dennis's denial, never the patient's suffering")
+        print("    - A13: humour is Dennis's denial, never a joke at the patient's suffering")
+        print("    - A13: run gate_story.py for the spine, real cases, callback and visual devices")
         print("    - run gate_claims.py: every medical claim/number needs a ledger row")
     if args.archetype == 9:
         print("    - A9 Cost Contract: by word 150 the viewer knows the contrarian")

@@ -1,4 +1,4 @@
-# Script A (Safe, rank-1 skeleton)
+# Script A
 
-Skeleton: A13 Clinical Timeline. Beats: Day 1 cold open -> narrator + myth game -> mechanism -> the fork -> dated timeline -> what it feels like -> reality check -> the button.
-Gate: `python3 gate_check.py 02_SCRIPT_A.md -a 13` and `python3 gate_claims.py 02_SCRIPT_A.md 02_CLAIMS_LEDGER.md`.
+> Skeleton: A13 Clinical Timeline with the playbook variant (present-first, three-belief spine). Tags the story gate reads: `[CASE: label]` before a real case, `[SETUP: name]` / `[PAYOFF: name]` for the callback, `[STILLNESS]` for held hard beats, `[PLATES: ...]` colour-plate drops, "out of register" / `[MISREG]` for misregistration, lines starting `Belief ` or `Myth ` for the acts, labels `Ignoring-Dennis` and `Goes-on-Day-3 Dennis` for the fork, `[BUBBLE: "It's probably nothing."]` in the cold open, and a last line ending on `[BUBBLE: "I'm fine, Dennis."]`.
+> Gates: `python3 gate_check.py 02_SCRIPT_A.md -a 13`, `python3 gate_claims.py 02_SCRIPT_A.md 02_CLAIMS_LEDGER.md --metadata 13_FINAL_METADATA.md`, `python3 gate_story.py <episode folder>`. Then the scorecard in `STORY_PLAYBOOK.md`.
