@@ -1,0 +1,327 @@
+[
+  {
+    "chunk_id": 0,
+    "control_instruction": "Dry and unhurried, like a friend describing a neighbour's small domestic mystery, with a flicker of a smile on 'finishing the job'.",
+    "target_text": "Dennis Fine is forty-three, and his left forearm has been tingling since Tuesday. It isn't painful. It's more like a foot waking up, except it's an arm, and it isn't finishing the job."
+  },
+  {
+    "chunk_id": 1,
+    "control_instruction": "A touch brisker as the theories pile up, ticked off with mild affection for Dennis's confidence, 'something is definitely going round the office' delivered as his most confident theory.",
+    "target_text": "He also has a low fever, a headache, and a tiredness that the second coffee hasn't touched. Dennis, being a man of science, has four theories. He slept on it wrong. It's the new laundry detergent. Work has been stressful. And something is definitely going round the office."
+  },
+  {
+    "chunk_id": 2,
+    "control_instruction": "Deadpan, the forum and Rick given a faint raised eyebrow; 'This is what he calls research' dropped flat and quick.",
+    "target_text": "He types \"tingling arm fever\" into his phone. The first result is a forum, and the top comment is from a man named Rick, who is certain it's his elbow. Dennis stops reading there. This is what he calls research."
+  },
+  {
+    "chunk_id": 3,
+    "control_instruction": "Warm and amused as Gary's reassurance is taken at face value, then a half-beat of quiet before 'It does not occur to him', said almost kindly.",
+    "target_text": "Then he texts Gary from accounts, whose cousin once had the same thing. Gary says it went away on its own. Dennis feels much better. It does not occur to him to ask what the cousin's thing actually was."
+  },
+  {
+    "chunk_id": 4,
+    "control_instruction": "Easy and ordinary, a man making a sensible-sounding plan; 'He's got a barbecue on Saturday' kept light.",
+    "target_text": "So he decides to wait it out. It'll be gone by the weekend. He's got a barbecue on Saturday."
+  },
+  {
+    "chunk_id": 5,
+    "control_instruction": "The mood turns without announcement: slower and plainer, the fact laid down evenly, a small pause before 'And the only decision', the towel landing with quiet weight.",
+    "target_text": "In three American cases in twenty twenty-one, death came about two to three weeks after the first symptom. Dennis has one week of plans. And the only decision that could have changed any of this was made six weeks ago, at five in the morning, by a man holding a towel."
+  },
+  {
+    "chunk_id": 6,
+    "control_instruction": "A softer storyteller's reset, like turning a page, the cabin set down in a few unhurried strokes.",
+    "target_text": "Same man. Same mug. A rented fishing cabin, five o'clock, and something is moving around the ceiling."
+  },
+  {
+    "chunk_id": 7,
+    "control_instruction": "Playful and brisk, the brave man's blanket and towel described with dry affection.",
+    "target_text": "Dennis wakes up, sees a small dark shape doing laps, and reacts the way a brave man does. He pulls the blanket over his head. Then he throws a towel at it. The bat finds the open window and leaves."
+  },
+  {
+    "chunk_id": 8,
+    "control_instruction": "Quickening through the checklist, 'No blood. No marks. Nothing hurts.' with relief in it, then a warm, amused close on the funny story.",
+    "target_text": "Dennis sits up and does what everybody does. He checks himself. No blood. No marks. Nothing hurts. By breakfast it's a funny story, and the whole table laughs."
+  },
+  {
+    "chunk_id": 9,
+    "control_instruction": "A shade quieter, a secret shared; the three beliefs voiced in Dennis's own easy tone, each a notch more comfortable than the last.",
+    "target_text": "But before the laughing stops, three beliefs settle into Dennis's head. He doesn't say them out loud. He doesn't have to. One: I'd know if it bit me. Two: if it were serious, I'd feel something soon. Three: if it ever got bad, a doctor could fix it."
+  },
+  {
+    "chunk_id": 10,
+    "control_instruction": "Plain and level on 'All three are wrong', a dry smile on 'a little more wrong', then a brisk turn on 'But first, back to the cabin'.",
+    "target_text": "All three are wrong. And each is a little more wrong than the one before. But first, back to the cabin, because this is where the story splits."
+  },
+  {
+    "chunk_id": 11,
+    "control_instruction": "Light and wry, Dennis's forgetting made to sound like a very reasonable life choice.",
+    "target_text": "On the left, Dennis finishes his fishing weekend and drives home. The bat joins his collection of funny stories. By the following week, he's forgotten it entirely."
+  },
+  {
+    "chunk_id": 12,
+    "control_instruction": "A change of colour: warmer and more tender for the other Dennis, the small voice in his head almost confided.",
+    "target_text": "On the right, a different Dennis. Same cabin, same towel, same breakfast. But on the third day, a small voice asks him, did that thing touch me? So he phones a clinic."
+  },
+  {
+    "chunk_id": 13,
+    "control_instruction": "Amused, 'And, being Dennis, he apologises' with a fond sigh, 'He says it's probably nothing' a gentle repeat, the nurse's line kind and matter-of-fact.",
+    "target_text": "And, being Dennis, he apologises. He says sorry for bothering them. He says it's probably nothing. The nurse says, \"That's what we're here for.\""
+  },
+  {
+    "chunk_id": 14,
+    "control_instruction": "A clean signpost, practical and warm.",
+    "target_text": "For the rest of this, we'll follow the Dennis on the left. We'll check in on the one on the right when it matters."
+  },
+  {
+    "chunk_id": 15,
+    "control_instruction": "The belief voiced as Dennis would, comfortably, then fair and patient, a friend conceding the point.",
+    "target_text": "Belief one. I'd know if it bit me. It's a reasonable belief. A bite hurts. A bite bleeds. You'd see it."
+  },
+  {
+    "chunk_id": 16,
+    "control_instruction": "Turning the screw: matter-of-fact on the teeth, a dry beat on 'they leave no evidence', then the figures laid out steadily, one at a time.",
+    "target_text": "But a bat's teeth are tiny, and the wounds they leave might not be easy to see at all. Whatever else you say about bats, they leave no evidence. Of the twenty-one bat-linked rabies cases in the United States between nineteen eighty and nineteen ninety-nine, twelve involved people who had touched or been near a bat but had no bite anyone could find."
+  },
+  {
+    "chunk_id": 17,
+    "control_instruction": "Quietly serious, the joking set aside; the facts told straight, 'Nobody tested the bat' left plain.",
+    "target_text": "Real people have lived this. In twenty twenty-four, a woman in Minnesota found a bat in her sink. She killed it with a hammer, and threw it away. Nobody tested the bat."
+  },
+  {
+    "chunk_id": 18,
+    "control_instruction": "Back to a measured, explanatory warmth; the rule stated clearly, then the numbers delivered without fuss.",
+    "target_text": "Dennis's bat was in the air, not in a sink. But the rule is the same. Waking up in a room with a bat counts as a possible exposure, even if you can't find a mark. A doctor, sometimes with a test on the bat, decides whether treatment is needed. It's why the numbers look the way they do. Of the forty-two people who caught rabies inside the United States between two thousand and twenty twenty-four, thirty-five got it from bats."
+  },
+  {
+    "chunk_id": 19,
+    "control_instruction": "A crisp, rueful verdict, landing softly on 'The difference is that he asked.'",
+    "target_text": "So belief one fails. Dennis would not have known. Neither would the other Dennis. The difference is that he asked."
+  },
+  {
+    "chunk_id": 20,
+    "control_instruction": "Leaning in a little, confiding, as the narrator names the one that does the real damage; 'Rabies doesn't' dropped flat.",
+    "target_text": "Belief two. If it were serious, I'd feel something soon. This is the one that does the real damage, because it's the one that feels like common sense. Serious things announce themselves. Rabies doesn't."
+  },
+  {
+    "chunk_id": 21,
+    "control_instruction": "The patient clarity of a good teacher, plain words and no hurry, a dry glint on 'a recipe with no kitchen' and a rueful smile on the kitchens.",
+    "target_text": "First, what a virus actually is. A virus is a small piece of genetic code in a protein coat. It cannot make copies of itself on its own. It has to get inside a cell and use the cell's own machinery to do it. Think of a recipe with no kitchen. Dennis, as it happens, is very well stocked with kitchens."
+  },
+  {
+    "chunk_id": 22,
+    "control_instruction": "Steady and informative, then slowing as 'almost nothing happens' settles in.",
+    "target_text": "Rabies lives in saliva. If that saliva reaches a bite, a scratch, or a damaged bit of skin, the virus gets in. And then, for most of what follows, almost nothing happens. The virus is still at or near the site of the bite for most of the incubation period."
+  },
+  {
+    "chunk_id": 23,
+    "control_instruction": "Gently comic, the houseguest described with mock admiration, 'no noise, no mess, no questions' light and quick, then slower on 'It's a wait.'",
+    "target_text": "Think of a visitor who arrives, sits down in the hallway, and keeps very quiet. Nothing is broken. Nobody has noticed. It is, in its way, the politest houseguest in medicine: no noise, no mess, no questions. The longest part of rabies isn't a journey. It's a wait."
+  },
+  {
+    "chunk_id": 24,
+    "control_instruction": "Matter-of-fact, the ranges stated evenly, the long end left to sit for a moment.",
+    "target_text": "How long? Typically two to three months. But as short as one week, and as long as a year."
+  },
+  {
+    "chunk_id": 25,
+    "control_instruction": "Curious and a little delighted by the mechanism, a spark on 'here's where it gets clever', then dry on 'catches a lift' and 'the destination is Dennis'.",
+    "target_text": "At some point, the virus finds a nerve ending. And here's where it gets clever. Nerve cells already run a delivery system, a kind of internal railway that carries cargo from the fingertip back towards the cell's centre. The virus doesn't break in. It catches a lift. Free ride, one destination, and the destination is Dennis."
+  },
+  {
+    "chunk_id": 26,
+    "control_instruction": "Calm and steady, the facts about the blood given plainly, not defensively.",
+    "target_text": "It rides the nerve towards the brain, carried by the cell's own machinery. And it doesn't use the blood. There is still no credible evidence that the blood plays a significant role in getting it to the brain."
+  },
+  {
+    "chunk_id": 27,
+    "control_instruction": "A hush of understatement: the absences listed softly, 'No alarm' very plain, the weeks of nothing allowed to stretch.",
+    "target_text": "Which is why nothing rings. No flood in the bloodstream. No alarm. For weeks, sometimes months, nothing happens at all."
+  },
+  {
+    "chunk_id": 28,
+    "control_instruction": "Bright and tongue in cheek, Dennis having the time of his life, the story growing with each telling.",
+    "target_text": "Dennis, meanwhile, is having a wonderful time. The bat story is a hit. He tells it to Gary. He tells it to his barber."
+  },
+  {
+    "chunk_id": 29,
+    "control_instruction": "Escalating mock wonder through the pigeon and the small dog, then dropping to a dry, flat 'not one of them is a doctor'.",
+    "target_text": "He tells it at the barbecue, where the bat is now the size of a pigeon, and by week five, a small dog. Everybody laughs. He has told that story eleven times, to eleven people, and not one of them is a doctor."
+  },
+  {
+    "chunk_id": 30,
+    "control_instruction": "A change of register, closer and more careful, as the real case begins; the girl and the church told simply.",
+    "target_text": "Here's what that looks like. Wisconsin, two thousand four. A fifteen-year-old girl is bitten on the finger by a bat at church. The wound is about five millimetres long."
+  },
+  {
+    "chunk_id": 31,
+    "control_instruction": "Quiet and exact; 'She gets no rabies treatment' plain, a small pause before 'her hand starts to tingle'.",
+    "target_text": "Someone cleans it with hydrogen peroxide. She gets no rabies treatment. About a month later, her hand starts to tingle."
+  },
+  {
+    "chunk_id": 32,
+    "control_instruction": "Lighter, almost relieved to be back with the right-hand Dennis, 'He apologises to the needle' dry as toast, then a clear explanation of the treatment, 'That's the whole price' with a shrug.",
+    "target_text": "Meanwhile, on the right, Dennis has a sore arm and a few appointments. He thanks the nurse four times. He apologises to the needle. The treatment starts with washing the wound. Then a shot of ready-made antibodies, which gives his body a head start, and a series of four vaccine doses over two weeks. That's the whole price."
+  },
+  {
+    "chunk_id": 33,
+    "control_instruction": "Reassuring and clear, the percentage given plainly, then a faintly impressed dry note on the standing ovation.",
+    "target_text": "It works by stopping the virus from reaching the central nervous system. Treatment after an exposure is nearly a hundred percent effective, if it's given before symptoms. C D C's own guidelines say no failures have been documented in the United States since today's vaccines were licensed. In medicine, that is about as close as it gets to a standing ovation."
+  },
+  {
+    "chunk_id": 34,
+    "control_instruction": "A slow, rueful verdict, 'the cruellest way' unforced, the last line placed with care and left to hang.",
+    "target_text": "So belief two fails the cruellest way. The quiet isn't the sign that nothing is wrong. The quiet is the only time anything works."
+  },
+  {
+    "chunk_id": 35,
+    "control_instruction": "A fresh start with weight on it, the calendar turning to week six; 'suddenly the loudest thing in the room' understated.",
+    "target_text": "Belief three. If it ever got bad, a doctor could fix it. This is week six. We're back in the kitchen. A quick note: Dennis's timeline is illustrative, and real patients vary widely."
+  },
+  {
+    "chunk_id": 36,
+    "control_instruction": "Plain and brisk through the symptoms, then a wry lift for the burgers and the arm that feels exactly like an arm.",
+    "target_text": "The oldest, quietest wound in the story is suddenly the loudest thing in the room. Tingling, itching, or pain at the old bite, with a flu-like illness. On the right, the same morning, Dennis is flipping burgers. His arm feels exactly like an arm."
+  },
+  {
+    "chunk_id": 37,
+    "control_instruction": "Wry and affectionate, a man rehearsing his apology in a waiting room full of boats.",
+    "target_text": "Dennis does the sensible thing. He goes to see a doctor. He sits in the waiting room for forty minutes, reading about boats and rehearsing his apology. The doctor asks about the arm, the fever, the headache. She asks if he's been near any animals."
+  },
+  {
+    "chunk_id": 38,
+    "control_instruction": "Slowing down; Dennis's quiet argument with himself delivered like a trap closing, 'But that's a story, and stories are for barbecues' light and reasonable, 'It was nothing' flat.",
+    "target_text": "And Dennis thinks about the bat. Briefly. But that's a story, and stories are for barbecues. A doctor wants symptoms. It was nothing."
+  },
+  {
+    "chunk_id": 39,
+    "control_instruction": "Small and bright, a man answering a polite question, the two words almost cheerful and left to sit afterwards.",
+    "target_text": "\"No,\" says Dennis. \"Nothing.\""
+  },
+  {
+    "chunk_id": 40,
+    "control_instruction": "The jokes stop. Direct, steady and serious: 'This is not a joke', then the facts of the case laid down one at a time, ending low and clear on 'she'll hear flu'.",
+    "target_text": "This is not a joke. In the ten days before she was admitted, the woman from Minnesota saw health-care providers about shoulder pain and weakness. Her medical record has no note that she mentioned the bat. Her family told the hospital once she was admitted. A doctor can't read your arm. If Dennis doesn't say the word bat, she'll hear flu."
+  },
+  {
+    "chunk_id": 41,
+    "control_instruction": "Dry resignation on 'advice about rest', then a pause, then the brain and the wall given careful, clear weight.",
+    "target_text": "So he goes home with some advice about rest. And a few days later, the virus reaches his brain. Now the problem is a wall. The brain sits behind a barrier that keeps most things out, including the antibodies and immune cells that would hunt the virus down anywhere else."
+  },
+  {
+    "chunk_id": 42,
+    "control_instruction": "Patient and exact, explaining the wall like a hard truth, the image 'where the immune system isn't allowed' delivered slowly and flatly.",
+    "target_text": "In animal experiments, researchers describe the same picture: the barrier stays shut, the immune response stays outside, and the infection is lethal. Even the body's own antibodies usually don't appear until the second week of illness. By then, there's no time. Rabies doesn't beat the immune system. It goes where the immune system isn't allowed."
+  },
+  {
+    "chunk_id": 43,
+    "control_instruction": "Plain and final, the contrast between before and after set down evenly.",
+    "target_text": "That's why treatment after symptoms isn't the same as treatment before them. After the first signs, the treatment that works so well early on is unsuccessful."
+  },
+  {
+    "chunk_id": 44,
+    "control_instruction": "Slower and plainer, the dinner told as an ordinary evening that turns, 'It isn't fear. It's a reflex.' as a calm correction.",
+    "target_text": "Then comes the scene that gave the disease its oldest name. A week later, Dennis is at dinner with his family. He picks up a glass of water, lifts it, and his throat locks. It isn't fear. It's a reflex."
+  },
+  {
+    "chunk_id": 45,
+    "control_instruction": "Measured and close, no drama in the delivery, the drama in the facts; 'He sees it too' small and still, the clear mind and the thirst given room.",
+    "target_text": "The muscles that pull air in contract on their own, and he can't swallow. His family sees a man gripping a glass, eyes wide, shaking. He sees it too. And his mind, at this stage, can still be perfectly clear. He is thirsty, and he is afraid of the one thing that would help."
+  },
+  {
+    "chunk_id": 46,
+    "control_instruction": "Quiet and humane; the household adjusting itself told gently, 'A whole house rearranges itself around one man's throat' placed slowly at the end.",
+    "target_text": "The same thing can happen when a draught of air touches his skin. Or a door slams. A breeze becomes a threat. Doctors call it aerophobia. His wife turns off the ceiling fan, then the tap, then the radio. A whole house rearranges itself around one man's throat."
+  },
+  {
+    "chunk_id": 47,
+    "control_instruction": "A deliberate, gentler lift for the right-hand Dennis, simple and warm, the second glass said almost with relief.",
+    "target_text": "On the right, the same dinner. Dennis finishes his glass of water and asks for another."
+  },
+  {
+    "chunk_id": 48,
+    "control_instruction": "Clinical and clear, the two forms described in a level, informative tone.",
+    "target_text": "In about eight in ten cases, rabies takes this furious form, with agitation, hallucinations, and fear. In about two in ten, it takes a quieter paralytic form, where muscles weaken slowly, starting at the wound."
+  },
+  {
+    "chunk_id": 49,
+    "control_instruction": "Steady, the list read like a chart at a bedside, no emphasis on the grim items beyond pace.",
+    "target_text": "Saliva builds up. In hospital, the body's automatic controls start to fail, one by one. Fever. Soaking sweats. Blood pressure that won't hold. In one set of cases that doctors wrote up, the kidneys failed too."
+  },
+  {
+    "chunk_id": 50,
+    "control_instruction": "Grave and slow; each word placed, 'Delirium. Convulsions. Coma.' as separate steps, the timeline plain.",
+    "target_text": "Then delirium. Convulsions. Coma. Without intensive care, it usually comes within seven to ten days."
+  },
+  {
+    "chunk_id": 51,
+    "control_instruction": "Honest and careful, like giving good news with a heavy qualification; the recovery stated warmly, 'She isn't a method. She's an exception.' firm and kind.",
+    "target_text": "There is one exception, and it's worth telling honestly. That fifteen-year-old in Wisconsin was put into a drug-induced coma for seven days, and she recovered. She was the first person known to recover from rabies without a vaccine before or after she got sick. She isn't a method. She's an exception. C D C calls survival after symptoms incredibly rare, and says there is no proven treatment."
+  },
+  {
+    "chunk_id": 52,
+    "control_instruction": "Quiet, closing the act, the last sentence slow, clear and a little sad.",
+    "target_text": "So belief three ends the way the others did. Not with a doctor who couldn't help. With a doctor who could have helped six weeks earlier, if someone had said the word bat."
+  },
+  {
+    "chunk_id": 53,
+    "control_instruction": "A light reset: 'Only ours has Gary' a quick dry aside, then a historian's easy sweep over the centuries.",
+    "target_text": "None of this is new. Every century has had its Dennis. Only ours has Gary. Democritus described the disease about two thousand four hundred years ago, and for most of that time, there was no vaccine."
+  },
+  {
+    "chunk_id": 54,
+    "control_instruction": "A storyteller's warmth, the boy and the vaccine told simply, then a tender dry joke on 'too young to apologise'.",
+    "target_text": "Then, in July of eighteen eighty-five, a nine-year-old boy named Joseph Meister, bitten fourteen times by a rabid dog, was given Pasteur's experimental vaccine over ten days. He survived. He was, in effect, the first Dennis on the right-hand road, and at nine, he was too young to apologise for bothering anyone."
+  },
+  {
+    "chunk_id": 55,
+    "control_instruction": "Even and factual, the two figures and the nine minutes set down side by side without fuss.",
+    "target_text": "The fix has existed for a hundred and forty years. The World Health Organization still gives two figures for how many people die of rabies each year: about forty-four thousand deaths a year in its latest fact sheet, and fifty-nine thousand in its campaign to end the disease, which works out at one person every nine minutes. Up to ninety-nine percent of those cases come from dogs. About four in ten of the people who die are under fifteen."
+  },
+  {
+    "chunk_id": 56,
+    "control_instruction": "Brightening slightly, a quiet pride for the right-hand road, then affectionate amusement in the voice for 'thanking nurses and apologising to needles'.",
+    "target_text": "The United States shows what the right-hand road looks like at scale. Before nineteen sixty, several hundred people died of rabies every year. Now it's fewer than ten. Every year, about one point four million Americans get checked after a possible exposure, and about a hundred thousand are treated. That means for every person who dies, at least ten thousand are treated, and live. Call them the right-hand Dennises: a hundred thousand a year, thanking nurses and apologising to needles."
+  },
+  {
+    "chunk_id": 57,
+    "control_instruction": "Back to quiet seriousness; 'And look at who the few are' as a turn, the three facts plain, the last one slow.",
+    "target_text": "And look at who the few are. Of the three Americans who died in the autumn of twenty twenty-one, none got treatment. Two hadn't realised they were at risk. One was told the bat had tested positive, and still refused the shots, out of a long-standing fear of vaccines."
+  },
+  {
+    "chunk_id": 58,
+    "control_instruction": "A clear, kind turn towards the viewer, 'Not a symptom. An event.' like a teacher writing it on the board.",
+    "target_text": "So what should Dennis have noticed on day three? Not a symptom. An event."
+  },
+  {
+    "chunk_id": 59,
+    "control_instruction": "Short, even beats, each item given its own small weight.",
+    "target_text": "A bite. A scratch. A lick on broken skin from a wild or unknown animal. Or waking up in a room with a bat."
+  },
+  {
+    "chunk_id": 60,
+    "control_instruction": "Practical and direct, the instructions given warmly and without fuss, 'straight away' crisp.",
+    "target_text": "Wash the wound with soap and water straight away. The World Health Organization says for at least fifteen minutes. Then see a doctor the same day, and tell them what happened. Say the word."
+  },
+  {
+    "chunk_id": 61,
+    "control_instruction": "Friendly and emphatic through 'Say the word', the three animals ticked off briskly, the last two lines gentle and firm.",
+    "target_text": "Bat. Dog. Raccoon. The doctor decides what treatment you need. That part isn't for you to guess."
+  },
+  {
+    "chunk_id": 62,
+    "control_instruction": "Calm and clear, 'any time before symptoms begin' reassuring, 'no longer helps' plainly said.",
+    "target_text": "And don't wait for symptoms to make up your mind. C D C says the vaccine can work any time before symptoms begin. Once they begin, it no longer helps."
+  },
+  {
+    "chunk_id": 63,
+    "control_instruction": "Warm irony, Gary's cousin brought back like an old friend; the line about evidence delivered slowly so it lands.",
+    "target_text": "And Gary's cousin? He was fine. He's always fine. That's the trouble with \"it's probably nothing.\" It's right almost every time, which is exactly why it feels like evidence."
+  },
+  {
+    "chunk_id": 64,
+    "control_instruction": "A quiet, almost tender close: the two Dennises mirrored, the doctor's last line unhurried and kind, nothing added.",
+    "target_text": "In the kitchen, the Dennis on the left says it one last time. The Dennis on the right says it too. But he says it to a doctor. And the doctor says, let's check."
+  }
+]
